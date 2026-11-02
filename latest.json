@@ -1,6 +1,103 @@
-{"issue": 27, "date": "Sonntag, 1. November 2026", "items": [
-{"kicker": "Konjunktur · Deutschland", "title": "Deutsche Wirtschaft wächst im dritten Quartal stärker als erwartet", "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-staerker-als-erwartet/100266091.html"},
-{"kicker": "Konjunktur · Deutschland", "title": "Inflation in Deutschland sinkt im Oktober auf 2,8 Prozent", "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266192.html"},
-{"kicker": "Industrie · Italien", "title": "Ex-Ilva: Stilllegung des Heißbereichs in Tarent wird vorbereitet", "url": "https://en.ilsole24ore.com/art/former-ilva-the-company-is-preparing-to-shut-down-operations-AJlc3lzB"},
-{"kicker": "Arbeitsmarkt · Italien", "title": "Italiens Arbeitslosenquote bleibt im September bei 6,3 Prozent", "url": "https://en.ilsole24ore.com/art/istat-september-unemployment-rate-remains-at-63-per-cent-AJMQGmxB"}
-]}
+{
+ "issue": 28,
+ "date": "Montag, 2. November 2026",
+ "updated": "2026-11-02T08:15:43Z",
+ "items": [
+  {
+   "block": "Notizie fiscali",
+   "kicker": "LEGGE DI BILANCIO · SUPERBONUS",
+   "title": "Superbonus: rateizzazione decennale forzosa per i crediti 2023 usabili nel 2027",
+   "url": "https://www.eutekne.info/Sezioni/Art_1129985_rateizzazione_decennale_forzosa_per_i_crediti_superbonus_su_spese.aspx"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "TARIFE · DEUTSCHLAND",
+   "title": "IG Metall startet erste Warnstreiks in der Metall- und Elektroindustrie",
+   "url": "https://www.handelsblatt.com/politik/deutschland/industrie-erste-warnstreiks-der-industrie-groessere-demonstrationen-geplant/100266409.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · UNTERNEHMEN",
+   "title": "Anthropic reicht Börsengang bei der US-Börsenaufsicht SEC ein",
+   "url": "https://www.anthropic.com/news/s1-sec"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "AGEVOLAZIONI · DETRAZIONI EDILIZIE",
+   "title": "Detrazioni edilizie al 50% anche nel 2027, bonus mobili confermato",
+   "url": "https://www.eutekne.info/Sezioni/Art_1129983_interventi_edilizi_con_aliquota_50_anche_nel_2027.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "DIRITTO · SOCIETÀ DI PERSONE",
+   "title": "Cancellazione della sas: i soci rispondono ancora dei debiti tributari",
+   "url": "https://www.eutekne.info/Sezioni/Art_1128821_la_cancellazione_della_sas_non_travolge_la_responsabilita_dei.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CONTENZIOSO · CONTRIBUTO UNIFICATO",
+   "title": "Il giudizio di rinvio sconta il contributo unificato pieno",
+   "url": "https://www.eutekne.info/Sezioni/Art_1128810_il_giudizio_di_rinvio_sconta_il_contributo_unificato_pieno.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CONTENZIOSO · SANZIONI",
+   "title": "Corte EDU: criteri per sanzioni tributarie proporzionate",
+   "url": "https://www.eutekne.info/Sezioni/Art_1128949_gravita_del_fatto_e_intento_elusivo_da_considerare_per_la_proporzionalita.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · SOCIETÀ DI COMODO",
+   "title": "Assonime: no all'esclusione automatica per le controllanti di quotate",
+   "url": "https://www.eutekne.info/Sezioni/Art_1128617_societa_di_comodo_con_disapplicazione_critica_per_le_controllanti.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "LAVORO · PREVIDENZA",
+   "title": "Sgravio per contratti di solidarietà: domande precompilabili da oggi",
+   "url": "https://www.eutekne.info/Sezioni/Art_1129542_precompilabili_le_domande_di_sgravio_contributivo_per_i_contratti.aspx"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "HAUSHALT · ITALIEN",
+   "title": "Italiens Haushaltsentwurf 2027 umfasst rund 26 Milliarden Euro",
+   "url": "https://en.ilsole24ore.com/art/here-is-the-budget-26-billion-IRPEF-cut-flat-tax-bank-insurance-and-energy-sectors-AJafouzB"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "BAU · ITALIEN",
+   "title": "Ecobonus: Erhöhung auf 65 Prozent fehlt im Haushaltsentwurf",
+   "url": "https://en.ilsole24ore.com/art/homes-to-miss-out-on-the-65-per-cent-eco-bonus-increase-heres-the-map-of-discounts-for-2027-AJdTDR0B"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "ENERGIE · ITALIEN",
+   "title": "1,2 Milliarden Euro für kleine Solaranlagen bis 1 Megawatt",
+   "url": "https://en.ilsole24ore.com/art/photovoltaic-sector-set-to-receive-12-billion-euros-to-boost-installations-up-to-1-mw-AJfUik0B"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "BÖRSE · USA",
+   "title": "Tech-Ausverkauf: Ära der „Magnificent Seven“ scheint vorbei",
+   "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · ÖFFENTLICHER SEKTOR",
+   "title": "Anthropic und GSA: 40 Prozent Rabatt für Behörden in den USA",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · FINANZIERUNG",
+   "title": "OpenAI senkt Finanzierungsziel offenbar um zehn Milliarden Dollar",
+   "url": "https://www.handelsblatt.com/technik/ki/ki-openai-senkt-wohl-finanzierungsziel-um-zehn-milliarden-dollar/100266323.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "RECHT · UMWELT",
+   "title": "Klage gegen xAI-Rechenzentrum in Memphis darf weitergehen",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+  }
+ ]
+}
