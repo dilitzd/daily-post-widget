@@ -1,103 +1,85 @@
 {
- "issue": 28,
- "date": "Montag, 2. November 2026",
- "updated": "2026-11-02T08:15:43Z",
- "items": [
-  {
-   "block": "Notizie fiscali",
-   "kicker": "LEGGE DI BILANCIO · SUPERBONUS",
-   "title": "Superbonus: rateizzazione decennale forzosa per i crediti 2023 usabili nel 2027",
-   "url": "https://www.eutekne.info/Sezioni/Art_1129985_rateizzazione_decennale_forzosa_per_i_crediti_superbonus_su_spese.aspx"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "TARIFE · DEUTSCHLAND",
-   "title": "IG Metall startet erste Warnstreiks in der Metall- und Elektroindustrie",
-   "url": "https://www.handelsblatt.com/politik/deutschland/industrie-erste-warnstreiks-der-industrie-groessere-demonstrationen-geplant/100266409.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · UNTERNEHMEN",
-   "title": "Anthropic reicht Börsengang bei der US-Börsenaufsicht SEC ein",
-   "url": "https://www.anthropic.com/news/s1-sec"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · DETRAZIONI EDILIZIE",
-   "title": "Detrazioni edilizie al 50% anche nel 2027, bonus mobili confermato",
-   "url": "https://www.eutekne.info/Sezioni/Art_1129983_interventi_edilizi_con_aliquota_50_anche_nel_2027.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "DIRITTO · SOCIETÀ DI PERSONE",
-   "title": "Cancellazione della sas: i soci rispondono ancora dei debiti tributari",
-   "url": "https://www.eutekne.info/Sezioni/Art_1128821_la_cancellazione_della_sas_non_travolge_la_responsabilita_dei.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · CONTRIBUTO UNIFICATO",
-   "title": "Il giudizio di rinvio sconta il contributo unificato pieno",
-   "url": "https://www.eutekne.info/Sezioni/Art_1128810_il_giudizio_di_rinvio_sconta_il_contributo_unificato_pieno.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · SANZIONI",
-   "title": "Corte EDU: criteri per sanzioni tributarie proporzionate",
-   "url": "https://www.eutekne.info/Sezioni/Art_1128949_gravita_del_fatto_e_intento_elusivo_da_considerare_per_la_proporzionalita.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO · SOCIETÀ DI COMODO",
-   "title": "Assonime: no all'esclusione automatica per le controllanti di quotate",
-   "url": "https://www.eutekne.info/Sezioni/Art_1128617_societa_di_comodo_con_disapplicazione_critica_per_le_controllanti.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "LAVORO · PREVIDENZA",
-   "title": "Sgravio per contratti di solidarietà: domande precompilabili da oggi",
-   "url": "https://www.eutekne.info/Sezioni/Art_1129542_precompilabili_le_domande_di_sgravio_contributivo_per_i_contratti.aspx"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · ITALIEN",
-   "title": "Italiens Haushaltsentwurf 2027 umfasst rund 26 Milliarden Euro",
-   "url": "https://en.ilsole24ore.com/art/here-is-the-budget-26-billion-IRPEF-cut-flat-tax-bank-insurance-and-energy-sectors-AJafouzB"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "BAU · ITALIEN",
-   "title": "Ecobonus: Erhöhung auf 65 Prozent fehlt im Haushaltsentwurf",
-   "url": "https://en.ilsole24ore.com/art/homes-to-miss-out-on-the-65-per-cent-eco-bonus-increase-heres-the-map-of-discounts-for-2027-AJdTDR0B"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · ITALIEN",
-   "title": "1,2 Milliarden Euro für kleine Solaranlagen bis 1 Megawatt",
-   "url": "https://en.ilsole24ore.com/art/photovoltaic-sector-set-to-receive-12-billion-euros-to-boost-installations-up-to-1-mw-AJfUik0B"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "BÖRSE · USA",
-   "title": "Tech-Ausverkauf: Ära der „Magnificent Seven“ scheint vorbei",
-   "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · ÖFFENTLICHER SEKTOR",
-   "title": "Anthropic und GSA: 40 Prozent Rabatt für Behörden in den USA",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · FINANZIERUNG",
-   "title": "OpenAI senkt Finanzierungsziel offenbar um zehn Milliarden Dollar",
-   "url": "https://www.handelsblatt.com/technik/ki/ki-openai-senkt-wohl-finanzierungsziel-um-zehn-milliarden-dollar/100266323.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "RECHT · UMWELT",
-   "title": "Klage gegen xAI-Rechenzentrum in Memphis darf weitergehen",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-  }
- ]
+  "issue": 29,
+  "date": "Dienstag, 3. November 2026",
+  "updated": "2026-11-03T06:50:50+01:00",
+  "items": [
+    {
+      "block": "Notizie fiscali",
+      "kicker": "IVA · RIMBORSO",
+      "title": "Rivalsa IVA fallita: il fornitore estraneo alla frode può chiedere il rimborso",
+      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/rivalsa-delliva-da-accertamento-diritto-di-rimborso-se-il-cliente-non-versa-limposta-al-fornitore/"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "KONJUNKTUR · DEUTSCHLAND",
+      "title": "Deutscher Einzelhandel verliert im September überraschend Umsatz",
+      "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "IVA · IMMOBILI",
+      "title": "Opzione IVA nel preliminare: vincola anche il rogito",
+      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/opzione-iva-nel-preliminare-immobiliare-vincolo-a-senso-unico/"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "CONTENZIOSO · NOTIFICHE",
+      "title": "Ricorso: i 60 giorni decorrono dalla conoscenza effettiva dell'atto",
+      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/contenzioso/decorrenza-dellimpugnazione-dalla-conoscenza-dellatto-comunque-avvenuta/"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "AGEVOLAZIONI · DETRAZIONI EDILIZIE",
+      "title": "Bonus edilizi del defunto: la rata dell'anno del decesso va all'erede",
+      "url": "https://www.ecnews.it/fiscale/in-pratica/casi-operativi-euroconference-news/detrazioni-edilizie-realizzate-dal-de-cuius-la-detrazione-deve-essere-trasferita-allerede-anche-per-lanno-del-decesso/"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
+      "title": "Subholding con scissione mediante scorporo: niente vincolo dell'art. 175 TUIR",
+      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/subholding-creata-con-la-scissione-mediante-scorporo-i-vantaggi/"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "CRISI D'IMPRESA · BANCHE",
+      "title": "Credito all'impresa in crisi: abusivo non significa automaticamente nullo",
+      "url": "https://www.ecnews.it/legale/diritto-civile/diritto-bancario/finanziamenti-allimpresa-in-crisi-quando-il-mutuo-e-nullo/"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "LAVORO · INCENTIVI",
+      "title": "Incentivi all'assunzione legati al SIISL: sperimentazione fino al 30 novembre",
+      "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/gestione-del-rapporto/siisl-pubblicato-il-decreto-attuativo-che-prevede-nuove-funzioni-per-incentivi-co-e-verifica-dei-dati/"
+    },
+    {
+      "block": "Notizie fiscali",
+      "kicker": "CRISI D'IMPRESA · LIQUIDAZIONE CONTROLLATA",
+      "title": "Privilegio fondiario nella liquidazione controllata: la questione va alla Consulta",
+      "url": "https://www.ecnews.it/legale/procedura-civile/esecuzione-forzata/e-costituzionalmente-legittima-lapplicabilita-del-privilegio-fondiario-nella-liquidazione-controllata/"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "LUFTFAHRT · UNTERNEHMEN",
+      "title": "Ryanair startet Sparprogramm gegen höhere Treibstoffkosten",
+      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-ryanair-startet-sparprogramm-gegen-kerosin-schock/100266539.html"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "AUTOBRANCHE · ITALIEN",
+      "title": "Italiens Automarkt wächst im Oktober um 4,8 Prozent",
+      "url": "https://en.ilsole24ore.com/art/car-sales-up-48-per-cent-in-the-italian-market-in-october-83-per-cent-since-the-start-of-the-year-AJqTwu1B"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "UNTERNEHMEN · ITALIEN",
+      "title": "Yachtbauer The Italian Sea Group setzt auf Angebot von Sri Global",
+      "url": "https://en.ilsole24ore.com/art/tisg-selects-the-sri-bid-and-agrees-on-business-continuity-AJTJVQ2B"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "CYBERSICHERHEIT · ITALIEN",
+      "title": "Cyberangriffe auf Kühlketten treffen zwei italienische Unternehmen",
+      "url": "https://en.ilsole24ore.com/art/cyberattacks-on-the-cold-chain-have-affected-two-italian-companies-acn-alert-AJ0l6I2B"
+    }
+  ]
 }
