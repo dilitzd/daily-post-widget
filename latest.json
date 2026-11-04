@@ -1,85 +1,121 @@
 {
-  "issue": 29,
-  "date": "Dienstag, 3. November 2026",
-  "updated": "2026-11-03T06:50:50+01:00",
+  "issue": 30,
+  "date": "Mittwoch, 4. November 2026",
+  "updated": "2026-11-04T06:51:41+01:00",
   "items": [
     {
       "block": "Notizie fiscali",
-      "kicker": "IVA · RIMBORSO",
-      "title": "Rivalsa IVA fallita: il fornitore estraneo alla frode può chiedere il rimborso",
-      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/rivalsa-delliva-da-accertamento-diritto-di-rimborso-se-il-cliente-non-versa-limposta-al-fornitore/"
+      "kicker": "FISCO · SCADENZE",
+      "title": "Rivalutazione delle partecipazioni: perizia e imposta entro il 30 novembre",
+      "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/rivalutazione-delle-partecipazioni-in-scadenza-il-30-novembre-2026/"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "KONJUNKTUR · DEUTSCHLAND",
-      "title": "Deutscher Einzelhandel verliert im September überraschend Umsatz",
-      "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html"
+      "kicker": "INDUSTRIE · DEUTSCHLAND",
+      "title": "Schaeffler streicht 3460 Stellen und schließt vier deutsche Werke",
+      "url": "https://www.wiwo.de/unternehmen/auto/autozulieferer-schaeffler-streicht-tausende-jobs-und-schliesst-werke/100266861.html"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "ANTHROPIC · SICHERHEIT",
+      "title": "Anthropic macht prüfbar, welches Modell eine Antwort erzeugt hat",
+      "url": "https://www.anthropic.com/research/provable-inference"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "IVA · IMMOBILI",
-      "title": "Opzione IVA nel preliminare: vincola anche il rogito",
-      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/opzione-iva-nel-preliminare-immobiliare-vincolo-a-senso-unico/"
+      "kicker": "LAVORO · LEGGE DI BILANCIO",
+      "title": "Sostitutiva del 5% sugli aumenti contrattuali anche nel 2027",
+      "url": "https://www.eutekne.info/Sezioni/Art_1130111_imposta_sostitutiva_del_5_sui_rinnovi_contrattuali_anche_per_il.aspx"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "CONTENZIOSO · NOTIFICHE",
-      "title": "Ricorso: i 60 giorni decorrono dalla conoscenza effettiva dell'atto",
-      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/contenzioso/decorrenza-dellimpugnazione-dalla-conoscenza-dellatto-comunque-avvenuta/"
+      "kicker": "AGEVOLAZIONI · ECOBONUS",
+      "title": "Ecobonus: un unico tetto di spesa per tutti gli interventi",
+      "url": "https://ntplusfisco.ilsole24ore.com/art/infissi-condizionatori-e-tende-sole-sorpresa-c-e-taglio-tetti-spesa-AJpwHx1B"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "AGEVOLAZIONI · DETRAZIONI EDILIZIE",
-      "title": "Bonus edilizi del defunto: la rata dell'anno del decesso va all'erede",
-      "url": "https://www.ecnews.it/fiscale/in-pratica/casi-operativi-euroconference-news/detrazioni-edilizie-realizzate-dal-de-cuius-la-detrazione-deve-essere-trasferita-allerede-anche-per-lanno-del-decesso/"
+      "kicker": "CONTENZIOSO · SANZIONI",
+      "title": "Corte EDU, caso Grassucci: sanzioni tributarie come «materia penale»",
+      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/sanzioni-tributarie-e-cedu-cosa-cambia-dopo-la-sentenza-grassucci/"
     },
     {
       "block": "Notizie fiscali",
       "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
-      "title": "Subholding con scissione mediante scorporo: niente vincolo dell'art. 175 TUIR",
-      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/subholding-creata-con-la-scissione-mediante-scorporo-i-vantaggi/"
+      "title": "Fusione con annullamento del saldo di rivalutazione: nessun abuso",
+      "url": "https://www.eutekne.info/Sezioni/Art_1130172_lecita_la_fusione_con_annullamento_del_saldo_attivo_di_rivalutazione.aspx"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "CRISI D'IMPRESA · BANCHE",
-      "title": "Credito all'impresa in crisi: abusivo non significa automaticamente nullo",
-      "url": "https://www.ecnews.it/legale/diritto-civile/diritto-bancario/finanziamenti-allimpresa-in-crisi-quando-il-mutuo-e-nullo/"
+      "kicker": "PENALE TRIBUTARIO · FRODE",
+      "title": "Fatture false: senza dolo specifico di evasione niente reato",
+      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/nella-frode-fiscale-non-basta-contabilizzare-la-fattura-falsa-ma-va-sempre-provato-il-dolo-di-evasione/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "LAVORO · INCENTIVI",
-      "title": "Incentivi all'assunzione legati al SIISL: sperimentazione fino al 30 novembre",
-      "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/gestione-del-rapporto/siisl-pubblicato-il-decreto-attuativo-che-prevede-nuove-funzioni-per-incentivi-co-e-verifica-dei-dati/"
+      "kicker": "PROFESSIONE · STP",
+      "title": "STP tra commercialisti: quanto può pesare il socio investitore",
+      "url": "https://www.ecnews.it/fiscale/mondo-professione/organizzazione-studi-e-ma/stp-tra-commercialisti-e-ddl-2628-la-posizione-del-socio-investitore/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "CRISI D'IMPRESA · LIQUIDAZIONE CONTROLLATA",
-      "title": "Privilegio fondiario nella liquidazione controllata: la questione va alla Consulta",
-      "url": "https://www.ecnews.it/legale/procedura-civile/esecuzione-forzata/e-costituzionalmente-legittima-lapplicabilita-del-privilegio-fondiario-nella-liquidazione-controllata/"
+      "kicker": "FISCO · PENSIONATI ESTERI",
+      "title": "Sostitutiva del 7% anche per somme «pay as you go» estere",
+      "url": "https://www.eutekne.info/Sezioni/Art_1130139_sostitutiva_del_7_anche_per_le_somme_pay_as_you_go_di_fonte_estera.aspx"
     },
     {
       "block": "Wirtschaftsnews",
       "kicker": "LUFTFAHRT · UNTERNEHMEN",
-      "title": "Ryanair startet Sparprogramm gegen höhere Treibstoffkosten",
-      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-ryanair-startet-sparprogramm-gegen-kerosin-schock/100266539.html"
+      "title": "Lufthansa steigert Quartalsgewinn trotz teuren Kerosins",
+      "url": "https://www.handelsblatt.com/politik/deutschland/hohe-treibstoffrechnung-lufthansa-steigert-sommer-gewinn-trotz-teuren-kerosins/100266838.html"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "AUTOBRANCHE · ITALIEN",
-      "title": "Italiens Automarkt wächst im Oktober um 4,8 Prozent",
-      "url": "https://en.ilsole24ore.com/art/car-sales-up-48-per-cent-in-the-italian-market-in-october-83-per-cent-since-the-start-of-the-year-AJqTwu1B"
+      "kicker": "PHARMA · ITALIEN",
+      "title": "Pharmabranche fordert Entlastung beim Payback-Mechanismus",
+      "url": "https://en.ilsole24ore.com/art/johnson-johnson-celebrates-its-first-50-years-in-italia-ceo-murzi-aims-to-create-the-right-conditions-for-investment-AJkBLl2B"
     },
     {
       "block": "Wirtschaftsnews",
       "kicker": "UNTERNEHMEN · ITALIEN",
-      "title": "Yachtbauer The Italian Sea Group setzt auf Angebot von Sri Global",
-      "url": "https://en.ilsole24ore.com/art/tisg-selects-the-sri-bid-and-agrees-on-business-continuity-AJTJVQ2B"
+      "title": "Fonds Xenon übernimmt Cyberspezialisten Deas, 300 Neueinstellungen geplant",
+      "url": "https://en.ilsole24ore.com/art/the-xenon-fund-has-secured-a-majority-stake-300-new-jobs-are-planned-AJEKQG2B"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "CYBERSICHERHEIT · ITALIEN",
-      "title": "Cyberangriffe auf Kühlketten treffen zwei italienische Unternehmen",
-      "url": "https://en.ilsole24ore.com/art/cyberattacks-on-the-cold-chain-have-affected-two-italian-companies-acn-alert-AJ0l6I2B"
+      "kicker": "STATISTIK · ITALIEN",
+      "title": "Istat: Im Norden lebt man anderthalb Jahre länger als im Süden",
+      "url": "https://en.ilsole24ore.com/art/people-in-the-north-live-a-year-and-a-half-longer-than-those-in-the-south-here-is-a-map-showing-the-inequalities-AJKHtI1B"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "ANTHROPIC · WISSENSCHAFT",
+      "title": "AI for Science: Anthropic arbeitet mit 20 Forschungspartnern",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "MARKT · BÖRSENGANG",
+      "title": "Anthropic rutscht im dritten Quartal operativ in die Verlustzone",
+      "url": "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "SICHERHEIT · RISIKOFAKTOREN",
+      "title": "Prospekt: Anthropic sieht sich nahe an sich selbst verbessernder KI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "RECHT · URHEBERRECHT",
+      "title": "New York Times verklagt Browser Brave wegen Inhalten für KI-Firmen",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+    },
+    {
+      "block": "Box",
+      "kicker": "USECASE DER WOCHE · ACCOUNTING",
+      "title": "Rechnungsfreigabe mit Prüfpfad – gebaut aus vorhandenen Werkzeugen",
+      "url": "https://www.journalofaccountancy.com/issues/2026/aug/real-life-ways-small-firms-use-ai/"
     }
   ]
 }
