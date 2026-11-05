@@ -1,121 +1,85 @@
 {
-  "issue": 30,
-  "date": "Mittwoch, 4. November 2026",
-  "updated": "2026-11-04T06:51:41+01:00",
+  "issue": 31,
+  "date": "Donnerstag, 5. November 2026",
+  "updated": "2026-11-05T06:51:28+01:00",
   "items": [
     {
       "block": "Notizie fiscali",
-      "kicker": "FISCO · SCADENZE",
-      "title": "Rivalutazione delle partecipazioni: perizia e imposta entro il 30 novembre",
-      "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/rivalutazione-delle-partecipazioni-in-scadenza-il-30-novembre-2026/"
+      "kicker": "FISCO · REDDITO D'IMPRESA",
+      "title": "Riporto delle perdite: il cambio di controllo conta anche a monte",
+      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/riporto-perdite-post-correttivo-omnibus-linterpretazione-autentica-ridisegna-il-perimetro-dellart-84-tuir/"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "INDUSTRIE · DEUTSCHLAND",
-      "title": "Schaeffler streicht 3460 Stellen und schließt vier deutsche Werke",
-      "url": "https://www.wiwo.de/unternehmen/auto/autozulieferer-schaeffler-streicht-tausende-jobs-und-schliesst-werke/100266861.html"
-    },
-    {
-      "block": "KI-News",
-      "kicker": "ANTHROPIC · SICHERHEIT",
-      "title": "Anthropic macht prüfbar, welches Modell eine Antwort erzeugt hat",
-      "url": "https://www.anthropic.com/research/provable-inference"
+      "kicker": "INVESTITIONEN · ITALIEN",
+      "title": "Rechenzentren bündeln fast 27 Milliarden Euro Investitionen in Italien",
+      "url": "https://en.ilsole24ore.com/art/amazon-openai-data-centre-construction-site-investment-27-billion-italia-AJVmAh4B"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "LAVORO · LEGGE DI BILANCIO",
-      "title": "Sostitutiva del 5% sugli aumenti contrattuali anche nel 2027",
-      "url": "https://www.eutekne.info/Sezioni/Art_1130111_imposta_sostitutiva_del_5_sui_rinnovi_contrattuali_anche_per_il.aspx"
+      "kicker": "FISCO · RISERVE",
+      "title": "Affrancamento straordinario delle riserve anche per la sas beneficiaria",
+      "url": "https://www.eutekne.info/Sezioni/Art_1130345_affrancamento_straordinario_per_le_riserve_alla_beneficiaria_societa.aspx"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "AGEVOLAZIONI · ECOBONUS",
-      "title": "Ecobonus: un unico tetto di spesa per tutti gli interventi",
-      "url": "https://ntplusfisco.ilsole24ore.com/art/infissi-condizionatori-e-tende-sole-sorpresa-c-e-taglio-tetti-spesa-AJpwHx1B"
+      "kicker": "LAVORO · WELFARE",
+      "title": "Fringe benefit per chi lavora la domenica: esenzione possibile",
+      "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/welfare-aziendale-e-lavoro-domenicale-i-fringe-benefit-possono-beneficiare-dellesenzione-fiscale-e-contributiva/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "CONTENZIOSO · SANZIONI",
-      "title": "Corte EDU, caso Grassucci: sanzioni tributarie come «materia penale»",
-      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/sanzioni-tributarie-e-cedu-cosa-cambia-dopo-la-sentenza-grassucci/"
+      "kicker": "PENALE TRIBUTARIO · OCCULTAMENTO",
+      "title": "Fattura trovata presso il cliente: può configurarsi l'occultamento",
+      "url": "https://www.eutekne.info/Sezioni/Art_1130326_occultamento_con_fatture_rinvenute_presso_il_cliente.aspx"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
-      "title": "Fusione con annullamento del saldo di rivalutazione: nessun abuso",
-      "url": "https://www.eutekne.info/Sezioni/Art_1130172_lecita_la_fusione_con_annullamento_del_saldo_attivo_di_rivalutazione.aspx"
+      "kicker": "CRISI D'IMPRESA · LIQUIDAZIONE",
+      "title": "Liquidazione controllata: le istruzioni della circolare 9/E agli uffici",
+      "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/liquidazione-controllata-indicazioni-della-circolare-n-9-e-dellagenzia-delle-entrate/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "PENALE TRIBUTARIO · FRODE",
-      "title": "Fatture false: senza dolo specifico di evasione niente reato",
-      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/nella-frode-fiscale-non-basta-contabilizzare-la-fattura-falsa-ma-va-sempre-provato-il-dolo-di-evasione/"
+      "kicker": "DIRITTO · ALTO ADIGE",
+      "title": "Case green: il TRGA di Bolzano boccia le regole provinciali anticipate",
+      "url": "https://www.ecnews.it/legale/diritto-civile/diritti-reali-e-condominio/direttiva-case-green-il-trga-bolzano-richiama-il-principio-di-gradualita/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "PROFESSIONE · STP",
-      "title": "STP tra commercialisti: quanto può pesare il socio investitore",
-      "url": "https://www.ecnews.it/fiscale/mondo-professione/organizzazione-studi-e-ma/stp-tra-commercialisti-e-ddl-2628-la-posizione-del-socio-investitore/"
+      "kicker": "CRISI D'IMPRESA · REVOCATORIA",
+      "title": "Anche il mutuo è revocabile nel fallimento",
+      "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/mutuo-e-revocatoria-fallimentare-la-cassazione-ne-ammette-la-revocabilita/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "FISCO · PENSIONATI ESTERI",
-      "title": "Sostitutiva del 7% anche per somme «pay as you go» estere",
-      "url": "https://www.eutekne.info/Sezioni/Art_1130139_sostitutiva_del_7_anche_per_le_somme_pay_as_you_go_di_fonte_estera.aspx"
+      "kicker": "PROFESSIONE · BILANCI",
+      "title": "Deposito dei bilanci: i commercialisti contro l'apertura ai consulenti del lavoro",
+      "url": "https://www.eutekne.info/Sezioni/Art_1130353_sul_deposito_dei_bilanci_i_commercialisti_confermano_la_contrarieta.aspx"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "LUFTFAHRT · UNTERNEHMEN",
-      "title": "Lufthansa steigert Quartalsgewinn trotz teuren Kerosins",
-      "url": "https://www.handelsblatt.com/politik/deutschland/hohe-treibstoffrechnung-lufthansa-steigert-sommer-gewinn-trotz-teuren-kerosins/100266838.html"
+      "kicker": "INDUSTRIE · ITALIEN",
+      "title": "Electrolux-Einigung halbiert fast den Stellenabbau in Italien",
+      "url": "https://en.ilsole24ore.com/art/electrolux-reaches-agreement-with-mimit-on-new-plan-for-100-million-in-investment-AJuF663B"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "PHARMA · ITALIEN",
-      "title": "Pharmabranche fordert Entlastung beim Payback-Mechanismus",
-      "url": "https://en.ilsole24ore.com/art/johnson-johnson-celebrates-its-first-50-years-in-italia-ceo-murzi-aims-to-create-the-right-conditions-for-investment-AJkBLl2B"
+      "kicker": "HAUSHALT · ITALIEN",
+      "title": "Fratelli d'Italia plant per Haushaltsgesetz eine neue Bauamnestie",
+      "url": "https://en.ilsole24ore.com/art/budget-bill-foreign-direct-investment-labour-amendment-reopening-of-the-building-amnesty-in-campania-AJIC5e3B"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "UNTERNEHMEN · ITALIEN",
-      "title": "Fonds Xenon übernimmt Cyberspezialisten Deas, 300 Neueinstellungen geplant",
-      "url": "https://en.ilsole24ore.com/art/the-xenon-fund-has-secured-a-majority-stake-300-new-jobs-are-planned-AJEKQG2B"
+      "kicker": "AUTOINDUSTRIE · DEUTSCHLAND",
+      "title": "BMW-Gewinn bricht in neun Monaten um gut ein Drittel ein",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-gewinn-des-autobauers-bricht-um-mehr-als-ein-drittel-ein/100265068.html"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "STATISTIK · ITALIEN",
-      "title": "Istat: Im Norden lebt man anderthalb Jahre länger als im Süden",
-      "url": "https://en.ilsole24ore.com/art/people-in-the-north-live-a-year-and-a-half-longer-than-those-in-the-south-here-is-a-map-showing-the-inequalities-AJKHtI1B"
-    },
-    {
-      "block": "KI-News",
-      "kicker": "ANTHROPIC · WISSENSCHAFT",
-      "title": "AI for Science: Anthropic arbeitet mit 20 Forschungspartnern",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
-    },
-    {
-      "block": "KI-News",
-      "kicker": "MARKT · BÖRSENGANG",
-      "title": "Anthropic rutscht im dritten Quartal operativ in die Verlustzone",
-      "url": "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/"
-    },
-    {
-      "block": "KI-News",
-      "kicker": "SICHERHEIT · RISIKOFAKTOREN",
-      "title": "Prospekt: Anthropic sieht sich nahe an sich selbst verbessernder KI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
-    },
-    {
-      "block": "KI-News",
-      "kicker": "RECHT · URHEBERRECHT",
-      "title": "New York Times verklagt Browser Brave wegen Inhalten für KI-Firmen",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
-    },
-    {
-      "block": "Box",
-      "kicker": "USECASE DER WOCHE · ACCOUNTING",
-      "title": "Rechnungsfreigabe mit Prüfpfad – gebaut aus vorhandenen Werkzeugen",
-      "url": "https://www.journalofaccountancy.com/issues/2026/aug/real-life-ways-small-firms-use-ai/"
+      "kicker": "EU · AUTOINDUSTRIE",
+      "title": "EU-Umweltausschuss stimmt für Lockerung des Verbrenner-Aus",
+      "url": "https://www.wiwo.de/unternehmen/verkehr-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus/100267342.html"
     }
   ]
 }
