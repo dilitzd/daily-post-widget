@@ -1,0 +1,172 @@
+{
+  "updated": "2026-11-05T23:50:50+01:00",
+  "themen": {
+    "politik": {
+      "titel": "Internationale Politik",
+      "items": [
+        {
+          "titel": "Demokraten erobern bei US-Zwischenwahlen beide Kongresskammern",
+          "satz": "Prognosen sehen sie bei mindestens 255 Sitzen im Repräsentantenhaus und 54 im Senat; Vizepräsident Vance macht den Iran-Krieg verantwortlich.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/the-democrats-triumph-splits-maga-vance-who-distances-herself-from-the-war-AJA2ii4B",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Israel: Herzog beendet Konsultationen zur Regierungsbildung",
+          "satz": "Weder Netanyahu noch Eisenkot haben eine Mehrheit, und die ultraorthodoxe Thora-Partei verweigert Netanyahu wegen der Wehrdienstbefreiung vorerst die Unterstützung.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/mondo/israele-secondo-giorno-consultazioni-herzog/AJUhCl5B",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Le Pen will französische Ukraine-Hilfen aussetzen",
+          "satz": "Bei der Rüstungsmesse Euronaval nannte sie ein Ende der Finanzhilfen für Kiew nach einem möglichen Wahlsieg einen Akt der Ehrlichkeit.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/mondo/ucraina-pen-sospendere-aiuti-kiev-atto-onesta/AJPVRP6B",
+          "datum": "2026-11-05"
+        }
+      ],
+      "hinweis": "Spiegel, NZZ und Süddeutsche Zeitung für den Abruf gesperrt, The Economist nicht erreichbar – alle Meldungen von Il Sole 24 Ore."
+    },
+    "wirtschaft": {
+      "titel": "Wirtschaft",
+      "items": [
+        {
+          "titel": "Europas Börsen steigen nach Wahlsieg der US-Demokraten weiter",
+          "satz": "Öl und Gas wurden billiger, während Seoul wegen Sorgen um KI-Investitionen bis zu 5,2 Prozent verlor und Samsung über 7 Prozent einbüßte.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/stock-market-indices-thursday-5-november-2026-AJerTS5B",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Lagarde hält US-Zölle für schädlich und dauerhaft",
+          "satz": "Die EZB-Chefin erwartet keine rasche Rücknahme; der US-Kongress könne die Zollbefugnisse ändern, das brauche aber Zeit.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/radiocor/nRC_05.11.2026_17.05_67510675",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Italien verschiebt Plastik- und Zuckersteuer erneut",
+          "satz": "Die beiden neuen Abgaben sollen nicht mehr am 1. Januar, sondern sechs Monate später am 1. Juli starten.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/economia/plastic-e-sugar-tax-nuovo-rinvio--video/AJVUnS6B",
+          "datum": "2026-11-05"
+        }
+      ],
+      "hinweis": "NZZ und Süddeutsche Zeitung für den Abruf gesperrt, WSJ und The Economist nicht erreichbar – alle Meldungen von Il Sole 24 Ore."
+    },
+    "wissenschaft": {
+      "titel": "Wissenschaft",
+      "items": [],
+      "hinweis": "Heute keine Meldungen: heise online und NZZ für den Abruf gesperrt, Spiegel und Süddeutsche Zeitung nicht erreichbar."
+    },
+    "technik": {
+      "titel": "Technik",
+      "items": [
+        {
+          "titel": "Apple schafft Warteliste für Siri AI weitgehend ab",
+          "satz": "Laut aktualisiertem Support-Dokument lädt Siri AI nach dem Opt-in automatisch; eine Warteliste gibt es nur noch bei hoher Nachfrage.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/05/siri-ai-waitlist-limited-times-high-demand-apple/",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Apple könnte MacBook Pro ohne Touchscreen auslaufen lassen",
+          "satz": "Laut Bloomberg-Reporter Mark Gurman setzt Apple künftig auf Touch-Modelle mit OLED; 2027 sollen Varianten mit M7 Pro und M7 Max folgen.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
+          "datum": "2026-11-04"
+        },
+        {
+          "titel": "Neuer KI-Assistent in Logic Pro nur im Abo",
+          "satz": "Er erfordert Apple Creator Studio für 12,99 Dollar im Monat und fehlt in der Kaufversion von Logic Pro 13 für 199,99 Dollar.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription",
+          "datum": "2026-11-05"
+        }
+      ],
+      "hinweis": "heise online für den Abruf gesperrt, CHIP nicht erreichbar – alle Meldungen von MacRumors."
+    },
+    "ki": {
+      "titel": "Künstliche Intelligenz",
+      "items": [
+        {
+          "titel": "OpenAI stellt GPT-6 Cyber für Jagd auf Sicherheitslücken vor",
+          "satz": "Laut OpenAI fand das Modell 81 schwere Firefox-Lücken und baute 948 funktionierende Linux-Kernel-Exploits; Zugang erhalten zunächst nur ausgewählte Kunden.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Googles Videomodell Gemini Omni 1.2 Flash jetzt für alle",
+          "satz": "Clips dürfen nun bis zu 15 Sekunden lang sein, 720p kostet rund 30 Prozent weniger, und Videos lassen sich per Dialog nachbearbeiten.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/google-veroeffentlicht-gemini-omni-1-2-flash-mit-laengeren-clips-und-guenstigeren-preisen/",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Huawei lässt Kunden KI-Speicherchips selbst beschaffen",
+          "satz": "Wegen US-Exportregeln fehlt High-Bandwidth Memory (HBM); geschmuggeltes HBM3E kostet inzwischen rund 4.000 Dollar pro Einheit.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/huawei-sagt-kunden-sie-sollen-speicherchips-fuer-ki-prozessoren-selbst-beschaffen/",
+          "datum": "2026-11-03"
+        }
+      ],
+      "hinweis": "heise online für den Abruf gesperrt; keine neue Anthropic-Meldung seit 29.10."
+    },
+    "suedtirol": {
+      "titel": "Südtirol",
+      "items": [
+        {
+          "titel": "Huber-Kasernen in Bozen: Baubeginn für 2029 angepeilt",
+          "satz": "Im Januar 2027 startet die Planung für 400 bis 450 Wohnungen; zudem beschloss die Gemeinde fünf Verkehrsmaßnahmen am Ponte Roma.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/it/article/05112026/caserme-huber-si-parte",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Experte warnt vor Cyberangriffen auf Supermarkt-Kühlanlagen",
+          "satz": "Alessandro Zuech zählte 24 angreifbare Systeme in Südtirol; bei einem Kühlausfall in Kastelruth schließen die Carabinieri einen Angriff nicht aus.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/de/article/05112026/i-frigoriferi-la-punta-delliceberg",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Zweisprachiges Schulmodell in St. Felix in Gefahr",
+          "satz": "Ein geplantes Mehrgenerationenhaus bedroht das Modell mit Kindern aus dem Trentino, obwohl das teils leerstehende Widum als Alternative bereitstünde.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/de/article/05112026/eltern-kaempfen-um-nonsberger-schulmodell",
+          "datum": "2026-11-05"
+        }
+      ],
+      "hinweis": "Rai Südtirol für den Abruf gesperrt, stol.it nicht lesbar – alle Meldungen von salto.bz."
+    },
+    "sport": {
+      "titel": "Sport",
+      "items": [
+        {
+          "titel": "FC Bayern verlängert mit Harry Kane bis 2029",
+          "satz": "Kane wird Topverdiener des Klubs; Vorstandschef Dreesen betont, man gehe dabei keine finanziellen Risiken ein.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-kane-verlaengerung-massives-ausrufezeichen",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Struff scheidet beim Paris Masters gegen Ruud aus",
+          "satz": "Der letzte Deutsche im Einzel verlor das Achtelfinale nach nur 64 Minuten mit 3:6, 3:6.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/tennis/atp/2026/11/keine-chance-gegen-ruud-struff-scheidet-in-paris-aus",
+          "datum": "2026-11-05"
+        },
+        {
+          "titel": "Freiburg gewinnt in der Conference League bei Trabzonspor",
+          "satz": "Lukas Kübler traf früh zum 1:0, Freiburg hat nun sechs Punkte aus drei Spielen.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/conference-league/2026/11/dank-kuebler-freiburg-siegt-bei-stuermerstar-salah",
+          "datum": "2026-11-05"
+        }
+      ],
+      "hinweis": "Keine aktuelle Ski-alpin-Meldung."
+    }
+  }
+}
