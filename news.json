@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:32:43+01:00",
+  "updated": "2026-11-06T18:59:44+01:00",
   "zitat": {
     "text": "Wir dürfen nicht hoffen, eine bessere Welt zu erbauen, ehe nicht die Individuen besser werden.",
     "original": "",
@@ -24,239 +24,239 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Frankreichs Nationalversammlung lässt Haushaltsentwurf durchfallen",
-          "satz": "458 Abgeordnete stimmten dagegen; Premier Lecornus Minderheitsregierung dürfte den Etat nun per Verfassungsartikel ohne Schlussabstimmung durchsetzen.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447265/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "US-Senat: Knappe Rennen in Mississippi und Alaska",
-          "satz": "In Mississippi führt Demokrat Scott Colom mit gut 1.000 Stimmen, in Alaska Mary Peltola mit rund 600 Stimmen Vorsprung.",
+          "titel": "Ucraina, l'Ue frena dopo l'annuncio di Trump",
+          "satz": "Per Bruxelles serve ancora molto lavoro per la pace, e l'Europa deciderà da sola sulla propria sicurezza.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/now-that-trump-is-unpredictable-hegseth-is-already-facing-the-risk-of-impeachment-AJmeKa5B",
-          "datum": "2026-11-05"
+          "url": "https://stream24.ilsole24ore.com/video/mondo/ucraina-ue-la-necessaria-volonta-chi-ha-iniziato-guerra/AJ2kbV7B",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Hongkong: Zehn Jahre Haft für Aktivist Joshua Wong",
-          "satz": "Der 30-Jährige wurde nach dem Sicherheitsgesetz verurteilt, weil er 2020 andere Staaten zu Sanktionen gegen Hongkong und China aufgerufen hatte.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447242/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Meloni fordert eine gemeinsame EU-Linie zur Ukraine",
-          "satz": "In einem Brief an Ratspräsident Costa kritisiert sie, das zersplitterte Vorgehen Europas untergrabe dessen Glaubwürdigkeit.",
+          "titel": "Midterm, cosa cambia per Europa, Russia e Cina",
+          "satz": "La sconfitta dei repubblicani ridisegna gli equilibri a Washington e apre nuovi scenari nei rapporti con le grandi potenze.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/the-eu-is-providing-436-billion-in-financial-support-and-defence-assistance-to-ukraine-AJYlWi5B",
+          "url": "https://stream24.ilsole24ore.com/video/mondo/l-impatto-midterm-europa-russia-e-cina/AJxvhS7B",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Hunderttausende beim „Schwarzen Donnerstag“ in Frankreich",
+          "satz": "Bei den bisher größten Protesten für höhere Löhne kam es erneut zu Gewalt; Premier Lecornu lädt am Montag zur Sozialkonferenz.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3447358/",
           "datum": "2026-11-05"
+        },
+        {
+          "titel": "Israele, domenica l'incarico per il nuovo governo",
+          "satz": "Herzog sceglierà dopo le consultazioni: 67 deputati sostengono Eisenkot, 46 Netanyahu, ma una maggioranza di 61 resta difficile.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/mondo/israele-herzog-decidera-domenica-chi-affidare-incarico-formare-governo/AJKF7d7B",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "Spiegel, NZZ, Süddeutsche gesperrt, The Economist nicht erreichbar – Ersatz: ORF."
+      "hinweis": "Spiegel, NZZ, Süddeutsche, The Economist gesperrt; ilsole24ore.com-Artikel nicht abrufbar, Il-Sole-Meldungen über Stream24 – Ersatz: ORF"
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Telekom hebt nach starkem Quartal die Prognose an",
-          "satz": "Der Umsatz stieg um 5,5 Prozent auf 31,1 Milliarden Euro, die Dividende soll um zehn Prozent auf 1,10 Euro steigen.",
-          "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/it-internet/telekom-starkes-drittes-quartal-dax-konzern-hebt-seine-prognose-an/100266647.html",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Banco BPM mit Rekordgewinn von 1,5 Milliarden Euro",
-          "satz": "Nach neun Monaten zahlt die Mailänder Bank eine Zwischendividende von 0,50 Euro je Aktie, insgesamt 750 Millionen Euro.",
+          "titel": "Borse europee in rosso, pesano i timori sull'IA",
+          "satz": "Milano ha chiuso a -0,9% e Francoforte a -2%, nonostante il rimbalzo del Nasdaq dopo il crollo del giorno prima.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/bpm-bank-posts-record-nine-month-profit-of-15-billion-with-a-26-per-cent-net-impact-from-the-anima-deal-AJxvqE6B",
-          "datum": "2026-11-05"
+          "url": "https://stream24.ilsole24ore.com/video/radiocor/la-borsa-indici-6-novembre-2026/AJaa6e7B",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Rom verschiebt Dekret gegen hohe Strom- und Gaspreise erneut",
-          "satz": "Der Ministerrat vertagte das Gesetzesdekret zum zweiten Mal, offenbar weil die Finanzierung noch nicht gesichert ist.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/cabinet-postpones-new-utility-bills-decree-again-funding-likely-to-be-an-issue-AJiT3E6B",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Air France-KLM übertrifft Gewinnerwartungen",
-          "satz": "Das operative Quartalsergebnis lag dank starker Langstrecken- und Premiumnachfrage bei 1,34 Milliarden Euro, deutlich über den Prognosen.",
+          "titel": "Schulden der Entwicklungsländer auf Rekordhoch",
+          "satz": "Laut Weltbank stiegen die Auslandsschulden 2025 um 5,5 Prozent auf 9,4 Billionen Dollar, bei den höchsten Finanzierungskosten seit Jahrzehnten.",
           "quelle": "ORF",
-          "url": "https://orf.at/stories/3447258/",
+          "url": "https://orf.at/stories/3447355/",
           "datum": "2026-11-05"
+        },
+        {
+          "titel": "M&A nei consumi: crescono salute e benessere, cala la moda",
+          "satz": "Tra gennaio e agosto le operazioni sono state 251, l'8% in meno, con il fashion in calo del 40% secondo PwC.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/economia/consumi-investimenti-crescita-salute-e-benessere-cala-fashion/AJawRb7B",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Merci su rotaia, le imprese chiedono misure stabili",
+          "satz": "Gli operatori stimano 400 milioni di ricavi persi in tre anni per cali di volumi, costi e cantieri e puntano sulla manovra.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/economia/merci-rotaia-allarme-imprese-servono-misure-stabili/AJOqwU7B",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "NZZ, Süddeutsche gesperrt, The Economist und WSJ nicht erreichbar – Ersatz: Handelsblatt, ORF."
+      "hinweis": "NZZ, Süddeutsche, The Economist, WSJ gesperrt; ilsole24ore.com-Artikel nicht abrufbar, Il-Sole-Meldungen über Stream24 – Ersatz: ORF"
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "NASA-Teleskop Swift nach gescheiterter Rettung abgestürzt",
-          "satz": "Der Gammastrahlen-Satellit verglühte über Indonesien, nachdem ein Steuerproblem am Abschlepp-Raumfahrzeug „Link“ die Rettung vereitelt hatte.",
+          "titel": "2026 reißt fast sicher die 1,5-Grad-Marke",
+          "satz": "Laut Copernicus war der Oktober mit 1,75 Grad über vorindustriellem Niveau der weltweit wärmste seit Messbeginn.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238029/",
-          "datum": "2026-11-05"
+          "url": "https://science.orf.at/stories/3238087",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Uralte DNA erhellt Ursprung der germanischen Sprachen",
-          "satz": "Eine Nature-Studie mit über 4.500 Genomen deutet auf eine bisher unbekannte Einwanderung aus dem Baltikum nach Skandinavien vor 4.000 Jahren.",
+          "titel": "Die extremsten Hitzewellen stehen noch bevor",
+          "satz": "Simulationen der FU Berlin zeigen, dass künftige Hitzeperioden länger, großflächiger und intensiver ausfallen können als bisherige Rekorde.",
+          "quelle": "scinexx.de",
+          "url": "https://www.scinexx.de/news/geowissen/die-extremsten-hitzewellen-liegen-noch-vor-uns/",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Mars könnte noch vulkanisch aktiv sein",
+          "satz": "Chlorwasserstoff in der Atmosphäre und lange Risse bei Alba Mons deuten auf eine schlafende Magmakammer hin.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238009/",
+          "url": "https://science.orf.at/stories/3238004/",
           "datum": "2026-11-04"
         },
         {
-          "titel": "Neue Bildanalyse findet Planeten in alten Webb-Daten",
-          "satz": "Das Verfahren FLIP modelliert den Lichtweg im Teleskop und erkennt Exoplaneten zwei- bis fünfzehnmal empfindlicher als die Standardmethode.",
+          "titel": "Feuersteinklingen zeigen frühe Arbeitsteilung in Ägypten",
+          "satz": "Fast 2.900 Artefakte aus Heliopolis legen nahe, dass geübte Handwerker schon vor den Pharaonen Klingen für andere fertigten.",
           "quelle": "scinexx.de",
-          "url": "https://www.scinexx.de/news/kosmos/neue-bildanalyse-macht-verborgenen-exoplaneten-in-alten-webb-daten-sichtbar/",
+          "url": "https://www.scinexx.de/news/archaeologie/feuersteinwerkzeuge-zeigen-arbeitsteilung-in-aegypten-vor-den-pharaonen/",
           "datum": "2026-11-04"
-        },
-        {
-          "titel": "Arktis-Bakterium bindet CO₂ mithilfe von Aceton",
-          "satz": "Genomdaten zeigen, dass Porticoccus arcticus beim Acetonabbau gelöstes CO₂ in Zellbausteine einbauen könnte; ob das Klima davon profitiert, ist offen.",
-          "quelle": "scinexx.de",
-          "url": "https://www.scinexx.de/news/biowissen/bakterienart-im-arktischen-ozean-koennte-mit-aceton-co%E2%82%82-in-zellbausteine-einbauen/",
-          "datum": "2026-11-03"
         }
       ],
-      "hinweis": "NZZ, Süddeutsche, Spiegel und heise gesperrt – Ersatz: science.orf.at, scinexx.de."
+      "hinweis": "NZZ, heise, Süddeutsche, Spiegel gesperrt – Ersatz: science.orf.at, scinexx.de"
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Apple bringt heute fünf neue Geräte in den Handel",
-          "satz": "Darunter sind die ersten MacBook Pro mit OLED-Touchscreen ab 2.899 Dollar sowie ein iPad mini mit OLED-Display.",
+          "titel": "Tesla stellt Cybertruck-Produktion in Texas ein",
+          "satz": "Ab Mitte 2027 soll das Werk mehr Cybercabs bauen; die US-Verkäufe des Pick-ups fielen 2025 um fast die Hälfte.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/mobilitaet/ausgecybert-tesla-stellt-produktion-des-cybertruck-in-texas-ein.100208/",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Apple beendet Produktoffensive mit HomeView und Apple TV",
+          "satz": "Smart-Home-Hub und neues Apple TV 4K erscheinen am 13. November, danach wird 2026 keine große Hardware mehr erwartet.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
-          "datum": "2026-11-05"
+          "url": "https://www.macrumors.com/2026/11/06/two-more-apple-products-next-week/",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "AMD meldet Rekordquartal dank Rechenzentren",
-          "satz": "Der Umsatz erreichte 13,4 Milliarden Dollar, während das Gaming-Geschäft wegen teurer Speicherchips um 40 Prozent einbrach.",
+          "titel": "Hackerangriff auf Onlinehändler Mindfactory",
+          "satz": "Adressen, E-Mails, Telefonnummern und verschlüsselte Passwörter könnten abgeflossen sein; Kunden müssen ein neues Passwort setzen.",
           "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/amd-erzielt-rekordquartal-datacenter-waechst-stark-gaming-umsatz-bricht-ein.100170/",
-          "datum": "2026-11-04"
+          "url": "https://computerbase.de/news/wirtschaft/hackerangriff-mindfactory-informiert-kunden-ueber-moeglichen-datendiebstahl.100215",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Sicherheitslücke in Microsoft Paint ohne verfügbares Update",
-          "satz": "Die mit 8,1 bewertete Lücke CVE-2026-83844 gilt als behoben, doch die fehlerfreie Paint-Version fehlt laut Bericht im Microsoft Store.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/paint-hacker-schadcode-pc-1771781/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Galaxy S27 soll mit drei verschiedenen Chips kommen",
-          "satz": "Laut Datenbank-Leak erhalten S27 und S27+ in Europa den Exynos 2700, Pro und Ultra Snapdragon-Prozessoren.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/smartphones/samsung-drei-verschiedene-prozessoren-fuer-die-galaxy-s27-serie.100176/",
-          "datum": "2026-11-04"
+          "titel": "iPhone soll 2027 die Aktionstaste verlieren",
+          "satz": "Laut einem Leaker übernimmt die Kamerasteuerung deren Funktion per langem Druck, beginnend mit den Jubiläums-iPhones.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "heise gesperrt, CHIP nicht erreichbar – Ersatz: ComputerBase, t3n."
+      "hinweis": "heise gesperrt, CHIP nicht abrufbar – Ersatz: ComputerBase"
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "OpenAI stellt Sicherheitslücken-Jäger GPT-6 Cyber vor",
-          "satz": "Das Modell fand laut OpenAI 81 unbekannte schwere Lücken in Firefox und ist vorerst nur ausgewählten Kunden zugänglich.",
+          "titel": "METR: Anthropic entwickelt KI fast doppelt so schnell",
+          "satz": "Nach elf Wochen Einblick führt METR rund 80 Prozent der Beschleunigung auf KI-gestützte Forschung zurück, kritisiert aber starke Schwärzungen.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/",
-          "datum": "2026-11-05"
+          "url": "https://the-decoder.de/elf-wochen-einblick-bei-anthropic-metr-sieht-signifikantes-risiko-fuer-noch-schnellere-ki-entwicklung/",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Anthropic-Prospekt: 156 Milliarden Dollar Verluste seit Gründung",
-          "satz": "Trotz 33,2 Milliarden Dollar Umsatz in neun Monaten nennt Anthropic vor dem Börsengang keinen Zeitpunkt für Profitabilität.",
+          "titel": "Tech-Ausverkauf gefährdet Anthropics Börsengang",
+          "satz": "Investoren halten 1,5 Billionen Dollar Bewertung für zu hoch und bezweifeln laut Reuters den Roadshow-Start nächste Woche.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/tech-ausverkauf-und-sinkende-bewertungen-bedrohen-anthropics-geplanten-boersengang/",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Widerstand gegen Rechenzentren prägt US-Zwischenwahlen",
+          "satz": "In 45 von 47 lokalen Abstimmungen setzten sich Gegner neuer Rechenzentren durch oder lagen vorn.",
           "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/vor-dem-boersengang-anthropics-schuldenberg-waechst-auf-156-milliarden-dollar.100160/",
-          "datum": "2026-11-03"
+          "url": "https://www.computerbase.de/news/netzpolitik/klatsche-fuer-big-tech-ki-widerstand-als-gewinnerthema-bei-den-midterm-wahlen.100184/",
+          "datum": "2026-11-05"
         },
         {
-          "titel": "Anthropic zahlt erstmals für Verlagsinhalte",
-          "satz": "Ein Lizenzdeal mit der Nachrichtenagentur AP ließ Claude in der Wahlnacht Echtzeitergebnisse mit Quellenangabe anzeigen.",
+          "titel": "Claude wird zum persönlichen Finanzassistenten",
+          "satz": "Die Beta für US-Abonnenten bindet Bankkonten über Plaid nur lesend an; Gespräche fließen laut Anthropic nicht ins Training.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "„Smart Reports“ zeigen Firmen die Claude-Nutzung ihrer Teams",
-          "satz": "Enterprise-Kunden können Kosten nach Arbeitsabläufen auswerten; laut Anthropic sind die Berichte nicht zur Bewertung Einzelner gedacht.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/",
-          "datum": "2026-11-05"
+          "url": "https://the-decoder.de/anthropic-baut-claude-zum-persoenlichen-finanzassistenten-aus/",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "heise gesperrt; keine neue Meldung im Anthropic-Newsroom seit 28.10. – Ersatz: The Decoder, ComputerBase, t3n."
+      "hinweis": "heise gesperrt; keine neue Meldung im Anthropic-Newsroom seit 28.10. – Ersatz: The Decoder (3 Meldungen, keine weitere Ersatzquelle mit passender Meldung abrufbar), ComputerBase"
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Eltern kämpfen um Schulmodell am Deutschnonsberg",
-          "satz": "In St. Felix besuchen Kinder aus dem Trentino die deutsche Schule; ein geplantes Mehrgenerationenhaus bedroht nun das Modell.",
+          "titel": "Südtirols Wirtschaft wächst nur um ein Prozent",
+          "satz": "Laut Banca d'Italia stützen Konsum und Tourismus das Wachstum, während die Exporte in die USA um 21 Prozent einbrachen.",
           "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/05112026/eltern-kaempfen-um-nonsberger-schulmodell",
-          "datum": "2026-11-05"
+          "url": "https://salto.bz/de/article/06112026/schwierige-gewaesser",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Betrunkener Eindringling legt Bozner Flughafen lahm",
-          "satz": "Der 26-Jährige schaltete in einem Dienstwagen das Blaulicht ein; der Antiterror-Plan wurde ausgelöst, der Flughafen öffnete erst um 8.50 Uhr.",
+          "titel": "Neue Unterstützung für einkommensschwache Senioren ab 2027",
+          "satz": "Haushalte mit über 65-Jährigen und ISEE unter 20.000 Euro erhalten je nach Lage 150 bis 350 Euro monatlich, auch ohne Rente.",
           "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/05/naechtlicher-eindringling-am-bozner-flughafen-loest-antiterror-protokoll-aus/",
-          "datum": "2026-11-05"
+          "url": "https://www.unsertirol24.com/2026/11/06/unterstuetzung-fuer-menschen-ueber-65-wird-neu-geregelt/",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Trentino-Südtirol wird Knoten der EU-KI-Allianz ELIAS",
-          "satz": "Mit unibz, NOI Techpark, Universität Trient und FBK gehört die Region nun zu 16 Innovationsknoten in neun Ländern.",
+          "titel": "Neue Zulagen und Sozialregeln für Landespersonal",
+          "satz": "Unter anderem sollen Bedienstete Urlaubstage an Kollegen mit pflegebedürftigen Kindern abtreten können; jährlich stehen bis zu 760.000 Euro bereit.",
           "quelle": "suedtirolnews.it",
-          "url": "https://www.suedtirolnews.it/wirtschaft/ki-oekosystem-in-trentino-suedtirol-wird-gestaerkt",
-          "datum": "2026-11-05"
+          "url": "https://www.suedtirolnews.it/politik/mehr-anerkennung-und-neue-soziale-regelungen-fuer-landespersonal",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Seilbahnsommer: 120.000 vergünstigte Tickets verkauft",
-          "satz": "Inhaber des Südtirolmobil-Passes erhielten an rund 70 Anlagen mindestens 30 Prozent Rabatt, erstmals per digitalem Gutschein.",
+          "titel": "Landesimmobilien fließen in Euregio+ Wert-Fonds",
+          "satz": "Invimit investiert 20 Millionen Euro; ob Gebäude am Siegesplatz und in Kaltern leistbarem Wohnen dienen, bleibt offen.",
           "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/05/seilbahnsommer-rund-120-000-verguenstigte-tickets-verkauft/",
-          "datum": "2026-11-05"
+          "url": "https://www.unsertirol24.com/2026/11/06/landesimmobilien-im-fonds-rendite-oder-leistbares-wohnen/",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "Rai Südtirol gesperrt, stol.it nicht lesbar – Ersatz: UnserTirol24, suedtirolnews.it."
+      "hinweis": "Rai Südtirol und stol.it gesperrt – Ersatz: UnserTirol24, suedtirolnews.it"
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "FC Bayern verlängert mit Harry Kane bis 2029",
-          "satz": "Der Weltfußballer nennt München und die Fans als Gründe; Sportvorstand Eberl erklärt die Champions League zum großen Ziel.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-vertrag-mit-harry-kane-verlaengert",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Paris: Alcaraz kampflos im Viertelfinale gegen Fritz",
-          "satz": "Berrettini zog verletzt zurück; Taylor Fritz besiegte Arthur Fils 6:3, 6:4 und hält seine Hoffnung auf die ATP Finals aufrecht.",
+          "titel": "Sinner trennt sich von Cahill, Norman übernimmt",
+          "satz": "Mit Cahill gewann Sinner fünf Grand-Slam-Titel; Norman stößt im Dezember dazu und arbeitet mit Vagnozzi zusammen.",
           "quelle": "tennisnet.com",
-          "url": "https://www.tennisnet.com/news/paris-masters-taylor-fritz-siegt-und-haelt-hoffnungen-fuer-turin-aufrecht",
-          "datum": "2026-11-05"
+          "url": "https://www.tennisnet.com/news/offiziell-jannik-sinner-verabschiedet-darren-cahill-magnus-norman-folgt",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Struff scheidet in Paris gegen Ruud aus",
-          "satz": "Der letzte Deutsche im Einzel verlor das Achtelfinale nach gut einer Stunde mit 3:6, 3:6.",
-          "quelle": "tennisnet.com",
-          "url": "https://tennisnet.com/news/paris-masters-ruud-zu-stark-fuer-jan-lennard-struff",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Bayerns Scouting-Chef Schmadtke wehrt sich gegen Vorwürfe",
-          "satz": "Er bestreitet, vertrauliche Informationen an Medien weitergegeben zu haben; sein Vertrag endet am 31. Januar 2027.",
+          "titel": "Kompany-Rückkehr beim FC Bayern weiter offen",
+          "satz": "Der Trainer erholt sich von einer Hirnhautreizung; beim Spiel in Mainz am Samstag fehlen weiter Díaz, Gnabry, Saibari und Musiala.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/aus-beim-fc-bayern-scouting-chef-nils-schmadtke-verteidigt-sich",
-          "datum": "2026-11-05"
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-kompany-rueckkehr-weiter-offen",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Musiala wieder im Bayern-Mannschaftstraining",
+          "satz": "Sechs Wochen nach seinem Muskelfaserriss soll er nach der Länderspielpause voll integriert sein, ein Termin steht nicht fest.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/gute-nachrichten-bei-jamal-musiala-so-steht-es-um-star-des-fc-bayern",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Shelton erreicht als Erster das Halbfinale in Paris",
+          "satz": "Der Weltranglisten-Vierte besiegte Landsmann Tommy Paul nach 1:45 Stunden mit 6:4, 4:6, 6:3.",
+          "quelle": "tennisnet.com",
+          "url": "https://www.tennisnet.com/news/atp-masters-paris-ben-shelton-bucht-das-halbfinalticket",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "Keine aktuelle Ski-alpin-Meldung (≤24 h) – Ersatz: tennisnet.com."
+      "hinweis": "Ersatz: tennisnet.com – keine Ski-alpin-Meldung der letzten 24 Stunden"
     }
   }
 }
