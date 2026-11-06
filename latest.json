@@ -1,85 +1,121 @@
 {
-  "issue": 31,
-  "date": "Donnerstag, 5. November 2026",
-  "updated": "2026-11-05T06:51:28+01:00",
+  "issue": 32,
+  "date": "Freitag, 6. November 2026",
+  "updated": "2026-11-06T06:51:12+01:00",
   "items": [
     {
       "block": "Notizie fiscali",
-      "kicker": "FISCO · REDDITO D'IMPRESA",
-      "title": "Riporto delle perdite: il cambio di controllo conta anche a monte",
-      "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/riporto-perdite-post-correttivo-omnibus-linterpretazione-autentica-ridisegna-il-perimetro-dellart-84-tuir/"
+      "kicker": "RISCOSSIONE · COMPENSAZIONI",
+      "title": "Compensazioni F24: dal 2027 blocco già oltre 30.000 euro di ruoli",
+      "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/05/compensazioni-f24-dal-2027-scatta-la-stretta-sopra-30.000-euro-di-debiti"
     },
     {
       "block": "Wirtschaftsnews",
-      "kicker": "INVESTITIONEN · ITALIEN",
-      "title": "Rechenzentren bündeln fast 27 Milliarden Euro Investitionen in Italien",
-      "url": "https://en.ilsole24ore.com/art/amazon-openai-data-centre-construction-site-investment-27-billion-italia-AJVmAh4B"
+      "kicker": "INSOLVENZEN · ITALIEN",
+      "title": "Gerichtliche Liquidationen in Italien steigen im dritten Quartal kräftig",
+      "url": "https://en.ilsole24ore.com/art/business-crisis-compulsory-liquidations-136-per-cent-increase-in-the-third-quarter-AJrtak4B"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "ANTHROPIC · FORSCHUNG",
+      "title": "Anthropic-Studie: Wofür Forschende Claude tatsächlich einsetzen",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "FISCO · RISERVE",
-      "title": "Affrancamento straordinario delle riserve anche per la sas beneficiaria",
-      "url": "https://www.eutekne.info/Sezioni/Art_1130345_affrancamento_straordinario_per_le_riserve_alla_beneficiaria_societa.aspx"
+      "kicker": "DICHIARAZIONI · RAVVEDIMENTO",
+      "title": "Redditi 2026 dopo il 2 novembre: tardiva entro il 1° febbraio",
+      "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/dichiarazioni-dopo-il-2-novembre-tardiva-integrativa-e-ravvedimento/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "LAVORO · WELFARE",
-      "title": "Fringe benefit per chi lavora la domenica: esenzione possibile",
-      "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/welfare-aziendale-e-lavoro-domenicale-i-fringe-benefit-possono-beneficiare-dellesenzione-fiscale-e-contributiva/"
+      "kicker": "CONCORDATO PREVENTIVO · RAVVEDIMENTO",
+      "title": "Ravvedimento speciale CPB: pagamento dal 1° gennaio al 15 marzo 2027",
+      "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/istituti-deflattivi/ravvedimento-speciale-legato-al-rinnovo-del-cpb-2026-2027-modalita-e-termini-per-lesercizio-dellopzione/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "PENALE TRIBUTARIO · OCCULTAMENTO",
-      "title": "Fattura trovata presso il cliente: può configurarsi l'occultamento",
-      "url": "https://www.eutekne.info/Sezioni/Art_1130326_occultamento_con_fatture_rinvenute_presso_il_cliente.aspx"
+      "kicker": "DIRITTO · SOCIETÀ",
+      "title": "Legge Capitali: nuove regole su compiti e responsabilità degli amministratori",
+      "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/governance-societaria-i-nuovi-confini-di-ruoli-compiti-e-responsabilita-degli-amministratori-post-decreto-di-attuazione-della-legge-capitali/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "CRISI D'IMPRESA · LIQUIDAZIONE",
-      "title": "Liquidazione controllata: le istruzioni della circolare 9/E agli uffici",
-      "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/liquidazione-controllata-indicazioni-della-circolare-n-9-e-dellagenzia-delle-entrate/"
+      "kicker": "IVA · GIURISPRUDENZA UE",
+      "title": "Attrezzature in uso gratuito al fornitore: nessuna prestazione assimilata",
+      "url": "https://ntplusfisco.ilsole24ore.com/art/iva-macchinari-uso-gratuito-un-fornitore-non-c-e-prestazione-servizi-assimilata-AJNnoy4B"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "DIRITTO · ALTO ADIGE",
-      "title": "Case green: il TRGA di Bolzano boccia le regole provinciali anticipate",
-      "url": "https://www.ecnews.it/legale/diritto-civile/diritti-reali-e-condominio/direttiva-case-green-il-trga-bolzano-richiama-il-principio-di-gradualita/"
+      "kicker": "AGEVOLAZIONI · AGRICOLTURA",
+      "title": "Credito carburante per imprese agricole: codice tributo 7081",
+      "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/agevolazioni/acquisto-carburanti-imprese-agricole-istituito-il-codice-tributo-per-utilizzare-in-compensazione-il-credito-dimposta/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "CRISI D'IMPRESA · REVOCATORIA",
-      "title": "Anche il mutuo è revocabile nel fallimento",
-      "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/mutuo-e-revocatoria-fallimentare-la-cassazione-ne-ammette-la-revocabilita/"
+      "kicker": "DIRITTO · SOCIETÀ DI PERSONE",
+      "title": "Socio receduto e liquidazione: l'avviamento non si azzera automaticamente",
+      "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/recesso-del-socio-successiva-liquidazione-della-societa-e-avviamento/"
     },
     {
       "block": "Notizie fiscali",
-      "kicker": "PROFESSIONE · BILANCI",
-      "title": "Deposito dei bilanci: i commercialisti contro l'apertura ai consulenti del lavoro",
-      "url": "https://www.eutekne.info/Sezioni/Art_1130353_sul_deposito_dei_bilanci_i_commercialisti_confermano_la_contrarieta.aspx"
-    },
-    {
-      "block": "Wirtschaftsnews",
-      "kicker": "INDUSTRIE · ITALIEN",
-      "title": "Electrolux-Einigung halbiert fast den Stellenabbau in Italien",
-      "url": "https://en.ilsole24ore.com/art/electrolux-reaches-agreement-with-mimit-on-new-plan-for-100-million-in-investment-AJuF663B"
+      "kicker": "DIRITTO · BANCHE",
+      "title": "Mutuo senza TAN espresso: la clausola sugli interessi non è nulla",
+      "url": "https://www.ecnews.it/legale/diritto-civile/diritto-bancario/mutuo-bancario-omessa-indicazione-del-tan-e-determinatezza-del-tasso-variabile/"
     },
     {
       "block": "Wirtschaftsnews",
       "kicker": "HAUSHALT · ITALIEN",
-      "title": "Fratelli d'Italia plant per Haushaltsgesetz eine neue Bauamnestie",
-      "url": "https://en.ilsole24ore.com/art/budget-bill-foreign-direct-investment-labour-amendment-reopening-of-the-building-amnesty-in-campania-AJIC5e3B"
+      "title": "Drei Vorschriften fliegen aus dem Haushaltsentwurf 2027",
+      "url": "https://en.ilsole24ore.com/art/budget-measures-digital-ledger-write-offs-and-detailed-healthcare-receipts-AJz0qY4B"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "FINANZIERUNG · ITALIEN",
+      "title": "CDP stellt Lombardeis Wirtschaft fast 18 Milliarden Euro bereit",
+      "url": "https://en.ilsole24ore.com/art/cdp-to-provide-178-billion-for-lombardys-productive-sector-AJHoGa4B"
+    },
+    {
+      "block": "Wirtschaftsnews",
+      "kicker": "ARBEITSMARKT · DEUTSCHLAND",
+      "title": "Bund muss Arbeitsagentur 2026 mit neun Milliarden Euro stützen",
+      "url": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-bund-muss-arbeitsagentur-mit-neun-milliarden-euro-aushelfen/100267605.html"
     },
     {
       "block": "Wirtschaftsnews",
       "kicker": "AUTOINDUSTRIE · DEUTSCHLAND",
-      "title": "BMW-Gewinn bricht in neun Monaten um gut ein Drittel ein",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-gewinn-des-autobauers-bricht-um-mehr-als-ein-drittel-ein/100265068.html"
+      "title": "E-Auto-Prämie lockt Kunden vor allem zu chinesischen Marken",
+      "url": "https://www.wiwo.de/unternehmen/auto/e-auto-praemie-vw-opel-und-mercedes-verlieren-kunden-an-china/100267341.html"
     },
     {
-      "block": "Wirtschaftsnews",
-      "kicker": "EU · AUTOINDUSTRIE",
-      "title": "EU-Umweltausschuss stimmt für Lockerung des Verbrenner-Aus",
-      "url": "https://www.wiwo.de/unternehmen/verkehr-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus/100267342.html"
+      "block": "KI-News",
+      "kicker": "ANTHROPIC · BIOLOGIE",
+      "title": "Claude hilft bei erster Struktur eines bakteriellen Vault-Partikels",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "SICHERHEIT · OPENAI",
+      "title": "OpenAI bringt eigenes Cybersicherheitsmodell für Schwachstellenjäger",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "PRODUKTE · FINANZEN",
+      "title": "Claude analysiert mit neuem Finanz-Tool private Ausgaben",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+      "block": "KI-News",
+      "kicker": "MARKT · KOSTEN",
+      "title": "Apple kürzt die KI-Budgets seiner Teams",
+      "url": "https://t3n.de/news/modelmaxxing-so-stark-kuerzt-apple-jetzt-die-ki-budgets-seiner-teams-1771796/"
+    },
+    {
+      "block": "Box",
+      "kicker": "CLAUDE-TIPP FÜR FORTGESCHRITTENE",
+      "title": "Lange Unterlagen prüfen: Dokumente taggen, Frage ans Ende, erst zitieren lassen",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices"
     }
   ]
 }
