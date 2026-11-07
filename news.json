@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T06:01:43+01:00",
+  "updated": "2026-11-07T18:47:48+01:00",
   "zitat": {
     "text": "Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer.",
     "original": "Non quia difficilia sunt non audemus, sed quia non audemus difficilia sunt.",
@@ -13,8 +13,8 @@
     "norm": "Art. 6 DPR 633/1972",
     "gesetz": "DPR 633/1972 – Istituzione e disciplina dell'imposta sul valore aggiunto",
     "titel": "Effettuazione delle operazioni",
-    "auszug": "Le cessioni di beni si considerano effettuate nel momento della stipulazione se riguardano beni immobili e nel momento della consegna o spedizione se riguardano beni mobili. […] Se anteriormente […] sia emessa fattura, o sia pagato in tutto o in parte il corrispettivo, l'operazione si considera effettuata, limitatamente all'importo fatturato o pagato, alla data della fattura o a quella del pagamento.",
-    "erklaerung": "Regelt den Zeitpunkt der Leistungsausführung (momento di effettuazione): Immobilien bei Vertragsabschluss (stipulazione), bewegliche Güter bei Übergabe oder Versendung (consegna o spedizione). Praxisrelevant: Wird vorher eine Rechnung ausgestellt oder (an)gezahlt, gilt die Leistung insoweit bereits zu diesem Datum als ausgeführt. Ab 1.1.2027 gilt der neue Testo unico IVA (D.Lgs. 10/2026).",
+    "auszug": "Le cessioni di beni si considerano effettuate nel momento della stipulazione se riguardano beni immobili e nel momento della consegna o spedizione se riguardano beni mobili. […]",
+    "erklaerung": "Regelt den Zeitpunkt der Leistung (momento di effettuazione): Immobilien bei Vertragsabschluss (stipulazione), bewegliche Güter bei Übergabe oder Versendung. Wird vorher fakturiert oder (an)gezahlt, gilt die Leistung insoweit dann als ausgeführt. Ab 1.1.2027 gilt der Testo unico IVA.",
     "url": "https://brocardi.it/testo-unico-iva/titolo-i/art6.html",
     "stand": "2026-08-12",
     "datum": "2026-11-07"
@@ -22,7 +22,7 @@
   "wissen": {
     "quelle": "scinexx",
     "titel": "Formte der junge Mond die frühe Erdkruste?",
-    "zusammenfassung": "Kurz nach der Mondentstehung dauerte ein Erdtag womöglich nur 2,3 bis 5 Stunden. Ein Modell des Bristoler Geophysikers Simon Lock zeigt: Als die Gezeiten die Rotation bremsten, wurde die Kruste an den Polen gedehnt und am Äquator gestaucht. Das könnte erste Krustenbewegungen und die frühe Gesteinsvielfalt miterklären.",
+    "zusammenfassung": "Kurz nach der Mondentstehung dauerte ein Erdtag womöglich nur 2,3 bis 5 Stunden. Laut einem Modell von Simon Lock dehnte das Abbremsen durch Gezeiten die Kruste an den Polen – vielleicht ein Auslöser früher Krustenbewegungen.",
     "url": "https://www.scinexx.de/news/geowissen/verlangsamte-rotation-hat-der-nahe-mond-die-junge-erdkruste-verformt/",
     "datum": "2026-11-05"
   },
@@ -32,33 +32,33 @@
     "lat": -25.345,
     "lon": 131.03611,
     "zoom": 8,
-    "beschreibung": "Der Felsen aus rötlicher Arkose ragt etwa 350 Meter über sein Umland im Northern Territory; am Fuß misst er rund neun Kilometer Umfang. Für die Anangu ist er heilig, seit Oktober 2019 ist die Besteigung verboten. Sein Nationalpark zählt zum UNESCO-Welterbe.",
+    "beschreibung": "Der heilige Felsen der Anangu ragt rund 350 Meter über das Umland; seit 2019 ist die Besteigung verboten, der Nationalpark ist Welterbe.",
     "url": "https://de.wikipedia.org/wiki/Uluru",
     "datum": "2026-11-07"
   },
   "fakten": [
     {
       "thema": "Bevölkerung",
-      "text": "Die EU zählte am 1. Januar 2026 rund 452,0 Millionen Einwohner, 706.000 mehr als ein Jahr zuvor.",
+      "text": "Die EU zählte am 1. Januar 2026 rund 452,0 Millionen Einwohner, 706.000 mehr als 2025.",
       "quelle": "Eurostat",
       "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260710-3"
     },
     {
       "thema": "Wirtschaft",
-      "text": "Südtirol verzeichnete im September 2026 rund 4,21 Millionen Übernachtungen, 8,4 Prozent mehr als im September 2025 (vorläufige Daten).",
+      "text": "Südtirol hatte im September 2026 rund 4,21 Millionen Übernachtungen, 8,4 Prozent mehr als 2025.",
       "quelle": "ASTAT",
       "url": "https://astat.provinz.bz.it/de/publikationen/tourismus-september-2026"
     },
     {
       "thema": "Klima",
-      "text": "Der Oktober 2026 war mit 1,75 °C über vorindustriellem Niveau weltweit der wärmste Oktober seit Beginn der Aufzeichnungen.",
+      "text": "Der Oktober 2026 war mit 1,75 °C über vorindustriellem Niveau der weltweit wärmste Oktober.",
       "quelle": "Copernicus/C3S",
       "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
     }
   ],
   "wiki": {
     "titel": "Lise Meitner",
-    "zusammenfassung": "Lise Meitner wurde am 7. November 1878 in Wien geboren und promovierte 1906 als zweite Frau in Physik an der Universität Wien. Ab 1907 forschte sie rund 30 Jahre in Berlin mit Otto Hahn. 1938 musste sie über die Niederlande und Dänemark nach Stockholm fliehen und lieferte 1939 mit Otto Frisch die erste physikalische Deutung der Kernspaltung. Den Nobelpreis erhielt nur Hahn; 1997 wurde das Element Meitnerium nach ihr benannt.",
+    "zusammenfassung": "Die 1878 in Wien geborene Physikerin forschte rund 30 Jahre in Berlin mit Otto Hahn. 1938 floh sie nach Stockholm und lieferte 1939 mit Otto Frisch die erste physikalische Deutung der Kernspaltung; den Nobelpreis erhielt nur Hahn.",
     "url": "https://de.wikipedia.org/wiki/Lise_Meitner",
     "datum": "2026-11-07"
   },
@@ -86,246 +86,246 @@
     "fotograf": "Berthold Werner",
     "lizenz": "CC BY-SA 3.0",
     "datum": "2026-11-07",
-    "kurz": "Castel del Monte"
+    "kurz": "Kastell Apulien"
   },
   "themen": {
     "politik": {
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Paraguay, migliaia in piazza contro il presidente Peña",
-          "satz": "Le proteste sono scoppiate dopo il crac della Ueno Bank, in seguito al quale Peña ha rassegnato le dimissioni.",
+          "titel": "Abu Dhabi, colloqui tra Ucraina, Russia e Usa",
+          "satz": "La Germania non fornirà altri Patriot a Kiev, mentre Mosca lancia 36 missili balistici e 172 droni.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/mondo/paraguay-rivolta-migliaia-strada-contro-presidente/AJekrE7B",
-          "datum": "2026-11-06"
+          "url": "https://en.ilsole24ore.com/art/ukraine-missile-strikes-on-kyiv-hit-energy-infrastructure-zelenskyy-says-moscow-is-preparing-for-negotiations-in-this-way-AJ6tmO8B",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Nach Wahldebakel: US-Verteidigungsminister Hegseth unter Druck",
-          "satz": "Ein Republikaner kündigte ein Amtsenthebungsverfahren an, doch Trump stellt sich hinter ihn und das Weiße Haus schließt einen Rücktritt aus.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447376/",
-          "datum": "2026-11-06"
+          "titel": "Paraguay: Senat setzt Peña ab, Ex-Präsident verhaftet",
+          "satz": "Nachfolger ist Vizepräsident Pedro Alliana; Peña wird die Verantwortung für die Krise der Ueno Bank angelastet.",
+          "quelle": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/paraguay-arrestato-lex-presidente-pena-per-il-caso-ueno-bank_2c34c06b-3361-4145-a093-29a0dd046ae4.html",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Russland greift erneut ukrainische Energieanlagen an",
-          "satz": "Laut ukrainischen Angaben traf ein Luftangriff ein Kraftwerk bei Sumy; Moskau meldet zudem Angriffe nahe Kiew und auf ein Frachtschiff in Odessa.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447373/",
-          "datum": "2026-11-06"
+          "titel": "USA greifen iranische Insel Qeshm in Hormus an",
+          "satz": "Teheran nennt seine Armee stärker als zu Kriegsbeginn, während Katar zwischen beiden Seiten vermittelt.",
+          "quelle": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/liran-esercito-piu-forte-dallinizio-della-guerra.-attacco-rapido-usa_d3eb6266-aaec-4271-9d11-336fd196698b.html",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Cisgiordania, coloni occupano otto edifici a Gerico",
-          "satz": "Secondo l'ong israeliana Peace Now i palestinesi sono stati cacciati di notte dalle case nel villaggio di Ein ad-Duyuk at-Tahta.",
+          "titel": "Cracovia, spari dall'auto sulla folla: cinque morti",
+          "satz": "Dodici i feriti nella piazza del mercato; il presunto autore è stato arrestato, Tusk segue le indagini.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/gallery/mondo/guerra-medio-oriente--6-novembre-2026/AJGqYy6B",
-          "datum": "2026-11-06"
+          "url": "https://stream24.ilsole24ore.com/video/mondo/polonia-spari-auto-folla-cracovia-almeno-5-morti/AJaRnb8B",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Spiegel, NZZ und ilsole24ore.com nicht abrufbar; Il-Sole-Belege über stream24.ilsole24ore.com; Ersatzquelle: ORF."
+      "hinweis": "Spiegel, ilsole24ore.com (Rubrik und Artikel der ital. Ausgabe) und tagesschau.de nicht abrufbar; NZZ, SZ, Economist nicht versucht (bekannt gesperrt). Il Sole über en.ilsole24ore.com (engl. Ausgabe desselben Artikels) und stream24 gelesen. Ersatzquelle: ANSA. Paraguay: echte Neuigkeit (Absetzung und Festnahme Peñas)."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Decreto bollette, il governo rinvia ancora il via libera",
-          "satz": "Il Consiglio dei ministri ha rinviato l'esame del testo contro il caro energia per famiglie e imprese, possibile lunedì 9 novembre.",
+          "titel": "Manovra 2027, la Cisl chiede correzioni sulle pensioni",
+          "satz": "Fumarola vuole tutelare la rivalutazione delle pensioni e critica la flat tax come contraria alla progressività fiscale.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/economia/decreto-bollette-slitta-ancora-approvazione/AJuOwo7B",
-          "datum": "2026-11-06"
+          "url": "https://stream24.ilsole24ore.com/video/economia/manovra-fumarola-pensionati-non-sono-bancomat-correggere-intervento/AJ3WtR8B",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "US-Arbeitsmarkt schafft im Oktober deutlich mehr Stellen",
-          "satz": "Mit 165.000 neuen Jobs übertraf der Zuwachs die Erwartung von 65.000 klar, die Arbeitslosenquote sank auf 4,1 Prozent.",
-          "quelle": "Handelsblatt",
-          "url": "https://handelsblatt.com/politik/international/konjunktur-us-arbeitsmarkt-waechst-ueberraschend-stark/100267936.html",
-          "datum": "2026-11-06"
-        },
-        {
-          "titel": "EU-Gasspeicher leeren sich wegen Kälte schneller",
-          "satz": "Binnen drei Tagen sank der Füllstand auf 73,75 Prozent; Italien liegt mit gut 90 Prozent europaweit an der Spitze.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/prosegue-lerosione-delle-scorte-di-gas-in-3-giorni-lue-perde-quasi-l1_e439b8df-5cd8-4df1-8d23-020ae66462e8.html",
-          "datum": "2026-11-06"
-        },
-        {
-          "titel": "Caro vita, quattro italiani su dieci tagliano i viaggi",
-          "satz": "Secondo un sondaggio Confesercenti-Ipsos il 93% ha già cambiato abitudini di consumo, con rischi per turismo e ristorazione.",
+          "titel": "Merci su rotaia in calo, imprese chiedono aiuti",
+          "satz": "Nel primo semestre 2026 il traffico è sceso dell'8,1 per cento; il settore chiede sostegni stabili in manovra.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/economia/caro-vita-4-italiani-10-tagliano-spesa-i-viaggi/AJ5aoj7B",
+          "url": "https://stream24.ilsole24ore.com/video/italia/mercintreno-allarme-imprese-urgono-misure-stabili/AJwkMI8B",
+          "datum": "2026-11-07"
+        },
+        {
+          "titel": "Microsoft beendet KI-Cloud-Vertrag mit Oracle",
+          "satz": "Laut Bloomberg genügt Oracles Hardware mit älteren Nvidia-Chips den Anforderungen von Microsoft nicht mehr.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3447470/",
           "datum": "2026-11-06"
+        },
+        {
+          "titel": "Ex Ilva, Cisl chiede futuro per acciaio verde",
+          "satz": "A Genova Fumarola ha chiesto al governo una prospettiva solida per tutti gli stabilimenti dell'ex Ilva.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/economia/ex-ilva-fumarola-governo-dia-prospettiva-solida-l-acciaio-verde/AJZ8HL8B",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Süddeutsche, NZZ und ilsole24ore.com nicht abrufbar; Il-Sole-Belege über stream24.ilsole24ore.com; Ersatzquellen: Handelsblatt, ANSA."
+      "hinweis": "NZZ und ilsole24ore.com (Rubrikseite) nicht abrufbar, tagesschau.de gesperrt; Economist/WSJ/Süddeutsche nicht versucht (erfahrungsgemäß gesperrt). Il-Sole-Meldungen über stream24.ilsole24ore.com, Ersatzquelle ORF."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "NASA-Teleskop Swift über Indonesien abgestürzt",
-          "satz": "Das Gammastrahlen-Observatorium war 2004 gestartet und für zwei Jahre ausgelegt; eine Rettungsmission mit Roboterschlepper scheiterte im August.",
-          "quelle": "Spektrum.de",
-          "url": "https://www.spektrum.de/news/das-ende-einer-aera-nasa-bestaetigt-absturz-von-swift/2352838",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Skythen nutzten Cannabis schon vor 2800 Jahren",
-          "satz": "In einem Grabhügel in Südsibirien fanden Forschende über 1400 Hanfsamen und im Haar einen THC-Abbaustoff, berichtet eine Studie in „Science“.",
+          "titel": "Erderwärmung überschreitet 2026 fast sicher 1,5 Grad",
+          "satz": "Laut Copernicus war der Oktober mit 1,75 Grad über vorindustriellem Niveau der weltweit wärmste seit Messbeginn.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238076",
+          "url": "https://science.orf.at/stories/3238087/",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Ozonloch über der Antarktis 2026 ungewöhnlich groß",
-          "satz": "Ein starker Polarwirbel ließ es am 18. September auf 27,1 Millionen Quadratkilometer wachsen; Erholung wird erst in den 2070ern erwartet.",
+          "titel": "Die extremsten Hitzewellen stehen uns noch bevor",
+          "satz": "Simulationen der FU Berlin zeigen, dass Hitzeperioden selbst bei weniger Emissionen regional länger und heftiger werden könnten.",
           "quelle": "scinexx.de",
-          "url": "https://www.scinexx.de/news/geowissen/starker-polarwirbel-sorgt-2026-fuer-ein-ungewoehnlich-grosses-ozonloch/",
-          "datum": "2026-11-05"
+          "url": "https://www.scinexx.de/news/geowissen/die-extremsten-hitzewellen-liegen-noch-vor-uns/",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Covid-Impfstoffe brachten der Gesellschaft Billionen-Nutzen",
-          "satz": "Laut einer Modellstudie über 173 Länder standen 79,4 Milliarden Dollar Kosten ein Nutzen von bis zu 64,3 Billionen Dollar gegenüber.",
+          "titel": "Mars könnte noch vulkanisch aktiv sein",
+          "satz": "Chlorwasserstoff in der Atmosphäre und lange Risse bei Alba Mons deuten auf eine schlafende Magmakammer hin.",
+          "quelle": "ORF",
+          "url": "https://science.orf.at/stories/3238004/",
+          "datum": "2026-11-04"
+        },
+        {
+          "titel": "Urzeitliche Riesenratte in Thailand entdeckt",
+          "satz": "Zwei 35 Millionen Jahre alte Zähne belegen die neue Nagetierart Yakamys sirindhornae mit vermutlich rund 30 Kilo Gewicht.",
           "quelle": "scinexx.de",
-          "url": "https://www.scinexx.de/news/gesellschaft/covid-19-impfstoffe-brachten-bis-zu-643-billionen-dollar-gesellschaftlichen-nutzen/",
+          "url": "https://www.scinexx.de/news/biowissen/35-millionen-jahre-alte-praehistorische-riesenratte-in-thailand-entdeckt/",
           "datum": "2026-11-05"
         }
       ],
-      "hinweis": "NZZ, Süddeutsche und Spiegel nicht abrufbar, heise gesperrt; Ersatz: Spektrum.de, science.orf.at, scinexx.de."
+      "hinweis": "Hauptquellen NZZ, heise, Süddeutsche und Spiegel per WebFetch gesperrt; tagesschau.de, Deutschlandfunk und Spektrum.de ebenfalls nicht abrufbar bzw. ohne frische Meldung. Verwendet: science.ORF.at und scinexx.de."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Apple bringt Touch-MacBook-Pro mit OLED in den Handel",
-          "satz": "Seit Freitag sind auch das OLED-iPad-mini und der iMac mit M6 erhältlich; das 14-Zoll-Touch-Modell kostet in den USA ab 2.899 Dollar.",
+          "titel": "Tesla beendet Cybertruck-Produktion in Texas",
+          "satz": "Bis Mitte 2027 läuft der Pick-up aus, damit das Werk mehr Cybercabs bauen kann.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/mobilitaet/ausgecybert-tesla-stellt-produktion-des-cybertruck-in-texas-ein.100208/",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Apple bringt HomeView und neues Apple TV",
+          "satz": "Smart-Home-Zentrale mit 7-Zoll-Display und Apple TV 4K mit A19-Chip erscheinen am 13. November.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/06/ipad-mini-oled-and-m6-imac-available-today/",
+          "url": "https://www.macrumors.com/2026/11/06/two-more-apple-products-next-week/",
           "datum": "2026-11-06"
         },
         {
-          "titel": "1,3 Millionen Android-Geräte ab Werk mit Hintertür verseucht",
-          "satz": "Google beendet die Partnerschaft mit dem Hersteller Videostrong; ein Werksreset hilft wohl nicht, betroffene Geräte sollten vom Netz.",
+          "titel": "Statt Windows 12 kommt großes Update 27H2",
+          "satz": "Laut The Verge soll Windows 11 im Herbst 2027 eine neue technische Basis mit Fokus auf Leistung erhalten.",
           "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/apps/android-tv-1-3-millionen-geraete-ab-werk-verseucht.100157/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Switch-2-Verkäufe brechen nach Preiserhöhung ein",
-          "satz": "Nintendo verkaufte im ersten Geschäftshalbjahr 6,49 Millionen Konsolen, 37 Prozent weniger; dank starker Software stieg der Nettogewinn dennoch um elf Prozent.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/gaming/nintendo-switch-2-verkauft-sich-fast-40-prozent-schlechter.100190/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Digitaler Führerschein soll bis Ende November kommen",
-          "satz": "Er läuft über die kostenlose i-Kfz-App, ergänzt die Plastikkarte und erfordert Online-Ausweis sowie NFC-fähiges Smartphone; ein fester Termin fehlt.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/einfuehrung-des-digitalen-fuehrerscheins-das-muessen-autofahrer-jetzt-wissen-1771282/",
+          "url": "https://www.computerbase.de/news/betriebssysteme/statt-windows-12-microsoft-plant-grosses-27h2-update.100198/",
           "datum": "2026-11-06"
+        },
+        {
+          "titel": "Apple meldet Rekord bei Mac-Verkäufen",
+          "satz": "Laut Chef John Ternus verkaufte Apple im Geschäftsjahr 2026 so viele Macs wie nie, trotz Lieferengpässen.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/05/apple-announces-a-new-mac-sales-record/",
+          "datum": "2026-11-05"
         }
       ],
-      "hinweis": "heise und CHIP gesperrt bzw. nicht erreichbar; Ersatz: ComputerBase, t3n."
+      "hinweis": "heise (robots-gesperrt) und CHIP nicht abrufbar; golem.de nur Cookie-Seite; Ersatzquelle ComputerBase verwendet, dazu Hauptquelle MacRumors."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "OpenAI stellt Lückenjäger-Modell GPT-6 Cyber vor",
-          "satz": "Laut OpenAI fand es 81 unbekannte Firefox-Lücken; Zugang haben vorerst nur ausgewählte Organisationen, Kritiker warnen vor steigenden Angriffsrisiken.",
+          "titel": "METR: Anthropic-KI beschleunigt eigene Forschung",
+          "satz": "Modelle verbessern sich seit Oktober 2025 fast doppelt so schnell, rund 80 Prozent davon dank KI-gestützter Forschung.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/elf-wochen-einblick-bei-anthropic-metr-sieht-signifikantes-risiko-fuer-noch-schnellere-ki-entwicklung/",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "OpenAI sammelt 11 Milliarden Dollar ein",
+          "satz": "Die erste Tranche bewertet OpenAI mit 1,25 Billionen Dollar; ursprünglich waren 30 Milliarden angepeilt.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/openai-sammelt-nur-11-milliarden-dollar-ein-und-muss-dafuer-schon-privatanleger-anwerben/",
+          "datum": "2026-11-07"
+        },
+        {
+          "titel": "OpenAI-Agenten schließen 948 Lücken im Linux-Kernel",
+          "satz": "Der Prototyp fand Wege zu Root-Rechten und schrieb gleich die Patches, für unter 1.300 Dollar pro Lücke.",
           "quelle": "t3n",
-          "url": "https://t3n.de/news/openai-will-mit-gpt-6-cyber-das-aufspueren-von-sicherheitsluecken-erleichtern-doch-es-gibt-auch-kritik-1772107",
+          "url": "https://t3n.de/news/openai-ki-agenten-finden-und-schliessen-948-luecken-im-linux-kernel-1772170/",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Anthropic-Studie zeigt, wie Forschende Claude nutzen",
-          "satz": "Ausgewertet wurden über 207.000 Sitzungen; Datenanalyse und Schreiben dominieren, rund 40 Prozent der Befragten erwarten autonome KI-Forschung bis 2030.",
-          "quelle": "Anthropic",
-          "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Murati-Startup bringt starkes Modell Inkling 2 Small",
-          "satz": "Das Modell von Thinking Machines erreicht etwa Googles Gemini 3.8 Flash; die Gewichte sollen nach Sicherheitstests unter Apache-2.0-Lizenz folgen.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/inkling-2-small-soll-das-staerkste-westliche-open-weight-modell-sein-und-erreicht-googles-gemini-3-8-flash/",
+          "titel": "Texas-Wahl gefährdet Boom der KI-Rechenzentren",
+          "satz": "Siegreiche Demokraten machten Rechenzentren zum Wahlkampfthema; der Ausbau im größten Wachstumsmarkt könnte stocken.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/rechenzentren-nach-den-midterms-warum-das-ende-des-ausbau-booms-droht-1771894/",
           "datum": "2026-11-06"
-        },
-        {
-          "titel": "Neuer Benchmark: KI-Agenten scheitern meist an echter Arbeit",
-          "satz": "Im GDPx-Test von SemiAnalysis mit 206 Aufgaben schafft kein Modell mehr als 12 Prozent; Claude Opus 5.5 liegt knapp vorn.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/chipdesign-quant-trading-cyberangriffe-neuer-benchmark-soll-zeigen-wie-wenig-ki-agenten-in-echten-arbeitsumgebungen-leisten/",
-          "datum": "2026-11-05"
         }
       ],
-      "hinweis": "heise gesperrt; Anthropic-Newsroom ohne neue Meldung seit 28.10., daher Forschungsbeitrag von anthropic.com/research; Ersatz: t3n, The Decoder."
+      "hinweis": "heise nicht abrufbar (Freigabe nicht erteilt); anthropic.com/news erreichbar, aber keine Meldung seit 2026-10-31 (neueste 28.10.). Ersatzquellen: The Decoder, t3n (golem nur Cookie-Seite)."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Hacker griffen auf Daten der Brennerbasistunnel-Gesellschaft zu",
-          "satz": "Die Gruppe „Everest“ reklamiert den Angriff von Mitte Oktober für sich; betroffene Daten und mögliche Lösegeldforderungen bleiben unklar.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/06/hackerangriff-auf-brennerbasistunnel-datenzugriff-bestaetigt-viele-fragen-offen/",
+          "titel": "Region erhöht Rentenbeiträge für Eltern und Pflegende",
+          "satz": "Pflegende Angehörige erhalten künftig bis 10.000 statt 4.000 Euro jährlich, Bauern bis 6.000 Euro.",
+          "quelle": "Alto Adige",
+          "url": "https://www.altoadige.it/cronaca/previdenza-la-regione-aumenta-i-contributi-piu-aiuti-a-famiglie-caregiver-e-agricoltori-rqtz5i6l",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Salto zweifelt an Airbnb-Argument des Hoteliersverbands HGV",
-          "satz": "Der HGV verweist auf 9.351 Südtiroler Airbnb-Inserate im August, laut Bericht wachsen jedoch vor allem Betten in Vier- und Fünfsternehotels.",
-          "quelle": "salto.bz",
-          "url": "https://salto.bz/it/article/06112026/cosa-non-torna-nei-dati-dellhgv",
-          "datum": "2026-11-06"
-        },
-        {
-          "titel": "Streit um gestrichenes „Plan de Corones“ im Kronplatz-Logo",
-          "satz": "Ladinische Kulturvereine und Schützen protestieren gegen die Marke „Kronplatz Dolomites“; auch Senatorin Biancofiore fordert den ladinischen Namen zurück.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/06/erst-beschimpft-urzi-die-schuetzen-fuenf-tage-spaeter-feiert-er-sie/",
-          "datum": "2026-11-06"
-        },
-        {
-          "titel": "Jugendgruppe soll Radfahrerin in Bozen angegriffen haben",
-          "satz": "Fünf vermummte Jugendliche sollen die Frau in der Penegalstraße umzingelt und gestoßen haben, offenbar um sie auszurauben.",
+          "titel": "WWF fordert Regeln für Helikopterflüge in Dolomiten",
+          "satz": "Das Tiefflugverbot über Naturparks gilt seit fast 30 Jahren, doch Strafen wurden zuletzt offenbar keine verhängt.",
           "quelle": "suedtirolnews.it",
-          "url": "https://suedtirolnews.it/chronik/brutale-attacke-gruppe-ueberfaellt-frau-in-bozen",
-          "datum": "2026-11-06"
+          "url": "https://www.suedtirolnews.it/politik/helikopterfluege-in-den-dolomiten-wwf-verlangt-klare-regeln",
+          "datum": "2026-11-07"
+        },
+        {
+          "titel": "Großkontrollen gegen Diebstähle im Unterland und Überetsch",
+          "satz": "Carabinieri setzen Hubschrauber, Hundestaffel und Kennzeichenerkennung ein; die Kontrollen laufen bis vor die Feiertage weiter.",
+          "quelle": "UnserTirol24",
+          "url": "https://www.unsertirol24.com/2026/11/07/grosskontrolle-gegen-diebstaehle-im-unterland-und-ueberetsch/",
+          "datum": "2026-11-07"
+        },
+        {
+          "titel": "Auto brennt in Bozner Tiefgarage am Matteottiplatz",
+          "satz": "Atemschutztrupps der Feuerwehren löschten den Brand am Freitagabend, verletzt wurde laut Bericht niemand.",
+          "quelle": "suedtirolnews.it",
+          "url": "https://www.suedtirolnews.it/chronik/bozen-fahrzeug-brennt-in-zweistoeckiger-tiefgarage",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Rai Südtirol und stol.it nicht abrufbar; Ersatz: UnserTirol24, suedtirolnews.it."
+      "hinweis": "Rai Südtirol, salto.bz-Startseite und stol.it nicht abrufbar (Freigabe nicht erteilt); salto.bz-Politikseite ohne Meldungen der letzten 24 h. ANSA-Artikel nicht abrufbar. Ersatzquellen: suedtirolnews.it, UnserTirol24, Alto Adige."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Alcaraz kämpft sich ins Halbfinale von Paris",
-          "satz": "Er schlug Taylor Fritz 6:7, 7:5, 6:3 nach zwei abgewehrten Matchbällen; im Halbfinale wartet Casper Ruud oder Nuno Borges.",
+          "titel": "Bayern gewinnt in Mainz, Neuer verletzt",
+          "satz": "Kimmich und Karl treffen beim 2:1, Neuer muss vor der Pause mit Fußverletzung raus, Urbig ersetzt ihn.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/tennis/atp/2026/11/paris-alcaraz-kaempft-sich-ins-halbfinale",
-          "datum": "2026-11-06"
+          "url": "https://wp.sport1.de/news/fussball/bundesliga/2026/11/trotz-sorgen-um-neuer-bayern-als-tabellenfuehrer-in-die-pause",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Bayern-Sportdirektor Freund stärkt Lennart Karl den Rücken",
-          "satz": "Der 18-Jährige traf beim 2:0 gegen Atlético Madrid und wurde von Bundestrainer Klopp für die Nations League nominiert.",
+          "titel": "Nmecha schießt BVB zum Sieg gegen Elversberg",
+          "satz": "Mit dem 2:1 bleibt Dortmund punktgleich mit Tabellenführer Bayern und hält das Titelrennen offen.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/champions-league/2026/11/freund-ueber-karl-er-scheisst-sich-nichts",
-          "datum": "2026-11-06"
+          "url": "https://wp.sport1.de/news/fussball/bundesliga/2026/11/doppelpack-nmecha-bvb-schlaegt-elversberg",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Teilnehmerfeld der ATP Finals in Turin steht fest",
-          "satz": "Ab 15. November spielen Zverev, Alcaraz, Shelton, Medwedew, Cobolli, Fils, Tiafoe und Jodar; Sinner beendete seine Saison verletzt.",
-          "quelle": "ORF",
-          "url": "https://sport.orf.at/stories/3164606",
-          "datum": "2026-11-06"
+          "titel": "Shelton kämpft sich ins Paris-Finale",
+          "satz": "Der US-Amerikaner dreht gegen Van Assche einen Satzrückstand und trifft am Sonntag auf Alcaraz oder Ruud.",
+          "quelle": "tennisnet.com",
+          "url": "https://www.tennisnet.com/news/atp-masters-paris-comeback-koenig-ben-shelton-kaempft-sich-ins-finale",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "HSV schlägt Gladbach 3:1 und springt auf Rang acht",
-          "satz": "Muheim, Nandja und Grönbaek trafen für Hamburg; Gladbach bleibt nach Gelb-Rot für Itakura mit vier Punkten Tabellenletzter.",
-          "quelle": "sportschau.de",
-          "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
-          "datum": "2026-11-06"
+          "titel": "Feller verzichtet auf Slalom-Auftakt in Levi",
+          "satz": "Wegen Trainingsrückstand nach Bandscheibenproblemen peilt der Österreicher sein Comeback in Gurgl am 22. November an.",
+          "quelle": "ORF Sport",
+          "url": "https://sport.orf.at/stories/3164619",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Sport1-Rubrikseite gesperrt (Artikel lesbar), kicker.de nicht abrufbar; Ersatz: ORF Sport, sportschau.de; keine Ski-alpin-Meldung der letzten 24 Stunden."
+      "hinweis": "sport1.de-Startseite, kicker.de und sport.orf.at-Startseite per WebFetch nicht freigegeben (Berechtigung abgelaufen); Sport1-Einzelartikel lesbar. Ersatzquellen: tennisnet.com, ORF Sport; Bayern-Ergebnis 2:1 mit sportschau.de gegengeprüft."
     }
   }
 }
