@@ -1,0 +1,208 @@
+{
+  "updated": "2026-11-08T00:59:47+01:00",
+  "saison": "2026/27",
+  "herren": {
+    "rennen": [
+      {
+        "datum": "2026-10-25",
+        "ort": "Sölden",
+        "land": "AUT",
+        "disziplin": "Riesenslalom",
+        "wettbewerb": "Weltcup",
+        "ergebnis": [
+          {
+            "rang": 1,
+            "name": "Lucas Pinheiro Braathen",
+            "nation": "BRA",
+            "zeit": "1:44,72"
+          },
+          {
+            "rang": 2,
+            "name": "Loïc Meillard",
+            "nation": "SUI",
+            "rueckstand": "+0,48"
+          },
+          {
+            "rang": 3,
+            "name": "Marco Odermatt",
+            "nation": "SUI",
+            "rueckstand": "+0,49"
+          },
+          {
+            "rang": 4,
+            "name": "River Radamus",
+            "nation": "USA",
+            "rueckstand": "+0,82"
+          },
+          {
+            "rang": 5,
+            "name": "Raphael Haaser",
+            "nation": "AUT",
+            "rueckstand": "+0,86"
+          },
+          {
+            "rang": 6,
+            "name": "Fabian Gratz",
+            "nation": "GER",
+            "rueckstand": "+0,95"
+          },
+          {
+            "rang": 7,
+            "name": "Alex Vinatzer",
+            "nation": "ITA",
+            "rueckstand": "+1,08"
+          },
+          {
+            "rang": 8,
+            "name": "Eirik Hystad Solberg",
+            "nation": "NOR",
+            "rueckstand": "+1,09"
+          },
+          {
+            "rang": 9,
+            "name": "Leo Anguenot",
+            "nation": "FRA",
+            "rueckstand": "+1,10"
+          },
+          {
+            "rang": 10,
+            "name": "Patrick Feurstein",
+            "nation": "AUT",
+            "rueckstand": "+1,11"
+          }
+        ],
+        "url": "https://www.sportschau.de/live-und-ergebnisse/ma12539412/ergebnisse"
+      }
+    ],
+    "naechstes": {
+      "datum": "2026-11-15",
+      "uhrzeit": "10:00",
+      "ort": "Levi",
+      "land": "FIN",
+      "disziplin": "Slalom",
+      "wettbewerb": "Weltcup"
+    },
+    "gesamt": [
+      {
+        "rang": 1,
+        "name": "Lucas Pinheiro Braathen",
+        "nation": "BRA",
+        "punkte": 100
+      },
+      {
+        "rang": 2,
+        "name": "Loïc Meillard",
+        "nation": "SUI",
+        "punkte": 80
+      },
+      {
+        "rang": 3,
+        "name": "Marco Odermatt",
+        "nation": "SUI",
+        "punkte": 60
+      }
+    ]
+  },
+  "damen": {
+    "rennen": [
+      {
+        "datum": "2026-10-24",
+        "ort": "Sölden",
+        "land": "AUT",
+        "disziplin": "Riesenslalom",
+        "wettbewerb": "Weltcup",
+        "ergebnis": [
+          {
+            "rang": 1,
+            "name": "Paula Moltzan",
+            "nation": "USA",
+            "zeit": "2:14,82"
+          },
+          {
+            "rang": 2,
+            "name": "Lara Colturi",
+            "nation": "ALB",
+            "rueckstand": "+0,01"
+          },
+          {
+            "rang": 3,
+            "name": "Emma Aicher",
+            "nation": "GER",
+            "rueckstand": "+0,52"
+          },
+          {
+            "rang": 4,
+            "name": "Sara Hector",
+            "nation": "SWE",
+            "rueckstand": "+0,63"
+          },
+          {
+            "rang": 5,
+            "name": "Asja Zenere",
+            "nation": "ITA",
+            "rueckstand": "+0,72"
+          },
+          {
+            "rang": 6,
+            "name": "Camille Rast",
+            "nation": "SUI",
+            "rueckstand": "+0,81"
+          },
+          {
+            "rang": 7,
+            "name": "Mikaela Shiffrin",
+            "nation": "USA",
+            "rueckstand": "+0,83"
+          },
+          {
+            "rang": 8,
+            "name": "Alice Robinson",
+            "nation": "NZL",
+            "rueckstand": "+1,01"
+          },
+          {
+            "rang": 9,
+            "name": "Franziska Gritsch",
+            "nation": "AUT",
+            "rueckstand": "+1,12"
+          },
+          {
+            "rang": 9,
+            "name": "Maryna Gasienica-Daniel",
+            "nation": "POL",
+            "rueckstand": "+1,12"
+          }
+        ],
+        "url": "https://www.plattformj.ch/artikel/247889/"
+      }
+    ],
+    "naechstes": {
+      "datum": "2026-11-14",
+      "uhrzeit": "10:00",
+      "ort": "Levi",
+      "land": "FIN",
+      "disziplin": "Slalom",
+      "wettbewerb": "Weltcup"
+    },
+    "gesamt": [
+      {
+        "rang": 1,
+        "name": "Paula Moltzan",
+        "nation": "USA",
+        "punkte": 100
+      },
+      {
+        "rang": 2,
+        "name": "Lara Colturi",
+        "nation": "ALB",
+        "punkte": 80
+      },
+      {
+        "rang": 3,
+        "name": "Emma Aicher",
+        "nation": "GER",
+        "punkte": 60
+      }
+    ]
+  }
+}
