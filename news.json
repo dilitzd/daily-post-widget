@@ -70,7 +70,8 @@
     "bild_seite": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
     "fotograf": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
     "lizenz": "NASA",
-    "datum": "2026-11-07"
+    "datum": "2026-11-07",
+    "kurz": "Enceladus"
   },
   "bau": {
     "name": "Castel del Monte",
@@ -84,7 +85,8 @@
     "bild_seite": "https://commons.wikimedia.org/wiki/File:Castel_del_Monte_BW_2016-10-14_13-04-18_stitch.jpg",
     "fotograf": "Berthold Werner",
     "lizenz": "CC BY-SA 3.0",
-    "datum": "2026-11-07"
+    "datum": "2026-11-07",
+    "kurz": "Castel del Monte"
   },
   "themen": {
     "politik": {
