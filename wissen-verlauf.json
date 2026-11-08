@@ -38,5 +38,45 @@
     "datum": "2026-11-07",
     "typ": "bau",
     "wert": "Castel del Monte"
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "artikel",
+    "wert": "https://www.weltderwunder.de/machtige-clans-so-leben-hyanen/"
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "ort",
+    "wert": "Kilimandscharo"
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Italien zählte am 1. Januar 2026 rund 58,94 Millionen Einwohner (vorläufig)."
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Italiens BIP stagnierte im dritten Quartal 2026, lag aber 0,8 % über Vorjahr."
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "fakt",
+    "wert": "Klima: Österreich verzeichnete im Oktober 2026 ein Niederschlagsdefizit von 40 Prozent."
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "wiki",
+    "wert": "Grammophon"
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "bild",
+    "wert": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah%E2%80%99s-goosenecks/ISS075-E-188830.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint"
+  },
+  {
+    "datum": "2026-11-08",
+    "typ": "bau",
+    "wert": "Fallingwater"
   }
 ]
