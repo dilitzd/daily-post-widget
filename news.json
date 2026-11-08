@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T05:56:54+01:00",
+  "updated": "2026-11-08T19:22:26+01:00",
   "zitat": {
     "text": "Gebt mir die Freiheit, zu wissen, mich zu äußern und frei nach meinem Gewissen zu argumentieren – über alle anderen Freiheiten.",
     "original": "Give me the liberty to know, to utter, and to argue freely according to conscience, above all liberties.",
@@ -93,239 +93,225 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Eisenkot erhält Auftrag zur Regierungsbildung",
-          "satz": "Der Ex-Armeechef und Netanjahu-Rivale soll am Sonntag beauftragt werden; die Wahl vom 27. Oktober endete im Patt.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447553/",
-          "datum": "2026-11-07"
+          "titel": "Krakau: Terrorermittlungen nach Schüssen auf Marktplatz",
+          "satz": "Der Täter tötete sechs Passanten und zuvor wohl Eltern und Schwester; Polen trauert zwei Tage.",
+          "quelle": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+          "datum": "2026-11-08"
         },
         {
-          "titel": "Francia, quarto sabato di proteste sul caro-vita",
-          "satz": "Cortei a Parigi, Marsiglia e Lille promossi da sindacati e gilet gialli; in piazza molti studenti.",
+          "titel": "Egitto, scontro tra treni a sud del Cairo",
+          "satz": "Almeno quattro morti e quasi 90 feriti nella provincia di Giza; al-Sisi ha ordinato un'indagine rapida.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/mondo/francia-migliaia-nuove-manifestazioni-contro-caro-vita/AJtoxb8B",
-          "datum": "2026-11-07"
+          "url": "https://stream24.ilsole24ore.com/video/mondo/scontro-treni-egitto-immagini-convogli-deragliati/AJIgVO9B",
+          "datum": "2026-11-08"
         },
         {
-          "titel": "Selenskyj warnt vor Trumps Plan für Europa",
-          "satz": "Zuerst brauche es Kriegsende und Sicherheitsgarantien, sagte er CNN und warnte vor einem neuen Jalta.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447523/",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Trump: midterm perse anche per il petrolio",
-          "satz": "Il presidente cita anche le leggi non approvate al Senato e ricorda che i presidenti perdono sempre.",
+          "titel": "Israele, Herzog affida il governo a Eisenkot",
+          "satz": "A Tel Aviv i cittadini parlano di grave conflitto interno, per alcuni Netanyahu resta il vero leader.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/mondo/trump-sconfitta-midterm-presidenti-perdono-sempre-prezzo-petrolio-ha-pesato/AJ9k6j8B",
+          "url": "https://stream24.ilsole24ore.com/video/mondo/israele-herzog-affida-governo-eisenkot-opinione-cittadini-tel-aviv/AJUMRO9B",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Dublino, corteo contro i nuovi data center",
+          "satz": "I manifestanti contestano i profitti delle Big Tech con strutture energivore e inquinanti.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/mondo/dublino-corteo-contro-diffusione-data-center-paese/AJJpur8B",
           "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Spiegel und tagesschau.de nicht abrufbar, NZZ, SZ und Economist nicht erreicht; ilsole24ore.com-Rubrikseiten und www-Artikel nicht abrufbar, deshalb Il-Sole-Meldungen über stream24.ilsole24ore.com. Ersatzquelle: ORF."
+      "hinweis": "Spiegel, NZZ und ilsole24ore.com (www) nicht abrufbar, Economist nicht erreicht; Il Sole über stream24.ilsole24ore.com (dort nur kurze Videotexte). Ersatzquelle: ANSA."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "USA werfen China Bruch des Handelsdeals vor",
-          "satz": "Washington beklagt zu wenig Seltene Erden und Agrarkäufe; Trump und Xi wollen sich Mitte November treffen.",
-          "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Borse europee in calo, Francoforte perde il 2%",
-          "satz": "Pesano i dubbi sull'intelligenza artificiale e i timori di regole più severe; Milano chiude a -0,9%.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/radiocor/la-borsa-indici-6-novembre-2026/AJaa6e7B",
-          "datum": "2026-11-06"
-        },
-        {
-          "titel": "Dieselsteuer-Rabatt in Italien ausgelaufen",
-          "satz": "Die Senkung um 4,9 Cent je Liter wurde nicht verlängert; ab Sonntag drohen höhere Dieselpreise.",
+          "titel": "Ex Ilva: Frist für bindende Angebote läuft ab",
+          "satz": "Als Bieter gilt Jindal; Lohnausgleich (CIG) wurde für bis zu 8.622 Beschäftigte beantragt.",
           "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/rischio-rincari-per-il-gasolio-da-domani-in-gu-non-ce-proroga-taglio-accise_d507854b-172b-4e83-b142-79fdc1bc11ac.html",
+          "url": "https://ansa.it/sito/notizie/economia/2026/11/08/ex-ilva-a-mezzanotte-scade-il-termine-per-le-offerte-vincolanti_99cfe7b4-0b94-4e3b-ae5c-fb43a5163cea.html",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Schlein: la manovra taglia la sanità",
+          "satz": "Secondo la segretaria del Pd la legge di bilancio aumenta invece la spesa militare.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/italia/schlein-la-manovra-taglia-sanita-e-aumenta-spesa-militare/AJ0wrM9B",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Torino, nuova protesta contro caro-vita e riarmo",
+          "satz": "In piazza bruciate le bollette di casa; alla manifestazione hanno partecipato anche gli agricoltori.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://stream24.ilsole24ore.com/video/economia/torino-nuova-manifestazione-contro-caro-vita-e-riarmo/AJv2hn8B",
           "datum": "2026-11-07"
         },
         {
-          "titel": "Codacons: bolletta del gas a 860 euro",
-          "satz": "Con tariffa variabile circa 205 euro più dell'anno scorso; punte in Valle d'Aosta, Trentino-Alto Adige e Lombardia.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/economia/gas-codacons-bolletta-invernale-media-sale-860-euro-famiglia/AJ4wJj8B",
-          "datum": "2026-11-07"
+          "titel": "Italien wappnet Finanzsektor gegen Cyberangriffe",
+          "satz": "Die Banca d'Italia verlangt bis Jahresende auch von kleineren Banken Angaben zu Angriffsrisiken und Notfallplänen.",
+          "quelle": "ANSA",
+          "url": "https://ansa.it/sito/notizie/economia/2026/11/08/finanza-sotto-la-lente-cyber-codise-e-certfin-contro-le-minacce_d9bbfbe8-53e0-4272-894b-d213e867c52c.html",
+          "datum": "2026-11-08"
         }
       ],
-      "hinweis": "NZZ, SZ, Economist und WSJ nicht erreicht; ilsole24ore.com-Rubrikseiten und www-Artikel nicht abrufbar, deshalb Il Sole über stream24.ilsole24ore.com. Ersatzquellen: Handelsblatt (nur frei sichtbarer Vorspann), ANSA."
+      "hinweis": "NZZ, SZ und ilsole24ore.com (www) nicht abrufbar, Economist und WSJ nicht erreicht; Il Sole über stream24.ilsole24ore.com (Wochenende, nur kurze Videotexte). Ersatzquelle: ANSA."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "NASA-Weltraumteleskop Swift abgestürzt",
-          "satz": "Das Observatorium trat über Indonesien in die Atmosphäre ein; eine Rettungsmission war zuvor gescheitert.",
+          "titel": "1,5-Grad-Grenze wird fast sicher überschritten",
+          "satz": "Laut Copernicus war der Oktober 2026 mit 1,75 Grad über vorindustriellem Niveau der wärmste je gemessene.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238029/",
-          "datum": "2026-11-05"
-        },
-        {
-          "titel": "Ältester Nachweis von Cannabiskonsum entdeckt",
-          "satz": "In einem 2800 Jahre alten Königsgrab in Sibirien fanden Forschende THC-Abbauprodukte in menschlichem Haar.",
-          "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238076/",
+          "url": "https://science.orf.at/stories/3238087/",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Hera sendet erstes Bild von Asteroid Didymos",
-          "satz": "Die ESA-Sonde soll die Folgen des DART-Einschlags von 2022 auf den Mond Dimorphos untersuchen.",
+          "titel": "KI-Rechenzentren könnten Wasserbedarf verdoppeln",
+          "satz": "Laut Öko-Institut könnte deutscher Kühlwasserbedarf bis 2030 von 13 auf 27 Milliarden Liter steigen.",
           "quelle": "Spektrum.de",
-          "url": "https://www.spektrum.de/news/hera-asteroid-didymos-voraus/2353023",
+          "url": "https://www.spektrum.de/news/studie-zum-ki-boom-mit-neuen-rechenzentren-droht-wasserstress/2353019",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Boden unter US-Ostküstenstädten sinkt ab",
-          "satz": "Satellitendaten zeigen lokal bis zu 13 Millimeter pro Jahr; besonders betroffen sind New York und Baltimore.",
-          "quelle": "scinexx.de",
-          "url": "https://www.scinexx.de/news/geowissen/new-york-und-co-boden-unter-metropolen-an-der-us-ostkueste-sinkt-ab/",
+          "titel": "Neue Software macht verborgene Exoplaneten sichtbar",
+          "satz": "Das Programm FLIP machte Webb-Aufnahmen bis zu 15-mal empfindlicher und zeigte den Planeten 51 Eridani b.",
+          "quelle": "Spektrum.de",
+          "url": "https://www.spektrum.de/news/suche-nach-exoplaneten-dem-sternenlicht-ein-schnippchen-schlagen/2352788",
           "datum": "2026-11-07"
+        },
+        {
+          "titel": "So zwängen sich Oktopusse durch kleine Löcher",
+          "satz": "Bei engen Öffnungen schieben Gemeine Kraken zuerst alle Arme durch, danach Kopf und Mantel.",
+          "quelle": "ORF",
+          "url": "https://science.orf.at/stories/3238079/",
+          "datum": "2026-11-06"
         }
       ],
-      "hinweis": "NZZ nicht abrufbar, Spiegel, SZ und heise gesperrt; Ersatz: ORF, Spektrum.de, scinexx.de."
+      "hinweis": "NZZ nicht abrufbar, heise gesperrt, Spiegel und SZ gesperrt (Stand 05.11.); Ersatz: science.ORF.at, Spektrum.de (scinexx-Artikel nicht abrufbar)."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Finanzinvestoren wollen offenbar Unity übernehmen",
-          "satz": "Silver Lake und Saudi-Arabiens PIF bewerten den Engine-Hersteller laut Reuters mit rund 25 Milliarden Dollar.",
+          "titel": "Bericht: Nvidia-Chef Huang angeblich mit Spionin liiert",
+          "satz": "Laut Financial Times soll eine Ex-Managerin von Megaspeed für Chinas Staatssicherheit arbeiten; Beweise fehlen.",
           "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/gaming/nach-ea-uebernahme-auch-spiele-engine-unity-vor-verkauf-an-silver-lake-und-pif.100214/",
-          "datum": "2026-11-06"
+          "url": "https://www.computerbase.de/news/wirtschaft/nvidia-ceo-jensen-huang-us-regierung-vermutet-affaere-mit-chinesischer-spionin.100223/",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Über 100.000 Apps für iPhone Duo optimiert",
-          "satz": "Beliebte Apps wie Duolingo, Google Docs und Steam unterstützen das Zwei-Display-iPhone noch nicht.",
+          "titel": "Sicherheitsupdate legt Radeon RX 7900 lahm",
+          "satz": "Nach dem ASRock-vBIOS vom 29. Oktober starten betroffene PCs nur mit schwarzem Bildschirm.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/grafikkarten/radeon-rx-7900-sicherheitsupdate-legt-grafikkarten-lahm.100221/",
+          "datum": "2026-11-07"
+        },
+        {
+          "titel": "Apple ändert Entwicklung von iOS 28",
+          "satz": "Laut Bloomberg hatten Ingenieure in der ersten Phase sechs statt vier Wochen für neue Funktionen.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
-          "datum": "2026-11-06"
+          "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+          "datum": "2026-11-08"
         },
         {
-          "titel": "Hackerangriff auf Onlinehändler Mindfactory",
-          "satz": "Adressen, E-Mails, Telefonnummern und verschlüsselte Passwörter könnten abgeflossen sein; Passwörter wurden zurückgesetzt.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/hackerangriff-mindfactory-informiert-kunden-ueber-moeglichen-datendiebstahl.100215/",
-          "datum": "2026-11-06"
-        },
-        {
-          "titel": "Apple drohen Untersuchungen im US-Kongress",
-          "satz": "Senator Blumenthal fordert Unterlagen zu Spenden für Trumps Ballsaal-Projekt; ab Januar drohen Vorladungen.",
-          "quelle": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
-          "datum": "2026-11-06"
+          "titel": "Siri soll schon 2027 zum KI-Agenten werden",
+          "satz": "Laut Bloomberg drängt Apple-Chef John Ternus darauf, die Software-Pläne deutlich zu beschleunigen.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+          "datum": "2026-11-08"
         }
       ],
-      "hinweis": "heise gesperrt, CHIP nicht erreichbar; Ersatz: ComputerBase, 9to5Mac."
+      "hinweis": "heise gesperrt (robots), CHIP nicht erreichbar; Ersatz: ComputerBase."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Anthropic plant Börsengang noch vor Thanksgiving",
-          "satz": "Laut Financial Times peilt Anthropic eine Bewertung von 1,25 bis 1,75 Billionen Dollar an.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Google-KI erkennt Bluthochdruck per Smartwatch",
-          "satz": "In einer Nature-Studie mit 196 Teilnehmenden fand die Uhr 65,8 Prozent der Betroffenen, ohne Manschette.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/ki-von-google-erkennt-bluthochdruck-nur-mit-puls-und-bewegungssensor-einer-smartwatch",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "NRW jagt Finanzkriminelle mit eigenem KI-System",
-          "satz": "Forensight wertet digitale Beweise aus und fand im Pilotverfahren 1.000 relevante aus 20 Millionen Seiten.",
+          "titel": "Anthropic wird größter Kunde von SpaceX",
+          "satz": "Laut Bloomberg stammt rund ein Drittel des SpaceX-Umsatzes von Anthropic, das frühere xAI-Rechenkapazität nutzt.",
           "quelle": "t3n",
-          "url": "https://t3n.de/news/forensight-mit-diesem-ki-system-jagt-nrw-kuenftig-finanzkriminelle-1771952/",
-          "datum": "2026-11-06"
+          "url": "https://t3n.de/news/spacex-nasa-abkehr-anthropic-ki-hauptkunde-1770765/",
+          "datum": "2026-11-08"
         },
         {
-          "titel": "Humanoide Roboter putzen Wohnungen in San Francisco",
-          "satz": "Bei Tau Robotics steuern Menschen die Putzroboter meist noch aus der Ferne; eine Reinigung kostet 100 Dollar.",
-          "quelle": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "datum": "2026-11-06"
+          "titel": "KI-Agenten brechen eigenständig in Firmennetze ein",
+          "satz": "Im Vals-Benchmark erreichte GPT-6 Sol Daybreak 80,8 Prozent der Ziele, DeepSeek günstiger 72,8 Prozent.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/",
+          "datum": "2026-11-07"
+        },
+        {
+          "titel": "Coding-Agenten erledigen Aufgaben selten vollständig",
+          "satz": "Im Co-Design Bench löste das beste Modell, GPT-6 Astra, nur 26,4 Prozent der Aufgaben komplett.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Finnland stoppt Google-Rodungen für KI-Rechenzentren",
+          "satz": "In Muhos wurden rund 330 Hektar gerodet, bevor die vorgeschriebene Umweltprüfung abgeschlossen war.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/google-rechenzentrum-finnland-rodung-gestoppt-ki-1769929/",
+          "datum": "2026-11-08"
         }
       ],
-      "hinweis": "heise gesperrt; keine neue Meldung seit 1.11. auf anthropic.com/news (letzte vom 28.10.); Ersatz: The Decoder, t3n, MIT Technology Review."
+      "hinweis": "heise gesperrt; anthropic.com/news nicht abrufbar; Ersatz: t3n, The Decoder."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Hackerangriff auf Brenner Basistunnel bestätigt",
-          "satz": "Gestohlene Daten tauchten im Darknet auf, den Tunnelbau beeinträchtigt der Angriff laut BBT SE nicht.",
-          "quelle": "suedtirolnews.it",
-          "url": "https://www.suedtirolnews.it/politik/hackerangriff-gegen-brenner-basistunnel",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Südtirols Konsumklima im Oktober verschlechtert",
-          "satz": "Der Index fiel um drei Punkte auf minus 16,3, vor allem wegen gestiegener Energiepreise.",
+          "titel": "Freiheitliche wollen eigenen Südtirol-Tag ab 2027",
+          "satz": "Gefeiert werden soll am Wochenende nach dem 5. September, dem Jahrestag des Pariser Vertrags.",
           "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/07/suedtiroler-konsumklima-sich-im-oktober-verschlechtert/",
-          "datum": "2026-11-07"
+          "url": "https://www.unsertirol24.com/2026/11/08/suedtirol-soll-einen-eigenen-feiertag-bekommen/",
+          "datum": "2026-11-08"
         },
         {
-          "titel": "Rittner Seilbahn steht zwei Wochen still",
-          "satz": "Wegen Wartungsarbeiten fährt vom 9. bis 24. November die Ersatzbuslinie B161 mit Zusatzfahrten.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/07/rittner-seilbahn-steht-zwei-wochen-still/",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Kind verbrüht sich auf Bauernhof in Lüsen",
-          "satz": "Das Kind einer Gästefamilie wurde mit dem Rettungshubschrauber Pelikan 2 ins Krankenhaus Brixen geflogen.",
+          "titel": "Seniorenhilfe: Millionen bleiben ungenutzt",
+          "satz": "Laut Leiter Reber wurden von jährlich 41 Millionen Euro nur rund 9 Millionen ausbezahlt.",
           "quelle": "suedtirolnews.it",
-          "url": "https://www.suedtirolnews.it/chronik/kind-verbrueht-sich-in-luesen",
-          "datum": "2026-11-07"
+          "url": "https://www.suedtirolnews.it/politik/leiter-reber-sieht-politikversagen-bei-seniorenhilfe",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Terlan: Schuss aus Dienstwaffe im Rathaus",
+          "satz": "Niemand wurde verletzt; die Gemeinde hat allen Ortspolizisten die Schusswaffen entzogen.",
+          "quelle": "suedtirolnews.it",
+          "url": "https://www.suedtirolnews.it/chronik/terlan-schuss-aus-dienstwaffe-von-ortspolizisten-loest-sich",
+          "datum": "2026-11-08"
         }
       ],
-      "hinweis": "Rai Südtirol gesperrt, stol.it nicht lesbar, salto.bz ohne Meldungen der letzten 24 h. Ersatz: suedtirolnews.it, UnserTirol24 (ANSA und Alto Adige ohne neue verwertbare Meldung)."
+      "hinweis": "Rai Südtirol gesperrt, stol.it nicht lesbar, salto.bz ohne neue verwertbare Meldung. Ersatz: UnserTirol24, suedtirolnews.it (Alto Adige ohne Meldung der letzten 24 h)."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Alcaraz fordert Shelton im Paris-Finale",
-          "satz": "Alcaraz schlug Ruud 6:4, 6:4, das Endspiel am Sonntag ist eine Neuauflage des US-Open-Viertelfinales.",
-          "quelle": "ORF Sport",
-          "url": "https://sport.orf.at/stories/3164643",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Fan stürzt in Paderborn aus Gästeblock",
-          "satz": "Der Frankfurter Anhänger wurde lebensgefährlich verletzt, beim 2:2 stellten beide Fanlager den Support ein.",
+          "titel": "Alcaraz gewinnt erstmals das Paris-Masters",
+          "satz": "Er schlug Ben Shelton 7:6, 7:5 und holte den dritten Titel aus seinen letzten vier Turnieren.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fan-stuerzt-aus-gaesteblock-notfall-ueberschattet-paderborn-frankfurt",
-          "datum": "2026-11-07"
+          "url": "https://www.sport1.de/news/tennis/atp/2026/11/weiter-in-topform-alcaraz-gewinnt-erstmals-paris-masters",
+          "datum": "2026-11-08"
         },
         {
-          "titel": "Mittelstädt schießt Stuttgart zum Sieg über Werder",
-          "satz": "Das 1:0 fiel in der 7. Minute, Füllkrug blieb nach sieben Spielen in Folge ohne Tor.",
-          "quelle": "sportschau.de",
-          "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Leipzig schlägt Augsburg 5:2, Raum trifft",
-          "satz": "Der nicht nominierte Raum kritisierte Medienberichte und will Bundestrainer Klopp mit Leistung überzeugen.",
+          "titel": "Bayern-Kapitän Neuer fällt mit Sehnenteilriss aus",
+          "satz": "Er verletzte sich beim 2:1 in Mainz am rechten Fuß; eine Rückkehr 2026 gilt als unwahrscheinlich.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/das-ging-mir-auf-den-sack-raum-laesst-dampf-ab-nach-nichtnominierung",
-          "datum": "2026-11-07"
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/neuer-faellt-nach-sehnenteilriss-vorerst-aus",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Leverkusen gewinnt Rheinderby in Köln 2:1",
+          "satz": "García traf per Freistoß, Schick erhöhte; Köln kassierte die erste Heimniederlage der Saison.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/per-traumtor-streitfigur-garcia-erloest-werkself-im-derby",
+          "datum": "2026-11-08"
         }
       ],
-      "hinweis": "Sport1-Startseite nicht abrufbar, Einzelartikel genutzt; kicker nicht abrufbar. Ersatz: ORF Sport, sportschau.de. Beim FC Bayern nach dem Mainz-Spiel nichts Neues, vom Ski-Weltcup nichts aus den letzten 24 h."
+      "hinweis": "Nur Sport1 lieferte lesbare Berichte (dritte Sport1-Meldung daher ausnahmsweise); kicker, sportschau- und ORF-Sport-Artikel nicht abrufbar. Vom Ski-Weltcup nichts aus den letzten 24 h."
     }
   }
 }
