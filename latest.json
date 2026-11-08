@@ -1,85 +1,37 @@
 {
- "issue": 33,
- "date": "Samstag, 7. November 2026",
- "updated": "2026-11-07T05:50:39+00:00",
+ "issue": 34,
+ "date": "Sonntag, 8. November 2026",
+ "updated": "2026-11-08T05:51:03+00:00",
  "items": [
   {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · PMI",
-   "title": "Brevetti+, Disegni+ e Marchi+ 2026: 32 milioni per le PMI",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/agevolazioni/brevetti-disegni-e-marchi-2026-guida-ai-nuovi-incentivi-per-le-pmi/"
-  },
-  {
    "block": "Wirtschaftsnews",
-   "kicker": "WIRTSCHAFTSPOLITIK · ITALIEN",
-   "title": "Infrastruktur-Dekret: Rom will Bauunternehmen mehr Liquidität verschaffen",
-   "url": "https://en.ilsole24ore.com/art/infrastructure-decree-cdm-on-monday-end-to-pre-emption-rights-more-liquidity-for-businesses-AJT8Mo7B"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "BILANCIO · REDDITO D'IMPRESA",
-   "title": "Micro imprese con bilancio abbreviato: derivazione rafforzata dal 2025",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/micro-imprese-e-derivazione-rafforzata-scelta-del-bilancio-effetti-pluriennali-e-holding/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "PREVIDENZA · GESTIONE SEPARATA",
-   "title": "Gestione separata: l'INPS riattiva i rimborsi oltre il massimale",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/contributi-e-premi/gestione-separata-riattivati-i-rimborsi-per-i-contributi-eccedenti-il-massimale/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "IMPOSTE INDIRETTE · PRIMA CASA",
-   "title": "Prima casa: il nuovo acquisto all'estero evita la decadenza",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130496_l_acquisto_estero_evita_la_decadenza_dalla_prima_casa.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO · NON RESIDENTI",
-   "title": "Quote di società immobiliare estera: la cessione non è vendita dell'immobile",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130529_non_si_considera_vendita_di_immobili_la_cessione_di_quote_della.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · FORMAZIONE 4.0",
-   "title": "Credito formazione 4.0: il training on the job non è escluso",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/formazione-4-0-e-training-on-the-job-niente-di-nuovo-sul-fronte-della-prova/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "LAVORO · REDDITI",
-   "title": "Mance del capo portiere: reddito di lavoro dipendente soggetto a IRPEF",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130520_soggette_a_irpef_le_mance_del_capo_portiere_dell_hotel.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "LAVORO · APPALTI",
-   "title": "Interposizione di manodopera: la decadenza decorre solo da un atto scritto",
-   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/contratto-di-lavoro/appalto-e-interposizione-illecita-di-manodopera-la-decadenza-decorre-dallatto-scritto/"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "LUFTFAHRT · ITALIEN",
-   "title": "ITA Airways einigt sich auf bis zu 180 freiwillige Abgänge",
-   "url": "https://en.ilsole24ore.com/art/ita-airways-reaches-agreement-with-trade-unions-support-for-up-to-180-voluntary-redundancies-AJ5qlB6B"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · DEUTSCHLAND",
-   "title": "Uniper-Verkauf: Equinor erwägt Einstieg bei kanadischem Bieterkonsortium",
-   "url": "https://www.handelsblatt.com/unternehmen/energie/energie-rennen-um-uniper-kauf-zwei-grosse-bieter-erwaegen-zusammenschluss/100267911.html"
+   "kicker": "INDUSTRIE · ITALIEN",
+   "title": "Ex-Ilva in Tarent: Nach 62 Jahren steht die gesamte Heißphase still",
+   "url": "https://en.ilsole24ore.com/art/former-ilva-site-hot-area-shut-down-cigs-discussions-postponed-AJXAVo7B"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "BANKEN · ITALIEN",
-   "title": "Mediobanca verdient in neun Monaten 1,1 Milliarden Euro",
-   "url": "https://en.ilsole24ore.com/art/Mediobanca-reports-11-billion-in-profits-for-the-first-nine-months-AJH0pV6B"
+   "title": "Monte dei Paschi steigert Gewinn in neun Monaten um 21 Prozent",
+   "url": "https://en.ilsole24ore.com/art/mps-results-exceed-expectations-profit-rises-by-21-per-cent-to-165-billion-AJA3Rs6B"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · DEUTSCHLAND",
-   "title": "Zollrückzahlungen lassen Daimler-Truck-Gewinn um 73 Prozent steigen",
-   "url": "https://www.handelsblatt.com/unternehmen/industrie/zoll-rueckzahlungen-gewinn-von-daimler-truck-steigt-um-73-prozent/100267801.html"
+   "kicker": "ARBEITSMARKT · ITALIEN",
+   "title": "Netzbauer Sirti plant 430 Entlassungen nach Ende des PNRR-Schubs",
+   "url": "https://en.ilsole24ore.com/art/sirtis-plan-430-redundancies-trade-unions-submit-dossier-to-mimit-AJlRBs7B"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "HANDEL · USA/CHINA",
+   "title": "USA werfen China Verstoß gegen den Handelsdeal vor",
+   "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "SOZIALVERSICHERUNG · DEUTSCHLAND",
+   "title": "Pflegeversicherung braucht im November erstmals zusätzliches Bundesgeld",
+   "url": "https://www.wiwo.de/politik/deutschland/pflegeversicherung-finanznot-extra-geldspritze-im-november-notwendig/100268068.html"
   }
  ]
 }
