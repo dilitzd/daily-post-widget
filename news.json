@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:56:46+01:00",
+  "updated": "2026-11-09T19:14:01+01:00",
   "zitat": {
     "text": "Der Kosmos ist alles, was ist, was je war und was je sein wird.",
     "original": "The cosmos is all that is, or ever was, or ever will be.",
@@ -93,197 +93,289 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Hormuz, petroliera in fiamme dopo una mina",
-          "satz": "Trump conferma un attacco Usa su piccola scala sull'isola iraniana di Qeshm; il Qatar fa da mediatore.",
+          "titel": "Ucraina, a Abu Dhabi il negoziato trilaterale",
+          "satz": "Il Cremlino esclude l'Ue: al tavolo solo Russia e Ucraina con la mediazione degli Stati Uniti.",
+          "text": "Von der Leyen ha annunciato la presenza dell'Ue ai colloqui di Abu Dhabi, ma Peskov parla di un formato solo trilaterale. Per Washington ci sono Witkoff e Kushner, per Mosca guida la delegazione Medinsky. Kushner non esclude di allargare il formato in caso di progressi concreti.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/iran-stronger-than-at-the-start-of-the-war-new-us-attack-on-qeshm-island-AJSPzE8B",
-          "datum": "2026-11-08"
+          "url": "https://en.ilsole24ore.com/art/ukrainian-von-der-leyen-attends-eu-talks-in-abu-dhabi-AJ4xpz9B",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Strage di Cracovia: salgono a nove i morti",
-          "satz": "Nella casa dell'attentatore 24enne trovati morti genitori e sorella; la procura indaga per terrorismo.",
+          "titel": "Iran, Khamenei vuole chiudere lo stallo",
+          "satz": "Pezeshkian si dice pronto a trattare alla pari, ma rifiuta qualsiasi resa alla forza.",
+          "text": "Secondo il presidente iraniano, la Guida suprema ha ordinato di superare la fase di né guerra né pace con Washington. Gli Usa avrebbero proposto un piano in fasi per Hormuz, con allentamento del blocco e poi colloqui sul nucleare. Teheran chiede impegni scritti, mentre Trump riceve il premier del Qatar alla Casa Bianca.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/who-is-micha-oksinski-killer-krakw-weapons-ultra-nationalist-ideas-AJyDwS9B",
-          "datum": "2026-11-08"
+          "url": "https://en.ilsole24ore.com/art/iran-trump-meets-qatari-prime-minister-at-the-white-house-today-AJcbx59B",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Trump zweifelt Midterm-Ergebnis an und droht Demokraten",
-          "satz": "Er fordert Ermittlungen gegen Demokraten, die ihrerseits Untersuchungen gegen ihn und seine Regierung angekündigt haben.",
+          "titel": "Ungarn: Bruder von Viktor Orbán festgenommen",
+          "satz": "Áron Orbán steht laut Berichten unter Verdacht des Menschenhandels; Viktor Orbán spricht von politischer Verfolgung.",
+          "text": "Premier Péter Magyar machte die Festnahme öffentlich, die Polizei bestätigte Festnahmen in Budapest und zwei weiteren Städten. Ermittelt wird von der neuen Antikorruptionsbehörde, die Firma des Bruders war zuvor mit einem Visa-Schema in Verbindung gebracht worden. Seit Magyars Wahlsieg im April wurden bereits drei Ex-Minister festgenommen.",
           "quelle": "ORF",
-          "url": "https://orf.at/stories/3447586/",
-          "datum": "2026-11-08"
+          "url": "https://orf.at/stories/3447687/",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Papst Leo: Wirtschaft soll den Menschen dienen",
-          "satz": "In Argentinien erinnerte er an Familien, Arbeitssuchende und Ältere, die unter wirtschaftlicher Unsicherheit leiden.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-in-argentina-leconomia-sia-al-servizio-della-persona_0c30e401-adb7-40e7-8e82-1c54f4a68f1e.html",
-          "datum": "2026-11-08"
+          "titel": "Ukraine-Truppe startet erstes Manöver in Polen",
+          "satz": "Rund 2.800 Soldaten aus zehn europäischen Ländern üben bis 22. November den gemeinsamen Einsatz.",
+          "text": "Die multinationale Ukraine-Truppe MNF-U hat ihre erste Übung „Koalicja 26.2“ begonnen, Frankreich stellt mit 1.100 Soldaten das größte Kontingent. Die Truppe ist keine NATO-Mission und soll die ukrainische Armee stärken und den Luftraum sichern. Ob und wann sie tatsächlich in der Ukraine eingesetzt wird, ist offen.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3447724",
+          "datum": "2026-11-09"
         }
       ],
-      "hinweis": "Spiegel, NZZ, SZ und Economist nicht abrufbar; ilsole24ore.com (www) gesperrt, daher englische Ausgabe en.ilsole24ore.com genutzt (Texte auf Italienisch). Ersatz: ORF, ANSA."
+      "hinweis": "Spiegel, NZZ, SZ und Economist nicht abrufbar; ilsole24ore.com (www) gesperrt, daher englische Ausgabe en.ilsole24ore.com genutzt (Texte auf Italienisch). Ersatz: ORF."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Ex Ilva, scade il bando: Flacks si ritira",
-          "satz": "Resta sul tavolo l'offerta di Jindal; chiesta la cassa integrazione straordinaria per un massimo di 8.622 lavoratori.",
+          "titel": "Ex Ilva, sfida tra Arvedi e Jindal",
+          "satz": "Scaduto il bando, Federacciai e Flacks non hanno presentato offerte per lo stabilimento di Taranto.",
+          "text": "Per Acciaierie d'Italia sono arrivate solo le offerte di Arvedi e Jindal, che puntano su forni elettrici al posto degli altoforni. L'azienda ha poco meno di 10.000 dipendenti diretti, per 9.600 ha chiesto la cassa integrazione straordinaria. Il confronto al ministero del Lavoro riprende il 10 novembre.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/former-ilva-sources-flacks-offered-only-a-meeting-with-meloni-AJHsNW9B",
-          "datum": "2026-11-08"
+          "url": "https://en.ilsole24ore.com/art/former-ilva-site-arvedi-and-jindal-face-off-with-two-bids-AJTkpz9B",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Consob gibt grünes Licht für Intesa-Angebot auf MPS",
-          "satz": "Die Annahmefrist für das 31,8-Milliarden-Euro-Angebot läuft vom 24. November 2026 bis 22. Januar 2027.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/via-libera-della-consob-allofferta-di-intesa-per-mps-si-parte-il-24-novembre_15c55497-bc22-4473-aef0-930c9724f4f4.html",
-          "datum": "2026-11-08"
+          "titel": "Nvidia, indagine interna su Jensen Huang",
+          "satz": "Il titolo perde l'11% dopo l'ammissione di una relazione con una presunta spia cinese.",
+          "text": "Il cda di Nvidia verifica se il fondatore sia stato bersaglio di un'operazione di intelligence straniera. Trump difende Huang e vuole che resti amministratore delegato, Pechino respinge ogni accusa di spionaggio. Il Congresso lo ha convocato per un'audizione a porte chiuse il 18 novembre.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/nvidia-scandal-ceo-admits-to-having-a-relationship-with-a-chinese-spy-the-company-launches-an-investigation-but-trump-defends-him-AJKjNu9B",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Manovra 2027, sindacati e banche all'attacco",
-          "satz": "Da lunedì le audizioni alla Camera; l'Osservatorio sui conti pubblici stima la pressione fiscale al 43,2% nel 2027.",
+          "titel": "Decreto bollette, terzo tentativo in Cdm",
+          "satz": "Il cuore è un tetto di circa 59 euro al megawattora sul gas per produrre elettricità.",
+          "text": "Il Consiglio dei ministri potrebbe approvare il decreto bollette concordato con l'Ue, dopo due rinvii, sul modello del tope di Spagna e Portogallo. In agenda anche un decreto infrastrutture. Slitta invece la nomina del nuovo presidente dell'Anac dopo il ritiro di Nuccio Altieri.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/2027-budget-under-fire-trade-unions-banks-and-local-authorities-on-the-offensive-against-government-measures-AJFHKm8B",
-          "datum": "2026-11-07"
+          "url": "https://en.ilsole24ore.com/art/infrastructure-bills-new-anac-leadership-dossier-cdm-round-table-AJmUzw9B",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "EIB: Zehn Milliarden für Europas Tech-Firmen",
+          "satz": "Acht Milliarden Euro kommen von privaten Investoren und der französischen Initiative Tibi.",
+          "text": "Die Europäische Investitionsbank-Gruppe, sieben EU-Staaten und private Geldgeber bündeln Mittel für wachsende Tech-Unternehmen, sogenannte Scale-ups. Banken, Versicherer und Pensionsfonds beteiligen sich. Zusätzlich plant die EIB mit der Kommission mehr Investitionen in Verteidigung, Raumfahrt und Cybersicherheit.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3447709",
+          "datum": "2026-11-09"
         }
       ],
-      "hinweis": "NZZ, SZ, Economist und WSJ nicht abrufbar; ilsole24ore.com (www) gesperrt, daher englische Ausgabe genutzt (Texte auf Italienisch). Ersatz: ANSA."
+      "hinweis": "NZZ, SZ, Economist und WSJ nicht abrufbar; ilsole24ore.com (www) gesperrt, daher englische Ausgabe genutzt (Texte auf Italienisch). Ersatz: ORF."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "Rückkopplung macht Hitzewellen rund zehn Prozent heißer",
-          "satz": "Trockene Böden und Hochdruck verstärken Extremhitze; in Mitteleuropa stieg die Wahrscheinlichkeit dafür von 6 auf 23 Prozent.",
+          "titel": "Kakao: Mehr Ertrag durch Wald in der Umgebung",
+          "satz": "Mit Wald im Umland stieg der Ertrag von etwa 265 auf rund 1.000 Kilogramm pro Hektar.",
+          "text": "Ein Team der Uni Wien untersuchte 28 Bio-Kakaofarmen im peruanischen Amazonasgebiet. Vögel und Fledermäuse bekämpfen Schädlinge nur, wenn die Landschaft genug Lebensraum bietet; zu viel Schatten senkt den Ertrag. Die Forscher empfehlen rund ein Drittel Waldfläche in der Region.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238085/",
-          "datum": "2026-11-06"
+          "url": "https://science.orf.at/stories/3238124/",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Raumsonde Hera fotografiert Asteroid Didymos",
-          "satz": "Das Bild aus rund 60 Kilometern Entfernung zeigt eine Seite, die die NASA-Sonde DART 2022 nicht sah.",
+          "titel": "Ballaststoffe könnten Nanoplastik ausschwemmen",
+          "satz": "Mäuse mit viel Zellulose im Futter schieden bis zu 94 Prozent der Partikel binnen 24 Stunden aus.",
+          "text": "Forscher in Guangzhou fütterten Mäuse mit unterschiedlich viel Zellulose und markiertem Nanoplastik. Bei faserreicher Kost blieb die Darmwand weitgehend intakt, Partikel in der Leber fanden sich nur bei Standardfutter. Ob das beim Menschen wirkt, ist unbewiesen.",
+          "quelle": "scinexx",
+          "url": "https://www.scinexx.de/news/medizin/ballaststoffreiche-ernaehrung-koennte-nanoplastik-aus-dem-darm-befoerdern/",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Rechenzentren könnten Wasserstress verursachen",
+          "satz": "Bis 2030 könnte der Kühlwasserbedarf deutscher Rechenzentren auf 27 Milliarden Liter jährlich steigen.",
+          "text": "Laut einer Kurzstudie des Öko-Instituts für Greenpeace verbrauchten Rechenzentren 2025 rund 13 Milliarden Liter Wasser. Ein einzelnes 100-Megawatt-Zentrum könnte je nach Kühlung bis zu 930 Millionen Liter im Jahr benötigen. Trockenkühlung würde den direkten Verbrauch auf null senken.",
           "quelle": "Spektrum.de",
-          "url": "https://www.spektrum.de/news/hera-asteroid-didymos-voraus/2353023",
+          "url": "https://www.spektrum.de/news/studie-zum-ki-boom-mit-neuen-rechenzentren-droht-wasserstress/2353019",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Ältester direkter Nachweis von Cannabiskonsum",
-          "satz": "In einem 2800 Jahre alten Skythengrab in Sibirien fanden Forscher THC-Abbauprodukte in menschlichem Haar.",
-          "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238076/",
-          "datum": "2026-11-06"
+          "titel": "Alternatives Weltmodell ohne Dunkle Materie getestet",
+          "satz": "Das Modell schätzt das Universum auf 26,7 statt 13,8 Milliarden Jahre.",
+          "text": "Forscher der Universität Ottawa prüften die Kosmologie CCC+TL, die ohne Dunkle Materie und Dunkle Energie auskommt. Sie erklärt leichte Elemente und Galaxienrotation ähnlich gut, beruht aber auf unbestätigten Annahmen. Künftige Beobachtungen des Webb-Teleskops könnten das Modell prüfen.",
+          "quelle": "scinexx",
+          "url": "https://www.scinexx.de/news/kosmos/modell-eines-aelteren-universums-ohne-dunkle-materie-und-dunkle-energie-besteht-weitere-tests/",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "NZZ, heise, SZ und Spiegel nicht abrufbar; Ersatz: science.ORF.at, Spektrum.de (scinexx-Artikel nicht abrufbar)."
+      "hinweis": "NZZ, heise, SZ und Spiegel nicht abrufbar; Ersatz: science.ORF.at, scinexx, Spektrum.de."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Apple-Stores: Kritik an Abo-Abschlüssen ohne Zustimmung",
-          "satz": "Nach Videos von Louis Rossman strich Apple eine Abo-Quote für Verkäufer und mahnte per Memo Einwilligung an.",
+          "titel": "Siri soll ein Gedächtnis bekommen",
+          "satz": "Code in der Beta von iOS 27.3 zeigt einen „Memory Graph“ für Beziehungen, Orte und Routinen.",
+          "text": "Ein Entwickler fand Hinweise auf ein persönliches Gedächtnissystem, das Siri Informationen über das Leben der Nutzer merken lässt. Ausgewertet werden sollen Gespräche, Nachrichten, Fotos und Gesundheitsdaten, lokal oder über Private Cloud Compute. Das System ist unfertig, ein Starttermin unbekannt.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
-          "datum": "2026-11-08"
+          "url": "https://www.macrumors.com/2026/11/09/siri-could-get-better-remembering-your-life/",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Frankreich: Parlament stimmt für Datensteuer",
-          "satz": "Die Nationalversammlung billigte einen Antrag der Sozialisten für 5,5 Cent Abgabe pro übertragenem Gigabyte.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w45.100211/",
-          "datum": "2026-11-08"
+          "titel": "Samsung testet Abo für Galaxy-KI",
+          "satz": "Das Max-Abo soll rund fünf Dollar im Monat kosten, Gratisfunktionen sollen Limits bekommen.",
+          "text": "Samsung testet laut Berichten „Galaxy AI Premium“ mit ausgewählten Nutzern; bisher sind die KI-Funktionen kostenlos. Gratisfunktionen sollen erstmals Nutzungsgrenzen bekommen, danach wären Zusatzpakete nötig. Die Preise stammen aus Code-Funden und können sich ändern.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/galaxy-ai-samsung-will-fuer-ki-funktionen-offenbar-geld-sehen-das-steckt-im-geplanten-abo-1772363/",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Zelda-Remake läuft nach zwei Tagen auf dem PC",
-          "satz": "Das Projekt Hookshot macht die Switch-2-Version ohne Emulator zur Windows-Anwendung; ganz spielbar ist sie noch nicht.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/gaming/zelda-ocarina-of-time-laeuft-nach-2-tagen-schon-auf-dem-pc.100226/",
+          "titel": "Ratenkauf: Klarna & Co. prüfen genauer",
+          "satz": "Ab 20. November gilt die EU-Verbraucherkreditrichtlinie auch für kleine, kurze Ratenkäufe.",
+          "text": "Anbieter von „Buy now, pay later“ wie Klarna oder Paypal müssen künftig die Kreditwürdigkeit strenger prüfen. Gefragt werden darf nach Einkommen, Miete und bestehenden Krediten, angemessen zu Betrag und Risiko. Auch eine Schufa-Abfrage ist möglich.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/neue-regeln-fuer-ratenkaeufe-klarna-paypal-und-co-fragen-jetzt-genauer-nach-1772382/",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "macOS 27.3: Strengere Regeln für Festplattenzugriff",
+          "satz": "Apps ohne Berechtigung sollen in den Einstellungen nicht mehr als Schnellschalter erscheinen.",
+          "text": "Apple reagiert auf KI-Agenten, die vollen Festplattenzugriff verlangen und Nutzerdaten falsch behandeln. Ein bisher genutztes Schlupfloch soll ab macOS 27.3 geschlossen werden. Kritiker bezweifeln, dass das reicht, die Funktion ist noch in Entwicklung.",
+          "quelle": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
           "datum": "2026-11-08"
         }
       ],
-      "hinweis": "heise (Startseite ohne aktuelle Meldungen) und CHIP nicht abrufbar; Ersatz: ComputerBase."
+      "hinweis": "heise (robots-Sperre), CHIP und golem.de (Cookie-Wand) nicht abrufbar; Ersatz: t3n, 9to5Mac."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Anthropic will noch vor Thanksgiving an die Börse",
-          "satz": "Laut Financial Times sollen 80 bis 100 Milliarden Dollar bei bis zu 1,75 Billionen Bewertung eingesammelt werden.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
-          "datum": "2026-11-07"
+          "titel": "Offene KI-Modelle hacken fast wie OpenAI",
+          "satz": "DeepSeek löste 73 Prozent der Hacking-Aufgaben, OpenAIs GPT-6 Sol Daybreak 81 Prozent.",
+          "text": "Die Sicherheitsfirma Vals ließ KI-Modelle ohne menschliche Hilfe simulierte Firmennetze angreifen. Ein DeepSeek-Angriff kostete unter drei Dollar, ein vergleichbarer mit OpenAI-Modell rund 22. Vals erwartet mehr KI-Cyberangriffe mit günstigen Modellen.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/hacking-open-weight-openai-ki-1772281",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "OpenAI stellt GPT-6 Cyber für Sicherheitsforscher vor",
-          "satz": "Das nur für geprüfte Organisationen verfügbare Modell fand laut OpenAI 81 bisher unbekannte Lücken in Firefox.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/openai-will-mit-gpt-6-cyber-das-aufspueren-von-sicherheitsluecken-erleichtern-doch-es-gibt-auch-kritik-1772107",
+          "titel": "Anthropic: KI als Partner beim Modellbau",
+          "satz": "Tübinger Forscher beschreiben, wie KI wissenschaftliche Modelle bauen und an Daten anpassen kann.",
+          "text": "In einem Gastbeitrag zeigen Forscher der Universität Tübingen, wie simulationsbasierte Inferenz und LLM-Agenten Modelle vorschlagen und prüfen. Bisher entdeckten solche Systeme meist bekannte Modelle wieder. Die Interpretation bleibe der schwierigste Schritt für die KI.",
+          "quelle": "Anthropic",
+          "url": "https://anthropic.com/research/teaching-ai-to-build-scientific-models",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Sutton: Rechenleistung allein schafft keine Intelligenz",
-          "satz": "Der Turing-Preisträger fordert neue Methoden wie lernende Agenten mit Weltmodellen statt bloßer Skalierung von Sprachmodellen.",
+          "titel": "ChatGPT bekommt eine Art Search Console",
+          "satz": "Firmen sollen sehen können, wie oft sie in ChatGPT-Antworten erscheinen und angeklickt werden.",
+          "text": "OpenAI entwickelt laut Berichten einen Business-Bereich, in dem verifizierte Firmen Impressionen und Klicks einsehen. Unternehmen könnten zudem Produktdaten und Öffnungszeiten hinterlegen. Die Beta ist noch nicht öffentlich, ein Start ist nicht bestätigt.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/openai-so-findest-du-bald-heraus-wie-oft-dein-unternehmen-in-chatgpt-auftaucht-1772409",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Google-KI erkennt Bluthochdruck per Smartwatch",
+          "satz": "Die Uhr erkannte 65,8 Prozent der Betroffenen, die Messung in der Praxis 55,3 Prozent.",
+          "text": "Google Research trainierte ein Modell mit fast 500.000 Stunden Sensordaten aus Puls- und Bewegungssensoren. In einer Studie mit 196 Personen schnitt die Uhr besser ab als die Einzelmessung. Das Verfahren ersetzt keine Diagnose, soll aber zum Arztbesuch anregen.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/erfinder-der-bitteren-lektion-warnt-ki-wissenschaft-ist-noch-lange-nicht-am-ziel/",
-          "datum": "2026-11-08"
+          "url": "https://the-decoder.de/ki-von-google-erkennt-bluthochdruck-nur-mit-puls-und-bewegungssensor-einer-smartwatch/",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "heise und anthropic.com/news nicht abrufbar; Ersatz: The Decoder, t3n."
+      "hinweis": "heise nicht abrufbar; Ersatz: t3n, The Decoder."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Großbrand in früherer Finanzkaserne am Timmelsjoch",
-          "satz": "Feuerwehren aus Rabenstein, Moos in Passeier und Gurgl kämpften am Sonntagabend gegen die Flammen; Ursache noch unklar.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/09/grossbrand-am-timmelsjoch-ehemalige-finanzkaserne-in-flammen/",
+          "titel": "Stromausfall legt Teile Bozens lahm",
+          "satz": "Ampeln fielen aus, Feuerwehrleute befreiten Menschen aus Aufzügen.",
+          "text": "Am Montagnachmittag fiel in mehreren Vierteln von Bozen, in Meran und anderen Gemeinden der Strom aus. Im Palais Widmann ging zeitgleich ein Alarm los, das Gebäude wurde geräumt. Die Ursache war zunächst unklar.",
+          "quelle": "Südtirol News",
+          "url": "https://www.suedtirolnews.it/chronik/stromausfall-legt-teile-bozens-lahm",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Percha hat Südtirols beste Kinderküche",
-          "satz": "Die Auszeichnung der Initiative für gesunde Kindergarten- und Schulmahlzeiten wurde erstmals vergeben; 17 Gemeinden nahmen teil.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/08/percha-erhaelt-auszeichnung-als-kinderkueche-des-jahres/",
-          "datum": "2026-11-08"
+          "titel": "Brennerbasistunnel: Lösegeld nach Cyberangriff",
+          "satz": "Hacker erbeuteten 812 Gigabyte Daten und verlangen nun Lösegeld.",
+          "text": "Der Angriff auf die BBT SE erfolgte am 17. Oktober und traf den Server für externen Datenaustausch. Der Baubetrieb sei nie beeinträchtigt gewesen, gestohlen wurden vor allem Ausschreibungs- und Vermessungsunterlagen. Italienische Behörden ermitteln.",
+          "quelle": "Südtirol News",
+          "url": "https://www.suedtirolnews.it/politik/brenner-basistunnel-loesegeldforderung-nach-cyberangriff",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Versteckte Kamera überführt Diebin in Wäscherei",
-          "satz": "Eine 21-Jährige soll im Betrieb zwischen Auer und Pfatten knapp 500 Euro aus Spinden von Kolleginnen gestohlen haben.",
-          "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/chronik/versteckte-kamera-entlarvt-mitarbeiterin-21",
-          "datum": "2026-11-08"
+          "titel": "Landesregierung will Afi-Institut umbauen",
+          "satz": "Das Arbeitsförderungsinstitut könnte in die Landesverwaltung eingegliedert oder Stiftung werden.",
+          "text": "Kritiker sehen die Unabhängigkeit des Instituts bei Studien zu Arbeitsmarkt und Lebenshaltungskosten gefährdet. ASGB-Chef Tony Tschenett vermutet, dass die Pläne auf Direktor Stefan Perini zielen. Die SVP-Arbeitnehmer beraten diese Woche mit Landesrätin Magdalena Amhof.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/de/article/09112026/afi-institut-soll-maulkorb-bekommen",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "HGV verteidigt Zahlen zu Ferienwohnungen",
+          "satz": "Laut ASTAT kamen binnen eines Jahres 1.658 Hotelbetten hinzu.",
+          "text": "Der Hoteliers- und Gastwirteverband reagiert auf Kritik von salto.bz an seinen Daten zu touristischen Vermietungen. In Meran stiegen private Gästebetten von 2015 bis 2025 von 313 auf 1.834, in Bozen von 254 auf 1.414. Ferienwohnungen seien nicht die einzige Ursache hoher Wohnkosten, könnten sie aber verstärken.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/de/article/09112026/affitti-turistici-la-replica-dellhgv",
+          "datum": "2026-11-09"
         }
       ],
-      "hinweis": "Rai Südtirol und stol.it nicht abrufbar; salto.bz ohne verwertbare Meldung der letzten 24 h. Ersatz: UnserTirol24, suedtirolnews.it."
+      "hinweis": "Rai Südtirol und stol.it nicht abrufbar; Ersatz: Südtirol News."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Hoeneß zweifelt an alter Stärke von Musiala",
-          "satz": "Der Bayern-Ehrenpräsident sagte, Musialas neurologische Erkrankung sei nicht leicht heilbar, aber mit Medikamenten beherrschbar.",
+          "titel": "Kane stellt neuen Bundesliga-Rekord auf",
+          "satz": "Noch nie gab ein Spieler nach neun Spieltagen mehr Vorlagen: Kane steht bei acht.",
+          "text": "Laut Opta hat seit 2004/05 kein Bundesliga-Spieler in den ersten neun Runden mehr Tore vorbereitet als der Bayern-Stürmer. Zwei Vorlagen gab er beim 2:1 in Mainz. Nächste Chance ist das Heimspiel gegen Köln am 20. November.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-uli-hoeness-hat-zweifel-an-musiala",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "Klopp beruft Freiburger Scherhant und Treu erneut",
-          "satz": "Trainer Schuster spricht nach dem 2:0 gegen Union, das Freiburg auf Rang drei brachte, von einer Riesenehre.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/schuster-nati-nominierungen-fuer-freiburger-eine-riesenehre",
+          "url": "https://wp.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-naechster-rekord-fuer-harry-kane",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Rodionov gewinnt Challenger in Bratislava",
-          "satz": "Mit dem 6:2, 6:1 gegen Jerome Kym steigt er auf Weltranglistenplatz 118 und wird Österreichs Nummer eins.",
-          "quelle": "ORF Sport",
-          "url": "https://sport.orf.at/stories/3164670/",
-          "datum": "2026-11-08"
+          "titel": "Alcaraz vor ATP Finals in Topform",
+          "satz": "Nach den Titeln in Wien und Paris gilt er als Favorit; Sinner fehlt verletzt.",
+          "text": "Alcaraz besiegte im Pariser Masters-Finale Ben Shelton in zwei Sätzen. Die ATP Finals in Turin beginnen am Sonntag, Zverev geht als Weltranglistenerster in die Winterpause. Alcaraz hat das Saisonfinale noch nie gewonnen.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/tennis/atp/2026/11/nicht-in-meiner-hand-alcaraz-favorit-bei-den-finals",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Bayern-Frauen mit Bühl gegen PSG",
+          "satz": "Torjägerin Klara Bühl kehrt für das Champions-League-Spiel in Paris zurück.",
+          "text": "Die Bayern spielen am Dienstag um 21 Uhr im Parc des Princes gegen Paris Saint-Germain. Kapitänin Glódís Viggósdóttir ist wieder fit, Vanessa Gilles fällt wochenlang aus. Beide Teams haben fünf Punkte, die Top vier ziehen direkt ins Viertelfinale ein.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/frauen-champions-league/2026/11/fc-bayern-schluesselspielerin-buehl-fit-fuer-psg-kracher",
+          "datum": "2026-11-09"
         }
       ],
-      "hinweis": "Ersatz: ORF Sport (Tennis). Keine Ski-Weltcup-Meldung der letzten 24 Stunden."
+      "hinweis": "Nur Sport1 lieferte Meldungen der letzten 24 Stunden (daher drei Sport1-Meldungen); keine aktuelle Ski-Weltcup-Meldung (Saisonpause bis Levi)."
+    },
+    "steuern": {
+      "titel": "Steuern",
+      "items": [
+        {
+          "titel": "Forfettari: Doppelte Schwelle ab 2027",
+          "satz": "Für die Einkommensteuer soll die Grenze auf 100.000 Euro steigen, für die MwSt. bleibt sie bei 85.000.",
+          "text": "Der Entwurf des Haushaltsgesetzes 2027 hebt die Schwelle des regime forfettario für die imposta sostitutiva an, die IVA-Befreiung braucht aber erst grünes Licht der EU. Wer zwischen 85.000 und 100.000 Euro erlöst, bliebe pauschal besteuert, müsste aber IVA anwenden. Das bedeutet Register, Abrechnungen und Erklärungen.",
+          "quelle": "ItaliaOggi",
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/manovra-2027-il-regime-forfettario-diventa-un-labirinto-fiscale-q8kymehp",
+          "datum": "2026-11-03"
+        },
+        {
+          "titel": "Prima casa: Kauf im Ausland schützt Begünstigung",
+          "satz": "Die Agentur bestätigt in risposta n. 200/2026 keinen Verlust der Erstwohnungsbegünstigung.",
+          "text": "Wer zuerst eine Wohnung im Ausland als Hauptwohnsitz kauft und das begünstigte Objekt in Italien binnen zwei Jahren verkauft, verliert die agevolazione prima casa nicht. Der Haushaltsentwurf soll mehrere Fristen der Nota II-bis zum DPR 131/1986 auf zwei Jahre vereinheitlichen. Das könnte die Antwort der Agentur überholen.",
+          "quelle": "Eutekne",
+          "url": "https://www.eutekne.info/Sezioni/Articolo.aspx?ID=1130496",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Kompensationsverbot schon ab 30.000 Euro",
+          "satz": "Die Grenze für offene Steuerrollen (ruoli scaduti) soll von 50.000 auf 30.000 Euro sinken.",
+          "text": "Nach Art. 37 Abs. 49-quinquies DL 223/2006 ist die Verrechnung im F24 bei unbezahlten Rollen über 50.000 Euro verboten. Geplant ist eine Senkung auf 30.000 Euro. Sie dürfte für Kompensationen ab 2027 gelten.",
+          "quelle": "Eutekne",
+          "url": "https://www.eutekne.info/Sezioni/Articolo.aspx?ID=1130517",
+          "datum": "2026-11-06"
+        }
+      ],
+      "hinweis": "Agenzia delle Entrate, FiscoOggi und ilsole24ore.com nicht abrufbar; Ersatz: ItaliaOggi, Eutekne (nur frei lesbare Vorspänne). Keine amtliche Quelle."
     }
   }
 }
