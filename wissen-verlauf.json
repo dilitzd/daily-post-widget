@@ -78,5 +78,40 @@
     "datum": "2026-11-08",
     "typ": "bau",
     "wert": "Fallingwater"
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "artikel",
+    "wert": "https://www.nationalgeographic.com/science/article/november-2026-night-sky-events"
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "ort",
+    "wert": "Luang Prabang"
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Österreich zählte am 1. Jänner 2026 rund 9,22 Millionen Einwohner, 21.900 mehr als 2025."
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "fakt",
+    "wert": "Wirtschaft: In der EU waren im September 2026 rund 13,8 Millionen Menschen arbeitslos."
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "fakt",
+    "wert": "Klima: Die CO₂-Konzentration erreichte 2025 den Rekordwert von 426,8 ppm – 153 Prozent des vorindustriellen Niveaus."
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "wiki",
+    "wert": "Riccardo Ehrman"
+  },
+  {
+    "datum": "2026-11-09",
+    "typ": "bild",
+    "wert": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg"
   }
 ]

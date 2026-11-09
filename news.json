@@ -1,77 +1,77 @@
 {
-  "updated": "2026-11-08T19:22:26+01:00",
+  "updated": "2026-11-09T06:56:46+01:00",
   "zitat": {
-    "text": "Gebt mir die Freiheit, zu wissen, mich zu äußern und frei nach meinem Gewissen zu argumentieren – über alle anderen Freiheiten.",
-    "original": "Give me the liberty to know, to utter, and to argue freely according to conscience, above all liberties.",
-    "person": "John Milton",
-    "info": "Englischer Dichter und Publizist, 1608–1674",
-    "quelle": "Areopagitica, 1644",
-    "url": "https://oll.libertyfund.org/quotes/51",
-    "datum": "2026-11-08"
+    "text": "Der Kosmos ist alles, was ist, was je war und was je sein wird.",
+    "original": "The cosmos is all that is, or ever was, or ever will be.",
+    "person": "Carl Sagan",
+    "info": "Astronom, 1934–1996",
+    "quelle": "Cosmos (1980), S. 4",
+    "url": "https://todayinsci.com/S/Sagan_Carl/SaganCarl-Cosmos-Quotations.htm",
+    "datum": "2026-11-09"
   },
   "artikel": {
-    "norm": "Art. 109 TUIR",
-    "gesetz": "DPR 917/1986 – Testo unico delle imposte sui redditi",
-    "titel": "Norme generali sui componenti del reddito d'impresa",
-    "auszug": "I ricavi, le spese e gli altri componenti […] concorrono a formare il reddito nell'esercizio di competenza; tuttavia […] di cui […] non sia ancora certa l'esistenza o determinabile in modo obiettivo l'ammontare concorrono a formarlo […].",
-    "erklaerung": "Kompetenzprinzip (principio di competenza): Erträge und Aufwendungen zählen im Jahr ihrer wirtschaftlichen Zugehörigkeit; ungewisse oder nicht objektiv bestimmbare erst, wenn Existenz gewiss bzw. Betrag bestimmbar ist. Zentral für Periodenabgrenzung. Ab 1.1.2027 ersetzt durch Art. 118 D.Lgs. 117/2026 (neuer Testo unico).",
-    "url": "https://brocardi.it/testo-unico-imposte-redditi/titolo-ii/capo-ii/sezione-i/art109.html",
-    "stand": "2026-09-26",
-    "datum": "2026-11-08"
+    "norm": "Art. 19 DPR 633/1972",
+    "gesetz": "DPR 633/1972 – Istituzione e disciplina dell'imposta sul valore aggiunto",
+    "titel": "Detrazione",
+    "auszug": "Il diritto alla detrazione dell'imposta relativa ai beni e servizi acquistati o importati sorge nel momento in cui l'imposta diviene esigibile ed è esercitato al più tardi con la dichiarazione relativa al secondo anno successivo […]",
+    "erklaerung": "Regelt den Vorsteuerabzug (detrazione) für Einkäufe und Importe im Rahmen von Unternehmen, Kunst oder Beruf. Das Recht entsteht mit der Fälligkeit der Steuer (esigibilità) und muss spätestens in der Erklärung des zweiten Folgejahres ausgeübt werden. Comma 1 wurde durch D.Lgs. 148/2026 geändert.",
+    "url": "https://www.brocardi.it/testo-unico-iva/titolo-i/art19.html",
+    "stand": "2026-08-12",
+    "datum": "2026-11-09"
   },
   "wissen": {
-    "quelle": "Welt der Wunder",
-    "titel": "Hyänen: Clans unter weiblicher Führung",
-    "zusammenfassung": "Tüpfelhyänen leben in Clans mit bis zu 80 Tieren, an deren Spitze die Weibchen stehen; Männchen bilden die unterste Stufe. Wer zuerst frisst, entscheidet streng der Rang.",
-    "url": "https://www.weltderwunder.de/machtige-clans-so-leben-hyanen/",
-    "datum": "2026-10-30"
+    "quelle": "National Geographic",
+    "titel": "Sternschnuppen und Supermond am Novemberhimmel",
+    "zusammenfassung": "Im November 2026 erreichen drei Meteorströme ihren Höhepunkt, darunter die Leoniden am 17. und 18. November. Am 24. November folgt der erste Supermond seit Januar.",
+    "url": "https://www.nationalgeographic.com/science/article/november-2026-night-sky-events",
+    "datum": "2026-10-29"
   },
   "ort": {
-    "name": "Kilimandscharo",
-    "land": "Tansania",
-    "lat": -3.0758,
-    "lon": 37.3533,
-    "zoom": 8,
-    "beschreibung": "Mit dem 5895 Meter hohen Kibo trägt das Massiv Afrikas höchsten Gipfel; seine Gletscher schrumpfen seit 1912 stark.",
-    "url": "https://de.wikipedia.org/wiki/Kilimandscharo",
-    "datum": "2026-11-08"
+    "name": "Luang Prabang",
+    "land": "Laos",
+    "lat": 19.8856,
+    "lon": 102.1347,
+    "zoom": 9,
+    "beschreibung": "Die einstige Königsstadt liegt auf einer Landzunge zwischen Mekong und Nam Khan und ist seit 1995 UNESCO-Welterbe.",
+    "url": "https://de.wikipedia.org/wiki/Luang_Prabang",
+    "datum": "2026-11-09"
   },
   "fakten": [
     {
       "thema": "Bevölkerung",
-      "text": "Italien zählte am 1. Januar 2026 rund 58,94 Millionen Einwohner (vorläufig).",
-      "quelle": "ISTAT",
-      "url": "https://www.istat.it/comunicato-stampa/indicatori-demografici-anno-2025/"
+      "text": "Österreich zählte am 1. Jänner 2026 rund 9,22 Millionen Einwohner, 21.900 mehr als 2025.",
+      "quelle": "Statistik Austria",
+      "url": "https://www.statistik.at/fileadmin/announcement/2026/02/20260209Bevoelkerung1.1.2026.pdf"
     },
     {
       "thema": "Wirtschaft",
-      "text": "Italiens BIP stagnierte im dritten Quartal 2026, lag aber 0,8 % über Vorjahr.",
-      "quelle": "ISTAT",
-      "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/"
+      "text": "In der EU waren im September 2026 rund 13,8 Millionen Menschen arbeitslos.",
+      "quelle": "Destatis",
+      "url": "https://www.destatis.de/Europa/EN/Topic/Population-Labour-Social-Issues/Labour-market/EULabourMarketCrisis.html"
     },
     {
       "thema": "Klima",
-      "text": "Österreich verzeichnete im Oktober 2026 ein Niederschlagsdefizit von 40 Prozent.",
-      "quelle": "GeoSphere",
-      "url": "https://www.geosphere.at/de/aktuelles/news/der-oktober-verlaengerte-die-enorme-trockenheit"
+      "text": "Die CO₂-Konzentration erreichte 2025 den Rekordwert von 426,8 ppm – 153 Prozent des vorindustriellen Niveaus.",
+      "quelle": "UN/WMO",
+      "url": "https://news.un.org/en/story/2026/10/1168677"
     }
   ],
   "wiki": {
-    "titel": "Grammophon",
-    "zusammenfassung": "Am 8. November 1887 wurde Emil Berliners Grammophon patentiert. Statt Edisons Walze nutzte es flache Platten mit seitlich geschnittener Rille, die sich billig pressen ließen. Das Format prägte die Tonaufzeichnung bis in die 1980er-Jahre.",
-    "url": "https://de.wikipedia.org/wiki/Grammophon",
-    "datum": "2026-11-08"
+    "titel": "Riccardo Ehrman",
+    "zusammenfassung": "Der italienische Journalist war 1989 Berlin-Korrespondent der Agentur ANSA. Am 9. November fragte er Günter Schabowski nach der neuen Reiseregelung; dessen Antwort, sie gelte sofort, trieb Massen an die Grenzübergänge.",
+    "url": "https://de.wikipedia.org/wiki/Riccardo_Ehrman",
+    "datum": "2026-11-09"
   },
   "bild": {
-    "kurz": "Goosenecks",
-    "titel": "Flussschleifen des San Juan River aus dem All",
-    "beschreibung": "Ein ISS-Astronaut fotografierte die bis zu 300 Meter tief eingeschnittenen Mäander des San Juan River im Süden Utahs.",
-    "kategorie": "Natur",
-    "bild_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah%E2%80%99s-goosenecks/ISS075-E-188830.jpg?w=2048&h=1365&fit=clip&crop=faces%2Cfocalpoint",
-    "bild_seite": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-    "fotograf": "Expedition-75-Crew, ISS Crew Earth Observations Facility / NASA JSC",
-    "lizenz": "Public Domain (NASA)",
-    "datum": "2026-11-08"
+    "kurz": "Kugelsternhaufen M30",
+    "titel": "Funkelnde Sterne im Kugelsternhaufen Messier 30",
+    "beschreibung": "Das Weltraumteleskop Hubble von NASA und ESA nahm den Kugelsternhaufen Messier 30 auf, der auch NGC 7099 heißt.",
+    "kategorie": "Astronomie",
+    "bild_url": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+    "bild_seite": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
+    "fotograf": "ESA/Hubble & NASA, M. Libralato, G. Piotto, A. Sarajedini",
+    "lizenz": "CC BY 4.0 (ESA/Hubble & NASA)",
+    "datum": "2026-11-09"
   },
   "bau": {
     "name": "Fallingwater",
@@ -93,225 +93,197 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Krakau: Terrorermittlungen nach Schüssen auf Marktplatz",
-          "satz": "Der Täter tötete sechs Passanten und zuvor wohl Eltern und Schwester; Polen trauert zwei Tage.",
+          "titel": "Hormuz, petroliera in fiamme dopo una mina",
+          "satz": "Trump conferma un attacco Usa su piccola scala sull'isola iraniana di Qeshm; il Qatar fa da mediatore.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/iran-stronger-than-at-the-start-of-the-war-new-us-attack-on-qeshm-island-AJSPzE8B",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Strage di Cracovia: salgono a nove i morti",
+          "satz": "Nella casa dell'attentatore 24enne trovati morti genitori e sorella; la procura indaga per terrorismo.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/who-is-micha-oksinski-killer-krakw-weapons-ultra-nationalist-ideas-AJyDwS9B",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Trump zweifelt Midterm-Ergebnis an und droht Demokraten",
+          "satz": "Er fordert Ermittlungen gegen Demokraten, die ihrerseits Untersuchungen gegen ihn und seine Regierung angekündigt haben.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3447586/",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Papst Leo: Wirtschaft soll den Menschen dienen",
+          "satz": "In Argentinien erinnerte er an Familien, Arbeitssuchende und Ältere, die unter wirtschaftlicher Unsicherheit leiden.",
           "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/cracovia-lattentatore-e-gravemente-ferito.-in-casa-morti-padre-madre-e-sorella_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/il-papa-in-argentina-leconomia-sia-al-servizio-della-persona_0c30e401-adb7-40e7-8e82-1c54f4a68f1e.html",
           "datum": "2026-11-08"
-        },
-        {
-          "titel": "Egitto, scontro tra treni a sud del Cairo",
-          "satz": "Almeno quattro morti e quasi 90 feriti nella provincia di Giza; al-Sisi ha ordinato un'indagine rapida.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/mondo/scontro-treni-egitto-immagini-convogli-deragliati/AJIgVO9B",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "Israele, Herzog affida il governo a Eisenkot",
-          "satz": "A Tel Aviv i cittadini parlano di grave conflitto interno, per alcuni Netanyahu resta il vero leader.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/mondo/israele-herzog-affida-governo-eisenkot-opinione-cittadini-tel-aviv/AJUMRO9B",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "Dublino, corteo contro i nuovi data center",
-          "satz": "I manifestanti contestano i profitti delle Big Tech con strutture energivore e inquinanti.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/mondo/dublino-corteo-contro-diffusione-data-center-paese/AJJpur8B",
-          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Spiegel, NZZ und ilsole24ore.com (www) nicht abrufbar, Economist nicht erreicht; Il Sole über stream24.ilsole24ore.com (dort nur kurze Videotexte). Ersatzquelle: ANSA."
+      "hinweis": "Spiegel, NZZ, SZ und Economist nicht abrufbar; ilsole24ore.com (www) gesperrt, daher englische Ausgabe en.ilsole24ore.com genutzt (Texte auf Italienisch). Ersatz: ORF, ANSA."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Ex Ilva: Frist für bindende Angebote läuft ab",
-          "satz": "Als Bieter gilt Jindal; Lohnausgleich (CIG) wurde für bis zu 8.622 Beschäftigte beantragt.",
+          "titel": "Ex Ilva, scade il bando: Flacks si ritira",
+          "satz": "Resta sul tavolo l'offerta di Jindal; chiesta la cassa integrazione straordinaria per un massimo di 8.622 lavoratori.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/former-ilva-sources-flacks-offered-only-a-meeting-with-meloni-AJHsNW9B",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Consob gibt grünes Licht für Intesa-Angebot auf MPS",
+          "satz": "Die Annahmefrist für das 31,8-Milliarden-Euro-Angebot läuft vom 24. November 2026 bis 22. Januar 2027.",
           "quelle": "ANSA",
-          "url": "https://ansa.it/sito/notizie/economia/2026/11/08/ex-ilva-a-mezzanotte-scade-il-termine-per-le-offerte-vincolanti_99cfe7b4-0b94-4e3b-ae5c-fb43a5163cea.html",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/via-libera-della-consob-allofferta-di-intesa-per-mps-si-parte-il-24-novembre_15c55497-bc22-4473-aef0-930c9724f4f4.html",
           "datum": "2026-11-08"
         },
         {
-          "titel": "Schlein: la manovra taglia la sanità",
-          "satz": "Secondo la segretaria del Pd la legge di bilancio aumenta invece la spesa militare.",
+          "titel": "Manovra 2027, sindacati e banche all'attacco",
+          "satz": "Da lunedì le audizioni alla Camera; l'Osservatorio sui conti pubblici stima la pressione fiscale al 43,2% nel 2027.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/italia/schlein-la-manovra-taglia-sanita-e-aumenta-spesa-militare/AJ0wrM9B",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "Torino, nuova protesta contro caro-vita e riarmo",
-          "satz": "In piazza bruciate le bollette di casa; alla manifestazione hanno partecipato anche gli agricoltori.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://stream24.ilsole24ore.com/video/economia/torino-nuova-manifestazione-contro-caro-vita-e-riarmo/AJv2hn8B",
+          "url": "https://en.ilsole24ore.com/art/2027-budget-under-fire-trade-unions-banks-and-local-authorities-on-the-offensive-against-government-measures-AJFHKm8B",
           "datum": "2026-11-07"
-        },
-        {
-          "titel": "Italien wappnet Finanzsektor gegen Cyberangriffe",
-          "satz": "Die Banca d'Italia verlangt bis Jahresende auch von kleineren Banken Angaben zu Angriffsrisiken und Notfallplänen.",
-          "quelle": "ANSA",
-          "url": "https://ansa.it/sito/notizie/economia/2026/11/08/finanza-sotto-la-lente-cyber-codise-e-certfin-contro-le-minacce_d9bbfbe8-53e0-4272-894b-d213e867c52c.html",
-          "datum": "2026-11-08"
         }
       ],
-      "hinweis": "NZZ, SZ und ilsole24ore.com (www) nicht abrufbar, Economist und WSJ nicht erreicht; Il Sole über stream24.ilsole24ore.com (Wochenende, nur kurze Videotexte). Ersatzquelle: ANSA."
+      "hinweis": "NZZ, SZ, Economist und WSJ nicht abrufbar; ilsole24ore.com (www) gesperrt, daher englische Ausgabe genutzt (Texte auf Italienisch). Ersatz: ANSA."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "1,5-Grad-Grenze wird fast sicher überschritten",
-          "satz": "Laut Copernicus war der Oktober 2026 mit 1,75 Grad über vorindustriellem Niveau der wärmste je gemessene.",
+          "titel": "Rückkopplung macht Hitzewellen rund zehn Prozent heißer",
+          "satz": "Trockene Böden und Hochdruck verstärken Extremhitze; in Mitteleuropa stieg die Wahrscheinlichkeit dafür von 6 auf 23 Prozent.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238087/",
+          "url": "https://science.orf.at/stories/3238085/",
           "datum": "2026-11-06"
         },
         {
-          "titel": "KI-Rechenzentren könnten Wasserbedarf verdoppeln",
-          "satz": "Laut Öko-Institut könnte deutscher Kühlwasserbedarf bis 2030 von 13 auf 27 Milliarden Liter steigen.",
+          "titel": "Raumsonde Hera fotografiert Asteroid Didymos",
+          "satz": "Das Bild aus rund 60 Kilometern Entfernung zeigt eine Seite, die die NASA-Sonde DART 2022 nicht sah.",
           "quelle": "Spektrum.de",
-          "url": "https://www.spektrum.de/news/studie-zum-ki-boom-mit-neuen-rechenzentren-droht-wasserstress/2353019",
+          "url": "https://www.spektrum.de/news/hera-asteroid-didymos-voraus/2353023",
           "datum": "2026-11-06"
         },
         {
-          "titel": "Neue Software macht verborgene Exoplaneten sichtbar",
-          "satz": "Das Programm FLIP machte Webb-Aufnahmen bis zu 15-mal empfindlicher und zeigte den Planeten 51 Eridani b.",
-          "quelle": "Spektrum.de",
-          "url": "https://www.spektrum.de/news/suche-nach-exoplaneten-dem-sternenlicht-ein-schnippchen-schlagen/2352788",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "So zwängen sich Oktopusse durch kleine Löcher",
-          "satz": "Bei engen Öffnungen schieben Gemeine Kraken zuerst alle Arme durch, danach Kopf und Mantel.",
+          "titel": "Ältester direkter Nachweis von Cannabiskonsum",
+          "satz": "In einem 2800 Jahre alten Skythengrab in Sibirien fanden Forscher THC-Abbauprodukte in menschlichem Haar.",
           "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238079/",
+          "url": "https://science.orf.at/stories/3238076/",
           "datum": "2026-11-06"
         }
       ],
-      "hinweis": "NZZ nicht abrufbar, heise gesperrt, Spiegel und SZ gesperrt (Stand 05.11.); Ersatz: science.ORF.at, Spektrum.de (scinexx-Artikel nicht abrufbar)."
+      "hinweis": "NZZ, heise, SZ und Spiegel nicht abrufbar; Ersatz: science.ORF.at, Spektrum.de (scinexx-Artikel nicht abrufbar)."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Bericht: Nvidia-Chef Huang angeblich mit Spionin liiert",
-          "satz": "Laut Financial Times soll eine Ex-Managerin von Megaspeed für Chinas Staatssicherheit arbeiten; Beweise fehlen.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/nvidia-ceo-jensen-huang-us-regierung-vermutet-affaere-mit-chinesischer-spionin.100223/",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Sicherheitsupdate legt Radeon RX 7900 lahm",
-          "satz": "Nach dem ASRock-vBIOS vom 29. Oktober starten betroffene PCs nur mit schwarzem Bildschirm.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/grafikkarten/radeon-rx-7900-sicherheitsupdate-legt-grafikkarten-lahm.100221/",
-          "datum": "2026-11-07"
-        },
-        {
-          "titel": "Apple ändert Entwicklung von iOS 28",
-          "satz": "Laut Bloomberg hatten Ingenieure in der ersten Phase sechs statt vier Wochen für neue Funktionen.",
+          "titel": "Apple-Stores: Kritik an Abo-Abschlüssen ohne Zustimmung",
+          "satz": "Nach Videos von Louis Rossman strich Apple eine Abo-Quote für Verkäufer und mahnte per Memo Einwilligung an.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+          "url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
           "datum": "2026-11-08"
         },
         {
-          "titel": "Siri soll schon 2027 zum KI-Agenten werden",
-          "satz": "Laut Bloomberg drängt Apple-Chef John Ternus darauf, die Software-Pläne deutlich zu beschleunigen.",
-          "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+          "titel": "Frankreich: Parlament stimmt für Datensteuer",
+          "satz": "Die Nationalversammlung billigte einen Antrag der Sozialisten für 5,5 Cent Abgabe pro übertragenem Gigabyte.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w45.100211/",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Zelda-Remake läuft nach zwei Tagen auf dem PC",
+          "satz": "Das Projekt Hookshot macht die Switch-2-Version ohne Emulator zur Windows-Anwendung; ganz spielbar ist sie noch nicht.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/gaming/zelda-ocarina-of-time-laeuft-nach-2-tagen-schon-auf-dem-pc.100226/",
           "datum": "2026-11-08"
         }
       ],
-      "hinweis": "heise gesperrt (robots), CHIP nicht erreichbar; Ersatz: ComputerBase."
+      "hinweis": "heise (Startseite ohne aktuelle Meldungen) und CHIP nicht abrufbar; Ersatz: ComputerBase."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Anthropic wird größter Kunde von SpaceX",
-          "satz": "Laut Bloomberg stammt rund ein Drittel des SpaceX-Umsatzes von Anthropic, das frühere xAI-Rechenkapazität nutzt.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/spacex-nasa-abkehr-anthropic-ki-hauptkunde-1770765/",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "KI-Agenten brechen eigenständig in Firmennetze ein",
-          "satz": "Im Vals-Benchmark erreichte GPT-6 Sol Daybreak 80,8 Prozent der Ziele, DeepSeek günstiger 72,8 Prozent.",
+          "titel": "Anthropic will noch vor Thanksgiving an die Börse",
+          "satz": "Laut Financial Times sollen 80 bis 100 Milliarden Dollar bei bis zu 1,75 Billionen Bewertung eingesammelt werden.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/",
+          "url": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
           "datum": "2026-11-07"
         },
         {
-          "titel": "Coding-Agenten erledigen Aufgaben selten vollständig",
-          "satz": "Im Co-Design Bench löste das beste Modell, GPT-6 Astra, nur 26,4 Prozent der Aufgaben komplett.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/",
-          "datum": "2026-11-08"
+          "titel": "OpenAI stellt GPT-6 Cyber für Sicherheitsforscher vor",
+          "satz": "Das nur für geprüfte Organisationen verfügbare Modell fand laut OpenAI 81 bisher unbekannte Lücken in Firefox.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/openai-will-mit-gpt-6-cyber-das-aufspueren-von-sicherheitsluecken-erleichtern-doch-es-gibt-auch-kritik-1772107",
+          "datum": "2026-11-06"
         },
         {
-          "titel": "Finnland stoppt Google-Rodungen für KI-Rechenzentren",
-          "satz": "In Muhos wurden rund 330 Hektar gerodet, bevor die vorgeschriebene Umweltprüfung abgeschlossen war.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/google-rechenzentrum-finnland-rodung-gestoppt-ki-1769929/",
+          "titel": "Sutton: Rechenleistung allein schafft keine Intelligenz",
+          "satz": "Der Turing-Preisträger fordert neue Methoden wie lernende Agenten mit Weltmodellen statt bloßer Skalierung von Sprachmodellen.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/erfinder-der-bitteren-lektion-warnt-ki-wissenschaft-ist-noch-lange-nicht-am-ziel/",
           "datum": "2026-11-08"
         }
       ],
-      "hinweis": "heise gesperrt; anthropic.com/news nicht abrufbar; Ersatz: t3n, The Decoder."
+      "hinweis": "heise und anthropic.com/news nicht abrufbar; Ersatz: The Decoder, t3n."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Freiheitliche wollen eigenen Südtirol-Tag ab 2027",
-          "satz": "Gefeiert werden soll am Wochenende nach dem 5. September, dem Jahrestag des Pariser Vertrags.",
+          "titel": "Großbrand in früherer Finanzkaserne am Timmelsjoch",
+          "satz": "Feuerwehren aus Rabenstein, Moos in Passeier und Gurgl kämpften am Sonntagabend gegen die Flammen; Ursache noch unklar.",
           "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/08/suedtirol-soll-einen-eigenen-feiertag-bekommen/",
+          "url": "https://www.unsertirol24.com/2026/11/09/grossbrand-am-timmelsjoch-ehemalige-finanzkaserne-in-flammen/",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Percha hat Südtirols beste Kinderküche",
+          "satz": "Die Auszeichnung der Initiative für gesunde Kindergarten- und Schulmahlzeiten wurde erstmals vergeben; 17 Gemeinden nahmen teil.",
+          "quelle": "UnserTirol24",
+          "url": "https://www.unsertirol24.com/2026/11/08/percha-erhaelt-auszeichnung-als-kinderkueche-des-jahres/",
           "datum": "2026-11-08"
         },
         {
-          "titel": "Seniorenhilfe: Millionen bleiben ungenutzt",
-          "satz": "Laut Leiter Reber wurden von jährlich 41 Millionen Euro nur rund 9 Millionen ausbezahlt.",
-          "quelle": "suedtirolnews.it",
-          "url": "https://www.suedtirolnews.it/politik/leiter-reber-sieht-politikversagen-bei-seniorenhilfe",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "Terlan: Schuss aus Dienstwaffe im Rathaus",
-          "satz": "Niemand wurde verletzt; die Gemeinde hat allen Ortspolizisten die Schusswaffen entzogen.",
-          "quelle": "suedtirolnews.it",
-          "url": "https://www.suedtirolnews.it/chronik/terlan-schuss-aus-dienstwaffe-von-ortspolizisten-loest-sich",
+          "titel": "Versteckte Kamera überführt Diebin in Wäscherei",
+          "satz": "Eine 21-Jährige soll im Betrieb zwischen Auer und Pfatten knapp 500 Euro aus Spinden von Kolleginnen gestohlen haben.",
+          "quelle": "Südtirol News",
+          "url": "https://www.suedtirolnews.it/chronik/versteckte-kamera-entlarvt-mitarbeiterin-21",
           "datum": "2026-11-08"
         }
       ],
-      "hinweis": "Rai Südtirol gesperrt, stol.it nicht lesbar, salto.bz ohne neue verwertbare Meldung. Ersatz: UnserTirol24, suedtirolnews.it (Alto Adige ohne Meldung der letzten 24 h)."
+      "hinweis": "Rai Südtirol und stol.it nicht abrufbar; salto.bz ohne verwertbare Meldung der letzten 24 h. Ersatz: UnserTirol24, suedtirolnews.it."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Alcaraz gewinnt erstmals das Paris-Masters",
-          "satz": "Er schlug Ben Shelton 7:6, 7:5 und holte den dritten Titel aus seinen letzten vier Turnieren.",
+          "titel": "Hoeneß zweifelt an alter Stärke von Musiala",
+          "satz": "Der Bayern-Ehrenpräsident sagte, Musialas neurologische Erkrankung sei nicht leicht heilbar, aber mit Medikamenten beherrschbar.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/tennis/atp/2026/11/weiter-in-topform-alcaraz-gewinnt-erstmals-paris-masters",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-uli-hoeness-hat-zweifel-an-musiala",
           "datum": "2026-11-08"
         },
         {
-          "titel": "Bayern-Kapitän Neuer fällt mit Sehnenteilriss aus",
-          "satz": "Er verletzte sich beim 2:1 in Mainz am rechten Fuß; eine Rückkehr 2026 gilt als unwahrscheinlich.",
+          "titel": "Klopp beruft Freiburger Scherhant und Treu erneut",
+          "satz": "Trainer Schuster spricht nach dem 2:0 gegen Union, das Freiburg auf Rang drei brachte, von einer Riesenehre.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/neuer-faellt-nach-sehnenteilriss-vorerst-aus",
-          "datum": "2026-11-08"
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/schuster-nati-nominierungen-fuer-freiburger-eine-riesenehre",
+          "datum": "2026-11-09"
         },
         {
-          "titel": "Leverkusen gewinnt Rheinderby in Köln 2:1",
-          "satz": "García traf per Freistoß, Schick erhöhte; Köln kassierte die erste Heimniederlage der Saison.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/per-traumtor-streitfigur-garcia-erloest-werkself-im-derby",
+          "titel": "Rodionov gewinnt Challenger in Bratislava",
+          "satz": "Mit dem 6:2, 6:1 gegen Jerome Kym steigt er auf Weltranglistenplatz 118 und wird Österreichs Nummer eins.",
+          "quelle": "ORF Sport",
+          "url": "https://sport.orf.at/stories/3164670/",
           "datum": "2026-11-08"
         }
       ],
-      "hinweis": "Nur Sport1 lieferte lesbare Berichte (dritte Sport1-Meldung daher ausnahmsweise); kicker, sportschau- und ORF-Sport-Artikel nicht abrufbar. Vom Ski-Weltcup nichts aus den letzten 24 h."
+      "hinweis": "Ersatz: ORF Sport (Tennis). Keine Ski-Weltcup-Meldung der letzten 24 Stunden."
     }
   }
 }
