@@ -1,37 +1,115 @@
 {
- "issue": 34,
- "date": "Sonntag, 8. November 2026",
- "updated": "2026-11-08T05:51:03+00:00",
+ "issue": 35,
+ "date": "Montag, 9. November 2026",
+ "updated": "2026-11-09T05:51:06+00:00",
  "items": [
   {
-   "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · ITALIEN",
-   "title": "Ex-Ilva in Tarent: Nach 62 Jahren steht die gesamte Heißphase still",
-   "url": "https://en.ilsole24ore.com/art/former-ilva-site-hot-area-shut-down-cigs-discussions-postponed-AJXAVo7B"
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · ADEMPIMENTI",
+   "title": "Partita IVA dei professionisti: in arrivo l'apertura online",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130603_servizio_on_line_per_l_apertura_della_partita_iva_dei_professionisti.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · ITALIEN",
-   "title": "Monte dei Paschi steigert Gewinn in neun Monaten um 21 Prozent",
-   "url": "https://en.ilsole24ore.com/art/mps-results-exceed-expectations-profit-rises-by-21-per-cent-to-165-billion-AJA3Rs6B"
+   "kicker": "HAUSHALT · ITALIEN",
+   "title": "Haushalt 2027: Gewerkschaften, Versicherer und Gemeinden kritisieren die Regierung",
+   "url": "https://en.ilsole24ore.com/art/2027-budget-under-fire-trade-unions-banks-and-local-authorities-on-the-offensive-against-government-measures-AJFHKm8B"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · SICHERHEIT",
+   "title": "Claude Enterprise: Mehr Kontrolle und Transparenz für Sicherheitsteams",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "ACCERTAMENTO · MOTIVAZIONE",
+   "title": "Avviso di accertamento: non serve allegare ogni documento richiamato",
+   "url": "https://www.eutekne.info/Sezioni/Art_1129269_all_accertamento_non_vanno_allegati_tutti_i_documenti_richiamati.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CRISI D'IMPRESA · TRANSAZIONE FISCALE",
+   "title": "Transazione fiscale: la lite pendente si estingue con l'accordo",
+   "url": "https://www.eutekne.info/Sezioni/Art_1128818_estinzione_della_lite_pendente_col_perfezionamento_della_transazione.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "IMPOSTE INDIRETTE · REGISTRO",
+   "title": "Compensazione di crediti per corrispondenza: niente registro allo 0,5%",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130582_la_compensazione_del_credito_per_corrispondenza_non_sconta_il.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "PROFESSIONE · REVISIONE",
+   "title": "Revisori degli enti locali: domande entro il 16 dicembre",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130587_iscrizioni_nell_elenco_dei_revisori_degli_enti_locali_aperte_fino.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · IVA",
+   "title": "Opere d'arte: IVA al 5%, ma imposte dirette ancora incerte",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130569_per_le_opere_d_arte_l_iva_al_5_rilancia_il_mercato_le_imposte.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "LAVORO · PREVIDENZA COMPLEMENTARE",
+   "title": "CCNL gas e acqua: contributo datoriale solo ai fondi contrattuali",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130613_contribuzione_datoriale_esclusa_per_adesione_a_fondi_diversi_da.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "LAVORO · LICENZIAMENTO",
+   "title": "Licenziamento legittimo: lavoratore con limitazioni solleva pesi in palestra",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130586_licenziamento_legittimo_se_il_lavoratore_con_limitazioni_solleva.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · ITALIEN",
-   "title": "Netzbauer Sirti plant 430 Entlassungen nach Ende des PNRR-Schubs",
-   "url": "https://en.ilsole24ore.com/art/sirtis-plan-430-redundancies-trade-unions-submit-dossier-to-mimit-AJlRBs7B"
+   "kicker": "ENERGIE · ITALIEN",
+   "title": "Confcommercio: Stromkosten im Dienstleistungssektor steigen um 46 Prozent",
+   "url": "https://en.ilsole24ore.com/art/dear-confcommercio-energy-bills-are-getting-heavier-and-heavier-urgent-action-is-needed-to-reduce-costs-AJ57zM8B"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HANDEL · USA/CHINA",
-   "title": "USA werfen China Verstoß gegen den Handelsdeal vor",
-   "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html"
+   "kicker": "HAUSHALT · DEUTSCHLAND",
+   "title": "Bundeshaushalt 2027: Rekordschulden und Streit in der Koalition",
+   "url": "https://www.wiwo.de/politik/deutschland/bundesetat-die-duesteren-rekorde-dieser-bundesregierung/100267269.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "SOZIALVERSICHERUNG · DEUTSCHLAND",
-   "title": "Pflegeversicherung braucht im November erstmals zusätzliches Bundesgeld",
-   "url": "https://www.wiwo.de/politik/deutschland/pflegeversicherung-finanznot-extra-geldspritze-im-november-notwendig/100268068.html"
+   "kicker": "ARBEITSWELT · ITALIEN",
+   "title": "Fast alle nutzen KI im Job, doch Regeln fehlen oft",
+   "url": "https://en.ilsole24ore.com/art/almost-all-recruiters-and-managers-use-ai-but-there-is-a-lack-of-guidelines-AJZoM06B"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "HANDEL · DEUTSCHLAND",
+   "title": "Teure Speicherchips verteuern Elektronik vor Weihnachten",
+   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-preisschock-im-weihnachtsgeschaeft-ki-chips-verteuern-elektronik/100268186.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · FORSCHUNG",
+   "title": "Prototyp FlashProve weist nach, welches KI-Modell geantwortet hat",
+   "url": "https://www.anthropic.com/research/provable-inference"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "POLITIK · DEUTSCHLAND",
+   "title": "Digitalgipfel: Deutschland will bis 2030 führendes KI-Land werden",
+   "url": "https://t3n.de/news/digitalgipfel-2026-ki-weltspitze-deutschland-kommentar-1771341"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · CYBERANGRIFFE",
+   "title": "Hunderte KI-Hacking-Werkzeuge ungeschützt im Internet entdeckt",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · RECHENZENTREN",
+   "title": "Nach den US-Wahlen wackelt der Rechenzentrumsboom in Texas",
+   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
   }
  ]
 }
