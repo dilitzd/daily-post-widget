@@ -1,115 +1,85 @@
 {
- "issue": 35,
- "date": "Montag, 9. November 2026",
- "updated": "2026-11-09T05:51:06+00:00",
+ "issue": 36,
+ "date": "Dienstag, 10. November 2026",
+ "updated": "2026-11-10T05:50:57Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · ADEMPIMENTI",
-   "title": "Partita IVA dei professionisti: in arrivo l'apertura online",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130603_servizio_on_line_per_l_apertura_della_partita_iva_dei_professionisti.aspx"
+   "kicker": "FISCO · REGIME FORFETARIO",
+   "title": "Forfetario sdoppiato: 100.000 euro per le dirette, 85.000 per l'IVA",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130351_il_regime_forfetario_si_sdoppia_oltre_gli_85_000_euro.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · ITALIEN",
-   "title": "Haushalt 2027: Gewerkschaften, Versicherer und Gemeinden kritisieren die Regierung",
-   "url": "https://en.ilsole24ore.com/art/2027-budget-under-fire-trade-unions-banks-and-local-authorities-on-the-offensive-against-government-measures-AJFHKm8B"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · SICHERHEIT",
-   "title": "Claude Enterprise: Mehr Kontrolle und Transparenz für Sicherheitsteams",
-   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates"
+   "kicker": "AUSSENHANDEL · ITALIEN",
+   "title": "Italiens Exporte wachsen stärker als die der europäischen Konkurrenz",
+   "url": "https://en.ilsole24ore.com/art/italias-exports-53-per-cent-over-ten-years-outperforming-european-competitors-AJIHkO9B"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "ACCERTAMENTO · MOTIVAZIONE",
-   "title": "Avviso di accertamento: non serve allegare ogni documento richiamato",
-   "url": "https://www.eutekne.info/Sezioni/Art_1129269_all_accertamento_non_vanno_allegati_tutti_i_documenti_richiamati.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "CRISI D'IMPRESA · TRANSAZIONE FISCALE",
-   "title": "Transazione fiscale: la lite pendente si estingue con l'accordo",
-   "url": "https://www.eutekne.info/Sezioni/Art_1128818_estinzione_della_lite_pendente_col_perfezionamento_della_transazione.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "IMPOSTE INDIRETTE · REGISTRO",
-   "title": "Compensazione di crediti per corrispondenza: niente registro allo 0,5%",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130582_la_compensazione_del_credito_per_corrispondenza_non_sconta_il.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "PROFESSIONE · REVISIONE",
-   "title": "Revisori degli enti locali: domande entro il 16 dicembre",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130587_iscrizioni_nell_elenco_dei_revisori_degli_enti_locali_aperte_fino.aspx"
+   "kicker": "AGEVOLAZIONI · TRANSIZIONE 5.0",
+   "title": "Esodati 5.0: contributo per FER e certificazioni solo su domanda",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/agevolazioni/esodati-5-0-contributo-su-fer-e-certificazioni-senza-domanda-niente-erogazione/"
   },
   {
    "block": "Notizie fiscali",
    "kicker": "FISCO · IVA",
-   "title": "Opere d'arte: IVA al 5%, ma imposte dirette ancora incerte",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130569_per_le_opere_d_arte_l_iva_al_5_rilancia_il_mercato_le_imposte.aspx"
+   "title": "Split payment 2027: online gli elenchi dei soggetti interessati",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130561_disponibili_on_line_gli_elenchi_split_payment_per_l_anno_2027.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · PREVIDENZA COMPLEMENTARE",
-   "title": "CCNL gas e acqua: contributo datoriale solo ai fondi contrattuali",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130613_contribuzione_datoriale_esclusa_per_adesione_a_fondi_diversi_da.aspx"
+   "kicker": "FISCO · AGRICOLTURA",
+   "title": "CD e IAP: esenzione su dominicali e agrari prorogata al 2027",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130022_estesa_al_2027_l_esenzione_per_i_redditi_dominicali_e_agrari_di.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · LICENZIAMENTO",
-   "title": "Licenziamento legittimo: lavoratore con limitazioni solleva pesi in palestra",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130586_licenziamento_legittimo_se_il_lavoratore_con_limitazioni_solleva.aspx"
+   "kicker": "IMPRESA · ARTIGIANATO",
+   "title": "Imprese artigiane: limiti di dipendenti più ampi dopo sette anni",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130409_piu_ampi_i_limiti_dimensionali_per_le_imprese_artigiane_iscritte.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CRISI D'IMPRESA · SOVRAINDEBITAMENTO",
+   "title": "Concordato minore: accesso e proposta nella circolare 9/E/2026",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/limiti-di-accesso-e-contenuto-della-proposta-di-concordato-minore-le-osservazioni-della-circolare-n-9-e-2026/"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "DIRITTO · SOCIETÀ",
+   "title": "STP in forma di S.r.l.: due terzi dei voti ai professionisti",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/stp-in-forma-di-s-r-l-i-due-terzi-dei-voti-ai-professionisti-anche-con-meno-dei-due-terzi-del-capitale/"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "TRIBUTI LOCALI · CASSAZIONE",
+   "title": "TARI: vale la superficie accertata in via definitiva negli anni precedenti",
+   "url": "https://www.eutekne.info/Sezioni/Art_1129965_tari_determinabile_con_la_superficie_accertata_per_le_annualita.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · ITALIEN",
-   "title": "Confcommercio: Stromkosten im Dienstleistungssektor steigen um 46 Prozent",
-   "url": "https://en.ilsole24ore.com/art/dear-confcommercio-energy-bills-are-getting-heavier-and-heavier-urgent-action-is-needed-to-reduce-costs-AJ57zM8B"
+   "kicker": "KONJUNKTUR · DEUTSCHLAND",
+   "title": "Deutsche Exporte steigen im September um zwei Prozent",
+   "url": "https://www.wiwo.de/politik/konjunktur/volkswirtschaft-deutschlands-exporte-steigen-trotz-trumps-zollpolitik/100268364.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · DEUTSCHLAND",
-   "title": "Bundeshaushalt 2027: Rekordschulden und Streit in der Koalition",
-   "url": "https://www.wiwo.de/politik/deutschland/bundesetat-die-duesteren-rekorde-dieser-bundesregierung/100267269.html"
+   "kicker": "BANKEN · ITALIEN",
+   "title": "Intesa-Angebot für Monte dei Paschi startet am 24. November",
+   "url": "https://en.ilsole24ore.com/art/mps-and-consob-reach-agreement-on-the-go-ahead-for-the-offering-prospectus-via-24-november-AJtJ6Y9B"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSWELT · ITALIEN",
-   "title": "Fast alle nutzen KI im Job, doch Regeln fehlen oft",
-   "url": "https://en.ilsole24ore.com/art/almost-all-recruiters-and-managers-use-ai-but-there-is-a-lack-of-guidelines-AJZoM06B"
+   "kicker": "INDUSTRIE · ITALIEN",
+   "title": "Ex-Ilva: Angebotsfrist abgelaufen, US-Fonds Flacks steigt aus",
+   "url": "https://en.ilsole24ore.com/art/former-ilva-sources-flacks-offered-only-a-meeting-with-meloni-AJHsNW9B"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HANDEL · DEUTSCHLAND",
-   "title": "Teure Speicherchips verteuern Elektronik vor Weihnachten",
-   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-preisschock-im-weihnachtsgeschaeft-ki-chips-verteuern-elektronik/100268186.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · FORSCHUNG",
-   "title": "Prototyp FlashProve weist nach, welches KI-Modell geantwortet hat",
-   "url": "https://www.anthropic.com/research/provable-inference"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "POLITIK · DEUTSCHLAND",
-   "title": "Digitalgipfel: Deutschland will bis 2030 führendes KI-Land werden",
-   "url": "https://t3n.de/news/digitalgipfel-2026-ki-weltspitze-deutschland-kommentar-1771341"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "SICHERHEIT · CYBERANGRIFFE",
-   "title": "Hunderte KI-Hacking-Werkzeuge ungeschützt im Internet entdeckt",
-   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · RECHENZENTREN",
-   "title": "Nach den US-Wahlen wackelt der Rechenzentrumsboom in Texas",
-   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+   "kicker": "UNTERNEHMEN · MASCHINENBAU",
+   "title": "Gea übertrifft Erwartungen und bestätigt Jahresprognose",
+   "url": "https://www.handelsblatt.com/unternehmen/industrie/technologie-gea-bestaetigt-prognose-und-uebertrifft-markterwartungen/100268341.html"
   }
  ]
 }
