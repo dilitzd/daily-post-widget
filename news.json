@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T08:11:47+01:00",
+  "updated": "2026-11-10T10:18:56+01:00",
   "zitat": {
     "text": "Der Mensch spielt nur, wo er in voller Bedeutung des Wortes Mensch ist, und er ist nur da ganz Mensch, wo er spielt.",
     "original": "",
@@ -74,324 +74,324 @@
     "datum": "2026-11-10"
   },
   "bau": {
-    "name": "Fallingwater",
-    "kurz": "Fallingwater",
-    "ort": "Stewart Township (Pennsylvania), USA",
-    "architekt": "Frank Lloyd Wright",
-    "jahr": "1935–1937",
-    "stil": "Organische Architektur",
-    "beschreibung": "Wright setzte das Wohnhaus des Kaufhausbesitzers Edgar J. Kaufmann direkt über einen Wasserfall; seit 2019 ist es UNESCO-Welterbe.",
-    "url": "https://de.wikipedia.org/wiki/Fallingwater",
-    "bild_url": "https://commons.wikimedia.org/w/thumb.php?f=Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg&w=1280",
-    "bild_seite": "https://commons.wikimedia.org/wiki/File:Fallingwater,_also_known_as_the_Edgar_J._Kaufmann,_Sr.,_residence,_Pennsylvania,_by_Carol_M._Highsmith.jpg",
-    "fotograf": "Carol M. Highsmith",
-    "lizenz": "Public Domain",
-    "datum": "2026-11-08"
+    "name": "Hagia Sophia",
+    "kurz": "Hagia Sophia",
+    "ort": "Istanbul, Türkei",
+    "architekt": "Anthemios von Tralleis, Isidor von Milet",
+    "jahr": "532–537",
+    "stil": "Frühbyzantinische Kuppelbasilika",
+    "beschreibung": "Justinians Kuppelbasilika mit rund 55 Meter hoher Kuppel war Kathedrale, Moschee und Museum und ist seit 2020 wieder Moschee.",
+    "url": "https://de.wikipedia.org/wiki/Hagia_Sophia",
+    "bild_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1280px-Hagia_Sophia_Mars_2013.jpg",
+    "bild_seite": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+    "fotograf": "Arild Vågen",
+    "lizenz": "CC BY-SA 3.0",
+    "datum": "2026-11-10"
   },
   "themen": {
     "politik": {
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Iran e Usa, primi passi verso un negoziato",
-          "satz": "Khamenei chiede di uscire dallo stallo, mentre Vance si prepara a incontrare i vertici iraniani a Doha.",
-          "text": "Per la prima volta da mesi Trump e la Guida suprema Mojtaba Khamenei lanciano segnali di apertura per chiudere la guerra. Trump giudica molto improbabili nuovi raid se Teheran avanza su nucleare e riapertura di Hormuz. Le trattative passano da Turchia e Qatar, ma l'opzione militare resta sul tavolo.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://origin-www.ilsole24ore.com/art/iran-trump-e-khamenei-passi-il-negoziato-impeachment-contro-hegseth-AJ2F0QAC",
+          "titel": "Merz droht mit Blockade für Ukraine-Hilfe",
+          "satz": "Der Kanzler fordert von allen EU-Staaten einen fairen Beitrag zur Finanzierungslücke von 45 Milliarden Euro.",
+          "text": "Friedrich Merz hat EU-Ratspräsident Costa geschrieben und indirekt gedroht, andere Finanzentscheidungen zu blockieren. Bulgarien und die Slowakei wollen sich nicht an neuer Ukraine-Hilfe beteiligen, Ungarn und Tschechien sind unentschieden. Merz will das Thema beim informellen EU-Gipfel in Dublin am Freitag zur Priorität machen.",
+          "quelle": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/finanzierung-der-ukraine-merz-dringt-auf-bekenntnis-aller-eu-staaten-zu-ukraine-hilfe/100268555.html",
           "datum": "2026-11-10"
         },
         {
-          "titel": "Ucraina, al via il vertice di Abu Dhabi",
-          "satz": "Primo round di colloqui in oltre otto mesi, con consiglieri europei e italiani presenti a margine.",
-          "text": "Ucraina, Russia e Usa discutono per due giorni di garanzie di sicurezza e del futuro rapporto tra Nato, Europa e Mosca. Il Cremlino respinge un ruolo europeo al tavolo e mantiene le sue richieste territoriali. Un attacco hacker all'istituto statistico russo indicherebbe 450mila soldati russi morti.",
+          "titel": "Ucraina, in Polonia la prima esercitazione MNF-U",
+          "satz": "Fino al 22 novembre 2.800 militari di 11 Paesi si addestrano; l'Italia non partecipa.",
+          "text": "La Forza multinazionale per l'Ucraina, braccio militare della Coalizione dei volenterosi, si esercita a Nowa Dęba sotto guida franco-britannica. Dovrà schierarsi solo dopo la fine delle ostilità e su richiesta di Kiev. Non è un'operazione Nato e prova anche difesa dai droni e sminamento nel Mar Nero.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://origin-www.ilsole24ore.com/art/ucraina-via-trilaterale-abu-dhabi-spiragli-un-ruolo-europeo-AJUoBrAC",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "Krakau: Terrorermittlungen nach Anschlag mit sechs Toten",
-          "satz": "Der mutmaßlich rechtsextreme Schütze ist im Spital gestorben, Polen hält zwei Tage Staatstrauer.",
-          "text": "Der Mann schoss aus einem Auto wahllos auf Passanten, unter den Toten ist eine Niederösterreicherin. Daheim fand die Polizei drei weitere Leichen, vermutlich seine Eltern und seine Schwester. Premier Tusk spricht von Terror, nun wird in Polen über die Sicherheitsvorkehrungen debattiert.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447656/",
+          "url": "https://en.ilsole24ore.com/art/ukraine-multinational-force-exercise-in-poland-italia-is-not-taking-part-AJ5R9DAC",
           "datum": "2026-11-09"
         },
         {
-          "titel": "UN-Klimakonferenz in Antalya beginnt mit Warnungen",
-          "satz": "Die Weltwetterorganisation hält 2027 wegen El Niño für ein mögliches neues Rekord-Hitzejahr.",
-          "text": "Zum Auftakt der zweiwöchigen Konferenz meldet die WMO, dass die 1,5-Grad-Schwelle heuer womöglich überschritten wurde. UN-Generalsekretär Guterres fordert raschere Emissionssenkungen und einen schnelleren Ausstieg aus Öl, Gas und Kohle. Verwundbare Staaten sollen mehr Geld und Schutz erhalten.",
+          "titel": "Frankreich macht Iran für Cyberangriff verantwortlich",
+          "satz": "Paris bestellt den iranischen Botschafter ein und kündigt EU-Sanktionen gegen die Revolutionsgarden an.",
+          "text": "Laut Außenminister Barrot steckten die Revolutionsgarden hinter der Sabotage der Kühlanlagen von rund 700 Supermärkten. Die Pariser Staatsanwaltschaft beantragte internationale Haftbefehle gegen den Chef einer Cybereinheit und zwei Stellvertreter. Auch andere Länder, darunter Deutschland, waren betroffen; dort ist kein Täter benannt.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/un-klimakonferenz-wetterorganisation-2027-koennte-globalen-waermerekord-brechen/100268352.html",
+          "url": "https://handelsblatt.com/politik/international/botschafter-einbestellt-frankreich-sieht-iran-hinter-angriff-auf-kuehlanlagen/100268528.html",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Emissioni, Bruxelles richiama Italia e altri otto Paesi",
+          "satz": "Dovranno presentare piani correttivi per trasporti, edifici, agricoltura e rifiuti verso il target 2030.",
+          "text": "Secondo la Commissione, nei settori della ripartizione degli sforzi il taglio delle emissioni arriverà al 38,5% entro il 2030, sotto l'obiettivo del 40%. Tra i Paesi in ritardo ci sono anche Germania e Austria. All'Eurogruppo Dombrovskis ha chiesto inoltre bilanci molto prudenti per deficit e debiti in aumento.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/eu-italia-and-eight-other-countries-corrective-measures-to-meet-2030-emissions-targets-AJnCxDAC",
           "datum": "2026-11-09"
         }
       ],
-      "hinweis": "Gesperrt/nicht abrufbar: www.ilsole24ore.com, en.ilsole24ore.com, Spiegel, NZZ; Süddeutsche, Economist, tagesschau.de, Deutschlandfunk nicht erreichbar. Il Sole über origin-www.ilsole24ore.com (ital. Ausgabe). Ersatz: ORF, Handelsblatt."
+      "hinweis": "Spiegel, NZZ, SZ, ORF nicht abrufbar (Freigabe fehlte); Economist gesperrt; Il Sole: www gesperrt, origin-www als Kopie abgelehnt, daher englische Ausgabe en.ilsole24ore.com (direkt lesbar) verwendet; Ersatz: Handelsblatt."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Cina, surplus commerciale oltre mille miliardi",
-          "satz": "Il traguardo arriva un mese prima del 2025 e rischia di inasprire le tensioni con Europa e Usa.",
-          "text": "Tra gennaio e ottobre l'avanzo cinese ha superato 1.040 miliardi di dollari, nonostante l'import in forte crescita. A ottobre l'export è salito del 35,2% su base annua, sopra le attese. Pechino ha prorogato di due mesi la tregua commerciale con Washington; Trump e Xi ne parleranno al vertice Apec.",
+          "titel": "Petrolio, il Brent scivola a 93 dollari",
+          "satz": "Il greggio perde oltre il 5% dopo il calo del 16% della settimana precedente.",
+          "text": "Il future Brent di gennaio cede il 5,4% a 92,9 dollari, il Wti il 4,5% a 86,5. Si riduce il premio per il rischio geopolitico: i mercati scommettono su una distensione tra Washington e Teheran. Khamenei avrebbe ordinato di superare lo stallo con gli Usa, mentre il Qatar media.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://origin-www.ilsole24ore.com/art/cina-surplus-commerciale-2026-ha-gia-superato-mille-miliardi-AJ7oD6AC",
+          "url": "https://en.ilsole24ore.com/art/brent-crude-slips-to-93-down-5-per-cent-khamenei-calls-for-an-end-to-the-war-with-the-us-AJBTEPAC",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Hensoldt will Umsatz bis 2035 vervierfachen",
+          "satz": "Der Radar- und Sensorspezialist peilt zehn Milliarden Euro an und stockt auf 14.000 Beschäftigte auf.",
+          "text": "2025 setzte Hensoldt 2,46 Milliarden Euro um; nun soll die Produktion schneller hochgefahren werden, um den Auftragsbestand von über zehn Milliarden abzuarbeiten. Für 2027 und 2028 erwartet der Konzern je 15 bis 20 Prozent Umsatzplus. Viele Rüstungsprogramme der 2030er-Jahre werden laut Chef Dörre bald entschieden.",
+          "quelle": "Handelsblatt",
+          "url": "https://handelsblatt.com/unternehmen/industrie/ruestung-hensoldt-peilt-bis-2035-zehn-milliarden-euro-umsatz-an/100268639.html",
           "datum": "2026-11-10"
         },
         {
-          "titel": "Caso Nvidia, l'Fbi indaga su Jensen Huang",
-          "satz": "Il ceo ha ammesso una relazione con una presunta spia cinese; Trump lo difende.",
-          "text": "Dopo il consiglio di amministrazione, anche l'Fbi esamina la relazione di Huang con una donna legata a Megaspeed. Il titolo Nvidia è arrivato a perdere circa l'11% al Nasdaq. Il Congresso ha convocato Huang per un'audizione a porte chiuse il 18 novembre, il giorno dopo i conti trimestrali.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://origin-www.ilsole24ore.com/art/scandalo-nvidia-ceo-ammette-relazione-spia-cinese-l-azienda-apre-indagine-ma-trump-difende-AJKjNu9B",
-          "datum": "2026-11-09"
+          "titel": "Manovra, la Corte dei conti la giudica prudente",
+          "satz": "Per i magistrati contabili l'impatto sul debito vale 30 miliardi nel triennio.",
+          "text": "In audizione sul ddl bilancio la Corte dei conti ha definito la manovra prudente, data la necessità di controllare debito e deficit e la fiducia dei mercati. L'impatto si concentra su stabilità fiscale, liquidità delle imprese e redistribuzione del carico fiscale. Restano rischi da prezzi di energia e materie prime.",
+          "url": "https://en.ilsole24ore.com/art/draft-budget-court-of-auditors-and-prudent-fiscal-measures-a-concrete-signal-AJFtTNAC",
+          "datum": "2026-11-09",
+          "quelle": "Il Sole 24 Ore"
         },
         {
-          "titel": "Knot gegen de Cos im Rennen um EZB-Spitze",
-          "satz": "Lagarde tritt schon am 7. Februar ab, die Euroländer müssen rasch einen Nachfolger finden.",
-          "text": "Der Niederländer Klaas Knot gilt als geldpolitischer Falke, der Spanier Pablo Hernández de Cos als Befürworter niedrigerer Zinsen. Deutschland nominierte niemanden, will aber bei der Besetzung mitreden. Frankreich würde Knot laut Bericht stützen, wenn der nächste EZB-Chefökonom aus Frankreich kommt.",
+          "titel": "Vodafone Deutschland verdient weniger",
+          "satz": "Im Halbjahr sank das operative Ergebnis um 3,2 Prozent auf 2,1 Milliarden Euro.",
+          "text": "Der Umsatz stieg im ersten Geschäftshalbjahr nur um 0,4 Prozent auf rund 5,5 Milliarden Euro, im zweiten Quartal ging er sogar zurück. Höhere Energie-, Gebäude- und Technikkosten belasten nach Jahren mit Kundenverlusten. Vodafone will Kosten senken und streicht bis 2029 rund 2.300 Stellen.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/nachfolge-bei-der-notenbank-poker-um-ezb-spitze-wer-folgt-auf-christine-lagarde/100268423.html",
-          "datum": "2026-11-09"
-        },
-        {
-          "titel": "UniCredit, utile trimestrale a 3,3 miliardi",
-          "satz": "Profitti in crescita del 24% e oltre le attese; l'obiettivo 2026 sale a 11,5 miliardi.",
-          "text": "I ricavi sono saliti del 12% a 6,9 miliardi, con commissioni e margine d'interesse in aumento. Il 25 novembre arriva un acconto sul dividendo di circa 4,5 miliardi. Orcel punta al controllo di Commerzbank e, dopo la proposta Agricole-Bpm, in Italia scommette solo sulla crescita organica.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://origin-www.ilsole24ore.com/art/unicredit-trimestre-oltre-attese-33-miliardi-24percento-94-miliardi-nove-mesi-AJP8Lf9B",
-          "datum": "2026-11-09"
+          "url": "https://handelsblatt.com/technik/it-internet/telekommunikaiton-vodafone-macht-weniger-gewinn/100268649.html",
+          "datum": "2026-11-10"
         }
       ],
-      "hinweis": "Gesperrt/nicht abrufbar: www.ilsole24ore.com, en.ilsole24ore.com, NZZ; Süddeutsche, Economist, WSJ, tagesschau.de nicht erreichbar. Il Sole über origin-www.ilsole24ore.com (ital. Ausgabe). Ersatz: Handelsblatt."
+      "hinweis": "NZZ, SZ nicht abrufbar (Freigabe fehlte); Economist, WSJ gesperrt; Il Sole: www gesperrt, origin-www als Kopie abgelehnt, daher englische Ausgabe en.ilsole24ore.com (direkt lesbar) verwendet; Ersatz: Handelsblatt."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "WMO: 2026 könnte Rekord-Hitzejahr werden",
-          "satz": "Bis September lag die globale Temperatur rund 1,47 Grad über dem vorindustriellen Niveau.",
-          "text": "Die Weltwetterorganisation legte ihren Klimabericht zum Start der UN-Klimakonferenz COP 31 im türkischen Antalya vor. Ein starkes El Niño, das im Dezember seinen Höhepunkt erreichen soll, dürfte den Jahreswert weiter steigen lassen. UN-Chef Guterres fordert einen schnelleren Ausstieg aus Kohle, Öl und Gas.",
-          "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238112/",
-          "datum": "2026-11-09"
-        },
-        {
-          "titel": "KI-gestützter Beweis begrenzt Quantencomputer",
-          "satz": "Die 2009 aufgestellte Aaronson-Ambainis-Vermutung gilt nun als bewiesen, mit Hilfe eines Anthropic-Sprachmodells.",
-          "text": "Das Start-up PSI legte den Beweis vor, ein Beweisprüfer und vier Forscher von MIT und Stanford bestätigten ihn. Demnach bringen Quantenalgorithmen bei den meisten unstrukturierten Eingaben keinen exponentiellen Vorteil. Shors Algorithmus und Anwendungen in Chemie und Physik bleiben davon unberührt.",
+          "titel": "NASA sucht neue Astronauten für Mond und Mars",
+          "satz": "Bewerbungen sind bis 3. Dezember möglich, Voraussetzung sind US-Staatsbürgerschaft und Masterabschluss.",
+          "text": "Die NASA hat eine neue Auswahlrunde für Astronautinnen und Astronauten gestartet. Die Ausgewählten könnten laut NASA-Chef Jared Isaacman auf dem Mond arbeiten und Mars-Missionen vorbereiten. Bei der letzten Runde 2024 bewarben sich rund 8000 Menschen, nur zehn wurden ausgewählt.",
           "quelle": "Spektrum.de",
-          "url": "https://www.spektrum.de/news/aaronson-ambainis-vermutung-bewiesen-die-grenze-von-quantencomputern/2353307",
+          "url": "https://www.spektrum.de/news/raumfahrt-nasa-sucht-neue-astronauten-und-astronautinnen/2353310",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Mehr Kakao-Ertrag dank Wald in der Umgebung",
-          "satz": "Vögel und Fledermäuse aus nahen Wäldern fressen Schädlinge und steigern so die Ernte deutlich.",
-          "text": "Ein Team der Universität Wien untersuchte 28 Bio-Kakaoplantagen im peruanischen Amazonasgebiet. Bei mittlerer Waldbedeckung stieg der Ertrag von etwa 265 auf rund 1000 Kilogramm pro Hektar und Jahr. Die Forscher empfehlen gemischte Landschaften mit etwa einem Drittel Wald.",
-          "quelle": "ORF",
-          "url": "https://science.orf.at/stories/3238124/",
-          "datum": "2026-11-09"
-        },
-        {
-          "titel": "Röntgenpulsare als Detektor für Mini-Schwarzlöcher",
-          "satz": "Winzige urzeitliche Schwarze Löcher könnten Röntgenlicht kurz verstärken und so Dunkle Materie verraten.",
-          "text": "Forscher in Bengaluru schlagen vor, den Pulsar SMC X-1 nach kurzen Helligkeitsspitzen abzusuchen; die Analyse erschien in Physical Review D. Vorhandene NICER-Daten reichten noch nicht aus. Geeignete Messkampagnen sind derzeit nicht geplant, da NICER ausgefallen ist.",
+          "titel": "Gehirn ordnet Gefühle in sechseckigem Raster",
+          "satz": "Hirnscans zeigen im präfrontalen Kortex ein Muster, wie es sonst bei räumlicher Orientierung auftritt.",
+          "text": "Forschende der Emory University untersuchten 18 Erwachsene per fMRT, während sie Gesichtsausdrücke und Begriffe emotional bewerteten. Dabei zeigte sich ein sechsfach symmetrisches Aktivitätsmuster, das auf eine innere Gefühlskarte hindeutet. Die Stichprobe ist klein; ob die Struktur für das Verstehen von Emotionen nötig ist, bleibt offen.",
           "quelle": "scinexx",
-          "url": "https://scinexx.de/news/kosmos/roentgenpulsare-koennten-winzige-schwarze-loecher-verraten",
-          "datum": "2026-11-08"
+          "url": "https://www.scinexx.de/news/psychologie/gehirn-ordnet-gefuehle-in-einem-sechseckigen-raster-an/",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Versteckter Begleiter treibt Ausbrüche eines Riesensterns",
+          "satz": "Der Stern AT 2016blu bricht seit 2012 etwa alle 113 Tage aus, ohne zu explodieren.",
+          "text": "Röntgendaten von Chandra zeigen bei einem Ausbruch mindestens hundertmal stärkere Strahlung als früher. Astronomen vermuten einen Neutronenstern oder ein Schwarzes Loch, das Gas vom 33 Sonnenmassen schweren Stern abzieht. Es wäre der erste Hinweis auf einen solchen kompakten Begleiter bei diesem Sterntyp.",
+          "quelle": "scinexx",
+          "url": "https://www.scinexx.de/news/kosmos/sternenleiche-entfacht-wohl-die-regelmaessigen-ausbrueche-eines-riesensterns/",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Hawaii-Vogel nutzt Schnabel als Doppelwerkzeug",
+          "satz": "Mit dem kurzen Unterschnabel meißelt er Löcher, mit dem biegsamen Oberschnabel angelt er Larven.",
+          "text": "Forschende haben die Anatomie des ʻAkiapōlāʻau auf Hawaiis Big Island entschlüsselt. Statt mit Nackenmuskeln wie Spechte hämmert der Vogel mit dem ganzen Körper, unterstützt von einer kräftigen Sehne. Die Art ist stark gefährdet, in freier Wildbahn leben weniger als 2000 Tiere.",
+          "quelle": "Spektrum.de",
+          "url": "https://www.spektrum.de/news/dieser-kleine-vogel-hat-einen-zwei-komponenten-schnabel/2353283",
+          "datum": "2026-11-09"
         }
       ],
-      "hinweis": "NZZ, heise, Spiegel nicht abrufbar (Süddeutsche nicht erreicht); Ersatz: science.ORF.at, Spektrum.de, scinexx."
+      "hinweis": "Hauptquellen NZZ, heise, SZ und Spiegel nicht abrufbar; Ersatzquellen Spektrum.de und scinexx verwendet."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Nvidia prüft Spionageverdacht gegen Jensen Huang",
-          "satz": "Huang räumte in einer Mitteilung an die Belegschaft Untreue ein und bleibt vorerst Konzernchef.",
-          "text": "Ein Ausschuss unabhängiger Direktoren untersucht Berichte, wonach ein ausländischer Geheimdienst Huang ins Visier nahm. Laut US-Medien soll eine mutmaßlich von China angeworbene Managerin Informationen über KI-Chips gesucht haben. Der Verwaltungsrat sieht bislang keine Hinweise auf abgeflossene Firmengeheimnisse.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/nvidia-ceo-jensen-huang-raeumt-untreue-ein-verwaltungsrat-startet-untersuchung.100232/",
-          "datum": "2026-11-08"
-        },
-        {
-          "titel": "Musks Terafab plant Mega-Chipfabrik in Texas",
-          "satz": "Bis 2032 sollen monatlich eine Million Wafer entstehen, mehr als Samsungs heutige DRAM-Produktion.",
-          "text": "Das Projekt von Tesla und SpaceX mit Intel soll Chips für Optimus-Roboter und Rechenzentren im All liefern, Serienstart ab 2028. Geplant sind bisher 16,8 Milliarden Dollar, was ComputerBase für viel zu wenig hält. Über eine Beteiligung von TSMC wird noch verhandelt.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/terafab-elon-musk-will-2032-monatlich-1-million-wafer-produzieren.100246/",
+          "titel": "iPhone 18e soll größeres Display bekommen",
+          "satz": "Ein Leak zeigt für iPhone 18 und 18e je 6,3 Zoll und einen Akku mit 4430 mAh.",
+          "text": "Laut einem auf Weibo veröffentlichten Diagramm wachsen Display und Akku beider Frühjahrsmodelle deutlich. Ein anderer Leaker widerspricht und erwartet beim 18e weiter 6,1 Zoll und 60 Hz. Die Geräte werden im Frühjahr 2027 mit A20-Chip erwartet.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Apple-Chef Ternus drängt Federighi zu mehr Tempo",
-          "satz": "Der neue CEO ist laut Bloomberg unzufrieden, dass Apple bei KI langsamer als die Konkurrenz ist.",
-          "text": "Ternus soll in einem vertraulichen Treffen gefordert haben, über reine Siri-Verbesserungen hinauszugehen. Federighi plant demnach nur 12 bis 18 Monate im Voraus. Siri-Chef Mike Rockwell erwägt weiterhin ernsthaft, das Unternehmen möglicherweise nächstes Jahr zu verlassen.",
+          "titel": "Infineon fertigt erste Chips auf 300-mm-SiC-Wafern",
+          "satz": "Im Werk Villach entstanden erstmals funktionsfähige Leistungshalbleiter auf den großen Siliziumkarbid-Scheiben.",
+          "text": "Der Wechsel von 200 auf 300 Millimeter bringt rund 2,3-mal so viele Chips pro Wafer. Siliziumkarbid steckt etwa in E-Auto-Wechselrichtern, Ladegeräten und Stromversorgungen für KI-Rechenzentren. Eine Serienfertigung könnte nach dem Muster von Galliumnitrid um 2029 folgen, offiziell ist das nicht.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/wirtschaft/infineon-erste-chips-auf-sic-wafern-mit-300-mm-prozessiert.100248/",
+          "datum": "2026-11-09"
+        },
+        {
+          "titel": "Apple will Siri zum KI-Agenten ausbauen",
+          "satz": "Laut Bloomberg könnte eine selbstständig handelnde Siri schon mit iOS 28 kommen.",
+          "text": "Siri kann bisher keine Aufgaben eigenständig im Auftrag der Nutzer erledigen. Apple könnte dafür auf vorhandene Schnittstellen wie App Intents setzen, was günstiger wäre als reine Computer-Steuerung per KI. Was Apple tatsächlich ausliefert, ist noch offen.",
           "quelle": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
           "datum": "2026-11-08"
         },
         {
-          "titel": "Apple investiert mehrjährig in der Türkei",
-          "satz": "Geplant sind fünf Developer Academies, ein Developer Center und eine Manufacturing Academy.",
-          "text": "Apple kündigte das Programm während einer Türkei-Reise von Tim Cook an. Cook traf dort Mitarbeiter, App-Entwickler und Content-Creator. Er ist seit 1. September Verwaltungsratschef, Konzernchef ist seither John Ternus.",
-          "quelle": "MacRumors",
-          "url": "https://macrumors.com/2026/11/09/apple-announces-turkiye-initiatives",
+          "titel": "Radeon-Treiber verschleißt SSDs durch Dauerschreiben",
+          "satz": "Ein AMD-Hintergrunddienst schreibt bei manchen Nutzern täglich Hunderte Gigabyte auf das Systemlaufwerk.",
+          "text": "Verantwortlich ist der Dienst AMD External Events Utility im Adrenalin-Treiber. Abhilfe schafft teils das Deaktivieren des Dienstes oder von Resizable BAR, mit möglichen Nachteilen. AMD hat den Fehler bestätigt und arbeitet an einem Treiber-Update.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/grafikkarten/schnelle-ssd-alterung-radeon-treiber-schreibt-fortwaehrend-daten-auf-die-ssd.100237/",
           "datum": "2026-11-09"
         }
       ],
-      "hinweis": "heise und CHIP nicht abrufbar, MacRumors nur teilweise; Ersatz: ComputerBase, 9to5Mac."
+      "hinweis": "heise und CHIP nicht abrufbar; neben MacRumors Ersatzquellen ComputerBase und 9to5Mac verwendet."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Nvidia-Affäre befeuert Streit um Chip-Exporte",
-          "satz": "US-Geheimdienste halten Jensen Huangs Partnerin für eine mutmaßliche Informantin eines chinesischen Nachrichtendienstes.",
-          "text": "Nvidia-Chef Huang räumte eine Beziehung zu einer Ex-Managerin des Rechenzentrumsbetreibers Megaspeed ein, der als Schmuggelweg für Chips nach China gilt. Der Verwaltungsrat lässt die Sache unabhängig prüfen. Laut Analysten schwächt das Nvidias Lobby gegen schärfere Exportkontrollen, wenn die Demokraten im Januar den Kongress übernehmen.",
+          "titel": "OpenAI sammelt elf Milliarden Dollar ein",
+          "satz": "Die Runde bewertet OpenAI mit 1,25 Billionen Dollar und könnte auf bis zu 20 Milliarden anwachsen.",
+          "text": "OpenAI hat laut Bloomberg rund elf Milliarden Dollar als erste Tranche einer neuen Finanzierungsrunde erhalten. Ursprünglich waren 30 Milliarden bei 1,4 Billionen Dollar Bewertung geplant, nach dem Kursrutsch bei KI-Aktien wurde das Ziel gesenkt. Über Investmentbanken wirbt OpenAI nun auch vermögende Privatanleger an.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/nvidia-spionageaffaere-liefert-us-demokraten-die-perfekte-vorlage-fuer-schaerfere-ki-chip-exportkontrollen/",
-          "datum": "2026-11-09"
+          "url": "https://the-decoder.de/openai-sammelt-nur-11-milliarden-dollar-ein-und-muss-dafuer-schon-privatanleger-anwerben/",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Pelosi-Nachfolger Wiener will KI streng regulieren",
-          "satz": "Der Autor kalifornischer KI-Gesetze zieht für San Francisco ins US-Repräsentantenhaus ein.",
-          "text": "Scott Wiener fordert eine unabhängige Bundesaufsicht für KI, Schutz für Whistleblower, Prüfpflichten und einen Notausschalter. Den METR-Bericht über Anthropics beschleunigte KI-Forschung nennt er sehr besorgniserregend. Kritik gibt es, weil eine von Anthropic mitfinanzierte Gruppe seinen Wahlkampf mit über drei Millionen Dollar unterstützte.",
-          "quelle": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-          "datum": "2026-11-09"
+          "titel": "Anthropic peilt Börsengang vor Thanksgiving an",
+          "satz": "Trotz Tech-Ausverkauf will Anthropic laut Financial Times 80 bis 100 Milliarden Dollar einsammeln.",
+          "text": "Angepeilt ist eine Bewertung von 1,25 bis 1,75 Billionen Dollar, über den aktuellen 965 Milliarden. Der annualisierte Umsatz liegt Insidern zufolge bei rund 81 Milliarden Dollar. Belastet wird der Plan von steigenden Finanzierungskosten und einem Nasdaq-Einbruch nach den US-Zwischenwahlen.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
+          "datum": "2026-11-07"
         },
         {
-          "titel": "Anthropic: KI-Agenten lernen besser durch „Träumen“",
-          "satz": "Ein Hintergrundprozess prüft und ordnet gespeicherte Erinnerungen von Claude und korrigiert dabei falsche Notizen.",
-          "text": "In Tests steigerte ein Gedächtnisspeicher die Leistung von Opus 5.5 bei Datenbankaufgaben von 0,655 auf 0,838. Starre Regeln, etwa nur Fehler zu notieren, schadeten dagegen. Anthropic rät Entwicklern, Modellen den Zweck des Gedächtnisses zu erklären und die oberste Speicherebene klein zu halten.",
+          "titel": "Studie: KI-Nutzung kostet Vertrauen beim Chef",
+          "satz": "Vorgesetzte vertrauten Beschäftigten ohne KI in 68 Prozent der Fälle, mit KI nur in 24 Prozent.",
+          "text": "Forschende der Hebräischen Universität Jerusalem testeten, wie Vorgesetzte Berichte von Beschäftigten bewerten. Die Qualität der Arbeit spielte dabei keine Rolle, nur ob ChatGPT, Gemini oder Claude genutzt wurde. Die Autoren fürchten, dass Beschäftigte KI dann heimlich einsetzen, was Datenschutzrisiken birgt.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/laut-studie-wer-chatgpt-nutzt-setzt-das-vertrauen-seiner-vorgesetzten-aufs-spiel-1772237/",
+          "datum": "2026-11-08"
+        },
+        {
+          "titel": "Anthropic: Wie KI wissenschaftliche Modelle baut",
+          "satz": "Tübinger Forscher beschreiben im Anthropic-Blog, wie KI-Agenten Modelle entwerfen, kalibrieren und deuten.",
+          "text": "Der Gastbeitrag von Geförderten des Programms AI for Science gliedert Modellbildung in Bauen, Anpassen an Messdaten und Interpretieren. KI-Agenten sollen statt eines besten Modells eine Verteilung plausibler Modelle liefern. Bisher wurden solche Systeme vor allem an bekannten Modellen getestet, für offene Probleme fehlen Belege.",
           "quelle": "Anthropic",
-          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "url": "https://anthropic.com/research/teaching-ai-to-build-scientific-models",
           "datum": "2026-11-06"
-        },
-        {
-          "titel": "Disney und Adobe bauen eigene KI-Modelle",
-          "satz": "Die mehrjährige Partnerschaft zielt auf Freizeitparks, Kreuzfahrten, Filmstudios und den Sportsender ESPN.",
-          "text": "Über Adobe Firefly Foundry sollen Modelle entstehen, die auf Disneys Figuren, Welten und Bildstile trainiert sind und kommerziell sichere Ergebnisse liefern. ESPN will so etwa sein Archiv leichter durchsuchbar machen. Zugleich plant Disney laut Bloomberg, Tausende Stellen zu streichen.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/disney-und-adobe-entwickeln-gemeinsam-ki-modelle-fuer-parks-studios-und-espn/",
-          "datum": "2026-11-09"
         }
       ],
-      "hinweis": "heise gesperrt, OpenAI nicht erreichbar; keine neue Anthropic-Meldung binnen 72 h außer bereits gemeldeten, daher Anthropic-Beitrag vom 06.11.; Ersatz: The Decoder, MIT Technology Review."
+      "hinweis": "anthropic.com/news und heise.de nicht abrufbar (Anthropic-Beitrag über anthropic.com/research); golem.de nicht lesbar; Ersatz: The Decoder, t3n."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Stromausfall trifft 106.000 Kunden in Südtirol",
-          "satz": "Ein Defekt im Umspannwerk Reschenbrücke legte Bozen, Etschtal und teils Burggrafenamt für Minuten lahm.",
-          "text": "Am Montagnachmittag fielen Ampeln aus, die Feuerwehr befreite Menschen aus Aufzügen und das Palais Widmann wurde geräumt. Netzbetreiber Edyna schließt einen Zusammenhang mit Hackerangriffen aus. Ursache war eine Störung an einer Hochspannungsanlage bei internen Arbeiten.",
-          "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/chronik/stromausfall-legt-teile-bozens-lahm",
+          "titel": "Land will Arbeitsförderungsinstitut Afi umbauen",
+          "satz": "Kritiker fürchten um die Unabhängigkeit des Instituts, das Arbeitsmarkt und Lebenshaltungskosten erforscht.",
+          "text": "Laut Wochenmagazin ff erwägt die Landesregierung, das Afi in die Landesverwaltung einzugliedern oder in eine Stiftung umzuwandeln. SVP-Politikerin Gabi Morandell und ASGB-Chef Tony Tschenett verlangen, die Unabhängigkeit zu wahren. Die SVP-Arbeitnehmer treffen diese Woche Landesrätin Magdalena Amhof.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/de/article/09112026/afi-institut-soll-maulkorb-bekommen",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Kompatscher droht der Post mit Vertragsende",
-          "satz": "Ohne Garantie für pünktliche Zustellung an sechs Tagen will das Land den Postvertrag nicht verlängern.",
-          "text": "Der Vertrag mit Poste Italiane läuft im Dezember aus. Laut einem Test der Verbraucherzentrale kam nur knapp die Hälfte der Briefe binnen fünf Werktagen an, die durchschnittliche Laufzeit lag 2026 bei 6,57 Tagen. Kompatscher schlägt eine transparente Kontrolle der Zustellqualität vor.",
+          "titel": "Öffis: Kinder unter 14 dürfen nicht hinausfliegen",
+          "satz": "Das Begleitgesetz zum Landeshaushalt 2027 senkt zudem die Strafe fürs Fahren ohne Ticket auf 90 Euro.",
+          "text": "Fahrgäste unter 14 Jahren dürfen wegen eines fehlenden Tickets nicht mehr aus öffentlichen Verkehrsmitteln verwiesen werden; wer sofort zahlt, zahlt 50 statt 90 Euro. Kompatschers Gesetzentwurf sieht auch eine Straßenagentur mit rund 650 Mitarbeitern und eine Museumcard vor. Ab 17. November berät der Gesetzgebungsausschuss.",
           "quelle": "Alto Adige",
-          "url": "https://www.altoadige.it/cronaca/posta-in-ritardo-in-alto-adige-kompatscher-senza-garanzie-non-pago-qwt8bk4h",
+          "url": "https://www.altoadige.it/cronaca/bus-in-alto-adige-sotto-i-14-anni-nessuno-obbligato-a-scendere-np3hwlib",
           "datum": "2026-11-10"
         },
         {
-          "titel": "BBT-Hackerangriff: Kaum geheime Daten betroffen",
-          "satz": "Gestohlen wurden vor allem technische und administrative Unterlagen für italienische Auftragnehmer.",
-          "text": "Die Angreifer erbeuteten Mitte Oktober Daten vom Server der Brennerbasistunnel-Gesellschaft, großteils öffentlich zugängliche Ausschreibungs- und Vermessungsunterlagen. Trotz Drohungen tauchten bisher keine Daten im Netz auf. Österreichische Auftragnehmer sind laut BBT SE nicht betroffen, die Ermittlungen laufen.",
-          "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/chronik/hackerangriff-brenner-nun-sind-die-daten-bekannt",
+          "titel": "Süd-Tiroler Freiheit: BBT bis spätestens 2033 fertig",
+          "satz": "Sven Knoll fordert per Landtagsantrag einen transparenten Zeit- und Kostenplan für den Brennerbasistunnel.",
+          "text": "Der Antrag verlangt eine Öffnung spätestens 2034; das Land soll bei BBT-Gesellschaft, Rom und Wien auf Tempo drängen. Bis dahin soll es bei Stau zeitweise Fahrverbote für Ausweichverkehr von der Brennerautobahn geben. Zudem will die Partei die Forschungsausgaben binnen fünf Jahren auf drei Prozent des BIP heben.",
+          "quelle": "UnserTirol24",
+          "url": "https://www.unsertirol24.com/2026/11/09/knoll-fordert-abschluss-des-bbt-baus-bis-spaetestens-2033/",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Streit um muslimisches Zentrum in Bozen",
-          "satz": "Ein Verein aus Bangladesch will ein ehemaliges Wellnesscenter in der Visitationsstraße umbauen.",
-          "text": "Massimo Bessone (Futuro Nazionale) fordert Klarheit, ob dort ein Kulturzentrum oder ein Gebetsraum entsteht. Vizebürgermeister Stephan Konder betont, es habe keine Sondergenehmigung gegeben. Die Baustelle ruht wegen bürokratischer Probleme, die Stadtregierung hat noch nicht entschieden.",
+          "titel": "Volle Weinkeller: Köcher fordert Preisdeckel",
+          "satz": "Beim Merano WineFestival schlägt Helmuth Köcher vor, Restaurant-Aufschläge auf das Dreifache zu begrenzen.",
+          "text": "Der Weinkonsum hat sich seit den frühen 1990er-Jahren fast halbiert, in Italiens Kellern lagern laut Köcher rund 59 Millionen Hektoliter. Neben dem Preisdeckel wirbt er für 0,375-Liter-Flaschen, mehrere Produzenten unterstützen das. Umstritten ist ein günstiges 22-cl-Glas, das die Kosten womöglich nicht deckt.",
           "quelle": "Alto Adige",
-          "url": "https://www.altoadige.it/cronaca/bolzano/bolzano-un-centro-musulmano-sara-aperto-in-via-visitazione-dzhh2kw0",
+          "url": "https://www.altoadige.it/cronaca/merano/cantine-piene-di-vino-invenduto-wine-festival-la-ricetta-anti-crisi-diyehi2w",
           "datum": "2026-11-10"
         }
       ],
-      "hinweis": "Rai Südtirol und stol.it nicht abrufbar, salto.bz ohne neue Meldungen; Ersatz: Südtirol News, Alto Adige."
+      "hinweis": "Rai Südtirol und stol.it nicht abrufbar, salto.bz-Startseite gesperrt (Artikel lesbar); Ersatz: Alto Adige, UnserTirol24."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Bayern: Neuer fällt mit Sehnenteilriss aus",
-          "satz": "Der 40-jährige Torwart verletzte sich beim 2:1 in Mainz am rechten Fuß und fehlt vorerst.",
-          "text": "Manuel Neuer musste in Mainz nach 44 Minuten ausgewechselt werden, Jonas Urbig ersetzte ihn. Schon im Oktober fehlte Neuer mehrfach wegen einer Sehnenreizung im rechten Fuß. Eine Rückkehr in diesem Jahr gilt als unwahrscheinlich; Trainer Vincent Kompany soll nach der Länderspielpause zurückkehren.",
-          "quelle": "sportschau.de",
-          "url": "https://www.sportschau.de/regional/br/br-sehnenteilriss-im-fuss-neuer-fehlt-fc-bayern-vorerst-102.html",
+          "titel": "Sinner holt Magnus Norman als neuen Trainer",
+          "satz": "Der Schwede ersetzt ab Dezember Darren Cahill, Simone Vagnozzi bleibt im Betreuerteam.",
+          "text": "Jannik Sinner trennt sich nach fast fünf Jahren von Darren Cahill und arbeitet künftig mit Magnus Norman. Norman führte Stan Wawrinka zu drei Grand-Slam-Titeln, Wawrinka nennt die Wahl exzellent. Erste Ergebnisse soll die Zusammenarbeit bei den Australian Open im Januar zeigen, wo Sinner nach Verletzungspause zurückkehrt.",
+          "quelle": "tennisnet.com",
+          "url": "https://www.tennisnet.com/news/wawrinka-ueber-ex-coach-norman-exzellente-wahl-von-jannik",
           "datum": "2026-11-09"
         },
         {
-          "titel": "WTA Finals: Andreeva und Sabalenka starten mit Siegen",
-          "satz": "Andreeva deklassierte Svitolina 6:4, 6:0, Sabalenka bezwang Muchova 7:6, 7:5.",
-          "text": "French-Open-Siegerin Mirra Andreeva liegt damit in Indian Wells auf Halbfinalkurs. Aryna Sabalenka, die die Spitze der Weltrangliste an Rybakina verlor, gewann ihr Auftaktmatch ebenfalls in zwei Sätzen. In Gruppe A stehen Jessica Pegula und Marta Kostyuk nach Auftaktniederlagen unter Druck.",
-          "quelle": "tennisnet.com",
-          "url": "https://www.tennisnet.com/news/wta-finals-andreeva-laesst-svitolina-keine-chance",
+          "titel": "Nmecha verteidigt umstrittenen Torjubel",
+          "satz": "Seine Geste verweise auf Jesus und solle niemanden ausgrenzen oder diskriminieren, schreibt der Nationalspieler.",
+          "text": "Der Dortmunder legt nach Toren eine imaginäre Krone ab, eine Geste der Kampagne „The King's Return“ aus dem Umfeld des evangelikalen Netzwerks „Ballers in God“. Die BVB-Fanabteilung kritisiert das Netzwerk als queerfeindlich. Bundestrainer Klopp sprach bereits im DFB-Camp mit ihm, auch BVB und DFB suchen das Gespräch.",
+          "quelle": "Sportschau",
+          "url": "https://www.sportschau.de/fussball/nmecha-weist-kritik-an-torjubel-zurueck,felix-nmecha-130.html",
           "datum": "2026-11-10"
         },
         {
-          "titel": "ATP Finals ohne Sinner: Alcaraz meidet Favoritenrolle",
-          "satz": "Nach seinem Titel in Paris will der Spanier vor dem Saisonfinale in Turin nicht über Favoriten sprechen.",
-          "text": "Carlos Alcaraz schlug im Pariser Finale Ben Shelton 7:6, 7:5, zuvor hatte er bereits in Wien gewonnen. Titelverteidiger Jannik Sinner beendet seine Saison vorzeitig und fehlt in Turin, wo die Finals am Sonntag beginnen. Alexander Zverev beendet das Jahr als Nummer eins.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/tennis/atp/2026/11/nicht-in-meiner-hand-alcaraz-favorit-bei-den-finals",
+          "titel": "Sepp Maier rät Neuer zum Karriereende",
+          "satz": "Nach Neuers Sehnenteilriss im Fuß sieht die Torwartlegende Jonas Urbig als Zukunft des FC Bayern.",
+          "text": "Manuel Neuer (40) fällt mit einem Sehnenteilriss im rechten Fuß sechs bis acht Wochen aus. Sepp Maier hält einen Abschied zum richtigen Zeitpunkt für wichtig und nennt schon Neuers WM-Rückkehr einen Fehler. Der FC Bayern müsse in der Torwartfrage nun eine klare Entscheidung treffen.",
+          "quelle": "SPORT1",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/sepp-maiers-rat-an-manuel-neuer-lass-es-sein-manu",
           "datum": "2026-11-09"
         },
         {
-          "titel": "Holstein Kiel trennt sich von Trainer Tim Walter",
-          "satz": "Der Tabellenletzte der 2. Bundesliga holte unter Walter nur einen Sieg aus elf Spielen.",
-          "text": "Mit Walter müssen auch die Assistenten Michael Wimmer und Julian Hübner gehen. Einen Nachfolger nannte Kiel noch nicht, als Favorit gilt Ex-Bielefeld-Trainer Mitch Kniat. Nach der Länderspielpause wartet am 21. November das Auswärtsspiel beim VfL Wolfsburg.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/2-bundesliga/2026/11/offiziell-holstein-kiel-trennt-sich-von-walter",
+          "titel": "Hoeneß kritisiert Transferpolitik des VfB Stuttgart",
+          "satz": "Der Bayern-Ehrenpräsident wirft der VfB-Führung vor, jedes Jahr die besten Spieler zu verkaufen.",
+          "text": "Im BR-„Sonntags-Stammtisch“ forderte Uli Hoeneß vom VfB mehr Risiko statt ständiger Verkäufe. Stuttgart ist nach neun Spieltagen nur Achter, nachdem es in der Vorsaison als Vierter in die Champions League kam. Trainer Sebastian Hoeneß, sein Neffe, gilt als möglicher Bayern-Trainer, ist aber bis 2028 gebunden.",
+          "quelle": "SPORT1",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/uli-hoeness-stichelt-gegen-vfb-stuttgart",
           "datum": "2026-11-09"
         }
       ],
-      "hinweis": "Startseiten von Sport1, kicker.de und tennisnet.com nicht direkt abrufbar (Sport1-Artikel über Suche geöffnet); Ersatz: sportschau.de, tennisnet.com. Keine neue Ski-alpin-Meldung im 24-Stunden-Fenster."
+      "hinweis": "sport1.de-Startseite gesperrt (Artikel über Suche lesbar); Ersatz: tennisnet.com, Sportschau. Kicker-Artikel nicht abrufbar; keine neue Ski-alpin-Meldung binnen 24 h."
     },
     "steuern": {
       "titel": "Steuern",
       "items": [
         {
-          "titel": "Zweite Steuervorauszahlung bis 30. November fällig",
-          "satz": "Die Novemberrate der Acconti auf IRPEF, IRES und IRAP kann nicht in Raten gezahlt werden.",
-          "text": "Betroffen sind Steuerpflichtige mit Kalenderjahr, auch Forfettari sowie Pflichtige für Cedolare secca, IVIE und IVAFE; Zahlung per F24 bis 30.11.2026. Wählbar sind historische oder prognostische Methode (metodo storico/previsionale). Für den Concordato preventivo biennale gelten Sonderregeln nach Art. 20 D.Lgs. 13/2024.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4772-acconto-imposte-novembre-2026-chi-paga-e-regole-cpb.html",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "EU-Rat will 150-Euro-Grenze beim IOSS abschaffen",
-          "satz": "Der Ecofin einigte sich am 9. November auf eine allgemeine Ausrichtung zum Richtlinienentwurf.",
-          "text": "Das Import-One-Stop-Shop-Verfahren (IOSS) soll für Waren jeden Werts gelten; Plattformen sollen auch bei Fernverkäufen über 150 Euro als fiktive Lieferer die IVA erheben. Geplanter Start ist der 1. Juli 2028. Das EU-Parlament muss noch zustimmen, die formelle Annahme wird Anfang 2027 erwartet.",
+          "titel": "Commercialisti fordern Änderungen an Manovra 2027",
+          "satz": "Der Berufsrat CNDCEC will die Zehnjahres-Ratenpflicht für Superbonus-Steuerguthaben streichen.",
+          "text": "Bei der parlamentarischen Anhörung zum Haushaltsgesetz 2027 (Ddl di bilancio) forderte der CNDCEC, die zwingende Verteilung der Superbonus-Guthaben auf zehn Jahre zu kippen. Zudem soll der regime forfetario auf Berufsgemeinschaften (aggregazioni) ausgeweitet und die IRPEF-Senkung dauerhaft werden. Betroffen sind Freiberufler und Inhaber von Superbonus-Krediten.",
           "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Art_1130763_primo_via_libera_del_consiglio_ue_sull_eliminazione_della_soglia.aspx",
+          "url": "https://www.eutekne.info/Sezioni/Art_1130782_commercialisti_no_alla_stretta_sul_superbonus_e_flat_tax_estesa.aspx",
           "datum": "2026-11-10"
         },
         {
-          "titel": "Cassazione: IVA-Guthaben trotz fehlender Erklärung möglich",
-          "satz": "Das Guthaben muss aber mit Rechnungen, Registern und Buchhaltung belegt werden (Ordinanza 27348/2026).",
-          "text": "Fehlt die Jahreserklärung für das Entstehungsjahr, entfällt der Vorsteuerabzug nicht automatisch; die bloße Übertragung ins Folgejahr genügt aber nicht als Nachweis. Die Agentur darf solche Fälle per automatisierter Kontrolle (Art. 54-bis DPR 633/1972) aufgreifen. Betroffene Unternehmen können den Anspruch im Verfahren beweisen.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4773-omessa-dichiarazione-e-credito-iva-quando-spetta-la-detrazione.html",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "Interpelli: 10 % IVA für Nahrungsergänzung und Augentropfen",
-          "satz": "Die Agenzia delle Entrate veröffentlichte am 9. November vier Antworten zu ermäßigten IVA-Sätzen.",
-          "text": "Ein Nahrungsergänzungsmittel mit Bacillus clausii erhält 10 %, wenn der Zoll es Position 21.06 zuordnet (risposta n. 204). Zwei Augentropfen mit Trehalose fallen unter Position 3004 und ebenfalls unter 10 % (n. 205, 206). Maßgeblich ist die zollrechtliche Einreihung; n. 203 betrifft Mais für Biogasanlagen.",
+          "titel": "Cassazione: Teil-Ravvedimento auch bei der IMU",
+          "satz": "Laut Entscheidung Nr. 28660 vom 8. November 2026 ist die Teilberichtigung ein allgemeiner Grundsatz.",
+          "text": "Die Cassazione hält den teilweisen ravvedimento operoso auch bei Gemeindesteuern wie der IMU für zulässig. Begründet wird dies damit, dass er ein allgemeines Prinzip des Steuerrechts ausdrückt. Steuerpflichtige und Berater können so auch IMU-Rückstände in Teilbeträgen bereinigen.",
           "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Art_1130765_integratori_alimentari_con_iva_del_10_secondo_la_classificazione.aspx",
+          "url": "https://www.eutekne.info/Sezioni/Art_1130774_ammesso_il_ravvedimento_parziale_anche_per_l_imu.aspx",
           "datum": "2026-11-10"
+        },
+        {
+          "titel": "Konkordat 2026–2027: rund 360.000 Beitritte",
+          "satz": "Nach Fristende am 2. November zählen Schätzungen 220.000 Verlängerungen und 140.000 neue Beitritte.",
+          "text": "Die neuen Beitritte zum concordato preventivo biennale haben sich gegenüber dem Vorjahr mehr als verdoppelt. Für Verlängerer sieht der D.lgs. 148/2026 Vorteile vor, etwa um zwei Jahre verkürzte Prüfungsfristen und Visto-Befreiung für IVA-Erstattungen bis 100.000 Euro. Offizielle Zahlen stehen noch aus.",
+          "quelle": "ItaliaOggi",
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/fisco-il-concordato-torna-a-correre-registrati-220-mila-rinnovi-e-140-mila-nuove-adesioni-j0ho8few",
+          "datum": "2026-11-06"
+        },
+        {
+          "titel": "Cassazione: Vorgezogene Eintreibung braucht Begründung",
+          "satz": "Laut Ordinanza Nr. 28437/2026 muss die cartella auch die Gründe der riscossione anticipata nennen.",
+          "text": "Im Fall des insolventen Fußballklubs Reggina wies die Cassazione die Beschwerde der Agenzia delle Entrate zurück. Eine cartella, die auf eine noch nicht eingereichte Erklärung verweist, stützt sich auf eine nicht existierende Grundlage. Die Sanktionen für 2004 bleiben annulliert.",
+          "quelle": "ItaliaOggi",
+          "url": "https://www.italiaoggi.it/settori/sport/fallimento-reggina-la-cassazione-nella-riscossione-anticipata-il-pericolo-va-sempre-spiegato-in-cartella-jq2cp1kw",
+          "datum": "2026-11-07"
         }
       ],
-      "hinweis": "Agenzia delle Entrate und IPSOA nicht abrufbar; Ersatz: FiscoeTasse, Eutekne."
+      "hinweis": "agenziaentrate.gov.it, fiscooggi.it und Il Sole (norme-e-tributi) nicht abrufbar; Ersatz: Eutekne, ItaliaOggi."
     }
   }
 }

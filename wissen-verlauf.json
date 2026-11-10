@@ -153,5 +153,10 @@
     "datum": "2026-11-10",
     "typ": "bildkat",
     "wert": "Natur"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "bau",
+    "wert": "Hagia Sophia"
   }
 ]
