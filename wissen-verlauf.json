@@ -147,6 +147,11 @@
   {
     "datum": "2026-11-10",
     "typ": "bild",
-    "wert": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
+    "wert": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "bildkat",
+    "wert": "Natur"
   }
 ]
