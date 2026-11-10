@@ -113,5 +113,40 @@
     "datum": "2026-11-09",
     "typ": "bild",
     "wert": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "artikel",
+    "wert": "https://nationalgeographic.de/geschichte-und-kultur/2026/11/segeln-ohne-kompass-der-navigator-im-kopf/"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "ort",
+    "wert": "Valparaíso"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Deutschland zählte Ende Juni 2026 rund 83,3 Millionen Einwohner, 168.000 weniger als zu Jahresbeginn."
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Italiens Inflationsrate stieg im Oktober 2026 laut Vorabschätzung auf 5,4 Prozent, getrieben von Energiepreisen."
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "fakt",
+    "wert": "Klima: Europas Landflächen waren im Oktober 2026 im Mittel 1,49 °C wärmer als 1991–2020."
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "wiki",
+    "wert": "Bärtierchen"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "bild",
+    "wert": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
   }
 ]
