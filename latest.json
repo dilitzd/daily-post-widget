@@ -1,85 +1,121 @@
 {
- "issue": 36,
- "date": "Dienstag, 10. November 2026",
- "updated": "2026-11-10T05:50:57Z",
+ "issue": 37,
+ "date": "Mittwoch, 11. November 2026",
+ "updated": "2026-11-11T05:50:55Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · REGIME FORFETARIO",
-   "title": "Forfetario sdoppiato: 100.000 euro per le dirette, 85.000 per l'IVA",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130351_il_regime_forfetario_si_sdoppia_oltre_gli_85_000_euro.aspx"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "AUSSENHANDEL · ITALIEN",
-   "title": "Italiens Exporte wachsen stärker als die der europäischen Konkurrenz",
-   "url": "https://en.ilsole24ore.com/art/italias-exports-53-per-cent-over-ten-years-outperforming-european-competitors-AJIHkO9B"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · TRANSIZIONE 5.0",
-   "title": "Esodati 5.0: contributo per FER e certificazioni solo su domanda",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/agevolazioni/esodati-5-0-contributo-su-fer-e-certificazioni-senza-domanda-niente-erogazione/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO · IVA",
-   "title": "Split payment 2027: online gli elenchi dei soggetti interessati",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130561_disponibili_on_line_gli_elenchi_split_payment_per_l_anno_2027.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO · AGRICOLTURA",
-   "title": "CD e IAP: esenzione su dominicali e agrari prorogata al 2027",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130022_estesa_al_2027_l_esenzione_per_i_redditi_dominicali_e_agrari_di.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "IMPRESA · ARTIGIANATO",
-   "title": "Imprese artigiane: limiti di dipendenti più ampi dopo sette anni",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130409_piu_ampi_i_limiti_dimensionali_per_le_imprese_artigiane_iscritte.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "CRISI D'IMPRESA · SOVRAINDEBITAMENTO",
-   "title": "Concordato minore: accesso e proposta nella circolare 9/E/2026",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/limiti-di-accesso-e-contenuto-della-proposta-di-concordato-minore-le-osservazioni-della-circolare-n-9-e-2026/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "DIRITTO · SOCIETÀ",
-   "title": "STP in forma di S.r.l.: due terzi dei voti ai professionisti",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/stp-in-forma-di-s-r-l-i-due-terzi-dei-voti-ai-professionisti-anche-con-meno-dei-due-terzi-del-capitale/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "TRIBUTI LOCALI · CASSAZIONE",
-   "title": "TARI: vale la superficie accertata in via definitiva negli anni precedenti",
-   "url": "https://www.eutekne.info/Sezioni/Art_1129965_tari_determinabile_con_la_superficie_accertata_per_le_annualita.aspx"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "KONJUNKTUR · DEUTSCHLAND",
-   "title": "Deutsche Exporte steigen im September um zwei Prozent",
-   "url": "https://www.wiwo.de/politik/konjunktur/volkswirtschaft-deutschlands-exporte-steigen-trotz-trumps-zollpolitik/100268364.html"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · ITALIEN",
-   "title": "Intesa-Angebot für Monte dei Paschi startet am 24. November",
-   "url": "https://en.ilsole24ore.com/art/mps-and-consob-reach-agreement-on-the-go-ahead-for-the-offering-prospectus-via-24-november-AJtJ6Y9B"
+   "kicker": "FISCO · SCADENZE",
+   "title": "Secondo acconto 2026: versamento entro il 30 novembre",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/secondo-acconto-2026-alla-cassa/"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "INDUSTRIE · ITALIEN",
-   "title": "Ex-Ilva: Angebotsfrist abgelaufen, US-Fonds Flacks steigt aus",
-   "url": "https://en.ilsole24ore.com/art/former-ilva-sources-flacks-offered-only-a-meeting-with-meloni-AJHsNW9B"
+   "title": "Ex-Ilva: Nur Arvedi und Jindal bieten für das Stahlwerk Tarent",
+   "url": "https://en.ilsole24ore.com/art/former-ilva-site-arvedi-and-jindal-face-off-with-two-bids-AJTkpz9B"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · MODELLE",
+   "title": "Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "IVA · ACCERTAMENTO",
+   "title": "Dichiarazione IVA omessa: l'Agenzia calcola l'imposta con i propri dati",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/iva-nuova-procedura-accertamento-l-omessa-dichiarazione-AJgWWLAC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "TRIBUTI LOCALI · CASSAZIONE",
+   "title": "Ravvedimento parziale ammesso anche per i tributi locali",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/ravvedimento-parziale-valido-anche-i-tributi-locali-AJOoubAC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · REGIME FORFETARIO",
+   "title": "Cessione d'azienda nel forfetario: irrilevanti i beni, tassato l'avviamento",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-sul-reddito/cessione-dazienda-in-regime-forfettario-irrilevanti-i-plusvalori-sui-beni-tassato-lavviamento/"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "PENALE TRIBUTARIO · SOGLIE",
+   "title": "Soglie di punibilità: l'imposta evasa la ricostruisce il giudice penale",
+   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/il-calcolo-dellimposta-evasa-e-del-giudice-penale/"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "IVA · E-COMMERCE",
+   "title": "IOSS senza soglia di 150 euro: primo via libera del Consiglio UE",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130763_primo_via_libera_del_consiglio_ue_sull_eliminazione_della_soglia.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "DIRITTO · SOCIETÀ",
+   "title": "Opportunità d'affari: il nuovo art. 2390-bis c.c. vincola gli amministratori",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/corporate-opportunities-la-societa-puo-autorizzare-lamministratore-dopo-la-riforma-del-2026/"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "IVA · AGRICOLTURA",
+   "title": "Mais ceduto a impianti di biogas: IVA al 4%",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130737_iva_al_4_per_il_mais_anche_se_ceduto_agli_impianti_di_biogas.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "UNTERNEHMEN · MASCHINENBAU",
-   "title": "Gea übertrifft Erwartungen und bestätigt Jahresprognose",
-   "url": "https://www.handelsblatt.com/unternehmen/industrie/technologie-gea-bestaetigt-prognose-und-uebertrifft-markterwartungen/100268341.html"
+   "kicker": "ENERGIE · ITALIEN",
+   "title": "Strompreisdekret soll Kosten ab Januar um 15 Euro senken",
+   "url": "https://en.ilsole24ore.com/art/pichettos-bill-decree-for-january-average-reduction-of-15-euros-per-megawatt-hour-AJZJjgAC"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "STEUERN · DEUTSCHLAND",
+   "title": "Klingbeil will Steuerklassen III und V abschaffen",
+   "url": "https://www.handelsblatt.com/politik/deutschland/steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen/100268862.html"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "HAUSHALT · ITALIEN",
+   "title": "Rechnungshof nennt Italiens Haushaltsentwurf 2027 vorsichtig",
+   "url": "https://en.ilsole24ore.com/art/draft-budget-court-of-auditors-and-prudent-fiscal-measures-a-concrete-signal-AJFtTNAC"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "UNTERNEHMEN · HALBLEITER",
+   "title": "Infineon steigert Gewinn um 49 Prozent dank Rechenzentren",
+   "url": "https://www.wiwo.de/unternehmen/it/infineon-gewinn-und-umsatz-steigen-dank-ki-boom-und-rechenzentren-deutlich/100268635.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · BÖRSENGANG",
+   "title": "Anthropic startet Roadshow für Börsengang an der Nasdaq",
+   "url": "https://www.anthropic.com/news/roadshow-launch"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · CHIPS",
+   "title": "FBI ermittelt laut Trump zur Affäre von Nvidia-Chef Huang",
+   "url": "https://t3n.de/news/jensen-huang-fbi-ermittlung-nvidia-ceo-1772638/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · UNTERNEHMENSAUSGABEN",
+   "title": "Ramp-Daten: Firmen nutzen mehr KI, geben aber kaum mehr aus",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MODELLE · META",
+   "title": "Meta bringt mit Muse Ember ein günstiges Modell für Agenten",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+  },
+  {
+   "block": "Box",
+   "kicker": "USECASE DER WOCHE · AUDITING",
+   "title": "KI als Erstprüfer: Wie kleine Prüfungskanzleien schneller planen",
+   "url": "https://www.journalofaccountancy.com/issues/2026/nov/how-cpas-are-putting-ai-to-work-in-audits/"
   }
  ]
 }
