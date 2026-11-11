@@ -158,5 +158,50 @@
     "datum": "2026-11-10",
     "typ": "bau",
     "wert": "Hagia Sophia"
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "artikel",
+    "wert": "https://wissenschaft.de/artikel/keltenkoenig-war-in-wirklichkeit-eine-frau"
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "ort",
+    "wert": "Drei Zinnen"
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Im Juli 2026 leben laut Projektion rund 8,2 Milliarden Menschen auf der Erde."
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Beschäftigte in Südtirols Privatwirtschaft verdienten 2024 durchschnittlich 34.050 Euro brutto im Jahr."
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "fakt",
+    "wert": "Klima: Das arktische Meereis schrumpfte im September 2026 auf rund 4,6 Millionen Quadratkilometer."
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "wiki",
+    "wert": "Waffenstillstand von Compiègne"
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/1280px-002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "bildkat",
+    "wert": "Tiere"
+  },
+  {
+    "datum": "2026-11-11",
+    "typ": "bau",
+    "wert": "Elbphilharmonie"
   }
 ]
