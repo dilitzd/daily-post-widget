@@ -203,5 +203,50 @@
     "datum": "2026-11-11",
     "typ": "bau",
     "wert": "Elbphilharmonie"
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "artikel",
+    "wert": "https://www.spektrum.de/news/pompeji-archaeologen-raeumen-2000-jahre-alten-schrank-auf/2352154"
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "ort",
+    "wert": "Petra"
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Die Lebenserwartung bei Geburt in Südtirol lag 2024 bei 84,7 Jahren."
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Das reale Pro-Kopf-Haushaltseinkommen in der EU stieg im 2. Quartal 2026 um 0,1 %."
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "fakt",
+    "wert": "Klima: Die Schweizer Gletscher verloren im Jahr 2025/2026 rund 5,5 % ihres Eisvolumens."
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "wiki",
+    "wert": "Der Lottogewinner"
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ko%C5%9Bcielec_view_2.jpg/1280px-Ko%C5%9Bcielec_view_2.jpg"
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "bildkat",
+    "wert": "Natur"
+  },
+  {
+    "datum": "2026-11-12",
+    "typ": "bau",
+    "wert": "Sydney Opera House"
   }
 ]
