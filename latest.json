@@ -1,121 +1,85 @@
 {
- "issue": 37,
- "date": "Mittwoch, 11. November 2026",
- "updated": "2026-11-11T05:50:55Z",
+ "issue": 38,
+ "date": "Donnerstag, 12. November 2026",
+ "updated": "2026-11-12T05:51:09Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · SCADENZE",
-   "title": "Secondo acconto 2026: versamento entro il 30 novembre",
-   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/secondo-acconto-2026-alla-cassa/"
+   "kicker": "LAVORO · AGEVOLAZIONI",
+   "title": "SIISL: dal 1° dicembre niente sgravi senza annuncio pubblicato",
+   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/agevolazioni/siisl-e-assunzioni-agevolate-pubblicato-il-decreto-attuativo/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · ITALIEN",
-   "title": "Ex-Ilva: Nur Arvedi und Jindal bieten für das Stahlwerk Tarent",
-   "url": "https://en.ilsole24ore.com/art/former-ilva-site-arvedi-and-jindal-face-off-with-two-bids-AJTkpz9B"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · MODELLE",
-   "title": "Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   "kicker": "KONJUNKTUR · DEUTSCHLAND",
+   "title": "Wirtschaftsweise heben Prognose an und warnen vor Finanzlücken",
+   "url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-konjunktur-zieht-an-wirtschaftsweise-sehen-finanzluecken/100269139.html"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · ACCERTAMENTO",
-   "title": "Dichiarazione IVA omessa: l'Agenzia calcola l'imposta con i propri dati",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/iva-nuova-procedura-accertamento-l-omessa-dichiarazione-AJgWWLAC"
+   "kicker": "RISCOSSIONE · COMPENSAZIONI",
+   "title": "Blocco compensazioni F24: la soglia dei ruoli scende a 30.000 euro",
+   "url": "https://www.mysolution.it/fisco/approfondimenti/commenti/2026/11/blocco-compensazioni-in-f24-nel-ddl-di-bilancio.-soglia-carichi-scaduti-ridotta-a-30.000-amantea"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "TRIBUTI LOCALI · CASSAZIONE",
-   "title": "Ravvedimento parziale ammesso anche per i tributi locali",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/ravvedimento-parziale-valido-anche-i-tributi-locali-AJOoubAC"
+   "kicker": "IVA · IMMOBILI",
+   "title": "Pro rata IVA per imprese di costruzione e società immobiliari",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/pro-rata-iva-nel-settore-immobiliare-per-costruttori-e-societa-di-gestione/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · REGIME FORFETARIO",
-   "title": "Cessione d'azienda nel forfetario: irrilevanti i beni, tassato l'avviamento",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-sul-reddito/cessione-dazienda-in-regime-forfettario-irrilevanti-i-plusvalori-sui-beni-tassato-lavviamento/"
+   "kicker": "FISCO · CONCORDATO BIENNALE",
+   "title": "Ravvedimento speciale CPB: pronti i codici tributo per l'F24",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/ravvedimento-speciale-pronti-f24-AJeRmxBC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "PENALE TRIBUTARIO · SOGLIE",
-   "title": "Soglie di punibilità: l'imposta evasa la ricostruisce il giudice penale",
-   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/il-calcolo-dellimposta-evasa-e-del-giudice-penale/"
+   "kicker": "CRISI D'IMPRESA · ESDEBITAZIONE",
+   "title": "Esdebitazione: debiti inesigibili, ma le sanzioni autonome restano",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/indicazioni-della-circolare-n-9-e-2026-dellagenzia-delle-entrate-in-tema-di-esdebitazione/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · E-COMMERCE",
-   "title": "IOSS senza soglia di 150 euro: primo via libera del Consiglio UE",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130763_primo_via_libera_del_consiglio_ue_sull_eliminazione_della_soglia.aspx"
+   "kicker": "BILANCIO · RIMANENZE",
+   "title": "Produzione ordinaria o commessa: la qualifica decide il margine",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/vendite-e-commesse-ordinaria-produzione-sal-e-segmentazione-tra-oic-34-e-oic-23/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "DIRITTO · SOCIETÀ",
-   "title": "Opportunità d'affari: il nuovo art. 2390-bis c.c. vincola gli amministratori",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/corporate-opportunities-la-societa-puo-autorizzare-lamministratore-dopo-la-riforma-del-2026/"
+   "kicker": "BILANCIO · SOSTENIBILITÀ",
+   "title": "CSRD: esonero dalla rendicontazione di sostenibilità per 2026 e 2027",
+   "url": "https://www.mysolution.it/fisco/approfondimenti/commenti/2026/11/csrd-esonero-dalla-rendicontazione-di-sostenibilita-per-il-2026-e-2027.-chi-ne-beneficia-e-cosa-verificare-urti"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · AGRICOLTURA",
-   "title": "Mais ceduto a impianti di biogas: IVA al 4%",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130737_iva_al_4_per_il_mais_anche_se_ceduto_agli_impianti_di_biogas.aspx"
+   "kicker": "FISCALITÀ INTERNAZIONALE · RESIDENZA",
+   "title": "Exit tax per le persone fisiche: rischio di censura Ue",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/l-imposta-trasferimenti-all-estero-rischia-censura-ue-AJ91ufBC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · ITALIEN",
-   "title": "Strompreisdekret soll Kosten ab Januar um 15 Euro senken",
-   "url": "https://en.ilsole24ore.com/art/pichettos-bill-decree-for-january-average-reduction-of-15-euros-per-megawatt-hour-AJZJjgAC"
+   "kicker": "UNTERNEHMEN · ITALIEN",
+   "title": "TIM wächst in neun Monaten und bestätigt Ziele für 2026",
+   "url": "https://en.ilsole24ore.com/art/tim-9-month-revenue-of-104-billion-up-28-per-cent-ebitda-of-28-billion-up-23-per-cent-AJO6ssBC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "STEUERN · DEUTSCHLAND",
-   "title": "Klingbeil will Steuerklassen III und V abschaffen",
-   "url": "https://www.handelsblatt.com/politik/deutschland/steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen/100268862.html"
+   "kicker": "ARBEITSMARKT · ITALIEN",
+   "title": "Callcenter-Streik: Gewerkschaften sehen 13.000 Jobs durch KI bedroht",
+   "url": "https://en.ilsole24ore.com/art/call-centre-strike-trade-unions-sound-the-alarm-over-13000-jobs-AJbPzkBC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · ITALIEN",
-   "title": "Rechnungshof nennt Italiens Haushaltsentwurf 2027 vorsichtig",
-   "url": "https://en.ilsole24ore.com/art/draft-budget-court-of-auditors-and-prudent-fiscal-measures-a-concrete-signal-AJFtTNAC"
+   "kicker": "INVESTITIONEN · DEUTSCHLAND",
+   "title": "Chinesische Firmen halten trotz Kritik an Deutschland fest",
+   "url": "https://www.wiwo.de/politik/ausland/investitionen-chinesische-firmen-halten-an-deutschland-fest/100268921.html?amp"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "UNTERNEHMEN · HALBLEITER",
-   "title": "Infineon steigert Gewinn um 49 Prozent dank Rechenzentren",
-   "url": "https://www.wiwo.de/unternehmen/it/infineon-gewinn-und-umsatz-steigen-dank-ki-boom-und-rechenzentren-deutlich/100268635.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · BÖRSENGANG",
-   "title": "Anthropic startet Roadshow für Börsengang an der Nasdaq",
-   "url": "https://www.anthropic.com/news/roadshow-launch"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · CHIPS",
-   "title": "FBI ermittelt laut Trump zur Affäre von Nvidia-Chef Huang",
-   "url": "https://t3n.de/news/jensen-huang-fbi-ermittlung-nvidia-ceo-1772638/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · UNTERNEHMENSAUSGABEN",
-   "title": "Ramp-Daten: Firmen nutzen mehr KI, geben aber kaum mehr aus",
-   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MODELLE · META",
-   "title": "Meta bringt mit Muse Ember ein günstiges Modell für Agenten",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
-  },
-  {
-   "block": "Box",
-   "kicker": "USECASE DER WOCHE · AUDITING",
-   "title": "KI als Erstprüfer: Wie kleine Prüfungskanzleien schneller planen",
-   "url": "https://www.journalofaccountancy.com/issues/2026/nov/how-cpas-are-putting-ai-to-work-in-audits/"
+   "kicker": "BAU · ITALIEN",
+   "title": "Nach dem Superbonus: Markt für Wärmedämmung halbiert",
+   "url": "https://en.ilsole24ore.com/art/thermal-insulation-schemes-end-of-superbonus-weighs-on-market-halved-over-four-years-AJm1uaBC"
   }
  ]
 }
