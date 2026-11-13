@@ -1,381 +1,397 @@
 {
-  "updated": "2026-11-13T04:49:52+01:00",
-  "zitat": {
-    "text": "Hoffnungsvoll zu reisen ist besser als anzukommen, und der wahre Erfolg liegt in der Arbeit.",
-    "original": "To travel hopefully is a better thing than to arrive, and the true success is to labour.",
-    "person": "Robert Louis Stevenson",
-    "info": "Schriftsteller, 1850–1894",
-    "quelle": "Essay „El Dorado“, in: Virginibus Puerisque",
-    "url": "https://www.gutenberg.org/files/386/386-h/386-h.htm",
-    "datum": "2026-11-13"
+ "updated": "2026-11-13T19:13:02+01:00",
+ "zitat": {
+  "text": "Hoffnungsvoll zu reisen ist besser als anzukommen, und der wahre Erfolg liegt in der Arbeit.",
+  "original": "To travel hopefully is a better thing than to arrive, and the true success is to labour.",
+  "person": "Robert Louis Stevenson",
+  "info": "Schriftsteller, 1850–1894",
+  "quelle": "Essay „El Dorado“, in: Virginibus Puerisque",
+  "url": "https://www.gutenberg.org/files/386/386-h/386-h.htm",
+  "datum": "2026-11-13"
+ },
+ "artikel": {
+  "norm": "Art. 164 TUIR",
+  "gesetz": "DPR 917/1986 – Testo unico delle imposte sui redditi",
+  "titel": "Limiti di deduzione delle spese e degli altri componenti negativi relativi a taluni mezzi di trasporto a motore, utilizzati nell'esercizio di imprese, arti e professioni",
+  "auszug": "Le spese e gli altri componenti negativi relativi ai mezzi di trasporto a motore […] utilizzati nell'esercizio di imprese, arti e professioni […] sono deducibili solo se rientranti in una delle fattispecie previste nelle successive lettere a), b) e b-bis)",
+  "erklaerung": "Regelt, in welchem Umfang Kfz-Kosten von Unternehmen und Freiberuflern abziehbar sind: grundsätzlich 20 %, bei Handelsvertretern (agenti) 80 %, bei Mitarbeitern überwiegend überlassenen Fahrzeugen 70 %. Ab 1.1.2027 gilt der neue Testo unico (D.Lgs. 117/2026); dort steht die Regel in Art. 168.",
+  "url": "https://www.brocardi.it/testo-unico-imposte-redditi/titolo-iii/capo-i/art164.html",
+  "stand": "2026-09-26",
+  "datum": "2026-11-13"
+ },
+ "wissen": {
+  "quelle": "Welt der Wunder",
+  "titel": "Wie Monsterwellen auf dem Meer entstehen",
+  "zusammenfassung": "Monsterwellen sind mindestens doppelt so hoch wie die umgebenden Wellen und entstehen durch Überlagerung, Gegenströmungen und nichtlineare Effekte. Erst 1995 maß die Nordsee-Plattform Draupner eindeutig eine solche, rund 26 Meter hohe Welle.",
+  "url": "https://www.weltderwunder.de/wie-entsteht-eine-monsterwelle/",
+  "datum": "2026-11-10"
+ },
+ "ort": {
+  "name": "Grand Canyon",
+  "land": "USA",
+  "lat": 36.1,
+  "lon": -112.1,
+  "zoom": 8,
+  "beschreibung": "Der Colorado River schnitt die rund 450 Kilometer lange, bis zu 1800 Meter tiefe Schlucht in Arizona; UNESCO-Welterbe seit 1979.",
+  "url": "https://de.wikipedia.org/wiki/Grand_Canyon",
+  "datum": "2026-11-13"
+ },
+ "fakten": [
+  {
+   "thema": "Bevölkerung",
+   "text": "Deutschland hatte 2024 rund 41,8 Millionen Privathaushalte; bis 2050 droht ein Rückgang bis 5 %.",
+   "quelle": "Destatis",
+   "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_386_122.html"
   },
-  "artikel": {
-    "norm": "Art. 164 TUIR",
-    "gesetz": "DPR 917/1986 – Testo unico delle imposte sui redditi",
-    "titel": "Limiti di deduzione delle spese e degli altri componenti negativi relativi a taluni mezzi di trasporto a motore, utilizzati nell'esercizio di imprese, arti e professioni",
-    "auszug": "Le spese e gli altri componenti negativi relativi ai mezzi di trasporto a motore […] utilizzati nell'esercizio di imprese, arti e professioni […] sono deducibili solo se rientranti in una delle fattispecie previste nelle successive lettere a), b) e b-bis)",
-    "erklaerung": "Regelt, in welchem Umfang Kfz-Kosten von Unternehmen und Freiberuflern abziehbar sind: grundsätzlich 20 %, bei Handelsvertretern (agenti) 80 %, bei Mitarbeitern überwiegend überlassenen Fahrzeugen 70 %. Ab 1.1.2027 gilt der neue Testo unico (D.Lgs. 117/2026); dort steht die Regel in Art. 168.",
-    "url": "https://www.brocardi.it/testo-unico-imposte-redditi/titolo-iii/capo-i/art164.html",
-    "stand": "2026-09-26",
-    "datum": "2026-11-13"
+  {
+   "thema": "Wirtschaft",
+   "text": "Südtirols Seilbahnen beförderten im Winter 2024/25 den Rekordwert von 150,4 Millionen Personen.",
+   "quelle": "ASTAT",
+   "url": "https://astat.provinz.bz.it/de/publikationen/seilbahnen-in-suedtirol-2024-und-2025"
   },
-  "wissen": {
-    "quelle": "Welt der Wunder",
-    "titel": "Wie Monsterwellen auf dem Meer entstehen",
-    "zusammenfassung": "Monsterwellen sind mindestens doppelt so hoch wie die umgebenden Wellen und entstehen durch Überlagerung, Gegenströmungen und nichtlineare Effekte. Erst 1995 maß die Nordsee-Plattform Draupner eindeutig eine solche, rund 26 Meter hohe Welle.",
-    "url": "https://www.weltderwunder.de/wie-entsteht-eine-monsterwelle/",
-    "datum": "2026-11-10"
-  },
-  "ort": {
-    "name": "Grand Canyon",
-    "land": "USA",
-    "lat": 36.1,
-    "lon": -112.1,
-    "zoom": 8,
-    "beschreibung": "Der Colorado River schnitt die rund 450 Kilometer lange, bis zu 1800 Meter tiefe Schlucht in Arizona; UNESCO-Welterbe seit 1979.",
-    "url": "https://de.wikipedia.org/wiki/Grand_Canyon",
-    "datum": "2026-11-13"
-  },
-  "fakten": [
-    {
-      "thema": "Bevölkerung",
-      "text": "Deutschland hatte 2024 rund 41,8 Millionen Privathaushalte; bis 2050 droht ein Rückgang bis 5 %.",
-      "quelle": "Destatis",
-      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_386_122.html"
-    },
-    {
-      "thema": "Wirtschaft",
-      "text": "Südtirols Seilbahnen beförderten im Winter 2024/25 den Rekordwert von 150,4 Millionen Personen.",
-      "quelle": "ASTAT",
-      "url": "https://astat.provinz.bz.it/de/publikationen/seilbahnen-in-suedtirol-2024-und-2025"
-    },
-    {
-      "thema": "Klima",
-      "text": "Das antarktische Meereis lag im Oktober 2026 um 9,3 % unter dem Mittel 1991–2020.",
-      "quelle": "Copernicus",
-      "url": "https://climate.copernicus.eu/sea-ice-cover-october-2026"
-    }
-  ],
-  "wiki": {
-    "titel": "Izumo no Okuni",
-    "zusammenfassung": "Die um 1572 geborene Schreintänzerin aus Izumo gilt als Begründerin des Kabuki. In Kyōto verband sie Tanz, Gesang und Alltagssketche; 1629 verbot das Shogunat Frauen auf der Kabuki-Bühne.",
-    "url": "https://de.wikipedia.org/wiki/Izumo_no_Okuni",
-    "datum": "2026-11-13"
-  },
-  "bild": {
-    "kurz": "Koromandel-Rennvogel",
-    "titel": "Koromandel-Rennvogel in Bhigwan, Indien",
-    "beschreibung": "Ein Koromandel-Rennvogel (Cursorius coromandelicus), fotografiert im August 2025 bei Bhigwan im indischen Bundesstaat Maharashtra.",
-    "kategorie": "Tiere",
-    "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg/1280px-Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg",
-    "bild_seite": "https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg",
-    "fotograf": "Tisha Mukherjee",
-    "lizenz": "CC BY-SA 4.0",
-    "datum": "2026-11-13"
-  },
-  "bau": {
-    "name": "Taj Mahal",
-    "kurz": "Taj Mahal",
-    "ort": "Agra, Indien",
-    "architekt": "Ahmad Lahori u. a.",
-    "jahr": "1632–1648",
-    "stil": "Indo-islamische Mogul-Architektur",
-    "beschreibung": "Das Grabmal, das Großmogul Shah Jahan für seine Frau Mumtaz Mahal errichten ließ, ist mit weißem Marmor und Edelstein-Einlagen verkleidet.",
-    "url": "https://de.wikipedia.org/wiki/Taj_Mahal",
-    "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/1280px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg",
-    "bild_seite": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg",
-    "fotograf": "Yann; bearbeitet von King of Hearts und Jbarta",
-    "lizenz": "CC BY-SA 3.0",
-    "datum": "2026-11-13"
-  },
-  "themen": {
-    "politik": {
-      "titel": "Internationale Politik",
-      "items": [
-        {
-          "titel": "Putin: truppe straniere in Ucraina bersaglio legittimo",
-          "satz": "Agli inviati di Trump Witkoff e Kushner, Putin ha detto di volere una pace duratura in Ucraina.",
-          "text": "A Mosca Putin ha ricevuto gli inviati statunitensi Witkoff e Kushner, avvertendo che eventuali truppe straniere in Ucraina sarebbero un bersaglio legittimo. Washington spera di fissare un nuovo vertice trilaterale con la partecipazione degli europei. Intanto il Regno Unito ha sanzionato i dieci maggiori produttori di petrolio russi.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/ukrainian-officials-witkoff-and-kushner-arrive-in-moscow-giorgetti-signs-aid-decree-AJu0tiDC",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Minacce iraniane: Bessent si trasferisce in base militare",
-          "satz": "Il segretario al Tesoro Usa ha lasciato la sua casa di Washington dopo minacce attribuite all'Iran.",
-          "text": "Scott Bessent, regista delle sanzioni economiche contro Teheran, si è trasferito in una base militare dopo aver ricevuto minacce iraniane. L'intelligence Usa aveva alzato il livello di allerta già a fine ottobre. Il Tesoro assicura che Bessent non si farà intimidire e proseguirà la campagna di pressione.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/threats-from-iran-force-bessent-to-relocate-a-military-base-AJC8wGDC",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Merz difende il sistema europeo di scambio emissioni",
-          "satz": "In una lettera a von der Leyen, il cancelliere si oppone all'indebolimento dell'ETS1 chiesto da Italia e Cechia.",
-          "text": "Merz definisce l'ETS1 un sistema di mercato che funziona e respinge le richieste di Italia e Repubblica Ceca di allentarlo. Berlino rifiuta anche nuove modifiche all'ETS2 su trasporti ed edifici, già rinviato al 2028. Secondo la Commissione, le emissioni dei settori coperti sono calate del 50% dall'avvio del sistema.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/merz-line-up-germany-defence-ets-system-AJgcJUEC",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Saudi-Arabien fängt Raketen nahe Mekka ab",
-          "satz": "Trümmer schlugen 25 und 31 Kilometer von der Großen Moschee ein; Riad macht die Huthi-Miliz verantwortlich.",
-          "text": "Die saudische Luftabwehr hat nach eigenen Angaben zwei ballistische Raketen abgefangen, deren Trümmer in der Nähe Mekkas niedergingen. Die Huthis bestreiten, heilige Stätten anzugreifen. Seit Beginn des Iran-Kriegs Ende Februar ist auch der Jemen-Konflikt wieder eskaliert, laut UN mit über 1.600 Toten.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3447954/",
-          "datum": "2026-11-12"
-        }
-      ],
-      "hinweis": "Spiegel, NZZ, SZ, Economist und Il Sole (it) verlangten im Morgen-Test eine Freigabe (nicht lesbar); tagesschau-Suche schlug fehl. Ersatz: ORF."
-    },
-    "wirtschaft": {
-      "titel": "Wirtschaft",
-      "items": [
-        {
-          "titel": "Messina: misure sulle banche «chiaramente incostituzionali»",
-          "satz": "Il ceo di Intesa Sanpaolo contesta soprattutto il rinvio decennale dei crediti Superbonus previsto dalla manovra.",
-          "text": "In audizione al Senato, il ceo di Intesa Sanpaolo ha definito incostituzionali alcune norme della legge di bilancio sulle banche, prevedendo ricorsi fino alla Consulta. Nel mirino c'è la diluizione in dieci anni, senza interessi, di parte dei crediti Superbonus acquistati. Messina teme che la Bce la consideri una ristrutturazione del debito.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/messinas-budget-measures-some-of-the-banking-provisions-are-clearly-unconstitutional-AJ15d3DC",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Crédit Agricole propone la fusione con Banco Bpm",
-          "satz": "Il cda di Banco Bpm apre all'operazione ma chiede una valutazione adeguata della perdita di competitività.",
-          "text": "Crédit Agricole, già al 29,6%, propone di fondere Crédit Agricole Italia con Banco Bpm, con un premio del 20% nel concambio e un dividendo straordinario da un miliardo. La quota francese salirebbe al 45%. Il consiglio ha incaricato il ceo Castagna di verificare la fattibilità e avviare i colloqui.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/bpm-agricultural-board-of-directors-requires-a-proper-assessment-of-the-loss-of-competitiveness-AJL1mWEC",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Fmi all'Italia: compensare le misure sul caro energia",
-          "satz": "Secondo il Fondo, senza consolidamento il debito pubblico europeo rischia un percorso insostenibile entro il 2040.",
-          "text": "Il direttore europeo del Fmi, Mateusz Szczurek, ha respinto le richieste di flessibilità di Italia e Grecia: ogni nuova spesa contro il caro energia va coperta altrove. Dall'inizio della guerra in Medio Oriente i rendimenti decennali dei grandi Paesi europei sono saliti di circa 100 punti base. Tassi alti più a lungo farebbero lievitare la spesa per interessi.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/fmi-italia-must-compensate-for-every-new-measure-taken-to-tackle-high-energy-prices-AJXYkPEC",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Dax steigt erstmals über 27.000 Punkte",
-          "satz": "Friedenshoffnungen im Iran-Krieg, sinkende Ölpreise und Rekordzahlen von Siemens und Allianz trieben den Index.",
-          "text": "Der deutsche Leitindex erreichte am Donnerstagvormittag zeitweise 27.001 Punkte und liegt seit Jahresbeginn gut zehn Prozent im Plus. Analysten sprechen von einer Jahresendrally, gestützt auch vom Sieg der Demokraten bei den US-Zwischenwahlen. Belastet wurde die Stimmung von Nvidia, dessen Aktie nach Berichten über eine Ablösung von Chef Huang nachgab.",
-          "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/leitindex-optimismus-an-der-boerse-dax-erstmals-ueber-27000-punkten/100269391.html",
-          "datum": "2026-11-12"
-        }
-      ],
-      "hinweis": "NZZ, SZ, Economist, WSJ und Il Sole (it) verlangten im Morgen-Test eine Freigabe (nicht lesbar). Ersatz: Handelsblatt."
-    },
-    "wissenschaft": {
-      "titel": "Wissenschaft",
-      "items": [
-        {
-          "titel": "KI beweist Teil eines Millennium-Problems der Physik",
-          "satz": "Ein OpenAI-Modell bewies die Existenz von Yang-Mills-Theorien im vierdimensionalen Raum; der Beweis ist in Lean formalisiert.",
-          "text": "Ein KI-Modell von OpenAI hat den ersten Teil des Yang-Mills-Millennium-Problems gelöst: Diese Quantenfeldtheorien existieren auch im vierdimensionalen Raum, nicht nur auf einem Gitter. Eine Expertengruppe um Nobelpreisträger David Gross prüfte den formalisierten Beweis. Offen bleibt das Problem der Massenlücke.",
-          "quelle": "Spektrum der Wissenschaft",
-          "url": "https://www.spektrum.de/news/millennium-problem-ki-liefert-existenzbeweis-fuer-yang-mills-theorien/2353697",
-          "datum": "2026-11-11"
-        },
-        {
-          "titel": "Euclid liefert erste große 3D-Karte des Universums",
-          "satz": "Der erste Datensatz des ESA-Teleskops erfasst über 900 Millionen Galaxien auf rund 1900 Quadratgrad Himmel.",
-          "text": "Die ESA hat den ersten großen Datensatz des Weltraumteleskops Euclid veröffentlicht: über 900 Millionen Galaxien, rund 15.000 Gravitationslinsen und 1,7 Petabyte Daten. Er deckt etwa 14 Prozent der geplanten Durchmusterung ab. Euclid soll vor allem Dunkle Materie und Dunkle Energie erforschen.",
-          "quelle": "Spektrum der Wissenschaft",
-          "url": "https://spektrum.de/news/die-vermessung-des-alls-euclid-enthuellt-erste-3d-karte-des-universums/2353375",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Westantarktis verlor in Warmzeiten wiederholt viel Eis",
-          "satz": "Sedimentkerne zeigen, dass Thwaites- und Pine-Island-Gletscher in früheren Warmzeiten weit ins Landesinnere zurückwichen.",
-          "text": "Forschende des British Antarctic Survey analysierten Tiefsee-Sedimentkerne, die rund 800.000 Jahre zurückreichen. In jeder früheren Warmzeit zogen sich Thwaites- und Pine-Island-Gletscher weit zurück, angetrieben von warmem Tiefenwasser. Allein dieser Eisverlust entspricht mindestens etwa 1,5 Metern Meeresspiegelanstieg.",
-          "quelle": "scinexx",
-          "url": "https://www.scinexx.de/news/geowissen/warmzeiten-westantarktische-gletscher-verloren-in-800-000-jahren-wiederholt-viel-eis/",
-          "datum": "2026-11-11"
-        },
-        {
-          "titel": "Wer beim Einschlafen zuckt, schläft schlechter",
-          "satz": "Eine Salzburger Studie verbindet häufige Einschlafzuckungen mit schlechterem Schlaf, Angst und psychischer Belastung.",
-          "text": "Ein Team der Universität Salzburg befragte 194 Erwachsene, von denen 96 wöchentlich Einschlafzuckungen hatten. Betroffene schliefen kürzer, weniger effizient und brauchten länger zum Einschlafen. Die Häufigkeit hing eher mit Sorgen und mentalem Druck zusammen als mit Schlafmangel.",
-          "quelle": "science.ORF.at",
-          "url": "https://science.orf.at/stories/3238132/",
-          "datum": "2026-11-11"
-        }
-      ],
-      "hinweis": "NZZ, heise, SZ und Spiegel verlangten im Morgen-Test eine Freigabe (nicht lesbar). Verwendet: Spektrum, scinexx, science.ORF.at."
-    },
-    "technik": {
-      "titel": "Technik",
-      "items": [
-        {
-          "titel": "Apples Smart-Home-Zentrale HomeView startet",
-          "satz": "Das 299-Dollar-Gerät erkennt bis zu sechs Personen, kommt wegen fehlender Siri AI aber nicht in die EU.",
-          "text": "Apples Smart-Home-Hub HomeView mit quadratischem 7-Zoll-Display startet am 13. November für 299 Dollar in acht Ländern, darunter die USA und Großbritannien. Er vereint Lautsprecher, Videoanrufe und Hausautomation und erkennt per Kamera bis zu sechs Bewohner. In der EU ist er nicht erhältlich, weil Siri AI dort fehlt.",
-          "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Nintendo sperrt Spiele auf alter Switch-2-Firmware",
-          "satz": "Wegen eines Jailbreaks starten SmileBasic 4 und Civilization VII nur noch nach dem Update auf Version 23.5.0.",
-          "text": "Auf Switch-2-Konsolen mit Firmware 23.0.1 lassen sich SmileBasic 4 und Civilization VII nicht mehr starten, bis das Update 23.5.0 installiert ist. Schwachstellen beider Spiele dienten als Einstieg für einen Jailbreak, mit dem Spiele ausgelesen wurden. Die Sperre lässt sich laut Nutzerberichten nicht umgehen.",
-          "quelle": "ComputerBase",
-          "url": "https://computerbase.de/news/gaming/switch-2-nintendo-blockiert-spiele-auf-aelterer-firmware-wegen-jailbreak.100308",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Apple spart mehr Steuern über Singapur als Irland",
-          "satz": "Laut Financial Times senkt Apple über Singapur seine Steuerlast dieses Jahr um rund 2,7 Milliarden Dollar.",
-          "text": "Nach Berechnungen der Financial Times spart Apple über seine Singapurer Tochter dieses Jahr rund 2,7 Milliarden Dollar Steuern, über Irland etwa 2,6 Milliarden. Irland hat durch den globalen Mindeststeuersatz von 15 Prozent an Reiz verloren. Apple wollte den Bericht nicht kommentieren.",
-          "quelle": "ComputerBase",
-          "url": "https://computerbase.de/news/wirtschaft/neue-steueroase-apple-spart-nun-mehr-steuern-ueber-singapur-als-ueber-irland.100307",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Siri AI kommt auf ältere Apple-TV-Modelle",
-          "satz": "Laut Apple-Supportdokument unterstützt tvOS 27.2.1 Siri AI ab dem Apple TV 4K der zweiten Generation.",
-          "text": "Apple bringt Siri AI mit tvOS 27.2.1 auch auf ältere Apple-TV-4K-Modelle ab der zweiten Generation, wie ein Supportdokument zeigt. Ein Termin für das Update steht noch aus. Voraussetzung ist ein gekoppeltes Siri-AI-fähiges Gerät in der Nähe, etwa ein iPhone 15 Pro oder neuer.",
-          "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
-          "datum": "2026-11-12"
-        }
-      ],
-      "hinweis": "heise und CHIP verlangten im Morgen-Test eine Freigabe (nicht lesbar). Ersatz: ComputerBase."
-    },
-    "ki": {
-      "titel": "Künstliche Intelligenz",
-      "items": [
-        {
-          "titel": "Anthropic startet Roadshow für Börsengang",
-          "satz": "Angeboten werden 825 Millionen Aktien zu 70 bis 78 Dollar; beantragt ist ein Nasdaq-Listing unter „ANT“.",
-          "text": "Anthropic hat die Roadshow für seinen geplanten Börsengang gestartet. 825 Millionen Class-A-Aktien sollen zu 70 bis 78 Dollar je Stück angeboten werden, begleitet von Goldman Sachs und Morgan Stanley. Die Notierung an der Nasdaq unter dem Kürzel ANT ist beantragt.",
-          "quelle": "Anthropic",
-          "url": "https://www.anthropic.com/news/roadshow-launch",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "OpenAI macht ChatGPT zur Plattform für Unternehmen",
-          "satz": "Firmen können ihr Profil pflegen, Produktfeeds hinterlegen und in den USA eigene KI-Agenten für Kundenanfragen einsetzen.",
-          "text": "Mit dem Business Hub können Unternehmen ihr Profil in ChatGPT beanspruchen, Preise und Verfügbarkeit hinterlegen und sehen, wie oft sie erwähnt werden. Berechtigte Händler in den USA erstellen zudem KI-Agenten, die Kundenfragen direkt in ChatGPT beantworten. ChatGPT erreicht laut OpenAI wöchentlich 1,2 Milliarden Nutzer.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/businesses-in-chatgpt-openai-macht-chatgpt-zur-unternehmensplattform-mit-ki-agenten-fuer-den-kundenkontakt",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "DeepMind-Robotikmodell arbeitet in Mercedes-Werken",
-          "satz": "Ein humanoider Apollo-2-Roboter sortierte mit Gemini Robotics 2.5 Metallteile für die Montage, mit 96 Prozent Erfolgsquote.",
-          "text": "In einem Pilotprojekt in Kecskemét und Sindelfingen steuerte Google DeepMinds Modell Gemini Robotics 2.5 den humanoiden Roboter Apollo 2 von Apptronik. Er sortierte Metallteile aus Behältern in der Reihenfolge, die die Fahrzeuge am Band benötigen. DeepMind meldet eine Erfolgsquote von 96 Prozent.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/google-deepmind-schickt-neues-robotik-modell-auf-die-mercedes-benz-produktionslinie",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "DeepL stellt Sprach-KI Aure vor",
-          "satz": "Das Modell passt Betonung, Tempo und Emotionen bei Übersetzungen fortlaufend an den Sprecher an.",
-          "text": "DeepLs neues Voice-Modell Aure analysiert die Stimme während des gesamten Gesprächs und übernimmt Betonung, Tempo und Emotionen. Es ist ab sofort in DeepL Voice und über die API verfügbar. Zum Start werden acht Sprachen unterstützt, darunter Deutsch und Italienisch.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684",
-          "datum": "2026-11-11"
-        }
-      ],
-      "hinweis": "heise verlangte im Morgen-Test eine Freigabe (nicht lesbar). Ergänzt mit The Decoder und t3n."
-    },
-    "suedtirol": {
-      "titel": "Südtirol",
-      "items": [
-        {
-          "titel": "Jugendstudie: Lebenshaltungskosten sind größte Sorge",
-          "satz": "Laut ASTAT sorgen sich 56 Prozent der Südtiroler Jugendlichen um Lebenskosten, 52 Prozent um die Wohnungssuche.",
-          "text": "Für die Jugendstudie 2026 befragte das Landesstatistikinstitut ASTAT 3.214 junge Menschen zwischen 14 und 25 Jahren. Die Familie bleibt wichtig, doch die Zufriedenheit mit der Freizeit sank in zehn Jahren von 70 auf 60 Prozent. Der Anteil, der keine besonderen Probleme in Südtirol sieht, halbierte sich auf 14 Prozent.",
-          "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/chronik/suedtirols-jugendliche-schaetzen-familie-und-verantwortung-doch-auch-frust-und-sorgen-steigen",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Bozen plant 365 Millionen Euro für Großprojekte",
-          "satz": "Bis 2030 sollen über zwanzig Vorhaben bei Schulen, Mobilität, Wohnbau, Sport und Kultur umgesetzt werden.",
-          "text": "Die Stadt Bozen will im Programm der großen öffentlichen Bauten 2026–2030 mehr als 365 Millionen Euro investieren. Bereits im Bau ist ein Schulkomplex in der Via Bari für 30 Millionen Euro. Geplant sind unter anderem ein Schwimmzentrum mit 50-Meter-Becken und die Sanierung des Stadtmuseums.",
-          "quelle": "Alto Adige",
-          "url": "https://www.altoadige.it/cronaca/bolzano/bolzano-mette-in-campo-365-milioni-di-euro-oltre-venti-grandi-opere-entro-il-2030-mdlyo6sc",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "SVP-Sozialflügel: Eigenheim soll bei ISEE weniger zählen",
-          "satz": "Der Freibetrag für die selbst bewohnte Erstwohnung soll von 52.500 auf 91.500 Euro steigen.",
-          "text": "Die Soziale Mitte der SVP fordert einen höheren Freibetrag für die Erstwohnung bei der ISEE-Berechnung, damit mehr Senioren die Seniorenunterstützung erhalten. Diese gilt ab 2027 für Haushalte mit über 65-Jährigen und einem ISEE unter 20.000 Euro. Soziallandesrätin Rosmarie Pamer hält an der Berücksichtigung der Wohnung fest.",
-          "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/12112026/eigenheim-soll-weniger-zaehlen",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Oberalp unterstützt Lohnforderung in Bangladesch",
-          "satz": "Textilarbeiterinnen fordern einen Mindestlohn von rund 162 Euro im Monat; die Regierung geht hart gegen Proteste vor.",
-          "text": "Seit Ende Oktober demonstrieren Textilarbeiterinnen in Bangladesch für einen Mindestlohn von 32.000 Taka, rund 162 Euro im Monat. Das Südtiroler Unternehmen Oberalp unterstützt die Forderung und will an seinen Produktionspartnerschaften festhalten. Die Verhandlungen sollen bis Monatsende abgeschlossen sein.",
-          "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/12112026/fuer-162-euro-im-monat-auf-der-strasse",
-          "datum": "2026-11-12"
-        }
-      ],
-      "hinweis": "Rai Südtirol und stol.it verlangten im Morgen-Test eine Freigabe (nicht lesbar). Ersatz: Südtirol News, Alto Adige."
-    },
-    "sport": {
-      "titel": "Sport",
-      "items": [
-        {
-          "titel": "Völler glaubt an Musialas Rückkehr zu alter Stärke",
-          "satz": "Der DFB-Sportdirektor sieht die kritischen Aussagen von Uli Hoeneß über den Bayern-Star gelassen.",
-          "text": "DFB-Sportdirektor Rudi Völler ist überzeugt, dass Jamal Musiala wieder sein altes Niveau erreicht. Dass Musialas neurologische Erkrankung öffentlich gemacht wurde, findet er gut; mehr Sorgen bereiten ihm Muskelverletzungen. Die kritischen Aussagen von Uli Hoeneß hält Völler für nicht dramatisch.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/dfb-team/2026/11/voeller-glaubt-an-musiala-rueckkehr-zu-alter-staerke",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "WTA Finals: Gauff wendet Rückstand und hofft",
-          "satz": "Gauff besiegte Kostyuk 6:4, 7:5 nach 1:5-Rückstand im zweiten Satz und darf aufs Halbfinale hoffen.",
-          "text": "Coco Gauff gewann bei den WTA Finals gegen Marta Kostyuk mit 6:4, 7:5 und holte dabei im zweiten Satz einen 1:5-Rückstand auf. Sie beendet die Gruppenphase mit zwei Siegen. Ob sie ins Halbfinale einzieht, entscheidet das Duell zwischen Linda Noskova und Jessica Pegula.",
-          "quelle": "tennisnet",
-          "url": "https://www.tennisnet.com/news/wta-finals-gauff-dreht-zweiten-satz-und-darf-weiter-hoffen",
-          "datum": "2026-11-12"
-        }
-      ],
-      "hinweis": "kicker gesperrt (nicht aufgerufen). Ersatz: tennisnet. Keine neue Ski-Meldung binnen 24 h (Levi-Vorschau stand schon gestern), daher weniger als 4 Meldungen."
-    },
-    "steuern": {
-      "titel": "Steuern",
-      "items": [
-        {
-          "titel": "Zweite Steuervorauszahlung bis 30. November fällig",
-          "satz": "Die zweite oder einzige Akontorate für IRPEF, IRES und IRAP kann nicht in Raten gezahlt werden.",
-          "text": "Bis 30. November 2026 ist die zweite bzw. einzige Rate der Vorauszahlung (secondo acconto) für IRPEF, IRES und IRAP per F24 zu zahlen. ISA-Pflichtige teilen im Verhältnis 50/50, alle anderen 40/60. Wer dem Concordato preventivo biennale neu beigetreten ist und die historische Methode nutzt, zahlt einen Aufschlag von 10 bzw. 3 Prozent.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4772-secondo-acconto-imposte-2026-chi-paga-entro-il-30-novembre-e-regole-cpb.html",
-          "datum": "2026-11-10"
-        },
-        {
-          "titel": "Manovra 2027: mehr Abzug für Agenten mit E-Autos",
-          "satz": "Handelsvertreter sollen ab 2027 bei Elektro- und Hybridautos 90 statt 80 Prozent der Kosten abziehen.",
-          "text": "Der Entwurf des Haushaltsgesetzes 2027 ändert Art. 168 des neuen Einkommensteuer-Testo-unico (D.Lgs. 117/2026) für Handelsagenten (agenti e rappresentanti). Bei BEV, PHEV und HEV steigt der Abzug auf 90 Prozent, die Anschaffungsobergrenze von 25.822,84 auf 35.000 Euro. Für Verbrenner bleibt es bei 80 Prozent.",
-          "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/agenti-e-rappresentanti-trattamento-di-favore-a-chi-utilizza-auto-green-i2mtzpau",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Kassenbelege per Software ab April 2027",
-          "satz": "Händler sollen Tagesumsätze (corrispettivi) künftig auch per Software statt Registrierkasse übermitteln können.",
-          "text": "Ab 15. April 2027 sollen sich Händler für die Übermittlung der Tagesumsätze (corrispettivi) per Software über akkreditierte Dienstleister (erogatori) registrieren können; Grundlage ist das D.Lgs. 1/2024. Agenzia delle Entrate und Guardia di Finanza können die zehn Jahre gespeicherten Einzelvorgänge aus der Ferne einsehen. Registrierkassen (registratori telematici) bleiben erlaubt.",
-          "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/fisco-scontrini-telematici-al-via-da-aprile-operazioni-verificabili-online-da-ade-e-gdf-qt03x77o",
-          "datum": "2026-11-12"
-        },
-        {
-          "titel": "Cassazione: SSD ohne Satzungsklausel ohne Steuervorteil",
-          "satz": "Fehlt die Klausel zur Unübertragbarkeit der Anteile, entfällt laut Ordinanza n. 28445/2026 das Sonderregime.",
-          "text": "Mit Ordinanza n. 28445 vom 4. November 2026 bestätigte die Cassazione Nachforderungen von IRES, IVA und IRAP gegen eine Amateursportgesellschaft (società sportiva dilettantistica). Ohne statutarische Klausel zur Unübertragbarkeit der Quote nach Art. 148 Abs. 8 TUIR gibt es kein begünstigtes Regime. Mangels belegter Kosten entfiel zudem der Abzug.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4793-ssd-senza-clausola-statutaria-niente-agevolazioni-fiscali.html",
-          "datum": "2026-11-12"
-        }
-      ],
-      "hinweis": "Agenzia delle Entrate, FiscoOggi, MEF und IPSOA nicht abrufbar (Serverfehler); Il Sole (it) verlangte im Morgen-Test eine Freigabe. Ersatz: FiscoeTasse, ItaliaOggi. Amtliche Quellen: 0 von 4."
-    }
+  {
+   "thema": "Klima",
+   "text": "Das antarktische Meereis lag im Oktober 2026 um 9,3 % unter dem Mittel 1991–2020.",
+   "quelle": "Copernicus",
+   "url": "https://climate.copernicus.eu/sea-ice-cover-october-2026"
   }
+ ],
+ "wiki": {
+  "titel": "Izumo no Okuni",
+  "zusammenfassung": "Die um 1572 geborene Schreintänzerin aus Izumo gilt als Begründerin des Kabuki. In Kyōto verband sie Tanz, Gesang und Alltagssketche; 1629 verbot das Shogunat Frauen auf der Kabuki-Bühne.",
+  "url": "https://de.wikipedia.org/wiki/Izumo_no_Okuni",
+  "datum": "2026-11-13"
+ },
+ "bild": {
+  "kurz": "Koromandel-Rennvogel",
+  "titel": "Koromandel-Rennvogel in Bhigwan, Indien",
+  "beschreibung": "Ein Koromandel-Rennvogel (Cursorius coromandelicus), fotografiert im August 2025 bei Bhigwan im indischen Bundesstaat Maharashtra.",
+  "kategorie": "Tiere",
+  "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg/1280px-Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg",
+  "bild_seite": "https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg",
+  "fotograf": "Tisha Mukherjee",
+  "lizenz": "CC BY-SA 4.0",
+  "datum": "2026-11-13"
+ },
+ "bau": {
+  "name": "Taj Mahal",
+  "kurz": "Taj Mahal",
+  "ort": "Agra, Indien",
+  "architekt": "Ahmad Lahori u. a.",
+  "jahr": "1632–1648",
+  "stil": "Indo-islamische Mogul-Architektur",
+  "beschreibung": "Das Grabmal, das Großmogul Shah Jahan für seine Frau Mumtaz Mahal errichten ließ, ist mit weißem Marmor und Edelstein-Einlagen verkleidet.",
+  "url": "https://de.wikipedia.org/wiki/Taj_Mahal",
+  "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/1280px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg",
+  "bild_seite": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg",
+  "fotograf": "Yann; bearbeitet von King of Hearts und Jbarta",
+  "lizenz": "CC BY-SA 3.0",
+  "datum": "2026-11-13"
+ },
+ "themen": {
+  "politik": {
+   "titel": "Internationale Politik",
+   "items": [
+    {
+     "titel": "Ucraina, Kushner vede «progressi significativi»",
+     "satz": "A Dublino gli inviati Usa hanno incontrato gli sherpa europei: il prossimo round includerà anche l'Europa.",
+     "text": "Gli inviati statunitensi Witkoff e Kushner hanno incontrato a Dublino gli sherpa di Ue, E4 e Polonia per allargare i negoziati agli europei. Il nuovo round è atteso subito dopo il vertice dei Volenterosi del 19 novembre. Intanto Zelensky annuncia il più grande scambio di prigionieri dall'inizio della guerra.",
+     "quelle": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/kushner-significant-progress-in-ukraine-russia-negotiations-raid-on-hospital-in-kyiv-AJ66GGFC",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Pressione Usa sull'Iran, il Golfo teme una guerra",
+     "satz": "I voli logistici americani nell'area sono aumentati del 35%, mentre Qatar e Oman mediano tra Washington e Teheran.",
+     "text": "Tra fine ottobre e inizio novembre i voli di trasporto Usa verso la regione sono saliti di circa un terzo. Secondo l'analisi non indicano un attacco imminente, ma una trattativa da posizione di forza. Il nodo resta la sequenza tra garanzie nucleari verificabili e allentamento delle sanzioni.",
+     "quelle": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/trump-is-preparing-to-pull-out-of-the-tehran-deal-and-the-gulf-fears-a-new-war-AJgS7YEC",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Niederländische Regierungskoalition steht vor Neustart",
+     "satz": "Streitpunkt ist eine Millionärsteuer, die D66 und CDA mit der Opposition durchsetzten – die VVD fordert Neuverhandlungen.",
+     "text": "Die liberale VVD erklärt die Koalition von Premier Rob Jetten in ihrer bisherigen Form für beendet und verlangt neue Koalitionsgespräche. Auslöser ist eine Steuerreform mit Sondersteuer für Superreiche, die D66 und CDA mit der Oppositionspartei Pro vereinbart und im Parlament durchgesetzt hatten. Die Minderheitsregierung hat in keiner Kammer eine Mehrheit.",
+     "quelle": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/regierungskrise-koalition-in-niederlanden-steuert-auf-neustart-zu/100269761.html",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Venezuela: Machado drängt auf rasche Neuwahlen",
+     "satz": "Übergangspräsidentin Delcy Rodríguez spielt dagegen auf Zeit und hat die Weihnachtszeit vorgezogen.",
+     "text": "Oppositionsführerin María Corina Machado ist vor knapp drei Wochen umjubelt nach Caracas zurückgekehrt und fordert frühe Wahlen. Übergangspräsidentin Rodríguez setzt auf eine verlängerte Festzeit, damit die Politik in den Hintergrund rückt. Das Tempo bestimmt laut Handelsblatt letztlich Washington, und der Chavismus kontrolliert weiter wichtige Teile des Staates.",
+     "quelle": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/venezuela-praesidentin-rodriguez-spielt-auf-zeit-machado-draengt-auf-wahlen/100268820.html",
+     "datum": "2026-11-13"
+    }
+   ],
+   "hinweis": "Abendlauf (kein Test der gesperrten Quellen). Il Sole aus der englischen Ausgabe. tagesschau, Deutschlandfunk und Reuters: Suche scheiterte (Proxy-Fehler 400), ORF-Artikel verlangten eine Freigabe. Ersatz: Handelsblatt."
+  },
+  "wirtschaft": {
+   "titel": "Wirtschaft",
+   "items": [
+    {
+     "titel": "Generali, utile operativo a 6,4 miliardi",
+     "satz": "Nei nove mesi premi lordi in crescita del 4,5%; Terzariol apre a una partnership con UniCredit.",
+     "text": "Nei primi nove mesi Generali ha portato l'utile operativo a 6,446 miliardi (+8,5%) e l'utile netto normalizzato a 3,678 miliardi (+12%). I premi lordi sono saliti a 76,5 miliardi. Il manager Giulio Terzariol si è detto interessato a ogni accordo di bancassicurazione, anche con UniCredit.",
+     "quelle": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/overall-operating-profit-644-billion-for-the-first-nine-months-AJeVjAFC",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Nvidia, il board sonda Rene Haas di Arm",
+     "satz": "Secondo il Financial Times, il ceo di Arm è in corsa per succedere a Jensen Huang.",
+     "text": "Dopo le dimissioni di Jensen Huang, il consiglio di Nvidia ha contattato Rene Haas, alla guida di Arm dal 2022, riferisce il Financial Times. Haas ha lavorato circa sette anni in Nvidia e mantiene legami stretti con Huang e alcuni consiglieri. Ad interim guida il gruppo la direttrice finanziaria Colette Kress.",
+     "quelle": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/nvidia-board-contacts-haas-arm-ceo-huangs-succession-ft-AJ6hX1FC",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Spread a 104 punti, attesa per S&P",
+     "satz": "Il rendimento del Btp decennale sale al 4,42%, mentre S&P riesamina in serata il rating dell'Italia.",
+     "text": "Lo spread tra Btp e Bund ha chiuso a 104 punti base, uno in più della seduta precedente. Il rendimento del decennale italiano è salito dal 4,36% al 4,42%. In serata S&P Global rivede il rating dell'Italia, oggi BBB+ con prospettive positive.",
+     "quelle": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/btp-spread-closes-up-104-points-10-year-yield-rises-by-442-per-cent-AJ9xvvFC",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Mercedes stoppt alle Investitionen in Deutschland",
+     "satz": "Die Gespräche über niedrigere Arbeitskosten stecken fest; Werksschließungen werden wahrscheinlicher.",
+     "text": "Der Mercedes-Vorstand hat laut Handelsblatt beschlossen, weitere Investitionen an deutschen Standorten vorerst zu stoppen. Nach monatelangen Verhandlungen mit den Arbeitnehmervertretern über Kostensenkungen ist kein Kompromiss in Sicht. Personalvorständin Britta Seeger kündigte an zu prüfen, welche deutschen Standorte sich der Konzern noch leisten kann.",
+     "quelle": "Handelsblatt",
+     "url": "https://handelsblatt.com/unternehmen/industrie/autobauer-mercedes-stoppt-alle-investitionen-in-deutschland/100269485.html",
+     "datum": "2026-11-13"
+    }
+   ],
+   "hinweis": "Abendlauf (kein Test der gesperrten Quellen NZZ, SZ, Economist, WSJ). Il Sole aus der englischen Ausgabe. Ersatz: Handelsblatt."
+  },
+  "wissenschaft": {
+   "titel": "Wissenschaft",
+   "items": [
+    {
+     "titel": "WHO verfehlt Etappenziele gegen Tuberkulose",
+     "satz": "2025 starben 1,13 Millionen Menschen an Tuberkulose, 35 Prozent weniger als 2015 – geplant war das für 2020.",
+     "text": "Laut neuem WHO-Bericht erkrankten 2025 rund 10,6 Millionen Menschen an Tuberkulose, kaum weniger als im Vorjahr. Die 2014 beschlossenen Etappenziele wurden verfehlt, manche liegen noch weit entfernt. Zugleich sanken die internationalen Mittel zur Bekämpfung 2025 um 14 Prozent.",
+     "quelle": "Spektrum der Wissenschaft",
+     "url": "https://www.spektrum.de/news/who-ziele-zur-bekaempfung-von-tuberkulose-wurden-verfehlt/2353981",
+     "datum": "2026-11-12"
+    },
+    {
+     "titel": "Klimaschutz-Index: Deutschland fällt auf Platz 25",
+     "satz": "Besonders schlecht schneidet die deutsche Klimapolitik ab, die nur noch auf Rang 36 landet.",
+     "text": "Im Klimaschutz-Index von Germanwatch und NewClimate Institute rutscht Deutschland zum dritten Mal in Folge ab, nun auf Platz 25. Kritisiert wird vor allem der geplante Ausbau von Erdgasprojekten. Die ersten drei Plätze bleiben leer, weil kein Land genug für das 1,5-Grad-Ziel tut; Dänemark führt das Ranking an.",
+     "quelle": "Spektrum der Wissenschaft",
+     "url": "https://www.spektrum.de/news/deutschland-im-klimaschutz-ranking-nur-noch-mittelmass/2353687",
+     "datum": "2026-11-11"
+    },
+    {
+     "titel": "Erstes Schwarzes-Loch-Foto unabhängig bestätigt",
+     "satz": "Eine neue Auswertungsmethode findet den Ring um M87* in den Daten, ohne ihn vorzugeben.",
+     "text": "Ein CSIRO-Team hat die öffentlichen Daten des Event Horizon Telescope mit der eigenständigen Methode GenDIReCT neu ausgewertet. In den Beobachtungen von 2017, 2018 und 2021 zeigte sich ein kompakter Ring mit dunklem Zentrum. Daraus ergibt sich eine Masse von rund 6,5 Milliarden Sonnenmassen, passend zu früheren Messungen.",
+     "quelle": "scinexx",
+     "url": "https://www.scinexx.de/news/kosmos/erstes-schwarzes-loch-foto-hat-unabhaengigen-test-bestanden/",
+     "datum": "2026-11-12"
+    },
+    {
+     "titel": "Hantavirus-Ausbruch auf Kreuzfahrtschiff neu analysiert",
+     "satz": "Das Virus der „Hondius“ ähnelt einem Erreger aus Argentinien, doch die Ansteckungskette bleibt rätselhaft.",
+     "text": "Beim Ausbruch auf der „Hondius“ im April 2026 erkrankten 13 Passagiere, drei starben. Genvergleiche zeigen eine enge Verwandtschaft mit einem Ausbruch 2018 in Argentinien, doch die Patagonien-Aufenthalte des verdächtigten Paares passen nicht zur Inkubationszeit. Laut der Studie in „Science“ können solche Viren unerwartet fern ihrer bekannten Verbreitungsgebiete auftauchen.",
+     "quelle": "science.ORF.at",
+     "url": "https://science.orf.at/stories/3238173/",
+     "datum": "2026-11-12"
+    }
+   ],
+   "hinweis": "Abendlauf (NZZ, heise, SZ, Spiegel nicht getestet). Verwendet: Spektrum, scinexx, science.ORF.at."
+  },
+  "technik": {
+   "titel": "Technik",
+   "items": [
+    {
+     "titel": "Weltweiter Microsoft-365-Ausfall hält an",
+     "satz": "Vor allem Exchange Online ist betroffen: Viele Nutzer kommen nicht an ihre E-Mails, auch Teams und Copilot stören.",
+     "text": "Seit Donnerstagnachmittag (US-Ostküstenzeit) können viele Nutzer weltweit nicht auf ihre Postfächer zugreifen, Mails kommen verzögert an. Auch Teams-Kalender, Copilot, Planner und Teile von SharePoint sind gestört; Japan meldet Folgen für Behörden-IT. Microsoft sieht keine Hinweise auf einen Angriff und hat die Zustellfrist für Mails auf 48 Stunden verlängert.",
+     "quelle": "MacRumors",
+     "url": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "iPhone 18 und 18e kommen im Frühjahr 2027",
+     "satz": "Laut Bloomberg-Reporter Mark Gurman erhalten beide Modelle den A20-Chip; auch das iPhone Air 2 soll folgen.",
+     "text": "Bloomberg-Journalist Mark Gurman bekräftigt in seinem Podcast, dass Apple das iPhone 18 und das iPhone 18e im Frühjahr 2027 auf den Markt bringen will. Beide sollen mit dem A20-Chip ausgestattet sein. Zur gleichen Zeit wird auch das iPhone Air 2 erwartet.",
+     "quelle": "MacRumors",
+     "url": "https://macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "AMD-Treiber stoppt Dauerschreiben auf SSDs",
+     "satz": "Der optionale Adrenalin-Treiber 26.11.1 beseitigt Hintergrund-Schreibvorgänge, die SSDs unnötig abnutzen konnten.",
+     "text": "Ein AMD-Hilfsdienst schrieb bei Radeon-Karten ständig etwa 1 bis 5 MB/s auf das Systemlaufwerk, teils mehrere Hundert Gigabyte am Tag. Der Fehler bestand wohl mindestens anderthalb Jahre und fiel erst durch einen Reddit-Beitrag breit auf. AMD nennt die RX-7000-Serie und neuere als betroffen, Nutzer berichten aber auch von älteren Karten.",
+     "quelle": "ComputerBase",
+     "url": "https://www.computerbase.de/news/grafikkarten/adrenalin-26-11-1-amd-bringt-treiberupdate-gegen-uebermaessige-schreibvorgaenge.100311/",
+     "datum": "2026-11-12"
+    },
+    {
+     "titel": "Apple erklärt abgeschottete Secure Exclaves",
+     "satz": "Kamera- und Mikrofondaten etwa für HomeView werden in einem eigenen Mini-Betriebssystem verarbeitet, getrennt vom Hauptsystem.",
+     "text": "Apple beschreibt in einem Sicherheitsbeitrag die Architektur „Secure Exclaves“ für ständig aktive Sensorfunktionen wie die Personenerkennung von HomeView. Die Exklaven laufen mit eigenem kleinem Betriebssystem und geben nur Ergebnisse weiter, etwa ein erkanntes Weckwort. Auf iPhone 18 Pro, iPhone Duo und MacBook Neo liegen auch die Kamera- und Mikrofonanzeigen darin.",
+     "quelle": "9to5Mac",
+     "url": "https://9to5mac.com/2026/11/13/security-bite-apple-details-secure-exclaves-a-glimpse-at-its-ambient-computing-future/",
+     "datum": "2026-11-13"
+    }
+   ],
+   "hinweis": "Abendlauf (heise, CHIP nicht getestet). Ersatz: ComputerBase, 9to5Mac."
+  },
+  "ki": {
+   "titel": "Künstliche Intelligenz",
+   "items": [
+    {
+     "titel": "Anthropic stellt Claude Fable 5.2 vor",
+     "satz": "Das Modell soll in Programmierung, Finanzen und Wissenschaft neue Maßstäbe setzen und bis zu 30 Prozent schneller antworten.",
+     "text": "Claude Fable 5.2 und Claude Mythos 5.2 beruhen auf demselben Modell: Fable steht allen Nutzern mit Schutzmechanismen für Cybersicherheit und Biologie offen, Mythos nur geprüften Organisationen. Laut Anthropic liegt es in fast allen Tests über Claude Opus 5.5. Die API kostet 8 Dollar je Million Eingabe- und 40 Dollar je Million Ausgabe-Token.",
+     "quelle": "Anthropic",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "datum": "2026-11-09"
+    },
+    {
+     "titel": "Claude nimmt jetzt an Videokonferenzen teil",
+     "satz": "Mit „Claude Meetings“ beantwortet die KI im Call Fragen, erstellt Dokumente und protokolliert Aufgaben.",
+     "text": "Anthropic hat Claude Meetings als Beta für Team- und Enterprise-Pläne gestartet; vorerst funktioniert die Funktion nur mit Google Meet. Claude tritt als sichtbarer Teilnehmer auf und legt Notizen, Transkripte und Dokumente danach auf claude.ai ab. Aus Datenschutzgründen nimmt Claude standardmäßig nicht an Anrufen mit externen Teilnehmern teil.",
+     "quelle": "The Decoder",
+     "url": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/",
+     "datum": "2026-11-12"
+    },
+    {
+     "titel": "Google bringt günstiges Modell Gemini 4 Hydrogen",
+     "satz": "Das schnelle Modell soll im Index von Artificial Analysis sogar das größere Gemini 4 Argon übertreffen.",
+     "text": "Gemini 4 Hydrogen löst Gemini 3.8 Flash ab und richtet sich an alltägliches Programmieren und Agenten-Workflows. Es bietet vier Denkstufen, ein Kontextfenster von einer Million Token und kostet 1,50 Dollar je Million Eingabe-Token. Laut Google halluziniert es mehr als fünfmal seltener als der Vorgänger.",
+     "quelle": "The Decoder",
+     "url": "https://the-decoder.de/google-stellt-gemini-4-hydrogen-vor-schnelles-ki-modell-fuer-den-alltag-fuer-weniger-geld/",
+     "datum": "2026-11-12"
+    },
+    {
+     "titel": "Nvidia hält Chip-Ortung intern für machbar",
+     "satz": "Gegenüber einem US-Abgeordneten bestätigte Nvidia laut MIT Technology Review, dass sich KI-Chips gegen Schmuggel orten lassen.",
+     "text": "Der geplante Chip Security Act würde verlangen, den Standort fortschrittlicher KI-Chips per Geotracking zu überprüfen. Öffentlich hatte der Branchenverband SIA, dem Nvidia angehört, die Vorgaben im März als womöglich nicht umsetzbar bezeichnet. Der Abgeordnete Bill Foster plant für nächstes Jahr strengere Regeln mit Lizenzpflicht für leistungsstarke GPUs.",
+     "quelle": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+     "datum": "2026-11-12"
+    }
+   ],
+   "hinweis": "Abendlauf (heise nicht getestet). Ergänzt mit The Decoder und MIT Technology Review."
+  },
+  "suedtirol": {
+   "titel": "Südtirol",
+   "items": [
+    {
+     "titel": "Landtag will eigenen EU-Wahlkreis für Südtirol",
+     "satz": "Der SVP-Antrag passierte mit 21 Ja-Stimmen, Vize-Landeshauptmann Galateo sieht italienische Wähler benachteiligt.",
+     "text": "Der Landtag hat einen Antrag der SVP-Abgeordneten Harald Stauder und Waltraud Deeg angenommen, der Südtirol einen eigenen Wahlkreis mit mindestens einem Sitz im EU-Parlament sichern soll. Derzeit gehört das Land zum Wahlkreis Nordost-Italien. Team K, Grüne und PD stimmten dagegen; Landeshauptmann Kompatscher ist unsicher, ob Rom zustimmt.",
+     "quelle": "Südtirol News",
+     "url": "https://www.suedtirolnews.it/politik/svp-antrag-loest-koalitionskrach-aus",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Michl Ebner wird Chefredakteur der „Dolomiten“",
+     "satz": "Sein Sohn Georg, seit August Athesia-Chef, bestätigte den Wechsel; Elmar Pichler Rolle bleibt im Konzern.",
+     "text": "Handelskammerpräsident Michl Ebner soll die Leitung der Tageszeitung „Dolomiten“ übernehmen, wie zuerst die „ff“ berichtete. Athesia-Geschäftsführer Georg Ebner sagte, er habe seinen Vater darum gebeten. Der bisherige Chefredakteur Elmar Pichler Rolle wechselt innerhalb der Gruppe; Zeitpunkt und neue Aufgabe sind noch offen.",
+     "quelle": "salto.bz",
+     "url": "https://salto.bz/de/article/13112026/michl-ebner-direttore-della-dolomiten",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "6,5 Millionen Euro für Südtirols Seniorenheime",
+     "satz": "Das Land will damit 2027 den Anstieg der Tagessätze für Bewohner und Familien bremsen.",
+     "text": "Das Land stellt für 2027 über 6,5 Millionen Euro zusätzlich bereit, um steigende Energie-, Lebensmittel- und Personalkosten aufzufangen. Die Mehrkosten aus den Kollektivverträgen 2026 und 2027 übernimmt das Land vollständig. Die Zahl der Betten wächst um 54 auf 4.659.",
+     "quelle": "Alto Adige",
+     "url": "https://www.altoadige.it/cronaca/alto-adige-oltre-6-5-milioni-per-le-case-di-riposo-lobiettivo-e-frenare-le-rette-bgui6dut",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Kaum weniger Schüler, aber deutlich mehr Förderbedarf",
+     "satz": "Laut Qualitätsmarke Bildung Südtirol sind die Schülerzahlen stabil, während Förderbedarf und Druck aufs Personal wachsen.",
+     "text": "Die Initiative Qualitätsmarke Bildung Südtirol hat die Landeszahlen nachgerechnet: Der Rückgang betrifft vor allem den Kindergarten und liegt effektiv bei rund 0,5 Prozent. An deutschsprachigen Schulen stieg die Zahl der Schüler mit Funktionsdiagnose seit 2016/17 um knapp 40 Prozent. Das Personal an den Landesschulen wuchs dagegen nur um 4,4 Prozent.",
+     "quelle": "Südtirol News",
+     "url": "https://www.suedtirolnews.it/politik/gleich-viele-kinder-groesserer-bedarf",
+     "datum": "2026-11-13"
+    }
+   ],
+   "hinweis": "Abendlauf (Rai Südtirol, stol.it nicht getestet). Ersatz: Südtirol News, Alto Adige."
+  },
+  "sport": {
+   "titel": "Sport",
+   "items": [
+    {
+     "titel": "Kane wird Englands alleiniger Rekordnationalspieler",
+     "satz": "Der Bayern-Stürmer erzielte im 126. Länderspiel den Siegtreffer zum 2:1 gegen Kroatien.",
+     "text": "England besiegte Kroatien in der Nations League mit 2:1 und zog ins Viertelfinale ein. Harry Kane traf in seinem 126. Länderspiel zum Sieg und überholte damit Peter Shilton. Die internationale Presse feierte den Bayern-Stürmer, die „Sun“ nannte ihn „König Kane“.",
+     "quelle": "Sport1",
+     "url": "https://www.sport1.de/news/fussball/uefa-nations-league/2026/11/happy-harry-kane-tag-pressestimmen-zu-kanes-rekordspiel",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "WTA Finals: Pegula zieht ins Halbfinale ein",
+     "satz": "Ihr Dreisatzsieg über Linda Noskova bedeutet das Aus für Landsfrau Coco Gauff.",
+     "text": "Jessica Pegula besiegte Linda Noskova bei den WTA Finals in Indian Wells mit 7:6, 4:6, 7:5 und wehrte dabei einen Matchball ab. Damit schnappte sie Coco Gauff den letzten Halbfinalplatz der Gruppe 1 weg. Im Halbfinale trifft Pegula auf die ungeschlagene Mirra Andreeva.",
+     "quelle": "tennisnet",
+     "url": "https://www.tennisnet.com/news/wta-finals-indian-wells-pegula-ringt-noskova-nieder-und-kickt-dadurch-gauff-raus",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Straßer als einziger DSV-Routinier in Levi",
+     "satz": "Nach den Rücktritten von Holzmann und Tremmel startet Linus Straßer vorsichtig optimistisch in den Slalom-Winter.",
+     "text": "Zum Weltcup-Auftakt im finnischen Levi ist Linus Straßer der einzige erfahrene deutsche Slalomfahrer. Dort war Rang sieben bisher sein bestes Ergebnis; nach Schuhproblemen im Vorwinter nutzt er nun einen noch kleineren Skischuh. Mit ihm starten die jungen Nickco Palamaras und Dominik Zerhoch.",
+     "quelle": "Sportschau",
+     "url": "https://www.sportschau.de/regional/br/br-strasser-vor-levi-der-einsame-deutsche-wolf-in-der-slalomwelt-102.html",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "BR plant Dokuserie „Being Uli Hoeneß“",
+     "satz": "Die fünfteilige Serie zum 75. Geburtstag des Bayern-Ehrenpräsidenten startet am 27. Dezember in der ARD-Mediathek.",
+     "text": "Der Bayerische Rundfunk widmet Uli Hoeneß zum 75. Geburtstag am 5. Januar 2027 eine fünfteilige Dokuserie. Sie zeigt seine Zeit als Stürmer und Manager sowie sein Privatleben, mit Familie, Weggefährten und Rivalen. Ab 27. Dezember ist sie in der ARD-Mediathek abrufbar, am 4. Januar läuft sie im Ersten.",
+     "quelle": "Sport1",
+     "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/zum-75-geburtstag-br-kuendigt-dokuserie-being-uli-hoeness-an",
+     "datum": "2026-11-13"
+    }
+   ],
+   "hinweis": "kicker gesperrt (nicht aufgerufen). Ersatz: tennisnet, Sportschau."
+  },
+  "steuern": {
+   "titel": "Steuern",
+   "items": [
+    {
+     "titel": "Forfettari: Spesenerstattungen zählen nicht zum Umsatz",
+     "satz": "Die Agenzia delle Entrate stellt erstattete Reise- und Verpflegungskosten von den Schwellen 85.000 und 100.000 Euro frei.",
+     "text": "Laut Antwort auf ein Interpello (risposta n. 213/2026) gehören analytisch erstattete Reise-, Verpflegungs- und Unterkunftskosten bei Pauschalisten ab 1. Januar 2025 weder zum Einkommen noch zu den Schwellen. Grundlage ist Art. 54 TUIR in der Fassung des D.Lgs. 192/2024. Ohne rückverfolgbare Zahlung bleiben bestimmte Erstattungen jedoch steuerpflichtig (Art. 54 Abs. 2-bis TUIR).",
+     "quelle": "FiscoeTasse",
+     "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4795-forfettari-rimborsi-spese-esclusi-dal-reddito-e-dalle-soglie-di-85000-e-100000-euro.html",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Cassazione: Honorarverjährung beginnt erst mit Mandatsende",
+     "satz": "Bei Dauermandaten verjährt das Honorar des Commercialista nicht quartalsweise, sondern ab Ende des Auftrags.",
+     "text": "Die Cassazione (ordinanza n. 27529/2026) sieht im Dauermandat eines Commercialista einen einheitlichen Vertrag (contratto d'opera intellettuale). Die Verjährung läuft daher ab Beendigung des Auftrags, periodische Honorarnoten ändern daran nichts. Verweigert der Mandant die Vorlage von Unterlagen, kann das zusammen mit anderen Indizien als Beweis gewertet werden.",
+     "quelle": "FiscoeTasse",
+     "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4798-commercialisti-la-prescrizione-del-compenso-parte-da-fine-incarico.html",
+     "datum": "2026-11-13"
+    },
+    {
+     "titel": "Giorgetti verteidigt Superbonus-Streckung auf zehn Jahre",
+     "satz": "Der Wirtschaftsminister wies bei einer Parlamentsanhörung Kritik an der zehnjährigen Verteilung des Superbonus zurück.",
+     "text": "Bei einer Anhörung zum Haushaltsentwurf verteidigte Giancarlo Giorgetti die Entscheidung, den Superbonus über zehn Jahre zu verteilen. Messina hatte das Vorgehen als „südamerikanisch“ kritisiert. Giorgetti verwies auf rund 140 Milliarden Euro, die er in den Staatshaushalt aufgenommen habe, und auf seinen „habsburgischen“ Kurs.",
+     "quelle": "Il Sole 24 Ore",
+     "url": "https://en.ilsole24ore.com/art/giorgettis-draft-budget-bill-the-superbonus-for-south-americans-my-habsburg-style-approach-AJYbRZEC",
+     "datum": "2026-11-12"
+    },
+    {
+     "titel": "Split-Payment-Listen für 2027 veröffentlicht",
+     "satz": "Das Finanzdepartement nennt die Gesellschaften, Körperschaften und Stiftungen, die 2027 der Spaltung der Zahlung unterliegen.",
+     "text": "Der Dipartimento delle Finanze hat die Listen der Gesellschaften, Körperschaften und Stiftungen online gestellt, die 2027 dem Split-Payment (scissione dei pagamenti) unterliegen. Jeder Eintrag nennt Steuernummer, Bezeichnung und Datum der Aufnahme in die Liste.",
+     "quelle": "Eutekne",
+     "url": "https://www.eutekne.info/Sezioni/Articolo.aspx?ID=1130561",
+     "datum": "2026-11-09"
+    }
+   ],
+   "hinweis": "Agenzia delle Entrate, FiscoOggi, MEF und IPSOA nicht abrufbar (Seitenfehler); Il Sole (it) im Abendlauf nicht getestet, englische Ausgabe genutzt. Ersatz: FiscoeTasse, Eutekne. Amtliche Quellen: 0 von 4 (eine Meldung zu einer Antwort der Agenzia)."
+  }
+ }
 }
