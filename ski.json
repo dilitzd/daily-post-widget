@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:59:47+01:00",
+  "updated": "2026-11-14T14:09:38+01:00",
   "saison": "2026/27",
   "herren": {
     "rennen": [
@@ -106,6 +106,76 @@
   "damen": {
     "rennen": [
       {
+        "datum": "2026-11-14",
+        "ort": "Levi",
+        "land": "FIN",
+        "disziplin": "Slalom",
+        "wettbewerb": "Weltcup",
+        "ergebnis": [
+          {
+            "rang": 1,
+            "name": "Emma Aicher",
+            "nation": "GER",
+            "zeit": "1:52,62"
+          },
+          {
+            "rang": 2,
+            "name": "Lara Colturi",
+            "nation": "ALB",
+            "rueckstand": "+0,43"
+          },
+          {
+            "rang": 3,
+            "name": "Katharina Truppe",
+            "nation": "AUT",
+            "rueckstand": "+0,50"
+          },
+          {
+            "rang": 4,
+            "name": "Zrinka Ljutić",
+            "nation": "CRO",
+            "rueckstand": "+0,83"
+          },
+          {
+            "rang": 5,
+            "name": "Anna Swenn Larsson",
+            "nation": "SWE",
+            "rueckstand": "+1,08"
+          },
+          {
+            "rang": 6,
+            "name": "Marion Chevrier",
+            "nation": "FRA",
+            "rueckstand": "+1,23"
+          },
+          {
+            "rang": 7,
+            "name": "Marie Lamure",
+            "nation": "FRA",
+            "rueckstand": "+1,49"
+          },
+          {
+            "rang": 8,
+            "name": "Madison Hoffman",
+            "nation": "AUS",
+            "rueckstand": "+1,73"
+          },
+          {
+            "rang": 9,
+            "name": "Katharina Huber",
+            "nation": "AUT",
+            "rueckstand": "+1,89"
+          },
+          {
+            "rang": 10,
+            "name": "Wendy Holdener",
+            "nation": "SUI",
+            "rueckstand": "+1,92"
+          }
+        ],
+        "url": "https://hurbra.se/resultat-levi-slalom-14-november-2026/"
+      },
+      {
         "datum": "2026-10-24",
         "ort": "Sölden",
         "land": "AUT",
@@ -177,31 +247,30 @@
       }
     ],
     "naechstes": {
-      "datum": "2026-11-14",
-      "uhrzeit": "10:00",
-      "ort": "Levi",
-      "land": "FIN",
+      "datum": "2026-11-21",
+      "ort": "Gurgl",
+      "land": "AUT",
       "disziplin": "Slalom",
       "wettbewerb": "Weltcup"
     },
     "gesamt": [
       {
         "rang": 1,
-        "name": "Paula Moltzan",
-        "nation": "USA",
-        "punkte": 100
+        "name": "Emma Aicher",
+        "nation": "GER",
+        "punkte": 160
       },
       {
-        "rang": 2,
+        "rang": 1,
         "name": "Lara Colturi",
         "nation": "ALB",
-        "punkte": 80
+        "punkte": 160
       },
       {
         "rang": 3,
-        "name": "Emma Aicher",
-        "nation": "GER",
-        "punkte": 60
+        "name": "Paula Moltzan",
+        "nation": "USA",
+        "punkte": 100
       }
     ]
   }
