@@ -1,121 +1,85 @@
 {
- "issue": 39,
- "date": "Freitag, 13. November 2026",
- "updated": "2026-11-13T05:51:29Z",
+ "issue": 40,
+ "date": "Samstag, 14. November 2026",
+ "updated": "2026-11-14T05:51:01Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "PROFESSIONE · RIFORMA",
-   "title": "Riforma dei commercialisti: via libera definitivo dal Senato",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/12/riforma-ordinamento-commercialisti.-approvazione-definitiva-in-senato"
+   "kicker": "LAVORO · AGEVOLAZIONI",
+   "title": "SIISL e UniEmens: l'INPS spiega come collegare vacancy e incentivo",
+   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/agevolazioni/dal-siisl-alluniemens-linps-indica-come-collegare-vacancy-assunzione-e-incentivo/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · ITALIEN",
-   "title": "Italiens Sozialpartner einigen sich auf neue Regeln für Tarifverträge",
-   "url": "https://en.ilsole24ore.com/art/labour-new-representation-agreement-signed-between-businesses-and-trade-unions-AJxIOiDC"
+   "kicker": "KONJUNKTUR · ITALIEN",
+   "title": "Italiens Exporte knacken in neun Monaten die 500-Milliarden-Marke",
+   "url": "https://en.ilsole24ore.com/art/exports-still-up-in-september-nine-month-total-rises-by-47-per-cent-to-over-500-billion-AJBB2HFC"
   },
   {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · PRODUKTE",
-   "title": "Claude bekommt Sheets, Whiteboards und Data für die Teamarbeit",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · REGIME FORFETARIO",
+   "title": "Rimborsi spese analitici neutrali anche per i forfettari",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/rimborsi-spese-neutralita-anche-i-forfettari-AJawMfEC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
+   "title": "Fusione inversa: le eccedenze ROL sfuggono ai limiti di riporto",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131372_eccedenze_rol_escluse_dalle_limitazioni_al_riporto_previste_per.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CONTENZIOSO · ACCESSO AGLI ATTI",
+   "title": "Operazioni bilaterali: il contribuente può vedere gli atti della controparte",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/operazioni-bilaterali-piu-chance-la-difesa-contribuente-AJzCtMEC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "RISCOSSIONE · CASSAZIONE",
+   "title": "Società estinta: risponde anche il socio di secondo livello",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/societa-estinta-fisco-si-rivale-socio-secondo-livello-AJPgUIDC"
   },
   {
    "block": "Notizie fiscali",
    "kicker": "AGEVOLAZIONI · SUPERBONUS",
-   "title": "Superbonus: la quota 2027 dei crediti si compensa in dieci anni",
-   "url": "https://www.mysolution.it/fisco/approfondimenti/circolare-monografica/2026/11/compensazione-dei-crediti-dimposta-nuova-rateazione-e-criticita-operative-deluca/"
+   "title": "Crediti superbonus in dieci anni: anche l'ADC chiede lo stop",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131370_anche_l_adc_contro_la_dilazione_dei_crediti_da_superbonus.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · CASSAZIONE",
-   "title": "Accertamento alla società: l'amministratore non può ricorrere in proprio",
-   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/accertamento/accertamento-alla-societa-niente-ricorso-personale-senza-pretese-allamministratore/"
+   "kicker": "ACCISE · CORTE COSTITUZIONALE",
+   "title": "Addizionale regionale sul gas: la Consulta chiama la Corte Ue",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/bollette-rinvio-corte-giustizia-ue-natura-dell-accisa-gas-AJ9fUgEC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · BONUS EDILIZI",
-   "title": "Bonus casa 2027: il Ddl conferma le aliquote del 50% e 36%",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/12/bonus-casa-la-proroga-riduce-la-corsa-ai-pagamenti-di-fine-anno/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "LAVORO · SANZIONI",
-   "title": "Stipendi pagati in contanti: niente diffida, la sanzione resta",
-   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/gestione-del-rapporto/pagamento-delle-retribuzioni-in-contanti-illecito-non-sanabile-con-la-diffida/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "OPERAZIONI STRAORDINARIE · INTERPELLO",
-   "title": "Fusione con la target: non abusivo perdere la riserva in sospensione",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/incorporazione-della-target-non-abusiva-levaporazione-della-riserva-in-sospensione/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "IVA · DISABILI",
-   "title": "Auto per il figlio disabile cointestata: agevolazioni confermate",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/12/auto-per-il-figlio-disabile-cointestata-tra-i-genitori-via-libera-alle-agevolazioni/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "LAVORO · CONTRIBUTI",
-   "title": "Influencer: ENASARCO o Fondo spettacolo, decide la qualificazione",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/contributi-e-premi/linfluencer-qualificazione-del-rapporto-con-il-committente-e-contributi-previdenziali/"
+   "kicker": "AGEVOLAZIONI · SISMABONUS",
+   "title": "Sismabonus ordinario all'impresa che demolisce un immobile F/3",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/sismabonus-ordinario-gli-immobili-f3-se-c-e-demolizione-e-ricostruzione-AJDOZf1B"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "LÖHNE · ITALIEN",
-   "title": "Italien fällt beim EU-Lohnvergleich auf Platz 13 zurück",
-   "url": "https://en.ilsole24ore.com/art/wages-Italia-slips-in-the-eu-ranking-we-are-13th-but-we-are-ahead-of-spain-and-slovenia-AJUsfBDC"
+   "kicker": "STEUERPOLITIK · ITALIEN",
+   "title": "Pauschalsteuer für Freiberufler: Kritik an Ungleichbehandlung wächst",
+   "url": "https://en.ilsole24ore.com/art/flat-tax-inequality-under-scrutiny-vat-registered-individuals-stand-to-save-up-to-23000-euros-AJ4zYMFC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · DEUTSCHLAND",
-   "title": "Mercedes stoppt alle Investitionen an deutschen Standorten",
-   "url": "https://www.handelsblatt.com/unternehmen/industrie/mercedes-autohersteller-stoppt-alle-investitionen-in-deutschland/100269485.html"
+   "kicker": "VERSICHERUNGEN · ITALIEN",
+   "title": "Generali steigert operatives Ergebnis auf 6,4 Milliarden Euro",
+   "url": "https://en.ilsole24ore.com/art/overall-operating-profit-644-billion-for-the-first-nine-months-AJeVjAFC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "UNTERNEHMEN · ITALIEN",
-   "title": "Poste Italiane wächst und erhöht die Zwischendividende",
-   "url": "https://en.ilsole24ore.com/art/posts-9-months-profit-18mld-45-revenue-102-mld-5-per-cent-AJdEylDC"
+   "kicker": "HAUSHALT · DEUTSCHLAND",
+   "title": "Bundeshaushalt 2027 steht vorerst: Rekordausgaben von 561 Milliarden",
+   "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-bundeshaushalt-fuer-2027-steht-zumindest-vorlaeufig/100269597.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "AUTO · DEUTSCHLAND",
-   "title": "Diesel-Pkw verliert in Deutschland rasant an Boden",
-   "url": "https://www.wiwo.de/unternehmen/auto/diesel-pkw-diese-fuenf-grafiken-zeigen-wie-schnell-der-antrieb-ausstirbt/100268449.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · PRODUKTE",
-   "title": "Claude Meetings: Claude sitzt als Teilnehmer im Videocall",
-   "url": "https://claude.com/resources/articles/claude-meetings"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · CHIPS",
-   "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
-   "url": "https://www.handelsblatt.com/technik/ki/nvidia-jensen-huang-tritt-nach-mehreren-affaeren-zurueck/100269321.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "REGULIERUNG · USA",
-   "title": "New Yorks KI-Gesetz: OpenAI und Anthropic müssen sich registrieren",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · INVESTITIONEN",
-   "title": "Gartner: KI-Ausgaben steigen 2027 auf vier Billionen Dollar",
-   "url": "https://www.handelsblatt.com/technik/ki/prognose-globale-ki-ausgaben-sollen-2027-auf-vier-billionen-dollar-steigen/100269346.html"
-  },
-  {
-   "block": "Box",
-   "kicker": "CLAUDE-TIPP FÜR FORTGESCHRITTENE",
-   "title": "Massenprüfung zum halben Preis: Batch-API plus Prompt Caching",
-   "url": "https://platform.claude.com/docs/en/build-with-claude/batch-processing"
+   "kicker": "UNTERNEHMEN · DEUTSCHLAND",
+   "title": "Dax-Konzerne steigern Gewinn trotz Einbruch der Autobauer",
+   "url": "https://www.handelsblatt.com/politik/deutschland/auswertung-dax-konzerne-steigern-gewinne-trotz-autokrise/100269577.html"
   }
  ]
 }
