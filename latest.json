@@ -1,85 +1,37 @@
 {
- "issue": 40,
- "date": "Samstag, 14. November 2026",
- "updated": "2026-11-14T05:51:01Z",
+ "issue": 41,
+ "date": "Sonntag, 15. November 2026",
+ "updated": "2026-11-15T05:50:49Z",
  "items": [
   {
-   "block": "Notizie fiscali",
-   "kicker": "LAVORO · AGEVOLAZIONI",
-   "title": "SIISL e UniEmens: l'INPS spiega come collegare vacancy e incentivo",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/agevolazioni/dal-siisl-alluniemens-linps-indica-come-collegare-vacancy-assunzione-e-incentivo/"
+   "block": "Wirtschaftsnews",
+   "kicker": "WETTBEWERB · SÜDTIROL",
+   "title": "Dolomiti Superski: 350.000 Anträge auf Rückerstattung für Skipässe",
+   "url": "https://en.ilsole24ore.com/art/dolomiti-superski-350,000-refund-claims-received-30-million-allocated-AJ0smXGC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "KONJUNKTUR · ITALIEN",
-   "title": "Italiens Exporte knacken in neun Monaten die 500-Milliarden-Marke",
-   "url": "https://en.ilsole24ore.com/art/exports-still-up-in-september-nine-month-total-rises-by-47-per-cent-to-over-500-billion-AJBB2HFC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO · REGIME FORFETARIO",
-   "title": "Rimborsi spese analitici neutrali anche per i forfettari",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/rimborsi-spese-neutralita-anche-i-forfettari-AJawMfEC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
-   "title": "Fusione inversa: le eccedenze ROL sfuggono ai limiti di riporto",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131372_eccedenze_rol_escluse_dalle_limitazioni_al_riporto_previste_per.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · ACCESSO AGLI ATTI",
-   "title": "Operazioni bilaterali: il contribuente può vedere gli atti della controparte",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/operazioni-bilaterali-piu-chance-la-difesa-contribuente-AJzCtMEC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "RISCOSSIONE · CASSAZIONE",
-   "title": "Società estinta: risponde anche il socio di secondo livello",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/societa-estinta-fisco-si-rivale-socio-secondo-livello-AJPgUIDC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · SUPERBONUS",
-   "title": "Crediti superbonus in dieci anni: anche l'ADC chiede lo stop",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131370_anche_l_adc_contro_la_dilazione_dei_crediti_da_superbonus.aspx"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "ACCISE · CORTE COSTITUZIONALE",
-   "title": "Addizionale regionale sul gas: la Consulta chiama la Corte Ue",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/bollette-rinvio-corte-giustizia-ue-natura-dell-accisa-gas-AJ9fUgEC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · SISMABONUS",
-   "title": "Sismabonus ordinario all'impresa che demolisce un immobile F/3",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/sismabonus-ordinario-gli-immobili-f3-se-c-e-demolizione-e-ricostruzione-AJDOZf1B"
+   "kicker": "WIRTSCHAFTSPOLITIK · ITALIEN",
+   "title": "Confindustria-Chef Orsini schlägt Plan „Rilancio Italia“ vor",
+   "url": "https://en.ilsole24ore.com/art/orsini-proposes-a-plan-to-revitalise-italia-focusing-on-growth-education-and-healthcare-AJ1vqmGC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "STEUERPOLITIK · ITALIEN",
-   "title": "Pauschalsteuer für Freiberufler: Kritik an Ungleichbehandlung wächst",
-   "url": "https://en.ilsole24ore.com/art/flat-tax-inequality-under-scrutiny-vat-registered-individuals-stand-to-save-up-to-23000-euros-AJ4zYMFC"
+   "kicker": "DATENSCHUTZ · ITALIEN",
+   "title": "Datenschutzbehörde verhängt 805 Millionen Euro Strafe gegen Meta",
+   "url": "https://en.ilsole24ore.com/art/data-protection-authority-fines-facebook-805-million-for-accessing-photos-and-videos-AJqYzjGC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "VERSICHERUNGEN · ITALIEN",
-   "title": "Generali steigert operatives Ergebnis auf 6,4 Milliarden Euro",
-   "url": "https://en.ilsole24ore.com/art/overall-operating-profit-644-billion-for-the-first-nine-months-AJeVjAFC"
+   "kicker": "ARBEITSMARKT · DEUTSCHLAND",
+   "title": "Schulden der Bundesagentur für Arbeit steigen auf 18,7 Milliarden",
+   "url": "https://www.wiwo.de/politik/konjunktur/arbeitslosengeld-schuldenberg-der-bundesagentur-waechst-auf-187-milliarden/100269772.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · DEUTSCHLAND",
-   "title": "Bundeshaushalt 2027 steht vorerst: Rekordausgaben von 561 Milliarden",
-   "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-bundeshaushalt-fuer-2027-steht-zumindest-vorlaeufig/100269597.html"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "UNTERNEHMEN · DEUTSCHLAND",
-   "title": "Dax-Konzerne steigern Gewinn trotz Einbruch der Autobauer",
-   "url": "https://www.handelsblatt.com/politik/deutschland/auswertung-dax-konzerne-steigern-gewinne-trotz-autokrise/100269577.html"
+   "kicker": "LOGISTIK · DEUTSCHLAND",
+   "title": "Deutsche Post erhöht 2027 die Paketpreise in den Filialen",
+   "url": "https://www.handelsblatt.com/unternehmen/dienstleister/dhl-post-hebt-paketpreise-2027-teilweise-deutlich-an/100269665.html"
   }
  ]
 }
