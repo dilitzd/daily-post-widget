@@ -1,8 +1,78 @@
 {
-  "updated": "2026-11-14T14:09:38+01:00",
+  "updated": "2026-11-15T15:42:55+01:00",
   "saison": "2026/27",
   "herren": {
     "rennen": [
+      {
+        "datum": "2026-11-15",
+        "ort": "Levi",
+        "land": "FIN",
+        "disziplin": "Slalom",
+        "wettbewerb": "Weltcup",
+        "ergebnis": [
+          {
+            "rang": 1,
+            "name": "Lucas Pinheiro Braathen",
+            "nation": "BRA",
+            "zeit": "1:48,04"
+          },
+          {
+            "rang": 2,
+            "name": "Clément Noël",
+            "nation": "FRA",
+            "rueckstand": "+0,56"
+          },
+          {
+            "rang": 3,
+            "name": "Loïc Meillard",
+            "nation": "SUI",
+            "rueckstand": "+0,73"
+          },
+          {
+            "rang": 4,
+            "name": "Fabian Ax Swartz",
+            "nation": "SWE",
+            "rueckstand": "+0,86"
+          },
+          {
+            "rang": 5,
+            "name": "Alex Vinatzer",
+            "nation": "ITA",
+            "rueckstand": "+0,87"
+          },
+          {
+            "rang": 6,
+            "name": "Paco Rassat",
+            "nation": "FRA",
+            "rueckstand": "+0,89"
+          },
+          {
+            "rang": 7,
+            "name": "Atle Lie McGrath",
+            "nation": "NOR",
+            "rueckstand": "+1,10"
+          },
+          {
+            "rang": 8,
+            "name": "Eduard Hallberg",
+            "nation": "FIN",
+            "rueckstand": "+1,29"
+          },
+          {
+            "rang": 9,
+            "name": "Samuel Kolega",
+            "nation": "CRO",
+            "rueckstand": "+1,31"
+          },
+          {
+            "rang": 10,
+            "name": "Albert Popov",
+            "nation": "BUL",
+            "rueckstand": "+1,51"
+          }
+        ],
+        "url": "https://www.tvmatchen.nu/sport/alpint/herrarnas-slalom-levi-2026-resultat/"
+      },
       {
         "datum": "2026-10-25",
         "ort": "Sölden",
@@ -75,10 +145,9 @@
       }
     ],
     "naechstes": {
-      "datum": "2026-11-15",
-      "uhrzeit": "10:00",
-      "ort": "Levi",
-      "land": "FIN",
+      "datum": "2026-11-22",
+      "ort": "Gurgl",
+      "land": "AUT",
       "disziplin": "Slalom",
       "wettbewerb": "Weltcup"
     },
@@ -87,19 +156,13 @@
         "rang": 1,
         "name": "Lucas Pinheiro Braathen",
         "nation": "BRA",
-        "punkte": 100
+        "punkte": 200
       },
       {
         "rang": 2,
         "name": "Loïc Meillard",
         "nation": "SUI",
-        "punkte": 80
-      },
-      {
-        "rang": 3,
-        "name": "Marco Odermatt",
-        "nation": "SUI",
-        "punkte": 60
+        "punkte": 140
       }
     ]
   },
