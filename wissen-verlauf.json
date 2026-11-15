@@ -338,5 +338,50 @@
     "datum": "2026-11-14",
     "typ": "bau",
     "wert": "Chrysler Building"
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "artikel",
+    "wert": "https://www.weltderwunder.de/lastige-blutsauger-wie-die-laus-auf-den-menschen-kam/"
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "ort",
+    "wert": "Mont-Saint-Michel"
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Die EU zählte am 1. Januar 2026 rund 452,0 Millionen Einwohner, 706.000 mehr als 2025."
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Südtirol zählte im September 2026 rund 4,21 Millionen Nächtigungen, 8,4 % mehr als im Vorjahresmonat."
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "fakt",
+    "wert": "Klima: Der Oktober 2026 war mit 1,75 °C über vorindustriellem Niveau der weltweit wärmste seit Messbeginn."
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "wiki",
+    "wert": "Stangeria eriopus"
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg/1280px-Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg"
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "bildkat",
+    "wert": "Natur"
+  },
+  {
+    "datum": "2026-11-15",
+    "typ": "bau",
+    "wert": "Pantheon (Rom)"
   }
 ]
