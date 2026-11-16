@@ -1,37 +1,115 @@
 {
- "issue": 41,
- "date": "Sonntag, 15. November 2026",
- "updated": "2026-11-15T05:50:49Z",
+ "issue": 42,
+ "date": "Montag, 16. November 2026",
+ "updated": "2026-11-16T05:51:02Z",
  "items": [
   {
-   "block": "Wirtschaftsnews",
-   "kicker": "WETTBEWERB · SÜDTIROL",
-   "title": "Dolomiti Superski: 350.000 Anträge auf Rückerstattung für Skipässe",
-   "url": "https://en.ilsole24ore.com/art/dolomiti-superski-350,000-refund-claims-received-30-million-allocated-AJ0smXGC"
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
+   "title": "MLBO: il veicolo riporta le perdite anche senza test di vitalità",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131552_riporto_delle_perdite_fisiologico_nelle_operazioni_di_mlbo.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "WIRTSCHAFTSPOLITIK · ITALIEN",
-   "title": "Confindustria-Chef Orsini schlägt Plan „Rilancio Italia“ vor",
-   "url": "https://en.ilsole24ore.com/art/orsini-proposes-a-plan-to-revitalise-italia-focusing-on-growth-education-and-healthcare-AJ1vqmGC"
+   "kicker": "ARBEITSMARKT · ITALIEN",
+   "title": "Italien: 2,5 Millionen Beschäftigte warten auf neue Tarifverträge",
+   "url": "https://en.ilsole24ore.com/art/renew-employment-contracts-for-25-million-workers-AJE1nzGC"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · PRODUKTE",
+   "title": "Interaktive Connectors: Apps öffnen sich direkt in Claude",
+   "url": "https://claude.com/resources/articles/interactive-connectors-full-tool"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "ACCERTAMENTO · INDAGINI BANCARIE",
+   "title": "Conto cointestato: le presunzioni bancarie restano in piedi",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131564_il_conto_cointestato_non_ferma_le_presunzioni_bancarie.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "AGEVOLAZIONI · ECOBONUS",
+   "title": "Ecobonus solo con bonifico completo di tutti gli elementi",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131550_ecobonus_solo_con_bonifico_completo_di_tutti_gli_elementi.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CRISI D'IMPRESA · PROFESSIONISTI",
+   "title": "Concordato minore aperto anche ai professionisti sopra soglia",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/si-concordato-minore-anche-i-professionisti-sopra-soglia-AJWH4nFC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FISCO · CREDITI D'IMPOSTA",
+   "title": "Pronto il codice tributo per la sostitutiva sui differenziali",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131565_pronto_il_codice_tributo_per_la_sostitutiva_sui_differenziali.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FISCO INTERNAZIONALE · DIVIDENDI",
+   "title": "Ritenute sui dividendi extra Ue: contrasto con la libera circolazione",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130580_ritenute_sui_dividendi_pagati_a_soggetti_extra_ue_e_libera_circolazione.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "LAVORO · CASSAZIONE",
+   "title": "Ferie e permessi maturano anche durante la CIG inframensile",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131557_ferie_e_permessi_maturano_anche_durante_la_cig_inframensile.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "FAMIGLIA · ASSEGNO UNICO",
+   "title": "Assegno unico per intero al genitore collocatario",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131544_assegno_unico_per_intero_al_genitore_collocatario.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "DATENSCHUTZ · ITALIEN",
-   "title": "Datenschutzbehörde verhängt 805 Millionen Euro Strafe gegen Meta",
-   "url": "https://en.ilsole24ore.com/art/data-protection-authority-fines-facebook-805-million-for-accessing-photos-and-videos-AJqYzjGC"
+   "kicker": "HAUSHALT · ITALIEN",
+   "title": "Abfindungen im Staatsdienst: schneller ausgezahlt, aber nur selten",
+   "url": "https://en.ilsole24ore.com/art/state-budget-act-severance-pay-instalments-shorter-timeframes-but-only-one-employee-out-of-10-AJ3OLJHC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · DEUTSCHLAND",
-   "title": "Schulden der Bundesagentur für Arbeit steigen auf 18,7 Milliarden",
-   "url": "https://www.wiwo.de/politik/konjunktur/arbeitslosengeld-schuldenberg-der-bundesagentur-waechst-auf-187-milliarden/100269772.html"
+   "kicker": "KONJUNKTUR · ITALIEN",
+   "title": "Apulien wächst im ersten Halbjahr um ein Prozent",
+   "url": "https://en.ilsole24ore.com/art/in-puglia-gdp-grew-by-1-per-cent-in-the-first-half-of-the-year-driven-by-the-service-sector-and-construction-AJw8ShGC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "LOGISTIK · DEUTSCHLAND",
-   "title": "Deutsche Post erhöht 2027 die Paketpreise in den Filialen",
-   "url": "https://www.handelsblatt.com/unternehmen/dienstleister/dhl-post-hebt-paketpreise-2027-teilweise-deutlich-an/100269665.html"
+   "kicker": "INDUSTRIE · DEUTSCHLAND",
+   "title": "Industrie steigert Umsatz, baut aber 140.000 Stellen ab",
+   "url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-industrie-steigert-umsatz-doch-140000-jobs-fallen-weg/100270066.html"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "GELDWÄSCHE · EU",
+   "title": "Neue EU-Geldwäscheregeln: Hausverwalter fürchten Mehraufwand bei Mietkautionen",
+   "url": "https://www.wiwo.de/finanzen/immobilien/eu-geldwaesche-verwalter-fuerchten-mehraufwand-bei-mietkautionen/100269074.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · UNTERNEHMEN",
+   "title": "Managed Agents laufen jetzt auch in eigener Infrastruktur",
+   "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · DATENSCHUTZ",
+   "title": "Hack bei Fireworks AI legt Chat-Protokolle von Notion-Kunden offen",
+   "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · CHIPS",
+   "title": "Huang spricht offenbar über Rückkehr an die Nvidia-Spitze",
+   "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-offenbar-in-gespraechen-ueber-rueckkehr-an-nvidia-spitze/100270044.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "REGULIERUNG · WAFFEN",
+   "title": "UN-Konferenz in Genf: neuer Anlauf gegen autonome Waffen",
+   "url": "https://www.handelsblatt.com/politik/international/verteidigung-staaten-planen-bei-un-konferenz-vorstoss-gegen-killerroboter/100269219.html"
   }
  ]
 }
