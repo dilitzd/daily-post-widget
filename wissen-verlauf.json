@@ -383,5 +383,50 @@
     "datum": "2026-11-15",
     "typ": "bau",
     "wert": "Pantheon (Rom)"
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "artikel",
+    "wert": "https://www.scinexx.de/news/archaeologie/deutsch-englisch-co-uralte-dna-zeigt-urspruenge-der-germanischen-sprachen/"
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "ort",
+    "wert": "Victoriafälle"
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Ende 2024 waren 57.090 Südtirolerinnen und Südtiroler im Ausland gemeldet, meist im deutschen Sprachraum."
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Italiens BIP stagnierte im 3. Quartal 2026 und lag 0,8 % über dem Vorjahresquartal."
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "fakt",
+    "wert": "Klima: Die Gletscher der Welt verloren 2025 über 400 Gigatonnen Eis – rund 1 mm Meeresspiegelanstieg."
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "wiki",
+    "wert": "Oppidum von Manching"
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg/1280px-International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg"
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "bildkat",
+    "wert": "Menschen"
+  },
+  {
+    "datum": "2026-11-16",
+    "typ": "bau",
+    "wert": "Guggenheim-Museum Bilbao"
   }
 ]

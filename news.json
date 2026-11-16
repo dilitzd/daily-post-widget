@@ -1,397 +1,397 @@
 {
-  "updated": "2026-11-15T18:50:43+01:00",
+  "updated": "2026-11-16T04:16:16+01:00",
   "zitat": {
-    "text": "Je klarer wir unsere Aufmerksamkeit auf die Wunder und Wirklichkeiten des uns umgebenden Universums richten, desto weniger Geschmack finden wir an der Zerstörung der Menschheit.",
-    "original": "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for the destruction of our race.",
-    "person": "Rachel Carson",
-    "info": "Biologin und Autorin, 1907–1964",
-    "quelle": "Rede zur John-Burroughs-Medaille, April 1952",
-    "url": "https://en.wikiquote.org/wiki/Rachel_Carson",
-    "datum": "2026-11-15"
+    "text": "Das höchste, was man erreichen kann, ist zu wissen und auszuhalten, dass es so und nicht anders gewesen ist.",
+    "original": "",
+    "person": "Hannah Arendt",
+    "info": "Philosophin, 1906–1975",
+    "quelle": "Rede zum Lessing-Preis, Hamburg 1959",
+    "url": "https://de.wikiquote.org/wiki/Hannah_Arendt",
+    "datum": "2026-11-16"
   },
   "artikel": {
-    "norm": "Art. 21 DPR 633/1972",
-    "gesetz": "DPR 633/1972 – Istituzione e disciplina dell'imposta sul valore aggiunto",
-    "titel": "Fatturazione delle operazioni",
-    "auszug": "Per ciascuna operazione imponibile il soggetto che effettua la cessione del bene o la prestazione del servizio emette fattura […]. La fattura è emessa entro dodici giorni dall'effettuazione dell'operazione […].",
-    "erklaerung": "Der Artikel regelt Pflicht, Inhalt und Fristen der Rechnung (fattura): Sie ist grundsätzlich binnen zwölf Tagen nach dem Umsatz (effettuazione, Art. 6) auszustellen, in Sonderfällen bis zum 15. des Folgemonats. Ab 1.1.2027 wird die Regel in den neuen Testo unico IVA (D.Lgs. 10/2026) überführt.",
-    "url": "https://www.brocardi.it/testo-unico-iva/titolo-ii/art21.html",
-    "stand": "2026-08-12",
-    "datum": "2026-11-15"
+    "norm": "Art. 88 TUIR",
+    "gesetz": "DPR 917/1986 – Testo unico delle imposte sui redditi",
+    "titel": "Sopravvenienze attive",
+    "auszug": "Si considerano sopravvenienze attive i ricavi o altri proventi conseguiti a fronte di spese, perdite od oneri dedotti o di passività iscritte in bilancio in precedenti esercizi […]",
+    "erklaerung": "Der Artikel bestimmt, wann nachträgliche Erträge, etwa Rückflüsse früher abgezogener Kosten, Schadenersatz oder Zuschüsse, als steuerpflichtige Sopravvenienze gelten. Gesellschaftereinlagen (versamenti a fondo perduto) sind ausgenommen. Ab 1.1.2027 gilt der neue Testo unico (D.Lgs. 117/2026).",
+    "url": "https://www.brocardi.it/testo-unico-imposte-redditi/titolo-ii/capo-ii/sezione-i/art88.html",
+    "stand": "2026-09-26",
+    "datum": "2026-11-16"
   },
   "wissen": {
-    "quelle": "Welt der Wunder",
-    "titel": "Wie die Kopflaus zum Menschen kam",
-    "zusammenfassung": "Genanalysen zeigen, dass die Kopflaus von der Affenlaus abstammt und sich mit der Trennung von Mensch und Affe eigenständig entwickelte. In Mitteleuropa galt sie zeitweise als ausgestorben, kehrte aber Mitte der 1980er-Jahre zurück.",
-    "url": "https://www.weltderwunder.de/lastige-blutsauger-wie-die-laus-auf-den-menschen-kam/",
-    "datum": "2026-11-14"
+    "quelle": "scinexx",
+    "titel": "Uralte DNA verrät Herkunft germanischer Sprachen",
+    "zusammenfassung": "Genanalysen von über 4.700 Menschen zeigen, dass vor rund 4.000 Jahren eine Gruppe aus dem Ostseeraum nach Schweden kam. Ihre Ausbreitung passt zeitlich zum frühen Germanisch.",
+    "url": "https://www.scinexx.de/news/archaeologie/deutsch-englisch-co-uralte-dna-zeigt-urspruenge-der-germanischen-sprachen/",
+    "datum": "2026-11-04"
   },
   "ort": {
-    "name": "Mont-Saint-Michel",
-    "land": "Frankreich",
-    "lat": 48.6358,
-    "lon": -1.5106,
-    "zoom": 9,
-    "beschreibung": "Die Felseninsel in der Normandie ragt 92 Meter auf und trägt eine Abtei; der Tidenhub der Bucht erreicht bis zu 14 Meter.",
-    "url": "https://de.wikipedia.org/wiki/Le_Mont-Saint-Michel",
-    "datum": "2026-11-15"
+    "name": "Victoriafälle",
+    "land": "Simbabwe/Sambia",
+    "lat": -17.9245,
+    "lon": 25.855,
+    "zoom": 8,
+    "beschreibung": "Der Sambesi stürzt hier auf 1708 Metern Breite in eine 110 Meter tiefe Schlucht; Livingstone erreichte die Fälle am 16. November 1855.",
+    "url": "https://de.wikipedia.org/wiki/Victoriaf%C3%A4lle",
+    "datum": "2026-11-16"
   },
   "fakten": [
     {
       "thema": "Bevölkerung",
-      "text": "Die EU zählte am 1. Januar 2026 rund 452,0 Millionen Einwohner, 706.000 mehr als 2025.",
-      "quelle": "Eurostat",
-      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260710-3"
+      "text": "Ende 2024 waren 57.090 Südtirolerinnen und Südtiroler im Ausland gemeldet, meist im deutschen Sprachraum.",
+      "quelle": "ASTAT",
+      "url": "https://astat.provinz.bz.it/de/publikationen/suedtirolerinnen-und-suedtiroler-mit-wohnsitz-im-ausland-2024"
     },
     {
       "thema": "Wirtschaft",
-      "text": "Südtirol zählte im September 2026 rund 4,21 Millionen Nächtigungen, 8,4 % mehr als im Vorjahresmonat.",
-      "quelle": "ASTAT",
-      "url": "https://astat.provinz.bz.it/de/publikationen/tourismus-september-2026"
+      "text": "Italiens BIP stagnierte im 3. Quartal 2026 und lag 0,8 % über dem Vorjahresquartal.",
+      "quelle": "ISTAT",
+      "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/"
     },
     {
       "thema": "Klima",
-      "text": "Der Oktober 2026 war mit 1,75 °C über vorindustriellem Niveau der weltweit wärmste seit Messbeginn.",
-      "quelle": "Copernicus",
-      "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+      "text": "Die Gletscher der Welt verloren 2025 über 400 Gigatonnen Eis – rund 1 mm Meeresspiegelanstieg.",
+      "quelle": "WMO",
+      "url": "https://wmo.int/news/media-centre/state-of-climate-2026-gives-new-meaning-phrase-charts"
     }
   ],
   "wiki": {
-    "titel": "Stangeria eriopus",
-    "zusammenfassung": "Der Palmfarn ist die einzige Art seiner Gattung und wächst nur an der Ostküste Südafrikas und im südlichen Mosambik. Wegen seiner farnähnlichen Blätter hielt man ihn zunächst für einen Farn; die IUCN stuft ihn als potenziell gefährdet ein.",
-    "url": "https://de.wikipedia.org/wiki/Stangeria_eriopus",
-    "datum": "2026-11-15"
+    "titel": "Oppidum von Manching",
+    "zusammenfassung": "Die keltische Großsiedlung bei Ingolstadt bestand vom 3. Jahrhundert bis etwa 50–30 v. Chr. und umfasste 380 Hektar mit 7,2 km Stadtmauer. Sie gilt als das am besten erforschte Oppidum Mitteleuropas.",
+    "url": "https://de.wikipedia.org/wiki/Oppidum_von_Manching",
+    "datum": "2026-11-16"
   },
   "bild": {
-    "kurz": "Madeira-Wasserfall",
-    "titel": "Wasserfall Véu da Noiva bei Seixal, Madeira",
-    "beschreibung": "Der Wasserfall Véu da Noiva bei Seixal auf der portugiesischen Atlantikinsel Madeira, gesehen von einem Aussichtspunkt.",
-    "kategorie": "Natur",
-    "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg/1280px-Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg",
-    "bild_seite": "https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_67.jpg",
-    "fotograf": "Diego Delso",
-    "lizenz": "CC BY-SA 4.0",
-    "datum": "2026-11-15"
+    "kurz": "Ballonfestival León",
+    "titel": "Internationales Heißluftballon-Festival in León, Mexiko",
+    "beschreibung": "Bunte Heißluftballone steigen beim internationalen Ballonfestival 2012 im mexikanischen León in den blauen Himmel.",
+    "kategorie": "Menschen",
+    "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg/1280px-International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg",
+    "bild_seite": "https://commons.wikimedia.org/wiki/File:International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg",
+    "fotograf": "Tomascastelazo",
+    "lizenz": "CC BY-SA 3.0",
+    "datum": "2026-11-16"
   },
   "bau": {
-    "name": "Pantheon",
-    "kurz": "Pantheon Rom",
-    "ort": "Rom, Italien",
-    "architekt": "",
-    "jahr": "125–128 n. Chr.",
-    "stil": "Römische Antike",
-    "beschreibung": "Seine Kuppel mit 43,44 Metern Innendurchmesser war rund 1700 Jahre die größte der Welt und bleibt die größte aus unbewehrtem Beton.",
-    "url": "https://de.wikipedia.org/wiki/Pantheon_(Rom)",
-    "bild_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Pantheon_Rom_1_cropped.jpg/1280px-Pantheon_Rom_1_cropped.jpg",
-    "bild_seite": "https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg",
-    "fotograf": "Rabax63",
-    "lizenz": "CC BY-SA 4.0",
-    "datum": "2026-11-15"
+    "name": "Guggenheim-Museum Bilbao",
+    "kurz": "Guggenheim Bilbao",
+    "ort": "Bilbao, Spanien",
+    "architekt": "Frank O. Gehry",
+    "jahr": "1997",
+    "stil": "Dekonstruktivismus",
+    "beschreibung": "Die geschwungene Titanfassade aus lauter Einzelstücken machte das Museum zum Vorbild für den Begriff „Bilbao-Effekt“.",
+    "url": "https://de.wikipedia.org/wiki/Guggenheim-Museum_Bilbao",
+    "bild_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Guggenheim-bilbao-jan05.jpg",
+    "bild_seite": "https://commons.wikimedia.org/wiki/File:Guggenheim-bilbao-jan05.jpg",
+    "fotograf": "MykReeve",
+    "lizenz": "CC BY-SA 3.0",
+    "datum": "2026-11-16"
   },
   "themen": {
     "politik": {
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Cremlino: senza intesa con l'Europa useremo la forza",
-          "satz": "Peskov accusa le divisioni dell'UE, Lavrov critica von der Leyen e Kallas sui negoziati per l'Ucraina.",
-          "text": "Il portavoce del Cremlino Dmitri Peskov avverte che Mosca userà la forza se non ci saranno prospettive di accordo con l'Europa. Zelensky denuncia oltre 2.300 droni d'attacco russi in una settimana e chiede agli USA di sbloccare i terminali Starshield. Droni ucraini hanno colpito un sito petrolchimico Sibur a Nizhnekamsk.",
+          "titel": "L'Estonia chiude i valichi con la Russia",
+          "satz": "Dal primo dicembre stop a tutti i passaggi di frontiera dopo un sabotaggio attribuito al GRU.",
+          "text": "Il premier Margus Tsahkna ha annunciato la chiusura di tutti i valichi con la Russia dal 1° dicembre. La decisione segue un tentato incendio contro il produttore di droni Threod Systems, ordinato secondo l'intelligence estone dal GRU russo. Tallinn vuole frenare attività ostili ed elusione delle sanzioni e ha informato Finlandia, Lettonia e Lituania.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/ukraine-war-latest-news-kremlin-if-there-is-no-agreement-europe-we-will-use-force-AJS9iSHC",
+          "url": "https://en.ilsole24ore.com/art/estonia-closes-border-crossings-with-russia-on-1-december-AJZfEZHC",
           "datum": "2026-11-15"
         },
         {
-          "titel": "Pasdaran rivendicano attacco con droni in Bahrein",
-          "satz": "Colpito un radar della difesa aerea USA nella base di Riffa, Washington dice di aver abbattuto due droni.",
-          "text": "Le Guardie rivoluzionarie iraniane rivendicano un attacco con sei droni contro un radar statunitense in Bahrein. Nel Paese sono suonate le sirene e il ministero dell'Interno ha invitato la popolazione a cercare riparo. I Pasdaran ribadiscono che lo Stretto di Hormuz resta chiuso e minacciano risposte più dure.",
+          "titel": "Vertice Trump-Xi-Putin a Shenzhen il 19 novembre",
+          "satz": "Il Cremlino conferma l'incontro a tre a margine del summit APEC in Cina.",
+          "text": "Il Cremlino ha confermato un incontro trilaterale tra Putin, Xi Jinping e Trump il 19 novembre a Shenzhen. Sullo sfondo c'è la guerra in Ucraina: secondo Zelensky gli USA offrono a Kiev l'adesione alla NATO in cambio del Donbass. Witkoff e Kushner preparano inoltre quello che potrebbe essere il più grande scambio di prigionieri.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/middle-east-pasdaran-claim-responsibility-for-us-radar-attack-in-bahrain-involving-six-drones-AJIkcKHC",
-          "datum": "2026-11-15"
-        },
-        {
-          "titel": "Über 200 Festnahmen bei Protesten in Frankreich",
-          "satz": "Laut Innenministerium demonstrierten landesweit 106.000 Menschen gegen hohe Lebenskosten und für bessere Bildung.",
-          "text": "Bei neuen Protesten in Frankreich nahm die Polizei 219 Menschen fest, in Marseille, Grenoble und Lyon gab es Ausschreitungen. Die Beteiligung sinkt jedoch: Vor einer Woche waren es 146.000, vor einem Monat 565.000 Menschen. Das Innenministerium nennt die Lage insgesamt beherrschbar.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3448200/",
+          "url": "https://en.ilsole24ore.com/art/war-latest-news-us-largest-prisoner-exchange-to-date-kiev-moscow-hit-cargo-ship-bound-for-odessa-carrying-ukrainian-weapons-AJlXJaGC",
           "datum": "2026-11-14"
         },
         {
-          "titel": "Milei kandidiert 2027 für zweite Amtszeit",
-          "satz": "Argentiniens Präsident verspricht weitere Steuersenkungen und Handel mit fast allen Ländern der Welt.",
-          "text": "Javier Milei will bei der Wahl 2027 erneut antreten. Sein Sparkurs seit Dezember 2023 hat die Staatsfinanzen stabilisiert, aber Arbeitsplätze und Subventionen gekostet. Bis 2031 will er Handelsbeziehungen mit 90 Prozent der Länder erreichen und die Steuern weiter senken.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/15/milei-annuncia-la-ricandidatura-nel-2027-e-punta-al-secondo-mandato_55c6f752-285a-4d9e-b26a-9c2e414f6ff0.html",
+          "titel": "Vier Staaten fordern freien Zugang für Gaza-Hilfe",
+          "satz": "Großbritannien, Italien, Kanada und Australien verlangen von Israel ein Ende der Verzögerungen.",
+          "text": "Die Außenminister der vier Länder fordern Israel in einer gemeinsamen Erklärung auf, Hilfe sofort ungehindert in den gesamten Gazastreifen zu lassen. Sie nennen die humanitäre Lage katastrophal. Laut Bericht werden rund 150.000 Zelte und weitere dringend benötigte Hilfsgüter an der Grenze zurückgehalten.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3448278",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Ukraine greift Petrochemie-Komplex in Tatarstan an",
+          "satz": "Auch in Taganrog trafen Drohnen ein Umspannwerk, dessen Chefingenieur getötet wurde.",
+          "text": "Berichten zufolge hat die Ukraine in Nischnekamsk einen der größten petrochemischen Komplexe Russlands angegriffen; Videos zeigen ein Großfeuer, drei Menschen wurden verletzt. In Taganrog stand nach dem Treffer auf ein Umspannwerk zeitweise der Bahnverkehr still. Russland meldet seinerseits einen Angriff auf ein Frachtschiff im ukrainischen Hafen Tschornomorsk.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3448229",
           "datum": "2026-11-15"
         }
       ],
-      "hinweis": "Il-Sole-Rubrikseite (en.ilsole24ore.com/sez/mondo) nicht abrufbar (Freigabe nicht erteilt), Il-Sole-Artikel über Suche gefunden; Ersatz: ORF, ANSA."
+      "hinweis": "Il Sole 24 Ore (englische Ausgabe) nach Freigabe-Problem über Websuche erreicht, 2 Meldungen von dort; Ersatz: ORF. tagesschau, Deutschlandfunk, Reuters nicht erreichbar (Freigabe/Suche abgelehnt), ANSA-Artikel ohne Freigabe, Handelsblatt ohne lesbare Inhalte."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Borse, settimana decisiva: Nvidia, Fed e Anthropic",
-          "satz": "Anthropic debutta al Nasdaq giovedì 19 novembre, con valutazione massima ridotta a circa 1.400 miliardi di dollari.",
-          "text": "Martedì Nvidia presenta i conti con la CEO ad interim Colette Kress, dopo le dimissioni di Jensen Huang e il calo sotto i 4.000 miliardi di capitalizzazione. Mercoledì arrivano i verbali della Fed, mentre il mercato prevede rialzi dei tassi da dicembre. L'IPO di Anthropic misurerà la fiducia nell'IA.",
+          "titel": "Nvidia, Jensen Huang valuta il ritorno da CEO",
+          "satz": "Secondo il Financial Times, manager della Silicon Valley si mobilitano per riportarlo al vertice.",
+          "text": "Jensen Huang starebbe valutando di tornare alla guida di Nvidia, dopo le dimissioni da amministratore delegato. Un suo alleato parla di una «war room» di dirigenti tech che cerca anche il sostegno della Casa Bianca. In precedenza il consiglio aveva sondato il CEO di Arm, René Haas, come possibile successore.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/radiocor/nRC_15.11.2026_11.23_16610166",
+          "url": "https://en.ilsole24ore.com/art/ft-jensen-huang-is-considering-a-sensational-return-to-lead-nvidia-AJ4kafHC",
           "datum": "2026-11-15"
         },
         {
-          "titel": "Flugchaos in den USA hält an",
-          "satz": "Nach 9.201 Ausfällen am Freitag und 6.692 am Samstag strichen Airlines am Sonntag erneut über 1.400 Flüge.",
-          "text": "Auslöser war ein fast fünfstündiger landesweiter Flugstopp der Luftfahrtbehörde FAA wegen Kommunikationsproblemen. Die Airlines arbeiten den Rückstau ab, doch am Sonntag fielen fast doppelt so viele Flüge aus wie prognostiziert. FAA-Chef Bryan Bedford rechnete ab Sonntagabend wieder mit vollem Betrieb.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
-          "datum": "2026-11-15"
-        },
-        {
-          "titel": "VW-Chef Blume peilt Rekordrendite für 2030 an",
-          "satz": "Volkswagen will 2030 rund neun Millionen Fahrzeuge bei neun Prozent Rendite verkaufen.",
-          "text": "Eine solche Marge hat VW noch nie erreicht: 2025 lag sie bei 2,8 Prozent, heuer wird höchstens ein Prozent erwartet. Blume verteidigte den Abbau von über 100.000 Stellen und verwies auf doppelt so hohe Personalkosten in Deutschland. China sieht er trotz Marktschwäche nicht als verlorenen Markt.",
-          "quelle": "Handelsblatt",
-          "url": "https://handelsblatt.com/politik/deutschland/automarkt-vw-chef-blume-will-2030-rekordrendite-erreichen/100270008.html",
-          "datum": "2026-11-15"
-        },
-        {
-          "titel": "TFS statali: tempi più brevi, ma per pochi",
-          "satz": "La manovra accelera la liquidazione dei dipendenti pubblici, ma solo per circa un caso su dieci.",
-          "text": "La legge di Bilancio riduce l'attesa per il primo rateo, azzerata dal 2030, per chi lascia per limiti d'età con TFS fino a 100.000 euro lordi. L'obiettivo è prevenire la Consulta, udienza il 12 gennaio: una bocciatura costerebbe fino a 15,6 miliardi. La misura vale 3,47 miliardi fino al 2036.",
+          "titel": "Data center, bruciati 4.200 miliardi in Borsa",
+          "satz": "Da giugno i fornitori di infrastrutture per l'IA hanno perso metà del valore guadagnato in un anno.",
+          "text": "Secondo un'analisi del FT su dati FactSet, le società di energia, raffreddamento e fibra legate ai data center hanno perso circa 4.200 miliardi di dollari di capitalizzazione; Caterpillar cede il 44%. Pesano i dubbi sugli investimenti a debito delle Big Tech. Ordini e cantieri, però, restano su livelli record.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/state-budget-act-severance-pay-instalments-shorter-timeframes-but-only-one-employee-out-of-10-AJ3OLJHC",
+          "url": "https://en.ilsole24ore.com/art/data-centre-the-frenzied-rush-comes-to-a-halt-4200-billion-on-the-stock-market-AJZbOLHC",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Contratti da rinnovare per 2,5 milioni di lavoratori",
+          "satz": "I salari contrattuali crescono meno dell'inflazione, salita al 5,4% su base annua a ottobre.",
+          "text": "In attesa di rinnovo ci sono circa 2,5 milioni di dipendenti, di cui 1,4 milioni nel pubblico. Nel privato i contratti scaduti potrebbero riguardare oltre 4 milioni di lavoratori a marzo, quando scadono gli accordi dei servizi. Un nuovo patto tra imprese e sindacati introduce tutele salariali legate all'inflazione.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/employment-contracts-renewal-25-million-workers-AJE1nzGC",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Bancari, rinnovo del contratto ancora in stallo",
+          "satz": "I sindacati chiedono 518 euro al mese in più; nuovo incontro con l'ABI il 19 novembre.",
+          "text": "Il contratto dei circa 260.000 bancari è scaduto a marzo e l'ABI non ha ancora risposto sulla richiesta economica. Pesano le operazioni di risiko e il contributo di circa 7 miliardi chiesto alle banche dalla manovra per il 2027-2029. I sindacati ricordano utili cresciuti del 72% dal 2022 e minacciano mobilitazioni.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/bank-contract-negotiations-renewal-deadlock-months-takeover-bid-and-budget-measures-AJ9mkzGC",
           "datum": "2026-11-15"
         }
       ],
-      "hinweis": "Il-Sole-Rubrikseiten economia/finanza nicht abrufbar (Freigabe nicht erteilt), Il-Sole-Artikel über Suche gefunden; Ersatz: ANSA, Handelsblatt."
+      "hinweis": "Alle 4 Meldungen aus Il Sole 24 Ore (englische Ausgabe, über Websuche erreicht). Ersatzquellen nicht nutzbar: ANSA-Artikel ohne Freigabe, ORF nur ältere Wirtschaftsmeldung (Meta-Strafe, >24 h), Handelsblatt ohne lesbare Inhalte, tagesschau/Deutschlandfunk/Reuters nicht erreichbar."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "Hitzewellen bedrohen Europas Stromversorgung",
-          "satz": "Frankreich, Spanien und Italien zeigen in Simulationen bis 2030 die größten Engpässe bis hin zu Abschaltungen.",
-          "text": "Forschende aus Shenzhen und Cambridge simulierten in Nature Energy Hunderte Hitzewellen für acht europäische Länder. Hitze steigert den Strombedarf und senkt zugleich die Leistung von Kraftwerken und Leitungen. Die Modelle sind als freies Werkzeug für Netzbetreiber verfügbar, die künftig auch Sommerspitzen einplanen sollen.",
+          "titel": "Heutiges Artensterben übertrifft wohl frühere Krisen",
+          "satz": "Eine Auswertung aus York sieht die aktuelle Krise größer als fast alle der letzten 66 Millionen Jahre.",
+          "text": "Forschende der University of York haben die Literatur zum Artensterben seit der Kreidezeit ausgewertet. Die Schwelle zu einem sechsten Massenaussterben ist zwar noch nicht erreicht, die Welle begann aber schon vor rund 130.000 Jahren. Ob es dazu kommt, hängt davon ab, wie gut bedrohte Arten und Lebensräume geschützt werden.",
           "quelle": "scinexx",
-          "url": "https://www.scinexx.de/news/energie/hitzewellen-gefaehrden-europas-stromversorgung/",
+          "url": "https://www.scinexx.de/news/biowissen/heutiges-artensterben-koennte-das-groesste-seit-den-dinosauriern-sein/",
           "datum": "2026-11-14"
         },
         {
-          "titel": "Weltdiabetestag: Fast eine Million Betroffene in Österreich",
-          "satz": "Rund 200.000 Menschen wissen laut Schätzung nichts von ihrer Erkrankung, ein nationales Register fehlt.",
-          "text": "Unbehandelter Diabetes kann zu Herzinfarkt, Nierenversagen und Amputationen führen. Die Diabetes-Gesellschaft fordert ein Antikörper-Screening bei Kindern wie in Deutschland oder Italien. Neue Therapien wie GLP-1-Spritzen und smarte Insulinpumpen verbessern die Behandlung deutlich.",
-          "quelle": "science.ORF.at",
-          "url": "https://science.orf.at/stories/3238208/",
-          "datum": "2026-11-14"
-        },
-        {
-          "titel": "Erdkruste sank schon vor 3,95 Milliarden Jahren ab",
-          "satz": "Ein Gneis aus Nordchina deutet auf ein subduktionsähnliches Abtauchen in über 50 Kilometer Tiefe hin.",
-          "text": "Ein chinesisches Team datierte in Nature Zirkone aus dem Gestein auf 3,951 Milliarden Jahre. Tiefe und relativ niedrige Temperatur sprechen für ein schnelles Absinken der Kruste. Ein Beweis für globale Plattentektonik ist das nicht; dafür braucht es ähnlich alte Gesteine von anderen Orten.",
-          "quelle": "scinexx",
-          "url": "https://www.scinexx.de/news/geowissen/erdkruste-ist-wohl-schon-vor-395-milliarden-jahren-tief-abgesunken/",
-          "datum": "2026-11-14"
-        },
-        {
-          "titel": "Artemis II störte die Ionosphäre stärker als gedacht",
-          "satz": "Nicht der Start, sondern spätere Triebwerksmanöver hinterließen eine über 5.000 Kilometer lange Störspur.",
-          "text": "Ein Team aus Taiwan wertete Daten von rund 3.500 Bodenstationen nach dem Mondflug im April aus. Die Schwankungen der Elektronendichte waren bis zu neunmal größer als beim Start. Das könnte GPS-Positionen um mehrere Meter verfälscht haben, direkt belegt sind solche Fehler aber nicht.",
-          "quelle": "Spektrum der Wissenschaft",
-          "url": "https://www.spektrum.de/news/start-des-nasa-mondflugs-artemis-ii-verursachte-gps-stoerungen/2353976",
+          "titel": "Der prophezeite Weltuntergang von 1960 fällt aus",
+          "satz": "Heinz von Foerster sagte für den 13. November 2026 ein unendliches Bevölkerungswachstum voraus.",
+          "text": "Statt explodierender Zahlen dürfte die Weltbevölkerung von heute 8,4 Milliarden laut UNO bei 10,3 Milliarden ihren Höchststand erreichen. In den meisten Ländern wird der Höhepunkt in 10 bis 30 Jahren erwartet. Für Österreich bedeutet das Druck auf Pensionen und Sozialsysteme, ein digitaler Zwilling soll die Folgen abschätzen.",
+          "quelle": "science.ORF",
+          "url": "https://science.orf.at/stories/3238172/",
           "datum": "2026-11-13"
+        },
+        {
+          "titel": "Forscher fordern Pause für Industrie auf dem Mond",
+          "satz": "Ein Moratorium soll Zeit für verbindliche internationale Regeln zur Nutzung des Mondes schaffen.",
+          "text": "Forscher der Universität Vilnius warnen, feste Anlagen zum Rohstoffabbau könnten die Mondumwelt dauerhaft verändern und Forschung behindern. Der Weltraumvertrag von 1967 regelt große Industrieprojekte nicht, frühe Betreiber könnten Standorte faktisch kontrollieren. Ob Raumfahrtmächte und Firmen zustimmen, bezweifelt selbst der Autor.",
+          "quelle": "scinexx",
+          "url": "https://scinexx.de/news/kosmos/forscher-fordern-eine-pause-bei-der-industrialisierung-des-mondes",
+          "datum": "2026-11-13"
+        },
+        {
+          "titel": "Flores-Hobbits lebten neben einem Riesenhuhn",
+          "satz": "Ein alter Knochenfund aus der Liang-Bua-Höhle entpuppt sich als neue, ausgestorbene Großfußhuhnart.",
+          "text": "Ein Team um Hanneke Meijer beschreibt Megapodius rokusi, das rund 3,9 Kilogramm wog. Der Knochen ist 120.000 bis 190.000 Jahre alt, die Vögel könnten also neben Homo floresiensis gelebt haben. Wann das Riesenhuhn ausstarb, ist offen, diskutiert wird ein Zusammenhang mit anderen Inseltieren und Klimawandel.",
+          "quelle": "Spektrum",
+          "url": "https://www.spektrum.de/news/voegel-flores-hobbits-lebten-mit-riesenhuhn-zusammen/2354225",
+          "datum": "2026-11-15"
         }
       ],
-      "hinweis": "NZZ, heise, Süddeutsche, Spiegel gesperrt (Abendlauf nicht getestet); verwendet: scinexx, science.ORF.at, Spektrum der Wissenschaft (tagesschau und Deutschlandfunk nicht erreichbar: Suchproxy-Fehler, Direktabruf ohne Freigabe)"
+      "hinweis": "Hauptquellen NZZ, heise, Süddeutsche, Spiegel nicht erreichbar; Meldungen aus Ersatzquellen scinexx, science.ORF und Spektrum. tagesschau und Deutschlandfunk: Suche vom Proxy abgelehnt."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Tesla verkauft Cybercab erstmals an Privatkunden",
-          "satz": "Das Robotaxi kostet rund 30.000 Dollar, ohne Abo für 299 Dollar monatlich fährt es praktisch nicht.",
-          "text": "Bisher ließ sich das autonome Fahrzeug nur über Teslas Robotaxi-Dienst mieten. Der Vertrag erlaubt nur private Nutzung, Tesla bestimmt Einsatzzonen und darf Preise erhöhen oder den Betrieb sperren. Zudem sammelt der Hersteller umfangreiche Daten, darunter Bilder aus dem Innenraum.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/mobilitaet/robotaxi-tesla-bietet-cybercab-fuer-30-000-us-dollar-zum-kauf-an.100331/",
-          "datum": "2026-11-14"
-        },
-        {
-          "titel": "Epic fordert vom Supreme Court Härte gegen Apple",
-          "satz": "Der Spielehersteller verlangt, das Missachtungsurteil wegen der App-Store-Bezahlregeln zu bestätigen.",
-          "text": "Apple hatte auf externe Käufe 27 Prozent Provision verlangt und Links eingeschränkt, ein Gericht sah darin eine Missachtung. Die US-Regierung hält die Rüge wegen der Linkregeln für berechtigt. Apples letzte Stellungnahme ist bis 14. Dezember fällig, verhandelt wird am 11. Jänner 2027.",
-          "quelle": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
-          "datum": "2026-11-13"
-        },
-        {
-          "titel": "iPhone Duo übersteht 450.000 Faltvorgänge",
-          "satz": "Im Dauertest von CNET lässt das Scharnier ab etwa 390.000 Faltungen jedoch spürbar nach.",
-          "text": "Das Gerät funktioniert weiter, öffnet sich aber nicht mehr ganz selbstständig, Risse gibt es keine. Rechnerisch entspricht die Belastung mehr als zehn Jahren bei 100 Faltungen täglich. Der Test läuft weiter, bis das Smartphone ausfällt; Apple selbst nennt keine Lebensdauer.",
+          "titel": "Apples Brille soll 2027 kommen – ohne AR-Display",
+          "satz": "Laut Bloomberg stellt Apple die Smart Glasses zur WWDC im Juni 2027 vor, gesteuert vor allem über Siri.",
+          "text": "Die erste Brille zeigt keine AR-Bilder, Siri soll per Kamera Fragen zur Umgebung beantworten. Entwickler müssen dafür Funktionen ihrer iPhone-Apps für Siri freigeben, eigene Brillen-Apps braucht es nicht. Die Hardware gilt als weitgehend fertig, Software und KI hinken aber hinterher und könnten den Start verzögern.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing/",
-          "datum": "2026-11-13"
+          "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+          "datum": "2026-11-15"
         },
         {
-          "titel": "Voyager 1 erreicht bald einen Lichttag Distanz",
-          "satz": "Am 18. November ist die Sonde laut NASA rund 25,9 Milliarden Kilometer von der Erde entfernt.",
-          "text": "Kein anderes Menschenwerk war je so weit weg; ein Funksignal braucht nun einen Tag pro Richtung. Im Oktober reagierte die Sonde zwei Tage nicht, die Ursache wird untersucht. Um Strom zu sparen, laufen nur noch zwei der ursprünglich elf Instrumente.",
+          "titel": "SpaceX fängt erstmals die Starship-Oberstufe auf",
+          "satz": "Beim 15. Testflug landete die Oberstufe nach über 20 Stunden in den Greifarmen des Startturms.",
+          "text": "Zuvor setzte sie 26 Starlink-Satelliten aus, der Fang des Super-Heavy-Boosters wurde wegen Treibstoffmangels abgebrochen. Am Hitzeschild zeigten sich erneut deutliche Schäden. Damit bleibt fraglich, ob die Oberstufe bald schnell wiederverwendet werden kann.",
           "quelle": "t3n",
-          "url": "https://t3n.de/news/voyager-1-nasa-meilenstein-lichttag-1771736",
+          "url": "https://t3n.de/news/spacex-starship-aufgefangen-1773668/",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "MacBook Neo 2 soll 2027 kommen",
+          "satz": "Das günstige Apple-Notebook bekommt laut Berichten einen schnelleren Chip und 12 statt 8 GB Arbeitsspeicher.",
+          "text": "Der A19 Pro ist laut 9to5Mac bei der CPU 10 bis 15 Prozent und bei der Grafik bis zu 40 Prozent schneller. Mehr Speicher soll leistungsfähigere KI-Funktionen auf dem Gerät ermöglichen, etwa beim Diktieren und bei Siri. Das aktuelle Modell kam erst im März 2026 auf den Markt.",
+          "quelle": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Nintendo lässt Switch-Modchip-Projekte bei GitHub sperren",
+          "satz": "Nach einer DMCA-Beschwerde entfernte GitHub das Picofly-Projekt samt 143 Kopien.",
+          "text": "Insgesamt richteten sich vier Beschwerden gegen 217 Repositories, darunter auch Emulatoren. Nintendo argumentiert, schon die Verbreitung der Firmware sei unzulässig, ein Gericht hat das aber nicht entschieden. Eingebaute Modchips funktionieren weiter, die Firmware ist anderswo noch erhältlich.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/gaming/nintendo-vs-modchips-github-sperrt-144-firmware-repositories.100324/",
           "datum": "2026-11-14"
         }
       ],
-      "hinweis": "heise/CHIP gesperrt (nicht getestet); MacRumors als Hauptquelle, Ersatzquellen: ComputerBase, 9to5Mac, t3n (The Verge nicht erreichbar)"
+      "hinweis": "heise und CHIP nicht erreichbar; neben MacRumors Ersatzquellen t3n, 9to5Mac und ComputerBase. The Verge: Suche vom Proxy abgelehnt; golem gesperrt."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Anthropic bringt Claude Fable 5.2 und Mythos 5.2",
-          "satz": "Beide beruhen auf demselben Modell, Mythos mit weniger Schutzsperren nur für geprüfte Organisationen.",
-          "text": "Anthropic hat neue Spitzenmodelle für Programmieren, Forschung und Cybersicherheit vorgestellt. Fable 5.2 übertrifft Opus 5.5 in vielen Tests deutlich, etwa bei echten Freelance-Aufgaben mit 41 statt 21 Prozent. Fable ist ab sofort auf allen Plattformen verfügbar, Mythos erhalten geprüfte Sicherheits- und Biologie-Fachleute.",
+          "titel": "Anthropic startet Roadshow für den Börsengang",
+          "satz": "Angeboten werden 825 Millionen Aktien zu je 70 bis 78 US-Dollar an der Nasdaq.",
+          "text": "Anthropic hat die Roadshow für seinen geplanten Börsengang gestartet, das Kürzel soll ANT lauten. Der Großteil der Aktien stammt vom Unternehmen selbst, ein kleiner Teil von Altaktionären. Verkauft werden darf erst, wenn die Registrierung bei der US-Börsenaufsicht wirksam ist.",
           "quelle": "Anthropic",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "datum": "2026-11-09"
+          "url": "https://www.anthropic.com/news/roadshow-launch",
+          "datum": "2026-11-10"
         },
         {
-          "titel": "Amodei räumt vor Börsengang große Unsicherheit ein",
-          "satz": "Der Anthropic-Chef nennt den Einkauf von Rechenleistung sein tiefstes geschäftliches Dilemma.",
-          "text": "Bei einer JPMorgan-Veranstaltung sagte Dario Amodei, unklar sei, ob KI-Umsätze schnell genug für die Milliardeninvestitionen wachsen. Laut Bloomberg hat Anthropic Verpflichtungen von fast 901 Milliarden Dollar, vor allem für Rechenzentren. Der Börsengang am 19. November soll Reserven schaffen und könnte der größte aller Zeiten werden.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/grosse-unsicherheit-anthropic-chef-hadert-kurz-vor-rekord-ipo-mit-der-groessten-wette-der-ki-branche/",
-          "datum": "2026-11-14"
+          "titel": "Google bringt schnelles Modell Gemini 4 Hydrogen",
+          "satz": "Das neue Modell ersetzt die Flash-Reihe und schlägt in einem Index sogar das größere Argon.",
+          "text": "Hydrogen soll Aufgaben 2,5-mal schneller erledigen als Gemini 3.8 Flash und ist in Gemini-App, Suche und API verfügbar. Die API kostet 1,50 Dollar pro Million Eingabe-Token. Die Leistungsangaben stammen großteils von Google selbst.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/apps/gemini-4-hydrogen-google-setzt-bei-neuem-modell-auf-tempo-und-effizienz.100317/",
+          "datum": "2026-11-13"
         },
         {
-          "titel": "Petition fordert Jensen Huangs Rückkehr zu Nvidia",
-          "satz": "Über 144.000 Menschen unterschrieben, darunter rund 77.000 Aktionäre und 8.500 Beschäftigte.",
-          "text": "Nach dem Rücktritt des Nvidia-Gründers wegen Affären fordert ein offener Brief seine Wiedereinsetzung bis zum Ende einer unabhängigen Untersuchung. Auch Elon Musk und viele Mitarbeitende unterstützen das. Der Börsenwert des Chipkonzerns ist seit Anfang Oktober um etwa ein Drittel gefallen, ob der Aufsichtsrat reagiert, ist offen.",
+          "titel": "Goldman Sachs beschränkt Claude Code auf Entwickler",
+          "satz": "Wegen hoher Kosten dürfen Trader die KI-Programmierwerkzeuge von Anthropic und GitHub nicht mehr nutzen.",
+          "text": "Die Bank begründet den Schritt laut Bloomberg mit besserer Kontrolle von Produktivität und Risiko nach der Testphase. Der hauseigene KI-Assistent bleibt allen Beschäftigten zugänglich. Viele Banken hinterfragen derzeit den Nutzen ihrer steigenden KI-Ausgaben.",
           "quelle": "t3n",
-          "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/",
+          "url": "https://t3n.de/news/goldman-sachs-zugang-ki-1771271/",
           "datum": "2026-11-15"
         },
         {
-          "titel": "OpenAI baut sein Robotik-Team um",
-          "satz": "Allzweckmodelle wie GPT-6 Astra steuern Roboter offenbar besser als spezialisierte Robotik-KI.",
-          "text": "OpenAI verteilt seine Robotik-Forschenden auf das Hauptforschungsteam und die Anwendungssparte, die Arbeit an Robotern gehe aber weiter. In einer Nvidia-Studie schaffte Astra 74,8 Prozent simulierter Roboteraufgaben, die besten Spezialmodelle 51 Prozent. Eine erste öffentliche Roboter-Demo strebt OpenAI für 2027 an.",
+          "titel": "KI trifft in Australien vor allem Berufseinsteiger",
+          "satz": "Eine Analyse für die australische Zentralbank sieht kaum Jobverluste, aber Nachteile für Junge in exponierten Berufen.",
+          "text": "In Feldern wie Softwareentwicklung und Kundenservice schneiden 15- bis 24-Jährige schlechter ab als Ältere. Eine direkte Ursache durch KI belegt die Studie nicht, auch Konjunktur könnte eine Rolle spielen. Ähnliche Befunde lieferten zuvor Studien aus Stanford und von Anthropic.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/",
-          "datum": "2026-11-14"
+          "url": "https://the-decoder.de/australische-zentralbank-sieht-erste-ki-effekte-auf-dem-arbeitsmarkt-vor-allem-junge-berufseinsteiger-betroffen/",
+          "datum": "2026-11-15"
         }
       ],
-      "hinweis": "anthropic.com/news, the-decoder.de-Startseite (erster Versuch), t3n, Reuters, The Verge direkt nicht abrufbar (Freigabe nicht erteilt bzw. Suchfehler); Anthropic über Suchergebnis und /research geöffnet; Ersatz: The Decoder, t3n."
+      "hinweis": "heise nicht erreichbar; neben Anthropic Ersatzquellen ComputerBase, t3n und The Decoder. Roadshow (10.11.) ist die neueste Anthropic-Meldung und ersetzt Fable/Mythos 5.2."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "805 Millionen Strafe für Meta, ausgelöst in Bozen",
-          "satz": "Den Anstoß gab eine Beschwerde der Bozner Verbraucherzentrale aus dem Juli 2025.",
-          "text": "Italiens Datenschutzbehörde verhängte gegen Meta 805 Millionen Euro Strafe wegen einer Facebook-Funktion für Android. Sie greife ohne klare Zustimmung auf Fotos, Videos und Metadaten der Handy-Galerie zu, betroffen seien rund 20 Millionen Menschen. Meta muss die Funktion binnen 60 Tagen standardmäßig abschalten und kann Einspruch erheben.",
+          "titel": "Bozen will Gemeinde gegen Cyberangriffe wappnen",
+          "satz": "Bürgermeister Corrarati spricht von echten Angriffen und bittet das Land um Unterstützung.",
+          "text": "Die Gemeinde Bozen plant nach mehreren Angriffsversuchen ein Programm, um ihre IT-Sicherheit zu stärken; laut Bericht sind dafür 1,8 Millionen Euro nötig. Die Systeme hätten bisher standgehalten. Weil im Rathaus viele sensible Daten liegen, soll die Provinz bei der Finanzierung helfen.",
           "quelle": "Alto Adige",
-          "url": "https://www.altoadige.it/cronaca/meta-la-multa-da-805-milioni-e-partita-da-bolzano-decisiva-una-segnalazione-del-centro-tutela-consumatori-rem6bjk6",
-          "datum": "2026-11-14"
-        },
-        {
-          "titel": "Bozen hat Italiens beste Lebensqualität",
-          "satz": "Die Provinz überholt Mailand in der Studie von ItaliaOggi und der Universität Sapienza.",
-          "text": "In der 28. Ausgabe der Rangliste zur Lebensqualität der 107 italienischen Provinzen liegt Bozen auf Platz eins, vor Mailand und Bologna. Gelobt werden Wirtschaft, Umwelt und Tourismus. Schlusslicht ist Taranto, insgesamt zeigt die Studie ein deutliches Gefälle zwischen Nord- und Süditalien.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/bolzano-e-la-provincia-in-cui-si-vive-meglio-lultima-e-taranto_9e592d92-7538-4c88-9e59-68831ace8e36.html",
+          "url": "https://www.altoadige.it/cronaca/bolzano/cyberattacchi-al-comune-adesso-servono-1-8-milioni-per-difendersi-y67lxbge",
           "datum": "2026-11-15"
         },
         {
-          "titel": "Claudiana-Wohnheim kostet über 230.000 Euro je Bett",
-          "satz": "Team K kritisiert die Kosten des Studentenheims am Bozner Krankenhaus und befürchtet hohe Mieten.",
-          "text": "Das Land investiert rund 46,5 Millionen Euro in ein Wohnheim mit 200 Plätzen für Claudiana-Studierende. Franz Ploner rechnet mit Mieten von 700 bis 800 Euro im Monat. Team K fordert eine transparente Mietberechnung, sozial gestaffelte Preise und freie Plätze auch für Krankenhauspersonal.",
+          "titel": "Wohnhaus in Jenesien brennt nieder",
+          "satz": "Das Gebäude am Valpingon-Hof in Hinterflaas stand beim Eintreffen der Feuerwehr bereits in Vollbrand.",
+          "text": "Das Feuer brach am Sonntag gegen 4.10 Uhr aus, zwei Personen hatten es aus der Ferne bemerkt. Freiwillige Wehren und die Bozner Berufsfeuerwehr mit zwei Tankwagen schützten auch ein Nachbargebäude. Nach ersten Angaben wurde niemand verletzt.",
           "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/politik/wird-claudiana-wohnheim-zum-luxusprojekt",
+          "url": "https://www.suedtirolnews.it/chronik/wohnhaus-in-jenesien-in-flammen",
           "datum": "2026-11-15"
         },
         {
-          "titel": "Frau stirbt im Dampfbad des Bozner Hallenbads",
-          "satz": "Die etwa 40-Jährige wurde im Wellnessbereich des Karl-Dibiasi-Bads bewusstlos aufgefunden.",
-          "text": "Ein Mitarbeiter fand die Frau am Freitagnachmittag bei einer Routinekontrolle, Wiederbelebungsversuche blieben erfolglos. Die Todesursache ist unklar, die Justiz ließ den Leichnam beschlagnahmen. Eine Autopsie soll klären, ob eine natürliche Ursache oder andere Faktoren vorliegen, das Bad blieb geöffnet.",
+          "titel": "Flüchtender Dieb sitzt stundenlang im Aufzug fest",
+          "satz": "Im Bozner Palais Campofranco entstand dabei ein Schaden von rund 50.000 Euro.",
+          "text": "Ein 30-Jähriger hatte Wäsche aus einer Münzwaschmaschine gestohlen und sich auf der Flucht im Aufzug eingesperrt. Die Feuerwehr schnitt das Kabinendach auf, gegen 3.30 Uhr wurde er befreit und festgenommen. Er soll die Steuerung beschädigt haben; der Lift fällt mehrere Arbeitstage aus.",
           "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/chronik/frau-stirbt-im-bozner-dampfbad",
+          "url": "https://www.suedtirolnews.it/chronik/dieb-will-fliehen-und-bleibt-im-aufzug-stecken",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Großübung in Kaltern mit über 230 Helfern",
+          "satz": "Sechs Notfälle vom Waldbrand bis zum Steinbruchunfall wurden gleichzeitig durchgespielt.",
+          "text": "Alle acht Feuerwehren der Gemeinde, Bergrettung, Weißes Kreuz, Carabinieri, Forstbehörde und Zivilschutz probten am Samstag den Ernstfall. Geübt wurden unter anderem eine Personensuche am Kalterer See und ein Erdrutsch. Koordiniert wurde von der Gemeinde-Einsatzzentrale unter Bürgermeister Christoph Pillon.",
+          "quelle": "Alto Adige",
+          "url": "https://www.altoadige.it/cronaca/sei-emergenze-simulate-a-caldaro-maxi-prova-dei-soccorsi-in-campo-oltre-230-persone-iwqg1cf5",
           "datum": "2026-11-15"
         }
       ],
-      "hinweis": "salto.bz-Startseite zunächst nicht abrufbar, später ohne neue Meldungen im 24-h-Fenster; einzelne Alto-Adige-Artikel verlangten Freigabe. Ersatz: Alto Adige, ANSA, Südtirol News. Meta-Meldung von Alto Adige (14.11., 18:12) knapp an der Zeitgrenze."
+      "hinweis": "salto.bz (Hauptquelle) verlangte für Startseite und neue Artikel eine Freigabe; die öffentlich lesbaren salto-Rubriken enthielten keine neuen Nachrichten im 24-h-Fenster. Ersatz: Alto Adige und Südtirol News (Artikel über Suchergebnisse geöffnet)."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Zverev startet mit Sieg gegen Jodar in Turin",
-          "satz": "Der Weltranglistenerste gewann sein erstes Gruppenspiel bei den ATP Finals nach 87 Minuten mit 6:4, 6:4.",
-          "text": "Alexander Zverev ist erfolgreich in die ATP Finals gestartet und hat den spanischen Debütanten Rafael Jodar ohne Satzverlust besiegt. Jodar vergab im ersten Satz zwei Chancen zum Rebreak, Zverev servierte stark. Am Dienstag trifft der Hamburger auf den Sieger der Partie Ben Shelton gegen Arthur Fils.",
-          "quelle": "tennisnet",
-          "url": "https://www.tennisnet.com/news/atp-finals-zverev-startet-mit-souveraenem-sieg-gegen-jodar",
-          "datum": "2026-11-15"
-        },
-        {
-          "titel": "Braathen gewinnt Slalom in Levi erneut",
-          "satz": "Der Brasilianer siegte vor Clement Noel und Loic Meillard und feierte seinen zehnten Weltcupsieg.",
-          "text": "Lucas Pinheiro Braathen hat den Herren-Slalom in Levi gewonnen und als Erster dort zwei Jahre in Folge gesiegt. Für Österreich war es das schwächste Slalom-Ergebnis seit 2006, bester war Johannes Strolz auf Rang 22. Der nächste Slalom folgt am kommenden Sonntag in Gurgl.",
-          "quelle": "ORF Sport",
-          "url": "https://sport.orf.at/stories/3164965",
-          "datum": "2026-11-15"
-        },
-        {
-          "titel": "Kalajdzic schießt Österreich zurück in die Elite",
-          "satz": "Der eingewechselte Stürmer erzielte in Linz in der 78. Minute das einzige Tor gegen Irland.",
-          "text": "Mit dem 1:0-Sieg in der Nations League hat sich Österreich einen Spieltag vor Schluss die Rückkehr in die höchste Liga A gesichert. Christoph Baumgartner feierte nach rund sechs Monaten Verletzungspause sein Comeback. Zum Abschluss spielt das Team am Dienstag gegen Israel im ungarischen Debrecen.",
-          "quelle": "ORF Sport",
-          "url": "https://sport.orf.at/stories/3164901/",
-          "datum": "2026-11-14"
-        },
-        {
-          "titel": "VfB-Boss Wehrle kontert Kritik von Uli Hoeneß",
-          "satz": "Der Bayern-Ehrenpräsident hatte Stuttgart vorgeworfen, jedes Jahr seine besten Spieler zu verkaufen.",
-          "text": "Stuttgarts Vorstandschef Alexander Wehrle weist die Vorwürfe zurück: Im Sommer sei kein Stammspieler verkauft, sondern in den Kader investiert worden. Hoeneß hatte in einer BR-Sendung seinen Neffen, VfB-Trainer Sebastian Hoeneß, gelobt und die Klubführung kritisiert. Schon beim Poker um Nick Woltemade hatten sich beide Vereine gestritten.",
+          "titel": "Rummenigge hatte Zweifel an Kompany",
+          "satz": "Grund war Kompanys Abstieg mit Burnley kurz vor der Verpflichtung im Sommer 2024.",
+          "text": "Rummenigge erzählte, er habe bei Max Eberl nachgefragt, ob ein gerade abgestiegener Trainer passe. Heute lobt er Kompany, unter dem Bayern zweimal Meister und 2026 Pokalsieger wurde. Der Trainer soll nach seiner Erkrankung nach der Länderspielpause zurückkehren.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/vfb-boss-wehrle-reagiert-auf-hoeness-kritik",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-rummenigge-offenbart-kompany-bedenken",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Shelton holt ersten Sieg bei den ATP Finals",
+          "satz": "Der Weltranglistenvierte schlug Arthur Fils am Sonntagabend in Turin in drei Sätzen.",
+          "text": "Ben Shelton gewann 6:2, 3:6, 6:3 nach knapp zwei Stunden; im Vorjahr hatte er alle drei Gruppenspiele verloren. Am Dienstag trifft er auf Alexander Zverev. Fils und Jodar brauchen im direkten Duell einen Sieg für die Halbfinalchance.",
+          "quelle": "tennisnet",
+          "url": "https://www.tennisnet.com/news/atp-finals-dreisatzerfolg-ben-shelton-siegt-gegen-arthur-fils",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Neureuther zerpflückt Zenhäuserns Levi-Auftritt",
+          "satz": "Der Schweizer verpasste als 49. den zweiten Slalom-Durchgang um 0,7 Sekunden.",
+          "text": "Felix Neureuther nannte den Lauf des sechsfachen Weltcupsiegers laut Blick weitgehend eine Katastrophe. Zenhäusern war aus dem Schweizer Kader gestrichen worden und trainierte mit seinem Vater bei neuer Skimarke. Den Slalom gewann Lucas Pinheiro Braathen vor Clément Noël und Loïc Meillard.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/wintersport/ski-alpin/2026/11/neureuther-kritisiert-zenhaeusern-nach-aus-in-levi",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Arevalo und Pavic starten mit Sieg im Doppel",
+          "satz": "Die als Nummer vier gesetzten Doppelspezialisten besiegten in Turin die Franzosen Arribage und Olivetti.",
+          "text": "Arevalo und Pavic gewannen 7:6, 6:4 und liegen in ihrer Gruppe gleichauf mit Heliovaara und Patten. Es ist ihr letztes gemeinsames Turnier: Pavic spielt ab der neuen Saison mit Kevin Krawietz. Krawietz und Tim Pütz greifen am Montag ins Geschehen ein.",
+          "quelle": "tennisnet",
+          "url": "https://www.tennisnet.com/news/atp-finals-zukuenftiger-krawietz-partner-feiert-auftaktsieg",
           "datum": "2026-11-15"
         }
       ],
-      "hinweis": "Hauptquelle Sport1 nur über Rubrik-/Artikelseiten lesbar (Startseite verlangte Freigabe, ohne Antwort); Ersatz: tennisnet, ORF Sport. Sportschau-Regionalartikel verlangten Freigabe. WTA-Finals-Finale noch nicht gespielt."
+      "hinweis": "Sport1-Startseite verlangte eine Freigabe; Sport1-Artikel über Suchergebnisse geöffnet. Sportschau und ORF Sport lieferten keine neuen passenden Meldungen im 24-h-Fenster bzw. nur bereits gemeldete (Zverev, Braathen). Ersatz: tennisnet."
     },
     "steuern": {
       "titel": "Steuern",
       "items": [
         {
-          "titel": "Rottamazione: Raten bis 30. November fällig",
-          "satz": "Fällig sind Raten der rottamazione-quater und -quinquies, die Toleranzfrist gilt aber nicht für alle.",
-          "text": "Am 30. November sind die 14. Rate der rottamazione-quater, die 6. Rate für Wiederzugelassene und die 3. Rate der quinquies fällig. Bei der quater gilt die Toleranz bis 7. Dezember, bei der quinquies nur für die letzte Rate. Wer nicht zahlt, verliert die Begünstigung; Anträge zur Rottamazione lokaler Abgaben laufen bis 15. Dezember.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4801-rottamazione-cartelle-scadenza-30-novembre-chi-puo-pagare-dopo.html",
-          "datum": "2026-11-15"
-        },
-        {
-          "titel": "Forfettari: Spesenersatz zählt nicht als Einkommen",
-          "satz": "Laut risposta a interpello n. 213/2026 bleiben weiterverrechnete Spesen auch bei den Umsatzgrenzen außen vor.",
-          "text": "Freiberufler im regime forfettario versteuern für Kunden ausgelegte und analytisch weiterverrechnete Spesen seit 1. Januar 2025 nicht. Die Erstattungen zählen auch nicht zu den Grenzen von 85.000 und 100.000 Euro. Nötig sind Belege, bei Reise-, Verpflegungs- und Unterkunftskosten zudem nachverfolgbare Zahlungen; die circolare 5/E/2021 ist insoweit überholt.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4795-forfettari-rimborsi-spese-esclusi-dal-reddito-e-dalle-soglie-di-85000-e-100000-euro.html",
+          "titel": "Concordato: Zuschlag auf Vorauszahlung bis 30. November",
+          "satz": "Neue Teilnehmer zahlen mit der zweiten Rate Zuschläge, nahtlose Verlängerer bleiben davon verschont.",
+          "text": "Wer bis 2. November dem concordato preventivo biennale 2026–2027 beigetreten ist und die historische Methode nutzt, zahlt bis 30. November 10 % auf das höhere vereinbarte Einkommen und 3 % für die IRAP. Wer den Concordato 2024–2025 ohne Unterbrechung verlängert hat, ist laut Dekret 148/2026 befreit. Alternativ zählt die voraussichtliche Steuer.",
+          "quelle": "ItaliaOggi",
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/concordato-preventivo-biennale-maggiorazione-dellacconto-entro-il-30-novembre-eea2ybp7",
           "datum": "2026-11-13"
         },
         {
-          "titel": "Gemeinschaftskonto schützt nicht vor Bankvermutungen",
-          "satz": "Laut Kassationsurteil n. 29022 muss der Steuerpflichtige beweisen, dass Bewegungen den Mitinhaber betreffen.",
-          "text": "Bei einem Gemeinschaftskonto (conto cointestato) reicht die zivilrechtliche Vermutung, dass das Guthaben allen Inhabern zu gleichen Teilen gehört, steuerlich nicht aus. Die Finanzverwaltung kann Kontobewegungen weiter über die presunzioni bancarie zurechnen. Wer Zahlungen dem Mitinhaber zuordnen will, braucht daher konkrete Nachweise.",
+          "titel": "Ecobonus nur mit vollständiger Banküberweisung",
+          "satz": "Ein bloßer Verweis auf die Rechnung im Verwendungszweck reicht laut Kassationsgericht nicht aus.",
+          "text": "Die Corte di Cassazione verlangt mit Beschluss (ordinanza) n. 29060, hinterlegt am 13. November, dass die Überweisung (bonifico) für den Ecobonus alle vorgeschriebenen Angaben enthält. Grundlage ist Art. 1 Abs. 3 des D.M. n. 41/1998. Betroffen sind Steuerpflichtige mit Abzügen für energetische Sanierungen, deren Zahlungsbelege unvollständig sind.",
           "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Art_1131564_il_conto_cointestato_non_ferma_le_presunzioni_bancarie.aspx",
+          "url": "https://www.eutekne.info/Sezioni/Art_1131550_ecobonus_solo_con_bonifico_completo_di_tutti_gli_elementi.aspx",
           "datum": "2026-11-14"
         },
         {
-          "titel": "Steuercode für Ersatzsteuer auf Guthaben-Differenzen",
-          "satz": "Mit der risoluzione n. 45 vom 13. November ist die Zahlung per Vordruck F24 möglich.",
-          "text": "Die Agenzia delle Entrate hat einen codice tributo für die imposta sostitutiva auf positive Differenzen aus Steuerguthaben eingeführt. Die Ersatzsteuer kann für Bonus-Guthaben genutzt werden, die ab 2024 erworben wurden. Betroffen sind Käufer solcher Guthaben, die nun über F24 mit dem neuen Code zahlen können.",
+          "titel": "Haushalt 2027: Baubonus bleiben bei 50/36 Prozent",
+          "satz": "Auch der Möbelbonus soll ein weiteres Jahr mit 50 Prozent und 5.000 Euro Obergrenze gelten.",
+          "text": "Laut Entwurf der Legge di bilancio 2027 gelten bonus ristrutturazioni, Ecobonus und Sismabonus auch für Ausgaben 2027: 50 % für die Hauptwohnung, sonst 36 %. Für Kondominien sind neue Ausgabengrenzen vorgesehen. Die Regeln gelten erst, wenn das Parlament das Haushaltsgesetz verabschiedet hat.",
+          "quelle": "ItaliaOggi",
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/bonus-edilizi-le-novita-fiscali-per-il-2027-tra-proroghe-e-nuove-aliquote-r6o2au0f",
+          "datum": "2026-11-15"
+        },
+        {
+          "titel": "Senat billigt Reform des Commercialisti-Berufs endgültig",
+          "satz": "Die Regierung muss die Neuordnung binnen eines Jahres per Legislativdekret umsetzen.",
+          "text": "Der Senat hat das Ermächtigungsgesetz (legge delega) zur Reform des Berufs des dottore commercialista mit 72 Ja-Stimmen und 49 Enthaltungen endgültig verabschiedet. Innerhalb eines Jahres nach Inkrafttreten muss die Regierung das Umsetzungsdekret (decreto legislativo) erlassen. Betroffen sind alle Berufsangehörigen; die Details der Reform sind noch offen.",
           "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Art_1131565_pronto_il_codice_tributo_per_la_sostitutiva_sui_differenziali.aspx",
-          "datum": "2026-11-14"
+          "url": "https://www.eutekne.info/Sezioni/Art_1130970_dal_senato_via_libera_definitivo_alla_riforma_dei_commercialisti.aspx",
+          "datum": "2026-11-12"
         }
       ],
-      "hinweis": "Agenzia delle Entrate und FiscoOggi nicht lesbar (Startseiten verlangten Freigabe, Unterseiten Fehler); IPSOA, MEF ebenfalls nicht abrufbar. Ersatz: FiscoeTasse, Eutekne (nur frei lesbarer Vorspann). Amtliche Quellen direkt: 0 von 4; inhaltlich beruhen 3 von 4 auf amtlichen Akten (risposta n. 213/2026, risoluzione n. 45, Cass. n. 29022)."
+      "hinweis": "Agenzia delle Entrate und FiscoOggi nicht erreichbar (Startseiten: Freigabe nicht beantwortet; Unterseiten und Dokumente: client_error); auch IPSOA, MEF/DGT nicht lesbar, Gazzetta Ufficiale ohne Steuerakte. Ersatz: ItaliaOggi und Eutekne. Meldung 4 ist 4 Tage alt. Anteil amtlicher Quellen: 0 von 4."
     }
   }
 }
