@@ -428,5 +428,50 @@
     "datum": "2026-11-16",
     "typ": "bau",
     "wert": "Guggenheim-Museum Bilbao"
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "artikel",
+    "wert": "https://nationalgeographic.de/tiere/2026/11/diese-seevoegel-sind-voller-plastik-und-verhungern-daran/"
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "ort",
+    "wert": "Milford Sound"
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Das EU-Medianalter lag am 1. Januar 2025 bei 44,9 Jahren, 2005 bei 39,6."
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "fakt",
+    "wert": "Wirtschaft: 29,2 Prozent der EU-Bevölkerung konnten 2025 unerwartete Ausgaben nicht stemmen (2024: 30,0 %)."
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "fakt",
+    "wert": "Klima: Von Januar bis September 2026 lag die Erdtemperatur rund 1,47 °C über vorindustriellem Niveau."
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "wiki",
+    "wert": "Atopisches Ekzem"
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/1280px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg"
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "bildkat",
+    "wert": "Tiere"
+  },
+  {
+    "datum": "2026-11-17",
+    "typ": "bau",
+    "wert": "Kathedrale von Brasília"
   }
 ]
