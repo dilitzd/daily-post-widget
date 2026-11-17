@@ -1,115 +1,85 @@
 {
- "issue": 42,
- "date": "Montag, 16. November 2026",
- "updated": "2026-11-16T05:51:02Z",
+ "issue": 43,
+ "date": "Dienstag, 17. November 2026",
+ "updated": "2026-11-17T05:50:59Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · OPERAZIONI STRAORDINARIE",
-   "title": "MLBO: il veicolo riporta le perdite anche senza test di vitalità",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131552_riporto_delle_perdite_fisiologico_nelle_operazioni_di_mlbo.aspx"
+   "kicker": "FISCO · CONCORDATO PREVENTIVO BIENNALE",
+   "title": "CPB 2026-2027: nuovi associati escludono, salvo in caso di rinnovo",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/casi-operativi-euroconference-news/esclusione-dal-cpb-per-ingresso-di-nuovi-associati-alleggerimento-solo-nel-caso-di-rinnovo/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · ITALIEN",
-   "title": "Italien: 2,5 Millionen Beschäftigte warten auf neue Tarifverträge",
-   "url": "https://en.ilsole24ore.com/art/renew-employment-contracts-for-25-million-workers-AJE1nzGC"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · PRODUKTE",
-   "title": "Interaktive Connectors: Apps öffnen sich direkt in Claude",
-   "url": "https://claude.com/resources/articles/interactive-connectors-full-tool"
+   "kicker": "BANKEN · ITALIEN",
+   "title": "Mailänder Gericht stellt Revolut ein Jahr unter gerichtliche Verwaltung",
+   "url": "https://en.ilsole24ore.com/art/revolut-placed-under-administration-for-one-year-on-charges-of-money-laundering-with-aggravating-circumstances-relating-to-the-mafia-AJ8e35HC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "ACCERTAMENTO · INDAGINI BANCARIE",
-   "title": "Conto cointestato: le presunzioni bancarie restano in piedi",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131564_il_conto_cointestato_non_ferma_le_presunzioni_bancarie.aspx"
+   "kicker": "TRIBUTI LOCALI · IMU",
+   "title": "Saldo IMU entro il 16 dicembre: verificare le aliquote pubblicate",
+   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/16/versamento-saldo-imu-2026.-la-verifica-delle-aliquote-applicabili"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · ECOBONUS",
-   "title": "Ecobonus solo con bonifico completo di tutti gli elementi",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131550_ecobonus_solo_con_bonifico_completo_di_tutti_gli_elementi.aspx"
+   "kicker": "SANZIONI · RAVVEDIMENTO",
+   "title": "Cumulo giuridico nel ravvedimento: i codici per la sanzione unica",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/omessa-fatturazione-il-cumulo-giuridico-riduce-le-sanzioni-nel-ravvedimento/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CRISI D'IMPRESA · PROFESSIONISTI",
-   "title": "Concordato minore aperto anche ai professionisti sopra soglia",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/si-concordato-minore-anche-i-professionisti-sopra-soglia-AJWH4nFC"
+   "kicker": "SCADENZE · IMPOSTA DI BOLLO",
+   "title": "Bollo sulle e-fatture del terzo trimestre entro il 30 novembre",
+   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/16/imposta-di-bollo-f.e.-3-trimestre.-scadenza-al-3011-con-eventuale-cumulo"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · CREDITI D'IMPOSTA",
-   "title": "Pronto il codice tributo per la sostitutiva sui differenziali",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131565_pronto_il_codice_tributo_per_la_sostitutiva_sui_differenziali.aspx"
+   "kicker": "BILANCIO · PRINCIPI OIC",
+   "title": "OIC 10 in revisione: rendiconto finanziario dal risultato ante imposte",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/controllo/la-bozza-di-revisione-delloic-10-un-passo-avanti-o-unoccasione-mancata/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO INTERNAZIONALE · DIVIDENDI",
-   "title": "Ritenute sui dividendi extra Ue: contrasto con la libera circolazione",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130580_ritenute_sui_dividendi_pagati_a_soggetti_extra_ue_e_libera_circolazione.aspx"
+   "kicker": "IVA · RIMBORSI",
+   "title": "Rimborso IVA negato per lavori su aree di proprietà altrui",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/rimborso-iva-per-beni-di-proprieta-altrui-solo-se-strumentali-allattivita-svolta/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · CASSAZIONE",
-   "title": "Ferie e permessi maturano anche durante la CIG inframensile",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131557_ferie_e_permessi_maturano_anche_durante_la_cig_inframensile.aspx"
+   "kicker": "CONTENZIOSO · FRODE IVA",
+   "title": "Il solo processo verbale non basta a provare la frode IVA",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130523_il_processo_verbale_di_constatazione_da_solo_non_prova_la_frode.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FAMIGLIA · ASSEGNO UNICO",
-   "title": "Assegno unico per intero al genitore collocatario",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131544_assegno_unico_per_intero_al_genitore_collocatario.aspx"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · ITALIEN",
-   "title": "Abfindungen im Staatsdienst: schneller ausgezahlt, aber nur selten",
-   "url": "https://en.ilsole24ore.com/art/state-budget-act-severance-pay-instalments-shorter-timeframes-but-only-one-employee-out-of-10-AJ3OLJHC"
+   "kicker": "REGISTRO · PRIMA CASA",
+   "title": "Prima casa: tutti i termini dell'agevolazione portati a due anni",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130385_armonizzati_i_termini_per_l_agevolazione_prima_casa.aspx"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "KONJUNKTUR · ITALIEN",
-   "title": "Apulien wächst im ersten Halbjahr um ein Prozent",
-   "url": "https://en.ilsole24ore.com/art/in-puglia-gdp-grew-by-1-per-cent-in-the-first-half-of-the-year-driven-by-the-service-sector-and-construction-AJw8ShGC"
+   "title": "OECD: Reale Haushaltseinkommen in Italien sinken um ein Prozent",
+   "url": "https://en.ilsole24ore.com/art/oecd-real-household-income-up-01-per-cent-in-the-second-quarter-in-italia-up-1-per-cent-due-to-inflation-AJKNEBIC"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "GEMEINDEN · ITALIEN",
+   "title": "Ortstaxe bringt Italiens Gemeinden 2026 voraussichtlich 1,3 Milliarden",
+   "url": "https://en.ilsole24ore.com/art/tourist-tax-hits-a-record-13-billion-in-2026-AJ6nDHIC"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "INDUSTRIE · DEUTSCHLAND",
-   "title": "Industrie steigert Umsatz, baut aber 140.000 Stellen ab",
-   "url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-industrie-steigert-umsatz-doch-140000-jobs-fallen-weg/100270066.html"
+   "title": "Tesla investiert drei Milliarden Euro in Grünheide",
+   "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-us-autobauer-investiert-drei-milliarden-euro-in-gruenheide/100270267.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "GELDWÄSCHE · EU",
-   "title": "Neue EU-Geldwäscheregeln: Hausverwalter fürchten Mehraufwand bei Mietkautionen",
-   "url": "https://www.wiwo.de/finanzen/immobilien/eu-geldwaesche-verwalter-fuerchten-mehraufwand-bei-mietkautionen/100269074.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · UNTERNEHMEN",
-   "title": "Managed Agents laufen jetzt auch in eigener Infrastruktur",
-   "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "SICHERHEIT · DATENSCHUTZ",
-   "title": "Hack bei Fireworks AI legt Chat-Protokolle von Notion-Kunden offen",
-   "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · CHIPS",
-   "title": "Huang spricht offenbar über Rückkehr an die Nvidia-Spitze",
-   "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-offenbar-in-gespraechen-ueber-rueckkehr-an-nvidia-spitze/100270044.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "REGULIERUNG · WAFFEN",
-   "title": "UN-Konferenz in Genf: neuer Anlauf gegen autonome Waffen",
-   "url": "https://www.handelsblatt.com/politik/international/verteidigung-staaten-planen-bei-un-konferenz-vorstoss-gegen-killerroboter/100269219.html"
+   "kicker": "HAUSHALT · DEUTSCHLAND",
+   "title": "Rechnungshof: 17 Milliarden Euro jährlich bei Subventionen einsparbar",
+   "url": "https://www.wiwo.de/politik/deutschland/haushalt-rechnungshof-raet-zu-milliarden-einsparungen-bei-subventionen/100270102.html"
   }
  ]
 }
