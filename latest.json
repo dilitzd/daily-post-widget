@@ -1,85 +1,121 @@
 {
- "issue": 43,
- "date": "Dienstag, 17. November 2026",
- "updated": "2026-11-17T05:50:59Z",
+ "issue": 44,
+ "date": "Mittwoch, 18. November 2026",
+ "updated": "2026-11-18T05:51:18Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · CONCORDATO PREVENTIVO BIENNALE",
-   "title": "CPB 2026-2027: nuovi associati escludono, salvo in caso di rinnovo",
-   "url": "https://www.ecnews.it/fiscale/in-pratica/casi-operativi-euroconference-news/esclusione-dal-cpb-per-ingresso-di-nuovi-associati-alleggerimento-solo-nel-caso-di-rinnovo/"
+   "kicker": "FISCO · ACCONTI E CPB",
+   "title": "Secondo acconto entro il 30 novembre: le regole per chi aderisce al CPB",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/secondo-acconto-2026-e-cpb/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · ITALIEN",
-   "title": "Mailänder Gericht stellt Revolut ein Jahr unter gerichtliche Verwaltung",
-   "url": "https://en.ilsole24ore.com/art/revolut-placed-under-administration-for-one-year-on-charges-of-money-laundering-with-aggravating-circumstances-relating-to-the-mafia-AJ8e35HC"
+   "kicker": "ÜBERNAHMEN · ITALIEN",
+   "title": "Finnische Iceye bietet rund zwei Milliarden Euro für Avio",
+   "url": "https://en.ilsole24ore.com/art/finnish-aerospace-firm-iceye-launches-voluntary-takeover-bid-worth-2-billion-at-41-euros-per-share-AJsSH9IC"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · SICHERHEIT",
+   "title": "Anthropic verkürzt Fristen für die Offenlegung von Sicherheitslücken",
+   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "TRIBUTI LOCALI · IMU",
-   "title": "Saldo IMU entro il 16 dicembre: verificare le aliquote pubblicate",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/16/versamento-saldo-imu-2026.-la-verifica-delle-aliquote-applicabili"
+   "kicker": "FISCO · FORFETTARI",
+   "title": "Forfettari: rimborsi di viaggio, vitto e alloggio fuori dai compensi",
+   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/professionisti-forfetari-rimborsi-di-viaggio-vitto-e-alloggio-esclusi-dai-compensi/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "SANZIONI · RAVVEDIMENTO",
-   "title": "Cumulo giuridico nel ravvedimento: i codici per la sanzione unica",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/omessa-fatturazione-il-cumulo-giuridico-riduce-le-sanzioni-nel-ravvedimento/"
+   "kicker": "AGEVOLAZIONI · BONUS EDILIZI",
+   "title": "Cessioni dei crediti bloccate solo con un rischio concreto di frode",
+   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/18/cessione-dei-crediti-superbonus-il-blocco-antifrode-richiede-rischi-concreti/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "SCADENZE · IMPOSTA DI BOLLO",
-   "title": "Bollo sulle e-fatture del terzo trimestre entro il 30 novembre",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/16/imposta-di-bollo-f.e.-3-trimestre.-scadenza-al-3011-con-eventuale-cumulo"
+   "kicker": "CONTENZIOSO · COMPENSAZIONI",
+   "title": "Crediti inesistenti: il visto di conformità non protegge l'amministratore",
+   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/18/crediti-inesistenti-in-compensazione-il-visto-non-esonera-lamministratore/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "BILANCIO · PRINCIPI OIC",
-   "title": "OIC 10 in revisione: rendiconto finanziario dal risultato ante imposte",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/controllo/la-bozza-di-revisione-delloic-10-un-passo-avanti-o-unoccasione-mancata/"
+   "kicker": "IMPRESA INDIVIDUALE · ESTROMISSIONE",
+   "title": "Estromissione agevolata dei beni d'impresa entro il 31 maggio 2027",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130597_estromissione_agevolata_entro_il_31_maggio_2027.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · RIMBORSI",
-   "title": "Rimborso IVA negato per lavori su aree di proprietà altrui",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/rimborso-iva-per-beni-di-proprieta-altrui-solo-se-strumentali-allattivita-svolta/"
+   "kicker": "FISCO · CONFERIMENTI",
+   "title": "Realizzo controllato anche senza aumento di capitale",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131838_realizzo_controllato_senza_aumento_di_capitale_anche_per_partecipazioni.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · FRODE IVA",
-   "title": "Il solo processo verbale non basta a provare la frode IVA",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130523_il_processo_verbale_di_constatazione_da_solo_non_prova_la_frode.aspx"
+   "kicker": "IVA · UNIONE EUROPEA",
+   "title": "Frodi IVA: proroga del reverse charge facoltativo fino al 2030",
+   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/18/frodi-iva-ue-in-vista-la-proroga-del-reverse-charge-fino-al-2030/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REGISTRO · PRIMA CASA",
-   "title": "Prima casa: tutti i termini dell'agevolazione portati a due anni",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130385_armonizzati_i_termini_per_l_agevolazione_prima_casa.aspx"
+   "kicker": "REDDITI · FOTOVOLTAICO",
+   "title": "Fotovoltaico: quando la vendita di energia diventa attività commerciale",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/bilancio/fotovoltaico-il-confine-sottile-tra-autoconsumo-e-attivita-commerciale/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "KONJUNKTUR · ITALIEN",
-   "title": "OECD: Reale Haushaltseinkommen in Italien sinken um ein Prozent",
-   "url": "https://en.ilsole24ore.com/art/oecd-real-household-income-up-01-per-cent-in-the-second-quarter-in-italia-up-1-per-cent-due-to-inflation-AJKNEBIC"
+   "kicker": "ARBEITSMARKT · ITALIEN",
+   "title": "CGIL ruft für Freitag zum Generalstreik gegen den Haushalt auf",
+   "url": "https://en.ilsole24ore.com/art/cgil-general-strike-on-20-november-whos-striking-and-who-isnt-essential-services-and-demonstrations-across-italia-AJ4y6VJC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "GEMEINDEN · ITALIEN",
-   "title": "Ortstaxe bringt Italiens Gemeinden 2026 voraussichtlich 1,3 Milliarden",
-   "url": "https://en.ilsole24ore.com/art/tourist-tax-hits-a-record-13-billion-in-2026-AJ6nDHIC"
+   "kicker": "ENERGIE · ITALIEN",
+   "title": "Strom ist in Italien tagsüber immer öfter billiger als nachts",
+   "url": "https://en.ilsole24ore.com/art/utility-bills-heres-why-doing-the-washing-a-day-earlier-saves-money-AJgmkpJC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · DEUTSCHLAND",
-   "title": "Tesla investiert drei Milliarden Euro in Grünheide",
-   "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-us-autobauer-investiert-drei-milliarden-euro-in-gruenheide/100270267.html"
+   "kicker": "CHEMIE · DEUTSCHLAND",
+   "title": "BASF bereitet neuen Übernahmeversuch für Evonik vor",
+   "url": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-bereitet-neues-uebernahmeangebot-fuer-evonik-vor/100270678.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · DEUTSCHLAND",
-   "title": "Rechnungshof: 17 Milliarden Euro jährlich bei Subventionen einsparbar",
-   "url": "https://www.wiwo.de/politik/deutschland/haushalt-rechnungshof-raet-zu-milliarden-einsparungen-bei-subventionen/100270102.html"
+   "kicker": "GELDPOLITIK · EU",
+   "title": "Brunnermeier soll neuer Chefvolkswirt der EZB werden",
+   "url": "https://www.wiwo.de/politik/europa/neuer-ezb-chefvolkswirt-warum-markus-brunnermeier-nominiert-wird/100270485.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · AGENTEN",
+   "title": "Leitfaden: So entstehen ständig aktive KI-Agenten",
+   "url": "https://claude.com/resources/articles/building-always-on-agents"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "REGULIERUNG · CHIPS",
+   "title": "USA verschärfen Exportregeln für KI-Chips vor Treffen mit Xi",
+   "url": "https://www.handelsblatt.com/politik/international/ki-usa-verschaerfen-kurz-vor-trump-xi-treffen-exportregeln-fuer-chips/100270390.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "RECHT · HAFTUNG",
+   "title": "Kalifornien verklagt OpenAI wegen außer Kontrolle geratener Agenten",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · CYBERANGRIFFE",
+   "title": "FBI warnt vor KI-Hackingwerkzeug Artex",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+  },
+  {
+   "block": "Box",
+   "kicker": "USECASE DER WOCHE · FINANCE",
+   "title": "Telekomkonzern: KI-Agenten verkürzen den Forecast-Zyklus deutlich",
+   "url": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business"
   }
  ]
 }
