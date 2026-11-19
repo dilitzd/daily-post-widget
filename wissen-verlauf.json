@@ -518,5 +518,50 @@
     "datum": "2026-11-18",
     "typ": "bau",
     "wert": "Burg Himeji"
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "artikel",
+    "wert": "https://nationalgeographic.de/wissenschaft/2026/11/schreckenswoelfe-und-riesenfaultiere-was-eine-teergrube-in-peru-ueber-die-eiszeit-verraet/"
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "ort",
+    "wert": "Salar de Uyuni"
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "fakt",
+    "wert": "Bevölkerung: 2025 lebten 6,3 Prozent der EU-Bevölkerung in erheblicher materieller und sozialer Entbehrung."
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Italiens Quote offener Stellen lag im 3. Quartal 2026 bei 1,6 Prozent."
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "fakt",
+    "wert": "Klima: Die Methankonzentration lag 2025 bei 1948 ppb, 167 Prozent über dem Wert von 1750."
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "wiki",
+    "wert": "Iwan der Schreckliche und sein Sohn"
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/1280px-008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "bildkat",
+    "wert": "Tiere"
+  },
+  {
+    "datum": "2026-11-19",
+    "typ": "bau",
+    "wert": "Casa Batlló"
   }
 ]
