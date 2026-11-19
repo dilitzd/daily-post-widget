@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:04:56+01:00",
+  "updated": "2026-11-19T18:50:09+01:00",
   "zitat": {
     "text": "Man muss lernen, inmitten der Geschäftigkeit still zu sein und in der Ruhe voller Leben.",
     "original": "You must learn to be still in the midst of activity and to be vibrantly alive in repose.",
@@ -93,305 +93,297 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Trump, Xi und Putin vor erstem Dreiergipfel",
-          "satz": "Beim APEC-Gipfel in Shenzhen trafen sich Trump und Putin erstmals seit über einem Jahr persönlich.",
-          "text": "Xi empfing Trump am Flughafen mit einer Umarmung, Putin und Trump gaben sich die Hand. Für Donnerstag ist das erste gemeinsame Treffen der drei geplant, Themen sollen Iran-Krieg und Atomabrüstung sein. Die EU und Selenskyj sind nicht dabei, Analysten erwarten keinen Durchbruch.",
+          "titel": "Xi, Trump e Putin a confronto a Shenzhen",
+          "satz": "A margine dell'APEC il leader cinese propone quattro principi per i rapporti tra le grandi potenze.",
+          "text": "Xi Jinping, Donald Trump e Vladimir Putin si sono incontrati a Shenzhen, a margine del vertice APEC. Xi ha chiesto rispetto reciproco, dialogo e l'eliminazione totale delle armi nucleari, avvertendo Washington su Taiwan. Trump ha detto che Stati Uniti e Cina vogliono contribuire a chiudere la guerra in Ucraina.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/the-meeting-between-xi-and-trump-has-begun-in-shenzhen-AJvZTZLC",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "Ucraina, Meloni a Berlino con i Volenterosi",
+          "satz": "L'Italia esclude l'invio di truppe e chiede un'agenda europea comune per i negoziati.",
+          "text": "La premier Meloni ha partecipato a Berlino all'incontro della Coalizione dei Volenterosi, vedendo brevemente Zelensky e l'inviato americano Kushner. A differenza di Londra, Parigi e Berlino, Roma non manderà soldati in Ucraina dopo la guerra. L'obiettivo italiano è definire il ruolo dell'Europa nelle trattative di pace.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/ukraine-meloni-berlin-willing-italian-conditions-no-troops-territory-now-a-shared-european-agenda-AJdw5aLC",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "UN-Gericht: Myanmar verübte Völkermord an Rohingya",
+          "satz": "Erstmals macht der Internationale Gerichtshof einen Staat direkt für einen Genozid verantwortlich.",
+          "text": "Der Internationale Gerichtshof in Den Haag hat Myanmar mit neun zu sechs Stimmen des Völkermords an den Rohingya schuldig gesprochen. Mindestens 10.000 Menschen wurden getötet, über 740.000 flohen nach Bangladesch. Myanmar soll Entschädigung zahlen, doch das Gericht kann das nicht durchsetzen; das Urteil gilt als Signal für das Verfahren gegen Israel.",
+          "quelle": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/urteil-des-un-gerichts-un-gericht-macht-myanmar-fuer-rohingya-genozid-verantwortlich/100271260.html",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "Hormus: Iran meldet erneut brennende Öltanker",
+          "satz": "Laut Revolutionsgarden liefen drei weitere Tanker östlich der Meerenge auf Minen.",
+          "text": "Irans Revolutionsgarden berichten von drei weiteren Öltankern, die östlich der Straße von Hormus Minen trafen und in Brand gerieten. Unabhängig bestätigt ist das nicht, Opfer wurden nicht gemeldet. Teheran verlangt, dass jede Durchfahrt mit ihm abgestimmt wird, während auch die USA die Kontrolle über die Meerenge beanspruchen.",
           "quelle": "ORF",
-          "url": "https://orf.at/stories/3448567/",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Iran minaccia gli Usa dopo la terza portaerei",
-          "satz": "La USS Theodore Roosevelt si è aggiunta alle altre portaerei americane nella regione del Golfo.",
-          "text": "Teheran avverte di una risposta «devastante» a qualsiasi passo falso di Washington. L'esercito iraniano rivendica attacchi con droni contro la base Usa di Ali al-Salem in Kuwait, mentre il Bahrein dice di aver sventato raid aerei. La tensione nel Golfo resta altissima.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/war-latest-news-iran-drone-attack-us-base-kuwait-AJiP8NKC",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Ue, 45 miliardi di prestito all'Ucraina",
-          "satz": "La Commissione propone 25 miliardi per aiuti militari e 20 miliardi per il bilancio di Kiev nel 2027.",
-          "text": "Il piano richiede l'unanimità dei 27 Stati membri e sarà discusso al vertice Ue di fine novembre. Bruxelles accusa inoltre Mosca di usare sistematicamente agenti antisommossa come armi chimiche. Intanto un attacco russo con droni a Odessa ha causato tre morti.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/ukraine-russian-raid-on-odessa-crimean-bridge-hit-without-the-use-of-starlink-AJaWQaKC",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Demokraten erobern auch Senatssitz in Alaska",
-          "satz": "Mary Peltola schlug den von Trump unterstützten Amtsinhaber Dan Sullivan und bringt ihre Partei auf 56 Sitze.",
-          "text": "Damit setzt sich die demokratische Welle der Kongresswahlen selbst im konservativen Alaska fort. Im Repräsentantenhaus bereiten die Demokraten bereits Untersuchungen gegen 13 Personen aus Trumps Umfeld vor, darunter Vizepräsident Vance. Ein Amtsenthebungsverfahren gilt vorerst als unwahrscheinlich.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/media-con-mary-peltola-i-dem-vincono-anche-in-alaska_dda72782-aa77-4765-ae43-56acdbee572d.html",
+          "url": "https://orf.at/stories/3448611/",
           "datum": "2026-11-18"
         }
       ],
-      "hinweis": "Il Sole 24 Ore: Rubrikseiten (EN sez/mondo, IT sez/mondo) verlangten Freigabe; Artikel der englischen Ausgabe per WebSearch gefunden und lesbar, italienische Ausgabe lieferte Fehler. Spiegel, NZZ, SZ, Economist gesperrt (Freigabe verlangt). Ersatz: ORF, ANSA."
+      "hinweis": "Il Sole 24 Ore (Rubrikseite Mondo) sowie die Rubrikseiten von tagesschau und ORF verlangten eine Freigabe; Artikel per Suche gefunden. tagesschau, Reuters und Deutschlandfunk über die Suche nicht erreichbar. Ersatz: Handelsblatt, ORF."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Anthropic, Ipo record a 83 dollari",
-          "satz": "Il prezzo supera la forchetta iniziale e valuta la società di IA circa 1.500 miliardi di dollari.",
-          "text": "Con il collocamento privato la raccolta tocca 107 miliardi, oltre il record di SpaceX. Il debutto al Nasdaq con il ticker ANT è atteso giovedì 19 novembre, con domanda circa sette volte l'offerta. Restano però impegni di spesa fino a 900 miliardi nei prossimi anni.",
+          "titel": "Anthropic debutta al Nasdaq con raccolta record",
+          "satz": "Con 107,3 miliardi di dollari raccolti supera la quotazione di SpaceX.",
+          "text": "Anthropic è entrata in Borsa al Nasdaq con il simbolo ANT e un prezzo di collocamento di 83 dollari. Prima dell'apertura i derivati indicavano un premio tra il 20 e il 26 per cento. Il mercato guarderà ora ai primi conti trimestrali e ai quasi 901 miliardi di impegni di spesa per calcolo e chip.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/anthropic-expects-the-ipo-price-to-reach-up-to-644-billion-AJzbl6KC",
-          "datum": "2026-11-18"
+          "url": "https://en.ilsole24ore.com/art/anthropic-makes-its-nasdaq-debut-with-indications-pointing-to-a-sharp-rise-straight-away-AJ3XSjLC",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Fed-Gouverneur Waller fordert kräftige Zinserhöhung",
-          "satz": "Er plädiert im Dezember für einen Schritt um einen halben Prozentpunkt statt der erwarteten Viertelpunkt-Anhebung.",
-          "text": "Waller fürchtet, dass sich Unternehmen an eine Inflation über drei Prozent gewöhnen und Kosten weitergeben. Der bevorzugte PCE-Preisindex lag im September bei 3,6 Prozent, weit über dem Ziel von zwei Prozent. Die Fed unter Kevin Warsh hatte im Oktober eine Zinspause eingelegt.",
+          "titel": "Bund gibt Widerstand gegen Commerzbank-Übernahme auf",
+          "satz": "Unicredit sagt Standortgarantien für Frankfurt und Rechte der Beschäftigten zu.",
+          "text": "Finanzminister Klingbeil hat eine Einigung mit Unicredit über die Übernahme der Commerzbank verkündet. Die Bank soll börsennotiert mit Sitz in Frankfurt bleiben, wichtige Entscheidungen fallen weiter in Deutschland. Unicredit hält knapp 50 Prozent und will im ersten Quartal 2027 eine außerordentliche Hauptversammlung beantragen.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-us-notenbanker-waller-dringt-auf-kraeftige-zinserhoehung/100271048.html",
-          "datum": "2026-11-18"
+          "url": "https://www.handelsblatt.com/politik/deutschland/finanzbranche-bund-einigt-sich-mit-unicredit-bei-commerzbank-uebernahme/100271172.html",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Piazza Affari cede, pesano banche e difesa",
-          "satz": "Il Ftse Mib chiude a -1,32% nonostante i conti record di Nvidia.",
-          "text": "Le banche soffrono per le indiscrezioni su un possibile aumento della riserva minima Bce dall'1 al 2%. Bper perde oltre il 3% e Leonardo oltre il 4%, mentre Ferrari e Technoprobe salgono. Lo spread Btp-Bund chiude a 106 punti base.",
+          "titel": "Saipem vola in Borsa dopo i conti",
+          "satz": "Il gruppo conferma le stime 2026 e prevede per il 2027 ricavi di circa 16,5 miliardi.",
+          "text": "Nei primi nove mesi Saipem ha aumentato i ricavi del 4 per cento a 11,5 miliardi di euro e gli ordini del 48 per cento. Per il 2027 punta a un margine operativo di circa 2 miliardi, sostenuto da un portafoglio ordini di 31 miliardi. La fusione con Subsea 7 dovrebbe chiudersi all'inizio del 2027.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/asian-stock-markets-weak-amid-tensions-focus-on-apec-summit-in-china-AJgeIOKC",
-          "datum": "2026-11-18"
+          "url": "https://en.ilsole24ore.com/art/saipem-shares-soar-as-the-market-celebrates-better-than-expected-results-AJHC6iLC",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "EZB warnt vor Korrektur des KI-Booms",
-          "satz": "Der Finanzstabilitätsbericht nennt zudem geopolitische Spannungen und Staatsschulden als erhöhte Risiken.",
-          "text": "Laut EZB könnten Bewertungen an den Märkten abrupt einbrechen, auch wegen der wachsenden Abhängigkeit von KI. Der Abstand zwischen französischen und deutschen Anleihen hat sich vor den Wahlen 2027 deutlich vergrößert. Kürzere Laufzeiten erhöhen zudem das Refinanzierungsrisiko der Staaten.",
+          "titel": "„GTA VI“ startet mit Rekord-Vorbestellungen",
+          "satz": "Analysten erwarten bis Jahresende Verkäufe von rund 3,2 Milliarden Dollar.",
+          "text": "Das Videospiel „Grand Theft Auto VI“ von Rockstar Games ist weltweit erschienen, mit fast 15 Millionen Vorbestellungen. Die Produktion kostete mindestens eine Milliarde Dollar, US-Internetanbieter erhöhten wegen des Andrangs vorübergehend die Bandbreite. Für den Mutterkonzern Take-Two ist es der erste Hauptteil der Reihe seit 13 Jahren.",
           "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/18/bce-rischi-elevati-da-ia-bilanci-pubblici-e-tensioni-geoeconomiche_9ea2ad1f-438f-4066-82ab-9755b9622136.html",
-          "datum": "2026-11-18"
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/debutto-mondiale-per-gioco-gta-vi-potrebbe-generare-32-miliardi-dollari-di-vendite_ce3c4705-aa36-4807-9e6c-19832c65af7f.html",
+          "datum": "2026-11-19"
         }
       ],
-      "hinweis": "Il Sole 24 Ore: Rubrikseiten (EN sez/economia, sez/finanza, IT sez/economia) verlangten Freigabe; Artikel der englischen Ausgabe per WebSearch gefunden. NZZ, SZ, Economist, WSJ gesperrt (Freigabe verlangt). Ersatz: Handelsblatt, ANSA."
+      "hinweis": "Il-Sole-Rubrikseiten Economia/Finanza und tagesschau Wirtschaft verlangten eine Freigabe; Artikel per Suche gefunden. tagesschau und Reuters über die Suche nicht erreichbar. Ersatz: Handelsblatt, ANSA. Il-Sole-Artikel zu Anthropic gibt den Stand vor Handelsbeginn wieder."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "Sentinel-6B wird neue Meeresspiegel-Referenz",
-          "satz": "Der Copernicus-Satellit hat die Kalibrierung mit seinem Vorgänger abgeschlossen und liefert reguläre Daten.",
-          "text": "Ab Januar 2027 dient Sentinel-6B als internationale Bezugsgröße für Höhenmessungen der Meere. Die Messreihe seit 1992 bleibt so vergleichbar; seither stieg der Meeresspiegel um mehr als 11,5 Zentimeter. Der Vorgänger wechselt dann auf eine versetzte Bahn und deckt zusätzliche Regionen ab.",
+          "titel": "Homo erectus überlebte in China viel länger",
+          "satz": "Neun Zähne aus zwei Höhlen in Guangxi sind 324.000 bis 184.000 Jahre alt.",
+          "text": "Zwei Studien in Nature datieren Fossilzähne aus Südchina deutlich jünger als bisherige Festlandfunde von rund 400.000 Jahren. Proteine im Zahnschmelz deuten auf eine bisher unbekannte Population hin, die im feuchten Regenwald lebte. Ob die Gruppe eine Ausnahme war und wie weit sie umherzog, sollen weitere Funde klären.",
           "quelle": "scinexx",
-          "url": "https://www.scinexx.de/news/geowissen/satellit-sentinel-6b-wird-zur-neuen-referenz-fuer-globale-meeresspiegelmessungen/",
-          "datum": "2026-11-18"
+          "url": "https://www.scinexx.de/news/archaeologie/evolution-homo-erectus-lebte-in-china-laenger-als-bisher-angenommen/",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Atlas zeigt, wie Umwelt Kinder prägt",
-          "satz": "Rauchen in der Schwangerschaft hängt mit höherem Kinder-BMI und späteren ADHS-Symptomen zusammen.",
-          "text": "Forschende aus Barcelona werteten Daten von knapp 590 Mutter-Kind-Paaren aus ganz Europa aus. Viel Fleisch in der Schwangerschaft ging mit mehr Allergien, Asthma und psychischen Problemen einher. Es sind nur Zusammenhänge, keine Belege für Ursachen; der Exposom-Atlas soll laufend erweitert werden.",
-          "quelle": "science.ORF",
-          "url": "https://science.orf.at/stories/3238240/",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Glasfaserkabel entlarvt Risse im Gletscher",
-          "satz": "ETH-Forschende maßen am Gornergletscher in einer Woche 1.355 Eisbeben bis 25 Meter Tiefe.",
-          "text": "Ein kilometerlanges Glasfaserkabel registrierte die Erschütterungen im Wallis. Laut Modell machen Risse und Hohlräume etwa acht Prozent des Eisvolumens aus, entstanden vor allem durch Aufreißen statt Schmelzen. Die Methode könnte gefährdete Gletscherfronten überwachen helfen; Tests in Grönland und der Antarktis sind geplant.",
+          "titel": "US-Rechenzentren stoßen so viel CO₂ aus wie Länder",
+          "satz": "403 Großanlagen verbrauchen laut Harvard-Studie rund 82 Terawattstunden Strom pro Jahr.",
+          "text": "Forschende schätzen in Nature Sustainability rund 25,7 Millionen Tonnen CO₂ jährlich, gut die Hälfte des Stroms stammt aus Gas und Kohle. Der Klimaeffekt hängt stark vom Standort und dessen Strommix ab. Als Nächstes wollen die Autoren die Gesundheitsfolgen der Luftschadstoffe untersuchen.",
           "quelle": "scinexx",
-          "url": "https://www.scinexx.de/news/geowissen/glasfaser-enthuellt-verborgene-risse-die-gletscher-von-innen-schwaechen/",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Drohnen lesen Walerbgut aus dem Atem",
-          "satz": "Proben aus Atemstößen ersetzen bei Buckelwalen belastende Biopsien.",
-          "text": "Drohnen mit Petrischalen sammelten vor British Columbia 58 Atemstöße von 26 Buckelwalen. 84 Prozent der DNA stammten von den Walen, das Geschlecht wurde korrekt bestimmt. Zudem fand das Team drei bisher unbekannte mitochondriale DNA-Varianten.",
-          "quelle": "science.ORF",
-          "url": "https://science.orf.at/stories/3238235/",
+          "url": "https://www.scinexx.de/news/energie/us-grossrechenzentren-fuer-ki-verursachen-so-hohe-co%E2%82%82-emissionen-wie-ganze-laender/",
           "datum": "2026-11-17"
+        },
+        {
+          "titel": "Kartoffeln gedeihen in künstlichem Mondstaub",
+          "satz": "Eine Mischung aus 30 Prozent Kompost und 70 Prozent Regolith brachte normale Erträge.",
+          "text": "Ein Team um Aymeric Goyer zog Kartoffeln im Gewächshaus in nachgebildetem Mondboden, wie npj Microgravity berichtet. Der Kompost liefert Stickstoff und bindet offenbar schädliches Kupfer. Offen sind Geschmack und Wirkung der schwachen Mondschwerkraft; erste Gewächshäuser auf dem Mond hält Goyer in den 2030ern für möglich.",
+          "quelle": "science.ORF",
+          "url": "https://science.orf.at/stories/3238241",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "Zahnseide-Gerät misst Gesundheitswerte",
+          "satz": "Der Prototyp aus Hongkong analysiert Flüssigkeit zwischen den Zähnen in Echtzeit.",
+          "text": "Das Gerät misst Harnsäure, Zucker, Wasserstoffperoxid und pH-Wert und könnte so Hinweise auf Gicht, Diabetes oder Entzündungen liefern. Bei einem Test mit zwölf Personen stimmten die Werte mit Bluttests überein, berichtet Science Advances. Wegen der kleinen Gruppe gilt das Ergebnis noch als vorläufig.",
+          "quelle": "science.ORF",
+          "url": "https://science.orf.at/stories/3238261/",
+          "datum": "2026-11-19"
         }
       ],
-      "hinweis": "NZZ, heise, Süddeutsche, Spiegel verlangten Freigabe; Rubrikseiten von science.ORF und tagesschau ebenfalls. Ersatz über Suche: scinexx, science.ORF."
+      "hinweis": "NZZ, heise, SZ und Spiegel gesperrt; Rubrikseiten von science.ORF, scinexx und tagesschau verlangten eine Freigabe, Artikel über Suche gefunden. Verwendet: scinexx, science.ORF."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Nvidia mit Rekordquartal, Huang bleibt draußen",
-          "satz": "Der Aufsichtsrat schließt eine Rückkehr von Jensen Huang als Konzernchef aus.",
-          "text": "Nvidia setzte im Quartal 115,8 Milliarden Dollar um, ein Plus von 103 Prozent, und verdiente 65,3 Milliarden. Treiber ist das Rechenzentrumsgeschäft mit KI-Chips. Interimschefin ist Finanzchefin Colette Kress; für das nächste Quartal erwartet Nvidia rund 130 Milliarden Dollar Umsatz.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/wirtschaft/nach-skandal-nvidia-uebertrifft-erwartungen-und-schliesst-huang-rueckkehr-aus.100376/",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "GTA 6 erhält Traumwertungen",
-          "satz": "Bei Metacritic kommt das Rockstar-Spiel aus 123 Tests auf 99 von 100 Punkten.",
-          "text": "Die ersten Tests loben offene Welt, Detailtiefe, Geschichte und Missionen. Auf PS5 und PS5 Pro läuft das Spiel mit höchstens 30 Bildern pro Sekunde und braucht eine neue Firmware. Eine PC-Version gibt es noch nicht.",
-          "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/gaming/wie-gut-ist-gta-6-nicht-gut-sondern-das-beste-spiel-aller-zeiten.100385/",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Siri AI bekommt Tageslimits",
-          "satz": "Mit iOS 27.3 gelten für anspruchsvolle KI-Anfragen Obergrenzen, iCloud+ hebt sie an.",
-          "text": "Ist das Limit erreicht, funktionieren komplexe Anfragen nicht mehr, einfache schon. Laut einem Leak zählen etwa Zusammenfassungen, Aufgaben über mehrere Apps und mehrstufige Recherchen dazu. In Großbritannien und einigen anderen Ländern bringt iCloud+ keine höheren Limits.",
-          "quelle": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/18/ios-27-3-adds-siri-ai-usage-limits-heres-what-counts-toward-your-limit/",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Jubiläums-iPhone in zwei Designs geplant",
-          "satz": "Apple soll vier Modelle für 2027 entwickeln, zwei davon mit rundum gebogenem Glas.",
-          "text": "Die gebogenen Varianten sollen nur rund einen Millimeter Rand haben und fast randlos wirken. Laut einem Leaker ist das Design noch nicht festgelegt; ein Bloomberg-Bericht stützt die Richtung. Das Jubiläums-iPhone wird für Herbst 2027 erwartet.",
+          "titel": "Apples Klage gegen britische Hintertür wird öffentlich",
+          "satz": "Das Investigatory Powers Tribunal wies den Geheimhaltungswunsch des Innenministeriums zurück.",
+          "text": "Die Regierung muss nun bestätigen, dass sie Apple zum Zugriff auf verschlüsselte Daten verpflichten wollte. Seit Februar 2025 bietet Apple britischen Neukunden keinen erweiterten iCloud-Datenschutz mehr an. Über die Rechtmäßigkeit ist noch nicht entschieden, eine weitere Anhörung folgt im Dezember.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
-          "datum": "2026-11-18"
+          "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "Apple muss in Frankreich wegen Reparaturhürden vor Gericht",
+          "satz": "Verbraucherschützer werfen Apple vor, freie iPhone-Reparaturen durch Teile-Kopplung behindert zu haben.",
+          "text": "Die Gruppe HOP kündigte den Prozess für Juni 2027 an, es geht um 24 iPhone-Modelle von 2021 bis 2024. Apple weist die Vorwürfe zurück und verweist auf gelockerte Beschränkungen. Eine Terminanhörung ist für den 25. Februar 2027 angesetzt.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "Apple stellt OLED-iMac womöglich zurück",
+          "satz": "Hohe Panelkosten und schwache Nachfrage nach OLED-Geräten bremsen laut Bericht die Pläne.",
+          "text": "Laut The Elec verhandelt Apple mit Samsung Display über eine Verschiebung oder das Aus des OLED-iMac. Schon das OLED-iPad-Pro verkaufte sich schwächer als erhofft. Apple hat zudem Angebote für ein LCD-Panel für einen iMac um 2029 eingeholt.",
+          "quelle": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "BSI: Sicherheitslücken werden immer schneller ausgenutzt",
+          "satz": "Im zweiten Quartal 2026 vergingen bis zum ersten Angriff im Schnitt nur acht Tage.",
+          "text": "Laut BSI-Lagebericht sank die Frist zwischen Bekanntwerden einer Lücke und Ausnutzung von 53 auf 25 Tage, beschleunigt durch moderne Angriffswerkzeuge. Die Lage gilt als angespannt bis kritisch, vor allem Mittelstand und Kommunen sind betroffen. Das Amt rät zu schnellen Updates und Zwei-Faktor-Anmeldung.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/apps/bsi-lagebild-8-tage-von-veroeffentlichung-der-sicherheitsluecke-bis-zum-exploit.100405/",
+          "datum": "2026-11-19"
         }
       ],
-      "hinweis": "Hauptquelle MacRumors nur über Suche erreichbar; heise und CHIP verlangten Freigabe. Ersatz: ComputerBase, 9to5Mac."
+      "hinweis": "Startseite von MacRumors verlangte eine Freigabe, Artikel über Suche geöffnet. Ergänzt durch 9to5Mac und ComputerBase."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Anthropic legt Börsenpreis auf 83 Dollar fest",
-          "satz": "Die Aktie wird ab 19. November an der Nasdaq unter dem Kürzel ANT gehandelt.",
-          "text": "Angeboten werden 980 Millionen Aktien, fast alle von Anthropic selbst; der Preis liegt über der zuvor genannten Spanne von 70 bis 78 Dollar. Die SEC erklärte die Registrierung am 18. November für wirksam. Der Abschluss der Emission ist für den 20. November geplant.",
+          "titel": "Anthropic verkürzt Fristen für Sicherheitslücken",
+          "satz": "Schwere Lücken werden künftig nach 30 statt 90 Tagen veröffentlicht, die Regel gilt ab 2027.",
+          "text": "Anthropic verkürzt seine Offenlegungsfristen für gemeldete Sicherheitslücken deutlich, für andere Fälle auf 45 Tage. Begründung: KI-Modelle finden Fehler inzwischen viel schneller und entdecken dieselben Lücken häufiger unabhängig voneinander. Aktiv ausgenutzte Lücken behalten die Sieben-Tage-Frist, Maintainer erhalten Hilfe etwa über einen kostenlosen Open-Source-Scanner.",
           "quelle": "Anthropic",
-          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-          "datum": "2026-11-18"
+          "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+          "datum": "2026-11-16"
         },
         {
-          "titel": "OpenAI bringt GPT-6.2 Astra und Sol",
-          "satz": "Astra zielt auf Wissenschaft, Recht und Finanzen, Sol auf schnelle Alltagsaufgaben.",
-          "text": "Astra kostet in der API 20 Prozent weniger als der Vorgänger und liegt im Intelligence Index knapp hinter Claude Fable 5.2. OpenAI stuft Astra erstmals beim Risiko KI-Selbstverbesserung als hoch ein. Beide Modelle erreichen die kritische Cyber-Schwelle und bekommen strengere Schutzmechanismen.",
+          "titel": "Google bringt Gemini 4 Neon",
+          "satz": "Das Modell ist fast doppelt so schnell wie Gemini 4 Carbon und kostet 3 Dollar pro Million Eingabe-Token.",
+          "text": "Google DeepMind hat mit Gemini 4 Neon sein viertes Modell in sieben Wochen veröffentlicht. Im Index von Artificial Analysis landet es auf Platz drei hinter GPT-6.2 Astra und Claude Fable 5.2, beim Programmieren ist es aber deutlich günstiger. Verfügbar ist es über AI Studio und Gemini Enterprise.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/openai-bringt-gpt-6-2-astra-und-sol-mehr-leistung-bei-sinkenden-preisen/",
-          "datum": "2026-11-17"
+          "url": "https://the-decoder.de/gemini-4-neon-google-setzt-im-ki-wettlauf-auf-tempo-und-preiskampf/",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Microsoft stellt sieben eigene KI-Modelle vor",
-          "satz": "Die MAI-Modelle sollen vor allem deutlich günstiger sein als OpenAI- und Anthropic-Angebote.",
-          "text": "Auf der Ignite-Konferenz zeigte Microsoft unter anderem MAI Code 2 für GitHub Copilot sowie Modelle für Sicherheit, Bilder und Sprache. Hintergrund sind stark steigende Kosten durch rund um die Uhr laufende KI-Agenten. Die Partnerschaft mit OpenAI hatte Microsoft im April neu geordnet.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/microsoft-bringt-sieben-eigene-ki-modelle-die-vor-allem-guenstiger-sein-sollen-als-gpt-6/",
+          "titel": "Schadsoftware in Microsofts KI-Agenten-Framework",
+          "satz": "Die Versionen 1.26.1 und 1.26.2 enthielten laut Ox Security einen Datendieb für Zugangsdaten.",
+          "text": "Angreifer haben Microsofts Agent Framework zum Bau von KI-Agenten mit Schadsoftware verseucht, die Logins für Azure, Git, Docker und Hugging Face stiehlt. Das Paket wird monatlich rund 200.000-mal heruntergeladen. Microsoft untersucht den Fall; Betroffene sollen Systeme isolieren und alle Zugangsdaten erneuern.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/microsoft-ki-framework-malware-infiziert-1774234/",
+          "datum": "2026-11-19"
+        },
+        {
+          "titel": "Hastige Patches nach KI-Funden als Ausfallursache?",
+          "satz": "Outlook, Großbanken und die US-Flugsicherung waren betroffen, über 20.000 Flüge fielen aus.",
+          "text": "Nach schweren IT-Ausfällen in den USA wurde Kongressabgeordneten laut einem Bericht gesagt, eilige Updates für von KI entdeckte Lücken seien schuld. Offiziell bestätigt ist das nicht, Microsoft nennt einen Softwarefehler. Der Heimatschutzminister rechnet mit weiteren solchen Vorfällen, wenn neue Technik auf alte Systeme trifft.",
+          "quelle": "t3n",
+          "url": "https://t3n.de/news/weitreichende-systemausfaelle-warum-ki-nur-indirekt-das-problem-sein-koennte-1774154/",
           "datum": "2026-11-18"
-        },
-        {
-          "titel": "Claude löst zwei offene Probleme der Physik",
-          "satz": "Es geht um Schwarze Löcher und Quantengravitation; Ergebnisse wurden in Lean formal verifiziert.",
-          "text": "Claude schloss eine 2003 begonnene Berechnung zum Hawking-Page-Übergang ab: Er verläuft abrupt. Zudem bestimmte das Modell eine optimale Obergrenze für die Masse des leichtesten Schwarzen Lochs in 3D-Gravitation. Ein Physiker prüfte die zentralen Ergebnisse von Hand.",
-          "quelle": "Anthropic",
-          "url": "https://anthropic.com/research/claude-black-hole-physics",
-          "datum": "2026-11-17"
         }
       ],
-      "hinweis": "Anthropic-Seiten nur über Suche erreichbar; heise verlangte Freigabe. Ergänzend: The Decoder."
+      "hinweis": "anthropic.com/news-Rubrikseite verlangte eine Freigabe (nicht beantwortet); Anthropic-Meldung über die Research-Seite gefunden. Ergänzt mit The Decoder und t3n."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "BBT-Baustelle: Gewerkschaft fordert mehr Sicherheit",
-          "satz": "Nach vier tödlichen Arbeitsunfällen in zwei Jahren berichten Arbeiter von Zeitdruck und mangelhafter Ausrüstung.",
-          "text": "Arbeiter auf der Nordtiroler Seite des Brennerbasistunnels klagen über schlechte Belüftung, marode Fahrzeuge und überlastete Kräne. Die Baugewerkschaft GBH/FILLEA fordert unabhängige Kontrollen und Schichten von höchstens acht Stunden. BBT SE weist die Vorwürfe zurück, will den Berichten aber nachgehen.",
+          "titel": "Brixner Stadträtin wehrt sich gegen Ausgrenzung",
+          "satz": "Anlass ist eine geplante Unterschriftensammlung der „Jungen Aktion“ am Samstag auf dem Brixner Domplatz.",
+          "text": "Integrationsstadträtin Sara Dejakum (SVP) stellt sich mit einem offenen Brief gegen die rechte Petition „Save Europe Act“. Ohne ausländische Arbeitskräfte hätten Pflege, Spitäler, Landwirtschaft und Betriebe große Probleme, schreibt sie. Laut Bericht hat die EU-Kommission die Initiative für unzulässig erklärt, in Meran kamen nur zwei Unterschriften zusammen.",
           "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/18112026/kritik-sicherheit-wird-lauter",
-          "datum": "2026-11-18"
+          "url": "https://salto.bz/de/article/20112026/offener-brief-gegen-ausgrenzung",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "„Plan de Corones“ kehrt ins Kronplatz-Logo zurück",
-          "satz": "Der Lenkungsausschuss der Marke Kronplatz machte die umstrittene Streichung des ladinischen Namens einstimmig rückgängig.",
-          "text": "Die Entfernung des ladinischen Namens aus dem Logo hatte heftige Proteste ausgelöst. In Bruneck beschlossen Tourismusvereine und Skirama nun die Rückkehr sowie eine Arbeitsgruppe für mehr Sichtbarkeit der ladinischen Kultur. Bildungsdirektor André Comploi sieht darin ein positives Beispiel für Minderheitensprachen im Tourismus.",
+          "titel": "Hunde-DNA: Halter sollen mehr Geld zurückbekommen",
+          "satz": "Ein Änderungsantrag sieht 1,8 Millionen Euro für rund 12.000 Hundehalter vor.",
+          "text": "Die 2020 eingeführte Pflicht zum genetischen Profil für Südtirols rund 40.000 Hunde wird abgeschafft. Statt pauschal 65 Euro sollen Halter mit Tierarztbeleg bis zu 150 Euro je Hund erstattet bekommen. Die Landesregierung berät am 20. November darüber, Anträge wären von März bis Dezember 2027 möglich.",
           "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/18112026/der-corones-rueckwaertsgang",
-          "datum": "2026-11-18"
+          "url": "https://salto.bz/de/article/19112026/dna-dei-cani-rimborso-di-18-milioni",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Einbrecherbande nach Verfolgungsjagd bei Brixen gefasst",
-          "satz": "Zwei Albaner wurden festgenommen, ein dritter Verdächtiger flüchtete bei Vahrn in den Wald.",
-          "text": "Die Bande soll mit einem gestohlenen Audi RS5 drei Wohnungen im Raum Brixen ausgeraubt haben. Im Auto fanden Ermittler eine geladene Pistole, eine Motorsäge, Funkgeräte, Schmuck und Bargeld. Nach dem dritten Mann wird trotz Hubschraubersuche weiter gefahndet.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/18/500-ps-pistole-und-motorsaege-einbrecherbande-bei-brixen-gestellt/",
-          "datum": "2026-11-18"
+          "titel": "Erster echter Wintereinbruch in Südtirol",
+          "satz": "Die Schneefallgrenze lag zwischen 1.000 und 1.400 Metern, am Brenner fiel ebenfalls Schnee.",
+          "text": "In vielen Orten Südtirols hat es geschneit, am stärksten in Gröden, im Gadertal und im Hochpustertal. Größere Verkehrsprobleme gab es nicht, die Straßendienste rieten aber dringend zu Winterausrüstung. Nach zwei trockenen Tagen wird für Sonntag neuer Schneefall erwartet.",
+          "quelle": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/nevica-in-alto-adige-in-molte-localita-anche-al-brennero_bd266ff2-6d90-47e8-8908-6719ddfa9d53.html",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Wanderleiter dürfen künftig auch im Schnee führen",
-          "satz": "Grundlage sind ein Staatsgesetz und neue Ausbildungskriterien, die die Landesregierung am 6. November genehmigte.",
-          "text": "Südtiroler Wanderleiter dürfen künftig Winter- und Schneeschuhwanderungen begleiten, Skitouren bleiben Bergführern vorbehalten. Ab 2027 gibt es eine kombinierte Ausbildung mit eigener Winterprüfung, bestehende Wanderleiter brauchen eine Weiterbildung. Lawinenausrüstung und erweiterte Haftpflichtversicherung werden Pflicht.",
+          "titel": "Mehr Heimplätze für Minderjährige in Südtirol",
+          "satz": "Laut ASTAT stieg die Kapazität 2025 auf 305 Plätze, 18 mehr als im Vorjahr.",
+          "text": "2025 wurden drei neue soziale Einrichtungen für Minderjährige eröffnet. Ende des Jahres lebten dort 249 junge Menschen, meist wegen Erziehungsschwierigkeiten der Eltern. Fast die Hälfte blieb weniger als ein Jahr; ASTAT veröffentlichte die Zahlen vor dem Tag der Kinderrechte am 20. November.",
           "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/wirtschaft/suedtiroler-wanderleiter-duerfen-kuenftig-auf-schnee-begleiten",
-          "datum": "2026-11-18"
+          "url": "https://www.suedtirolnews.it/wirtschaft/soziale-einrichtungen-fuer-minderjaehrige-aufgestockt",
+          "datum": "2026-11-19"
         }
       ],
-      "hinweis": "salto.bz verlangte Freigabe, Artikel per Suche gefunden. Ersatz: UnserTirol24, Südtirol News."
+      "hinweis": "salto.bz-Startseite und die www/it-Artikeladressen verlangten eine Freigabe; Artikel über WebSearch und Politik-Rubrik gefunden und geöffnet. Ergänzt mit ANSA und Südtirol News."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Musiala vor Comeback, Bayern-Bosse äußern Zweifel",
-          "satz": "Musiala soll laut CEO Dreesen voraussichtlich am Freitag gegen den 1. FC Köln wieder spielen.",
-          "text": "Uli Hoeneß bezweifelt, dass Jamal Musiala sein altes Niveau wieder erreicht, und stellte dessen hoch dotierten Vertrag infrage. Dreesen stellte sich hinter Hoeneß: Gelingt Musiala die Rückkehr nicht, will der Klub mit Familie und Management sprechen. Zugleich zeigte er sich zuversichtlich, Musiala werde aber Zeit brauchen.",
+          "titel": "Kompany kehrt gegen Köln auf Bayern-Bank zurück",
+          "satz": "Laut Vorstandschef Dreesen soll am Freitag auch Jamal Musiala wieder spielen.",
+          "text": "Nach seiner Hirnhautentzündung steht Vincent Kompany am Freitag beim Heimspiel gegen den 1. FC Köln wieder an der Seitenlinie. Beim Training war er bereits am Montag dabei. Weiter fehlen Neuer, Díaz und Saibari, zudem verletzte sich Alphonso Davies bei Kanada erneut am Muskel.",
+          "quelle": "Sportschau",
+          "url": "https://www.sportschau.de/regional/br/br-fc-bayern-nach-der-pause-kompany-zurueck-in-training-und-pk-102.html",
+          "datum": "2026-11-18"
+        },
+        {
+          "titel": "Alcaraz besiegt Medwedew und steht im Halbfinale",
+          "satz": "Der Spanier gewann in Turin glatt mit 6:2, 6:4 – sein elfter Sieg in Serie.",
+          "text": "Carlos Alcaraz hat bei den ATP Finals auch sein zweites Gruppenspiel gewonnen und das Halbfinale vorzeitig erreicht. Gegen Daniil Medwedew ließ er kaum etwas zu. Leichte Sorgen bereiten Probleme am linken Oberschenkel, der Halbfinalgegner steht noch nicht fest.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/fc-bayern-dreesen-springt-uli-hoeness-im-fall-musiala-zur-seite",
+          "url": "https://www.sport1.de/news/tennis/atp/2026/11/medwedew-chancenlos-alcaraz-im-halbfinale",
           "datum": "2026-11-18"
         },
         {
-          "titel": "Tiafoe wirft Cobolli in Turin raus",
-          "satz": "Der US-Amerikaner gewann 7:6, 6:0 und wehrte im Tiebreak zwei Satzbälle ab.",
-          "text": "Mit dem Sieg bei den ATP Finals ist Italien im Einzel nicht mehr vertreten, nachdem auch Sinners Saison früh endete. Alcaraz steht nach einem 6:2, 6:4 gegen Medvedev bereits im Halbfinale. Am Freitag spielen Tiafoe und Medvedev um den zweiten Halbfinalplatz der Gruppe.",
-          "quelle": "tennisnet",
-          "url": "https://www.tennisnet.com/news/atp-finals-tiafoe-schmeisst-cobolli-raus-und-fixiert-endspiel-gegen-medvedev",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Krawietz und Pütz vorzeitig im Halbfinale",
-          "satz": "Das deutsche Doppel schlug French-Open-Sieger Granollers/Zeballos erstmals, mit 10:5 im Match-Tiebreak.",
-          "text": "Für Krawietz und Pütz ist es das zweite Halbfinale bei den ATP Finals in drei Teilnahmen. Turin ist ihr letztes gemeinsames Turnier, weil Pütz aus familiären Gründen kürzertritt. Gegen die bereits ausgeschiedenen Bolelli/Vavassori geht es noch um den Gruppensieg.",
-          "quelle": "tennisnet",
-          "url": "https://www.tennisnet.com/news/atp-finals-krawietz-und-puetz-ziehen-ins-halbfinale-ein",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Ski-Weltcup in Gurgl: Straßer peilt Top Ten an",
-          "satz": "Bundestrainer Schwaiger sieht Straßers Entwicklung nach Rang 13 zum Saisonstart in Levi sehr positiv.",
-          "text": "Am Wochenende macht der Slalom-Weltcup in Gurgl Station: Die Frauen fahren am Samstag, die Männer am Sonntag. Levi-Siegerin Emma Aicher will ihren zweiten Sieg und das dritte Podest in Serie. Neben Straßer starten Himmelsbach und Palamaras, bei den Frauen auch Dürr und Hilzinger.",
+          "titel": "Zverev spielt heute gegen Fils um Platz eins",
+          "satz": "Der Ausgang des letzten Gruppenspiels in Turin bestimmt Zverevs Halbfinalgegner.",
+          "text": "Alexander Zverev ist bei den ATP Finals bereits für das Halbfinale qualifiziert und trifft am Donnerstagabend im dritten Gruppenspiel auf Arthur Fils. Beginn ist gegen 20:30 Uhr. Für den Franzosen geht es nach einem Sieg und einer Niederlage noch um das Weiterkommen.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/wintersport/ski-alpin/2026/11/strasser-in-gurgl-unter-den-top-10-waere-ein-tolles-ergebnis",
-          "datum": "2026-11-18"
+          "url": "https://www.sport1.de/news/tennis/atp/2026/11/atp-finals-live-alexander-zverev-arthur-fils-heute-live-im-tv-stream",
+          "datum": "2026-11-19"
         }
       ],
-      "hinweis": "Sport1 verlangte Freigabe, Artikel per Suche gefunden. Ersatz: tennisnet."
+      "hinweis": "Sport1-Startseite verlangte eine Freigabe; Sport1-Artikel über Suche geöffnet. Ersatzquellen: Sportschau. Keine Ski-Meldung der letzten 24 Stunden gefunden, daher nur 3 Meldungen."
     },
     "steuern": {
       "titel": "Steuern",
       "items": [
         {
-          "titel": "Diesel-Steuerkredit: Anträge bis 30. November",
-          "satz": "Transportunternehmen erhalten bis zu 70 % der Diesel-Mehrkosten vom 1.9. bis 5.10.2026 als Steuerkredit.",
-          "text": "Nach Art. 1 Abs. 2 DL 193/2026 können Güter- und Busunternehmen mit Euro-V- oder Euro-VI-Fahrzeugen einen Steuerkredit beantragen. Anträge laufen vom 19. bis 30. November 2026 über die Plattform der Zollagentur (ADM) mit SPID oder CIE. Reichen die Mittel nicht, wird anteilig gekürzt; der Kredit erscheint danach im cassetto fiscale.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4815-credito-dimposta-autotrasporto-domande-dal-19-al-30-novembre-2026.html",
-          "datum": "2026-11-18"
-        },
-        {
-          "titel": "Realizzo controllato auch ohne Kapitalerhöhung",
-          "satz": "Das gilt laut Agentur auch für eingebrachte qualifizierte Beteiligungen, wenn die Beteiligungsverhältnisse unverändert bleiben.",
-          "text": "In der risposta a interpello n. 217 vom 16. November 2026 hält die Agenzia delle Entrate den realizzo controllato auch bei Einlagen von Beteiligungen ins Eigenkapital ohne Kapitalerhöhung für anwendbar. Das betrifft auch qualifizierte Beteiligungen. Voraussetzung ist, dass die Einbringungen die Beteiligungsstruktur nicht verändern.",
-          "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Art_1131838_realizzo_controllato_senza_aumento_di_capitale_anche_per_partecipazioni.aspx",
-          "datum": "2026-11-17"
-        },
-        {
-          "titel": "Prüfplan 2027–2029: Kataster und Kurzvermietung im Fokus",
-          "satz": "Im Visier stehen auch kurzlebige Partite IVA, Superbonus-Guthaben und nicht erklärte Krypto-Werte.",
-          "text": "Der Bericht zum Documento programmatico di finanza pubblica 2026 nennt die Prüfungsschwerpunkte der Finanzverwaltung für 2027 bis 2029. Geprüft werden etwa sanierte Immobilien mit veralteten Katasterwerten und Kurzzeitvermietungen per CIN-Abgleich. Neue oder reaktivierte Partite IVA werden stärker kontrolliert, Risikopositionen können von Amts wegen geschlossen werden.",
+          "titel": "Manovra 2027: Lagerdifferenzen zu rund 8 % bereinigen",
+          "satz": "Rund 7.000 Änderungsanträge liegen vor, auch Erleichterungen beim Superbonus sind geplant.",
+          "text": "Laut Berichterstatter Alberto Gusmeroli (Lega) sollen Unternehmen Abweichungen zwischen Buch- und Lagerbestand mit einem Satz von etwa 8 % bereinigen können. Wer den Sconto in fattura gewährt hat, soll von der zehnjährigen Verteilung der Superbonus-Guthaben ausgenommen werden. Für Forfettari ist 2027 eine einheitliche Grenze von 100.000 Euro geplant.",
           "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco-piano-controlli-2027-2029-stretta-su-catasto-affitti-brevi-e-partite-iva-apri-e-chiudi-i52oolo4",
-          "datum": "2026-11-18"
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/manovra-in-arrivo-aiuti-alle-imprese-differenze-di-magazzino-regolarizzabili-dnynjzn3",
+          "datum": "2026-11-19"
         },
         {
-          "titel": "Haushaltsentwurf: Tobin Tax soll erneut steigen",
-          "satz": "Die Sätze der Finanztransaktionssteuer würden 2027 laut Entwurf noch einmal verdoppelt.",
-          "text": "Der Entwurf des Haushaltsgesetzes 2027 (ddl di bilancio) sieht eine weitere Anhebung der Steuersätze auf Finanztransaktionen vor. Laut Eutekne würden die Sätze damit erneut verdoppelt, nachdem sie über zehn Jahre unverändert geblieben waren. Beschlossen ist die Maßnahme noch nicht, das Parlament berät den Entwurf derzeit.",
-          "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Art_1130452_salgono_ancora_le_aliquote_della_tobin_tax.aspx",
+          "titel": "Kraftstoff-Dekret 162/2026 ist nun Gesetz",
+          "satz": "Das Umwandlungsgesetz Nr. 209 vom 13. November steht im Amtsblatt Nr. 267.",
+          "text": "Das Gesetzesdekret vom 17. September 2026 (decreto-legge n. 162) mit Hilfen gegen gestiegene Kraftstoffkosten wurde endgültig in Gesetz umgewandelt. Laut Amtsblatt betrifft es Kraftstoffpreise, die Kfz-Steuer (bollo auto) und weitere steuerliche Regeln. Die Veröffentlichung erfolgte am 16. November in der Gazzetta Ufficiale.",
+          "quelle": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/showNewsDetail?id=8502&provenienza=home",
+          "datum": "2026-11-16"
+        },
+        {
+          "titel": "Rottamazione: Raten am 30. November fällig",
+          "satz": "Für quater und Wiederaufnahme gilt eine Toleranz bis 7. Dezember, für quinquies grundsätzlich nicht.",
+          "text": "Am 30. November sind die 14. Rate der Rottamazione-quater, die 6. Rate der Wiederaufnahme (riammissione) und die 3. Rate der Rottamazione-quinquies fällig. Bei der quinquies entfällt die Begünstigung, wenn zwei Raten fehlen oder unvollständig sind. Für Schulden gegenüber Gemeinden und Regionen von 2000 bis 2023 ist der Antrag bis 15. Dezember online zu stellen.",
+          "quelle": "FiscoeTasse",
+          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4801-rottamazione-cartelle-scadenza-30-novembre-chi-puo-pagare-dopo.html",
+          "datum": "2026-11-16"
+        },
+        {
+          "titel": "Benefits für Angehörige: Integrativa holt Steuer zurück",
+          "satz": "Das Wirtschaftsministerium klärte im Question time, wie zu viel einbehaltene Steuer erstattet wird.",
+          "text": "Das Omnibus-Dekret (decreto legislativo 148/2026) strich rückwirkend die Pflicht zum Zusammenleben bei Betriebsbenefits für Angehörige. Wer 730/2026 oder Redditi PF 2026 schon ohne diese Regel eingereicht hat, kann eine dichiarazione integrativa abgeben. Das Guthaben wird erstattet oder vorgetragen, Arbeitgeber können eine ersetzende CU 2026 senden.",
+          "quelle": "ItaliaOggi",
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/benefit-ai-familiari-dichiarazione-integrativa-per-i-contribuenti-e61ffpte",
           "datum": "2026-11-18"
         }
       ],
-      "hinweis": "Agenzia delle Entrate, FiscoOggi und MEF verlangten Freigabe bzw. waren nicht abrufbar, Il Sole 24 Ore verlangte Freigabe; IPSOA nicht abrufbar. Ersatz: FiscoeTasse, Eutekne (nur Vorspann frei), ItaliaOggi. Amtliche Quellen: 0 von 4."
+      "hinweis": "Agenzia delle Entrate und FiscoOggi nicht erreichbar (Startseiten verlangten Freigabe, Unterseiten und Artikel lieferten Fehler); ebenso IPSOA-Rubrik. Eutekne nur mit Bezahlschranke. Ersatzquellen: ItaliaOggi, FiscoeTasse, Gazzetta Ufficiale. Amtliche Quellen: 1 von 4."
     }
   }
 }
