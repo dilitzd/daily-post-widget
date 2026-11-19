@@ -1,121 +1,85 @@
 {
- "issue": 44,
- "date": "Mittwoch, 18. November 2026",
- "updated": "2026-11-18T05:51:18Z",
+ "issue": 45,
+ "date": "Donnerstag, 19. November 2026",
+ "updated": "2026-11-19T05:50:36Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · ACCONTI E CPB",
-   "title": "Secondo acconto entro il 30 novembre: le regole per chi aderisce al CPB",
-   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/secondo-acconto-2026-e-cpb/"
+   "kicker": "CRISI D'IMPRESA · CONCORDATO MINORE",
+   "title": "Concordato minore: il silenzio del Fisco vale come assenso",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/concordato-minore-dal-voto-allomologa-il-ruolo-del-fisco/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ÜBERNAHMEN · ITALIEN",
-   "title": "Finnische Iceye bietet rund zwei Milliarden Euro für Avio",
-   "url": "https://en.ilsole24ore.com/art/finnish-aerospace-firm-iceye-launches-voluntary-takeover-bid-worth-2-billion-at-41-euros-per-share-AJsSH9IC"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · SICHERHEIT",
-   "title": "Anthropic verkürzt Fristen für die Offenlegung von Sicherheitslücken",
-   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+   "kicker": "BANKEN · DEUTSCHLAND/ITALIEN",
+   "title": "Commerzbank-Übernahme: Bund und Unicredit einigen sich auf Bedingungen",
+   "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · FORFETTARI",
-   "title": "Forfettari: rimborsi di viaggio, vitto e alloggio fuori dai compensi",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/professionisti-forfetari-rimborsi-di-viaggio-vitto-e-alloggio-esclusi-dai-compensi/"
+   "kicker": "FISCO · CONCORDATO PREVENTIVO BIENNALE",
+   "title": "CPB 2026-2027: errori nei dati correggibili con l'integrativa",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/i-dati-concordato-possono-essere-corretti-l-integrativa-AJaXeaJC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · BONUS EDILIZI",
-   "title": "Cessioni dei crediti bloccate solo con un rischio concreto di frode",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/18/cessione-dei-crediti-superbonus-il-blocco-antifrode-richiede-rischi-concreti/"
+   "kicker": "RISCOSSIONE · TRIBUTI LOCALI",
+   "title": "Rottamazione-quinquies locale: l'adesione estingue subito il processo",
+   "url": "https://www.eutekne.info/Sezioni/Art_1131291_l_adesione_alla_rottamazione_quinquies_per_gli_enti_territoriali.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · COMPENSAZIONI",
-   "title": "Crediti inesistenti: il visto di conformità non protegge l'amministratore",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/18/crediti-inesistenti-in-compensazione-il-visto-non-esonera-lamministratore/"
+   "kicker": "LAVORO · AGEVOLAZIONI",
+   "title": "Bonus donne, giovani e ZES prorogati al 31 dicembre 2027",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130612_bonus_donne_giovani_e_zes_fino_al_31_dicembre_2027.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IMPRESA INDIVIDUALE · ESTROMISSIONE",
-   "title": "Estromissione agevolata dei beni d'impresa entro il 31 maggio 2027",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130597_estromissione_agevolata_entro_il_31_maggio_2027.aspx"
+   "kicker": "LAVORO · PIATTAFORME DIGITALI",
+   "title": "Lavoro su piattaforma: dal 2 dicembre nuove tutele e obblighi",
+   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/gestione-del-rapporto/lavoro-digitale-dal-2-dicembre-nuove-tutele-e-obblighi-per-le-piattaforme/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · CONFERIMENTI",
-   "title": "Realizzo controllato anche senza aumento di capitale",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131838_realizzo_controllato_senza_aumento_di_capitale_anche_per_partecipazioni.aspx"
+   "kicker": "DIRITTO · SOCIETÀ E CRISI",
+   "title": "Capitale sotto il minimo: senza assemblea c'è bancarotta semplice",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132187_responsabilita_per_bancarotta_semplice_se_non_si_convoca_l_assemblea.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · UNIONE EUROPEA",
-   "title": "Frodi IVA: proroga del reverse charge facoltativo fino al 2030",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/18/frodi-iva-ue-in-vista-la-proroga-del-reverse-charge-fino-al-2030/"
+   "kicker": "FISCO · TRANSAZIONI FINANZIARIE",
+   "title": "Tobin tax: la manovra 2027 raddoppia di nuovo le aliquote",
+   "url": "https://www.eutekne.info/Sezioni/Art_1130452_salgono_ancora_le_aliquote_della_tobin_tax.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · FOTOVOLTAICO",
-   "title": "Fotovoltaico: quando la vendita di energia diventa attività commerciale",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/bilancio/fotovoltaico-il-confine-sottile-tra-autoconsumo-e-attivita-commerciale/"
+   "kicker": "FISCO INTERNAZIONALE · DIVIDENDI",
+   "title": "Corte Ue: no al ricalcolo della perdita con le norme estere",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132191_la_corte_ue_boccia_il_ricalcolo_della_perdita_con_le_norme_dell.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · ITALIEN",
-   "title": "CGIL ruft für Freitag zum Generalstreik gegen den Haushalt auf",
-   "url": "https://en.ilsole24ore.com/art/cgil-general-strike-on-20-november-whos-striking-and-who-isnt-essential-services-and-demonstrations-across-italia-AJ4y6VJC"
+   "kicker": "KONJUNKTUR · ITALIEN",
+   "title": "Istat korrigiert Italiens Oktober-Inflation auf 5,5 Prozent nach oben",
+   "url": "https://en.ilsole24ore.com/art/istat-revises-its-inflation-figure-upwards-october-inflation-rises-to-55-per-cent-AJsjxCJC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · ITALIEN",
-   "title": "Strom ist in Italien tagsüber immer öfter billiger als nachts",
-   "url": "https://en.ilsole24ore.com/art/utility-bills-heres-why-doing-the-washing-a-day-earlier-saves-money-AJgmkpJC"
+   "kicker": "VERSICHERUNGEN · ITALIEN",
+   "title": "Generali sieht sich auf Kurs, alle Ziele für 2027 zu übertreffen",
+   "url": "https://en.ilsole24ore.com/art/general-exceeding-the-2027-target-AJx0sPKC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "CHEMIE · DEUTSCHLAND",
-   "title": "BASF bereitet neuen Übernahmeversuch für Evonik vor",
-   "url": "https://www.handelsblatt.com/unternehmen/industrie/chemie-basf-bereitet-neues-uebernahmeangebot-fuer-evonik-vor/100270678.html"
+   "kicker": "KONJUNKTUR · EUROZONE",
+   "title": "Inflation im Euroraum steigt auf 4,0 Prozent",
+   "url": "https://www.wiwo.de/politik/konjunktur/inflation-in-der-eurozone-klettert-im-oktober-auf-40-prozent/100270909.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "GELDPOLITIK · EU",
-   "title": "Brunnermeier soll neuer Chefvolkswirt der EZB werden",
-   "url": "https://www.wiwo.de/politik/europa/neuer-ezb-chefvolkswirt-warum-markus-brunnermeier-nominiert-wird/100270485.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · AGENTEN",
-   "title": "Leitfaden: So entstehen ständig aktive KI-Agenten",
-   "url": "https://claude.com/resources/articles/building-always-on-agents"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "REGULIERUNG · CHIPS",
-   "title": "USA verschärfen Exportregeln für KI-Chips vor Treffen mit Xi",
-   "url": "https://www.handelsblatt.com/politik/international/ki-usa-verschaerfen-kurz-vor-trump-xi-treffen-exportregeln-fuer-chips/100270390.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "RECHT · HAFTUNG",
-   "title": "Kalifornien verklagt OpenAI wegen außer Kontrolle geratener Agenten",
-   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "SICHERHEIT · CYBERANGRIFFE",
-   "title": "FBI warnt vor KI-Hackingwerkzeug Artex",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
-  },
-  {
-   "block": "Box",
-   "kicker": "USECASE DER WOCHE · FINANCE",
-   "title": "Telekomkonzern: KI-Agenten verkürzen den Forecast-Zyklus deutlich",
-   "url": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business"
+   "kicker": "ZAHLUNGSVERKEHR · ITALIEN",
+   "title": "Poste und Bancomat: Geld senden nur mit der Handynummer",
+   "url": "https://en.ilsole24ore.com/art/barriers-are-coming-down-post-offices-and-atms-customers-will-be-able-to-exchange-money-using-just-their-mobile-phones-AJalTdKC"
   }
  ]
 }
