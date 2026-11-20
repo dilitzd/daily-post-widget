@@ -1,85 +1,121 @@
 {
- "issue": 45,
- "date": "Donnerstag, 19. November 2026",
- "updated": "2026-11-19T05:50:36Z",
+ "issue": 46,
+ "date": "Freitag, 20. November 2026",
+ "updated": "2026-11-20T05:51:50Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "CRISI D'IMPRESA · CONCORDATO MINORE",
-   "title": "Concordato minore: il silenzio del Fisco vale come assenso",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/concordato-minore-dal-voto-allomologa-il-ruolo-del-fisco/"
+   "kicker": "IVA · DETRAZIONE",
+   "title": "Fatture a cavallo d'anno: prima chiusura con i nuovi termini IVA",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/fatture-a-cavallo-danno-la-prima-chiusura-con-i-nuovi-termini-di-detrazione-iva/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · DEUTSCHLAND/ITALIEN",
-   "title": "Commerzbank-Übernahme: Bund und Unicredit einigen sich auf Bedingungen",
-   "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
+   "kicker": "FINANZPOLITIK · ITALIEN",
+   "title": "Italiens Haushalt 2027: Regierung will mehr Geld fürs Gesundheitswesen",
+   "url": "https://en.ilsole24ore.com/art/budget-bill-government-agreement-extra-funding-for-healthcare-AJ8DygMC"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · BÖRSENGANG",
+   "title": "Anthropic legt Ausgabepreis für Börsengang auf 83 Dollar fest",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · CONCORDATO PREVENTIVO BIENNALE",
-   "title": "CPB 2026-2027: errori nei dati correggibili con l'integrativa",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/i-dati-concordato-possono-essere-corretti-l-integrativa-AJaXeaJC"
+   "kicker": "LAVORO · ALTO ADIGE",
+   "title": "Fondo di solidarietà Alto Adige: contributo ridotto allo 0,30% nel 2027",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132339_confermata_la_riduzione_contributiva_per_il_fondo_di_solidarieta.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "RISCOSSIONE · TRIBUTI LOCALI",
-   "title": "Rottamazione-quinquies locale: l'adesione estingue subito il processo",
-   "url": "https://www.eutekne.info/Sezioni/Art_1131291_l_adesione_alla_rottamazione_quinquies_per_gli_enti_territoriali.aspx"
+   "kicker": "ACCERTAMENTO · TERMINI",
+   "title": "Beni ammortizzabili: il costo originario si contesta solo nei termini ordinari",
+   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/accertamento/oneri-pluriennali-e-beni-ammortizzabili-nuovi-termini-di-accertamento/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · AGEVOLAZIONI",
-   "title": "Bonus donne, giovani e ZES prorogati al 31 dicembre 2027",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130612_bonus_donne_giovani_e_zes_fino_al_31_dicembre_2027.aspx"
+   "kicker": "REDDITI · WELFARE AZIENDALE",
+   "title": "Welfare per gli «altri familiari»: si recupera con l'integrativa",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132262_welfare_aziendale_per_gli_altri_familiari_con_dichiarazione_integrativa.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · PIATTAFORME DIGITALI",
-   "title": "Lavoro su piattaforma: dal 2 dicembre nuove tutele e obblighi",
-   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/gestione-del-rapporto/lavoro-digitale-dal-2-dicembre-nuove-tutele-e-obblighi-per-le-piattaforme/"
+   "kicker": "CONTENZIOSO · RIMBORSI IVA",
+   "title": "Rimborso IVA: l'Agenzia deve restituire i costi della fideiussione",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/crediti-iva-l-agenzia-deve-restituire-costi-fideiussione-AJDR7rKC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "DIRITTO · SOCIETÀ E CRISI",
-   "title": "Capitale sotto il minimo: senza assemblea c'è bancarotta semplice",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132187_responsabilita_per_bancarotta_semplice_se_non_si_convoca_l_assemblea.aspx"
+   "kicker": "IVA · VERSAMENTI",
+   "title": "IVA periodica sotto 100 euro: il versamento resta facoltativo",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/l-agenzia-chiede-l-f24-iva-anche-sotto-100-euro-AJLm0KIC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · TRANSAZIONI FINANZIARIE",
-   "title": "Tobin tax: la manovra 2027 raddoppia di nuovo le aliquote",
-   "url": "https://www.eutekne.info/Sezioni/Art_1130452_salgono_ancora_le_aliquote_della_tobin_tax.aspx"
+   "kicker": "PENALE TRIBUTARIO · PROFESSIONISTI",
+   "title": "Reati tributari: il professionista è correo se il contributo non è «neutro»",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/dalla-consulenza-dolo-professionista-correo-AJFF63KC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO INTERNAZIONALE · DIVIDENDI",
-   "title": "Corte Ue: no al ricalcolo della perdita con le norme estere",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132191_la_corte_ue_boccia_il_ricalcolo_della_perdita_con_le_norme_dell.aspx"
+   "kicker": "AGEVOLAZIONI · AUTOTRASPORTO",
+   "title": "Caro-gasolio: al via le domande per il credito d'imposta",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/caro-gasolio-via-domande-ottenere-credito-d-importa-AJ3uNtKC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "KONJUNKTUR · ITALIEN",
-   "title": "Istat korrigiert Italiens Oktober-Inflation auf 5,5 Prozent nach oben",
-   "url": "https://en.ilsole24ore.com/art/istat-revises-its-inflation-figure-upwards-october-inflation-rises-to-55-per-cent-AJsjxCJC"
+   "kicker": "GELDPOLITIK · ITALIEN",
+   "title": "Panetta warnt vor Steuersenkungen trotz steigender Inflation",
+   "url": "https://en.ilsole24ore.com/art/panetta-inflation-is-rising-again-avoid-the-temptation-to-cut-taxes-AJgQzPMC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "VERSICHERUNGEN · ITALIEN",
-   "title": "Generali sieht sich auf Kurs, alle Ziele für 2027 zu übertreffen",
-   "url": "https://en.ilsole24ore.com/art/general-exceeding-the-2027-target-AJx0sPKC"
+   "kicker": "ARBEITSRECHT · DEUTSCHLAND",
+   "title": "Kabinett erleichtert Befristungen und lockert Kündigungsschutz für Topverdiener",
+   "url": "https://www.wiwo.de/politik/konjunktur/befristungen-von-jobs-regierung-will-das-arbeitsrecht-aendern/100270963.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "KONJUNKTUR · EUROZONE",
-   "title": "Inflation im Euroraum steigt auf 4,0 Prozent",
-   "url": "https://www.wiwo.de/politik/konjunktur/inflation-in-der-eurozone-klettert-im-oktober-auf-40-prozent/100270909.html"
+   "kicker": "MITTELSTAND · ITALIEN",
+   "title": "Sizilianischer Betrieb Mangrovia baut Gemüse ohne Erde an",
+   "url": "https://en.ilsole24ore.com/art/in-scicli-mangrovia-grows-vegetables-without-soil-and-only-the-ones-they-need-AJiiNdKC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ZAHLUNGSVERKEHR · ITALIEN",
-   "title": "Poste und Bancomat: Geld senden nur mit der Handynummer",
-   "url": "https://en.ilsole24ore.com/art/barriers-are-coming-down-post-offices-and-atms-customers-will-be-able-to-exchange-money-using-just-their-mobile-phones-AJalTdKC"
+   "kicker": "LUFTFAHRT · DEUTSCHLAND",
+   "title": "Lufthansa will 1.000 Stellen in Frankfurt und München streichen",
+   "url": "https://www.handelsblatt.com/politik/deutschland/brief-an-mitarbeiter-lufthansa-will-1000-stellen-an-drehkreuzen-streichen/100271404.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · FORSCHUNG",
+   "title": "Claude Fable 5.2 löst zwei offene Probleme der Schwarzloch-Physik",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · BÖRSE",
+   "title": "Anthropic-Aktie startet 34 Prozent höher und gibt danach nach",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · FINANZEN",
+   "title": "US-Banken: Kunden haften selbst für ihre KI-Agenten",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "RECHT · CHIPS",
+   "title": "Kalifornien verlangt von Nvidia Auskunft zu möglichen China-Lieferungen",
+   "url": "https://www.handelsblatt.com/technik/ki/huang-affaere-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271418.html"
+  },
+  {
+   "block": "Box",
+   "kicker": "CLAUDE-TIPP FÜR FORTGESCHRITTENE",
+   "title": "Belegte Auswertung langer Akten: XML-Struktur, Zitate zuerst, Beispiele",
+   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices"
   }
  ]
 }
