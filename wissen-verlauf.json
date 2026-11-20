@@ -563,5 +563,50 @@
     "datum": "2026-11-19",
     "typ": "bau",
     "wert": "Casa Batlló"
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "artikel",
+    "wert": "https://wissenschaft.de/artikel/geheimnis-des-europaeischen-riesenkranichs-geloest"
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "ort",
+    "wert": "Ngorongoro-Krater"
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "fakt",
+    "wert": "Bevölkerung: 2025 hatten 8,5 % der 15- bis 74-Jährigen in der EU einen MINT-Hochschulabschluss."
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Deutschlands Großhandelspreise lagen im Oktober 2026 um 8,8 % über dem Vorjahresmonat."
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "fakt",
+    "wert": "Klima: 2026 liegt laut Copernicus mit über 99 % Wahrscheinlichkeit mehr als 1,5 °C über vorindustriellem Niveau."
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "wiki",
+    "wert": "Völkermord an den Armeniern"
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg/1280px-Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg"
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "bildkat",
+    "wert": "Natur"
+  },
+  {
+    "datum": "2026-11-20",
+    "typ": "bau",
+    "wert": "Lotustempel"
   }
 ]
