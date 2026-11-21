@@ -608,5 +608,50 @@
     "datum": "2026-11-20",
     "typ": "bau",
     "wert": "Lotustempel"
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "artikel",
+    "wert": "https://www.spektrum.de/news/england-archaeologen-finden-ursprung-von-roemischem-froschfriedhof/2353767"
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "ort",
+    "wert": "Halong-Bucht"
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Ende 2025 lebten in Italien 58,94 Millionen Menschen, fast genauso viele wie Ende 2024."
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Italiens Arbeitslosenquote lag im September 2026 bei 6,3 Prozent, die Jugendarbeitslosigkeit bei 19,9 Prozent."
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "fakt",
+    "wert": "Klima: 2025 erreichte die globale CO₂-Konzentration rund 426,8 ppm – 53 Prozent mehr als 1750."
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "wiki",
+    "wert": "Schloss Horst"
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1280px-Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg"
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "bildkat",
+    "wert": "Astronomie"
+  },
+  {
+    "datum": "2026-11-21",
+    "typ": "bau",
+    "wert": "Mole Antonelliana"
   }
 ]
