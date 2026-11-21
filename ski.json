@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:42:55+01:00",
+  "updated": "2026-11-21T15:37:29+01:00",
   "saison": "2026/27",
   "herren": {
     "rennen": [
@@ -169,6 +169,72 @@
   "damen": {
     "rennen": [
       {
+        "datum": "2026-11-21",
+        "ort": "Gurgl",
+        "land": "AUT",
+        "disziplin": "Slalom",
+        "wettbewerb": "Weltcup",
+        "ergebnis": [
+          {
+            "rang": 1,
+            "name": "Lara Colturi",
+            "nation": "ALB",
+            "zeit": "1:45,47"
+          },
+          {
+            "rang": 2,
+            "name": "Sara Hector",
+            "nation": "SWE",
+            "rueckstand": "+0,27"
+          },
+          {
+            "rang": 3,
+            "name": "Anna Swenn Larsson",
+            "nation": "SWE",
+            "rueckstand": "+0,30"
+          },
+          {
+            "rang": 4,
+            "name": "AJ Hurt",
+            "nation": "USA",
+            "rueckstand": "+0,39"
+          },
+          {
+            "rang": 5,
+            "name": "Hanna Aronsson Elfman",
+            "nation": "SWE",
+            "rueckstand": "+0,93"
+          },
+          {
+            "rang": 5,
+            "name": "Camille Rast",
+            "nation": "SUI",
+            "rueckstand": "+0,93"
+          },
+          {
+            "rang": 7,
+            "name": "Zrinka Ljutić",
+            "nation": "CRO"
+          },
+          {
+            "rang": 8,
+            "name": "Emma Aicher",
+            "nation": "GER"
+          },
+          {
+            "rang": 9,
+            "name": "Lara Della Mea",
+            "nation": "ITA"
+          },
+          {
+            "rang": 10,
+            "name": "Dzenifera Germane",
+            "nation": "LAT"
+          }
+        ],
+        "url": "https://skiracing.com/lara-colturi-claims-first-world-cup-win-in-gurgl/"
+      },
+      {
         "datum": "2026-11-14",
         "ort": "Levi",
         "land": "FIN",
@@ -310,30 +376,24 @@
       }
     ],
     "naechstes": {
-      "datum": "2026-11-21",
-      "ort": "Gurgl",
-      "land": "AUT",
-      "disziplin": "Slalom",
+      "datum": "2026-11-28",
+      "ort": "Killington",
+      "land": "USA",
+      "disziplin": "Riesenslalom",
       "wettbewerb": "Weltcup"
     },
     "gesamt": [
       {
         "rang": 1,
-        "name": "Emma Aicher",
-        "nation": "GER",
-        "punkte": 160
-      },
-      {
-        "rang": 1,
         "name": "Lara Colturi",
         "nation": "ALB",
-        "punkte": 160
+        "punkte": 260
       },
       {
-        "rang": 3,
-        "name": "Paula Moltzan",
-        "nation": "USA",
-        "punkte": 100
+        "rang": 2,
+        "name": "Emma Aicher",
+        "nation": "GER",
+        "punkte": 192
       }
     ]
   }
