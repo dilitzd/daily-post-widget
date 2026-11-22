@@ -1,8 +1,78 @@
 {
-  "updated": "2026-11-21T15:37:29+01:00",
+  "updated": "2026-11-22T15:39:01+01:00",
   "saison": "2026/27",
   "herren": {
     "rennen": [
+      {
+        "datum": "2026-11-22",
+        "ort": "Gurgl",
+        "land": "AUT",
+        "disziplin": "Slalom",
+        "wettbewerb": "Weltcup",
+        "ergebnis": [
+          {
+            "rang": 1,
+            "name": "Timon Haugan",
+            "nation": "NOR",
+            "zeit": "1:42,55"
+          },
+          {
+            "rang": 2,
+            "name": "Eirik Hystad Solberg",
+            "nation": "NOR",
+            "rueckstand": "+0,60"
+          },
+          {
+            "rang": 3,
+            "name": "Tanguy Nef",
+            "nation": "SUI",
+            "rueckstand": "+0,88"
+          },
+          {
+            "rang": 4,
+            "name": "Armand Marchant",
+            "nation": "BEL",
+            "rueckstand": "+1,00"
+          },
+          {
+            "rang": 5,
+            "name": "Michael Matt",
+            "nation": "AUT",
+            "rueckstand": "+1,11"
+          },
+          {
+            "rang": 6,
+            "name": "Samuel Kolega",
+            "nation": "CRO",
+            "rueckstand": "+1,26"
+          },
+          {
+            "rang": 6,
+            "name": "Fabian Ax Swartz",
+            "nation": "SWE",
+            "rueckstand": "+1,26"
+          },
+          {
+            "rang": 8,
+            "name": "Laurie Taylor",
+            "nation": "GBR",
+            "rueckstand": "+1,47"
+          },
+          {
+            "rang": 9,
+            "name": "Jett Seymour",
+            "nation": "USA",
+            "rueckstand": "+1,50"
+          },
+          {
+            "rang": 10,
+            "name": "Steven Amiez",
+            "nation": "FRA",
+            "rueckstand": "+1,54"
+          }
+        ],
+        "url": "https://www.neveitalia.it/sport/scialpino/maschile/news/la-festa-e-tutta-norge-nella-bolgia-di-gurgl-esulta-haugan-su-solberg-e-primo-podio-di-nef-inforca-mcgrath"
+      },
       {
         "datum": "2026-11-15",
         "ort": "Levi",
@@ -145,10 +215,10 @@
       }
     ],
     "naechstes": {
-      "datum": "2026-11-22",
-      "ort": "Gurgl",
-      "land": "AUT",
-      "disziplin": "Slalom",
+      "datum": "2026-11-28",
+      "ort": "Copper Mountain",
+      "land": "USA",
+      "disziplin": "Super-G",
       "wettbewerb": "Weltcup"
     },
     "gesamt": [
@@ -162,7 +232,13 @@
         "rang": 2,
         "name": "Loïc Meillard",
         "nation": "SUI",
-        "punkte": 140
+        "punkte": 151
+      },
+      {
+        "rang": 3,
+        "name": "Timon Haugan",
+        "nation": "NOR",
+        "punkte": 113
       }
     ]
   },
