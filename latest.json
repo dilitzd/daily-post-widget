@@ -1,85 +1,37 @@
 {
- "issue": 47,
- "date": "Samstag, 21. November 2026",
- "updated": "2026-11-21T05:50:52Z",
+ "issue": 48,
+ "date": "Sonntag, 22. November 2026",
+ "updated": "2026-11-22T05:51:23Z",
  "items": [
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · IPERAMMORTAMENTO",
-   "title": "Iperammortamento: la piattaforma GSE ostacola il cumulo con altri contributi",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/iperammortamento-le-criticita-della-gestione-del-cumulo-in-sede-di-completamento/"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · ITALIEN",
-   "title": "MPS hält Intesa-Angebot für angemessen, Passera verlässt den Verwaltungsrat",
-   "url": "https://en.ilsole24ore.com/art/passera-resigns-from-mps-board-first-vote-on-intesas-takeover-bid-AJ6VNeNC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "BILANCIO · CREDITI D'IMPOSTA",
-   "title": "Credito gasolio autotrasporto: due scadenze e riflessi sul bilancio 2026",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/agevolazioni/credito-gasolio-per-lautotrasporto-due-periodi-due-scadenze-e-i-riflessi-sul-bilancio-2026/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "PENALE TRIBUTARIO · SUPERBONUS",
-   "title": "Crediti Superbonus fittizi: truffa aggravata consumata alla prima cessione",
-   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/superbonus-e-crediti-fittizi-quando-si-consuma-la-truffa-aggravata/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "CRISI D'IMPRESA · SOVRAINDEBITAMENTO",
-   "title": "Esdebitazione dell'incapiente: i debiti fiscali non escludono la meritevolezza",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/crisi-impresa/esdebitazione-dellincapiente-presupposti-procedimento-e-meritevolezza/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · IMPRESE",
-   "title": "Filiera automotive: dal 30 novembre domande per 300 milioni",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/automotive-domande-30-novembre-incentivi-fino-75percento-AJkMEEMC"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "RISCOSSIONE · CONTRIBUTI INPS",
-   "title": "Avviso di addebito INPS: alla notifica postale valgono le regole delle cartelle",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/contributi-e-premi/notifica-dellavviso-di-addebito-applicabili-le-regole-delle-cartelle-di-pagamento/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "REDDITI · NEO-RESIDENTI",
-   "title": "Pensione britannica SIPP: ammessa l'imposta sostitutiva del 7%",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/imposta-sostitutiva-del-7-per-le-prestazioni-del-piano-sipp-britannico/"
-  },
-  {
-   "block": "Notizie fiscali",
-   "kicker": "FISCO INTERNAZIONALE · UE",
-   "title": "Fondi pensione esteri: Bruxelles apre una procedura d'infrazione contro l'Italia",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/fondi-pensione-ue-bruxelles-discriminati-trattamento-fiscale-AJXKDRMC"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · ITALIEN",
-   "title": "Kürzere Arbeitszeit bei gleichem Lohn: Pilotprojekte für 900.000 Beschäftigte",
-   "url": "https://en.ilsole24ore.com/art/short-time-working-equal-pay-pilot-schemes-900000-employees-AJeyDyLC"
-  },
   {
    "block": "Wirtschaftsnews",
    "kicker": "TARIFPOLITIK · DEUTSCHLAND",
-   "title": "IG Metall ruft erstmals seit acht Jahren zu 24-Stunden-Warnstreiks auf",
-   "url": "https://www.wiwo.de/unternehmen/industrie/tarifverhandlungen-ig-metall-startet-ganztaegige-warnstreiks/100271213.html"
+   "title": "VW fordert Nullrunden und Einschnitte bei der 35-Stunden-Woche",
+   "url": "https://www.wiwo.de/unternehmen/auto/kriselnder-autobauer-vw-fordert-nullrunden-und-einschnitte-bei-35-stunden-woche/100271339.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "MITTELSTAND · ITALIEN",
-   "title": "Antiwucher-Fonds: 28,5 Millionen Euro für Haushalte und KMU",
-   "url": "https://en.ilsole24ore.com/art/anti-recession-fund-285-million-for-households-and-small-and-medium-sized-enterprises-AJHq5TMC"
+   "kicker": "DIGITALPOLITIK · ITALIEN",
+   "title": "Rechenzentren: Regierung plant nationale Strategie mit Register",
+   "url": "https://en.ilsole24ore.com/art/data-centres-government-strategy-mapping-and-register-AJTLmCNC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INVESTITIONEN · DEUTSCHLAND",
-   "title": "Katar sagt 15 Milliarden Euro für deutsche Unternehmen zu",
-   "url": "https://www.handelsblatt.com/politik/deutschland/golfstaaten-abkommen-katar-will-15-milliarden-in-deutschland-investieren/100271648.html"
+   "kicker": "ENERGIE · ITALIEN",
+   "title": "Pellets über 30 Prozent teurer, aber weiter günstiger als Gas",
+   "url": "https://en.ilsole24ore.com/art/pellet-prices-have-risen-by-over-30-per-cent-but-natural-gas-remains-cheaper-AJNbTVNC"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "INDUSTRIE · ITALIEN",
+   "title": "Fincantieri baut zwei Kreuzfahrtschiffe für Carnival",
+   "url": "https://en.ilsole24ore.com/art/fincantieri-signs-a-2-billion-deal-with-carnival-for-cruise-ships-AJusY6MC"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "ENERGIEPREISE · DEUTSCHLAND",
+   "title": "Hunderte Grundversorger erhöhen Strom- und Gaspreise",
+   "url": "https://www.handelsblatt.com/politik/deutschland/verivox-analyse-strom-und-gas-wird-fuer-millionen-haushalte-teurer/100271696.html"
   }
  ]
 }
