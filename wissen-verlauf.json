@@ -653,5 +653,50 @@
     "datum": "2026-11-21",
     "typ": "bau",
     "wert": "Mole Antonelliana"
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "artikel",
+    "wert": "https://www.scinexx.de/news/geowissen/china-baut-schwimmende-forschungsinsel-fuer-die-hochsee/"
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "ort",
+    "wert": "Siena"
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "fakt",
+    "wert": "Bevölkerung: 2025 lebten nur noch in 23,3 Prozent der EU-Haushalte Kinder, 2010 waren es 26,9 Prozent."
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "fakt",
+    "wert": "Wirtschaft: 2025 stammten 15,4 Prozent der Direktinvestitionsbestände in 14 berichtenden EU-Ländern aus den USA."
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "fakt",
+    "wert": "Klima: Der Wärmeinhalt der Ozeane erreicht laut WMO 2026 voraussichtlich das zehnte Rekordjahr in Folge."
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "wiki",
+    "wert": "Boléro"
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/1280px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg"
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "bildkat",
+    "wert": "Tiere"
+  },
+  {
+    "datum": "2026-11-22",
+    "typ": "bau",
+    "wert": "La Rotonda"
   }
 ]
