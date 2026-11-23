@@ -698,5 +698,50 @@
     "datum": "2026-11-22",
     "typ": "bau",
     "wert": "La Rotonda"
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "artikel",
+    "wert": "https://nationalgeographic.de/geschichte-und-kultur/2026/11/harry-houdini-geheimes-tagebuch/"
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "ort",
+    "wert": "Banff-Nationalpark"
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Österreichs Geburtenrate fiel 2025 auf ein historisches Tief von 1,30 Kindern pro Frau."
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "fakt",
+    "wert": "Wirtschaft: In Deutschland entstanden von Januar bis September 2026 rund 103.700 größere Betriebe, 4,5 % mehr."
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "fakt",
+    "wert": "Klima: Der Oktober 2026 war in den USA der viertwärmste in 132 Jahren Messgeschichte."
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "wiki",
+    "wert": "Doctor Who"
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/1280px-Pointe_Saint_Mathieu_-_Phare.jpg"
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "bildkat",
+    "wert": "Natur"
+  },
+  {
+    "datum": "2026-11-23",
+    "typ": "bau",
+    "wert": "Angkor Wat"
   }
 ]
