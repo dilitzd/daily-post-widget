@@ -1,37 +1,115 @@
 {
- "issue": 48,
- "date": "Sonntag, 22. November 2026",
- "updated": "2026-11-22T05:51:23Z",
+ "issue": 49,
+ "date": "Montag, 23. November 2026",
+ "updated": "2026-11-23T05:50:49Z",
  "items": [
   {
-   "block": "Wirtschaftsnews",
-   "kicker": "TARIFPOLITIK · DEUTSCHLAND",
-   "title": "VW fordert Nullrunden und Einschnitte bei der 35-Stunden-Woche",
-   "url": "https://www.wiwo.de/unternehmen/auto/kriselnder-autobauer-vw-fordert-nullrunden-und-einschnitte-bei-35-stunden-woche/100271339.html"
+   "block": "Notizie fiscali",
+   "kicker": "BILANCIO · RIVALUTAZIONE",
+   "title": "Manovra 2027: torna la rivalutazione degli immobili d'impresa",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/rivalutazione-immobili-nuova-chance-bilancio-AJwTPDIC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "DIGITALPOLITIK · ITALIEN",
-   "title": "Rechenzentren: Regierung plant nationale Strategie mit Register",
-   "url": "https://en.ilsole24ore.com/art/data-centres-government-strategy-mapping-and-register-AJTLmCNC"
+   "kicker": "FINANZPOLITIK · ITALIEN",
+   "title": "Superbonus: Streckung der Steuergutschriften auf zehn Jahre wackelt",
+   "url": "https://en.ilsole24ore.com/art/superbonus-settlement-table-10-year-credit-spread-AJCAitNC"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · BÖRSENGANG",
+   "title": "Anthropic schließt Börsengang ab: rund 119,5 Milliarden Dollar Bruttoerlös",
+   "url": "https://www.anthropic.com/news/ipo-close"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "IVA · FATTURA ELETTRONICA",
+   "title": "Fattura elettronica: nuove specifiche tecniche 1.10 dall'11 gennaio 2027",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132482_nuove_specifiche_tecniche_della_fattura_elettronica_adeguate_al.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "ANTIRICICLAGGIO · PROFESSIONISTI",
+   "title": "VI direttiva antiriciclaggio: schema di decreto in consultazione fino al 14 dicembre",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132492_in_consultazione_lo_schema_di_decreto_che_recepira_la_vi_direttiva.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "CONTENZIOSO · IVA",
+   "title": "Reverse charge e cartiere: la CGT di Brescia rinvia alla Corte UE",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/frodi-cartiere-reverse-charge-non-ferma-ancora-debito-iva-AJ3nVNJC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "AGEVOLAZIONI · ZES AGRICOLTURA",
+   "title": "Tax credit ZES agricoltura: comunicazioni integrative entro il 2 dicembre",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132493_al_via_le_comunicazioni_integrative_per_il_tax_credit_zes_unica.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "DONAZIONI · IMPOSTE INDIRETTE",
+   "title": "Donazione con bonifico senza atto notarile: nulla, ma tassata",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/la-donazione-informale-bonifico-e-nulla-ma-va-tassata-AJ53QqLC"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "TERZO SETTORE · LAVORO",
+   "title": "ETS: deroga ai limiti retributivi anche per chi è già in organico",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132325_deroga_ai_limiti_retributivi_negli_ets_anche_per_professionalita.aspx"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "DOGANE · DAZI UE",
+   "title": "Laminati a freddo: dazi antidumping UE fino al 27,9%",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132334_introdotti_dazi_antidumping_sui_laminati_a_freddo.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · ITALIEN",
-   "title": "Pellets über 30 Prozent teurer, aber weiter günstiger als Gas",
-   "url": "https://en.ilsole24ore.com/art/pellet-prices-have-risen-by-over-30-per-cent-but-natural-gas-remains-cheaper-AJNbTVNC"
+   "kicker": "HAUSHALT · ITALIEN",
+   "title": "Gesundheitswesen: Bis zu einer Milliarde Euro mehr im Haushalt 2027",
+   "url": "https://en.ilsole24ore.com/art/healthcare-budget-increased-by-up-to-1-billion-but-pay-bills-remain-a-sticking-point-AJ38ssNC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · ITALIEN",
-   "title": "Fincantieri baut zwei Kreuzfahrtschiffe für Carnival",
-   "url": "https://en.ilsole24ore.com/art/fincantieri-signs-a-2-billion-deal-with-carnival-for-cruise-ships-AJusY6MC"
+   "kicker": "BAUWESEN · ITALIEN",
+   "title": "Bauamnestie: Lega will stillschweigende Genehmigung nach bis zu 180 Tagen",
+   "url": "https://en.ilsole24ore.com/art/amnesty-tacit-consent-180-days-AJpiWwNC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ENERGIEPREISE · DEUTSCHLAND",
-   "title": "Hunderte Grundversorger erhöhen Strom- und Gaspreise",
-   "url": "https://www.handelsblatt.com/politik/deutschland/verivox-analyse-strom-und-gas-wird-fuer-millionen-haushalte-teurer/100271696.html"
+   "kicker": "EU · HAUSHALT",
+   "title": "EU-Haushalt: Costa schlägt Digitalsteuer vor, Merz will stärker sparen",
+   "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-costa-will-204-milliarden-sparen-merz-reicht-das-nicht/100271749.html"
+  },
+  {
+   "block": "Wirtschaftsnews",
+   "kicker": "STEUERPOLITIK · DEUTSCHLAND",
+   "title": "Söder fordert sofortigen Ausgleich der kalten Progression",
+   "url": "https://www.wiwo.de/politik/deutschland/versteckte-steuererhoehung-soeder-laesst-bei-kalter-progression-nicht-locker/100271858.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · SICHERHEIT",
+   "title": "Anthropic verkürzt Fristen für die Offenlegung von Sicherheitslücken",
+   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "FORSCHUNG · MODELLE",
+   "title": "Anthropic-Mathematiker legt mit Claude Lean-Beweis zur Riemannschen Vermutung vor",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · DATENSCHUTZ",
+   "title": "Metas KI-Agent Muse soll Gespräche vermischen und private Daten zeigen",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · RECHT",
+   "title": "Bericht: SEC prüft Bilanzierung von Nvidia, Aktie fällt weiter",
+   "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html"
   }
  ]
 }
