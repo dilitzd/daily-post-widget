@@ -1,115 +1,85 @@
 {
- "issue": 49,
- "date": "Montag, 23. November 2026",
- "updated": "2026-11-23T05:50:49Z",
+ "issue": 50,
+ "date": "Dienstag, 24. November 2026",
+ "updated": "2026-11-24T05:51:12Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "BILANCIO · RIVALUTAZIONE",
-   "title": "Manovra 2027: torna la rivalutazione degli immobili d'impresa",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/rivalutazione-immobili-nuova-chance-bilancio-AJwTPDIC"
+   "kicker": "MANOVRA 2027 · FORFETARIO",
+   "title": "Forfetario 2027: soglia a 100.000 euro solo per le imposte dirette",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-sul-reddito/regime-forfetario-soglie-e-lavoro-dipendente-nel-ddl-bilancio-2027/"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "FINANZPOLITIK · ITALIEN",
-   "title": "Superbonus: Streckung der Steuergutschriften auf zehn Jahre wackelt",
-   "url": "https://en.ilsole24ore.com/art/superbonus-settlement-table-10-year-credit-spread-AJCAitNC"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · BÖRSENGANG",
-   "title": "Anthropic schließt Börsengang ab: rund 119,5 Milliarden Dollar Bruttoerlös",
-   "url": "https://www.anthropic.com/news/ipo-close"
+   "title": "Haushaltsgesetz: Parlament schreibt die italienische Wegzugsteuer um",
+   "url": "https://en.ilsole24ore.com/art/parliamentary-manoeuvre-rewrites-the-exit-tax-what-might-change-income-states-risk-superbonus-write-off-credit-spread-AJh2fbPC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · FATTURA ELETTRONICA",
-   "title": "Fattura elettronica: nuove specifiche tecniche 1.10 dall'11 gennaio 2027",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132482_nuove_specifiche_tecniche_della_fattura_elettronica_adeguate_al.aspx"
+   "kicker": "PREVIDENZA · ALTO ADIGE",
+   "title": "Fondo di solidarietà Alto Adige: aliquota ridotta allo 0,30% anche nel 2027",
+   "url": "https://www.ecnews.it/lavoro/prestazioni-assistenziali-e-previdenziali/ammortizzatori-sociali/fondo-di-solidarieta-bilaterale-bolzano-alto-adige-aliquota-contributiva-ridotta-anche-nel-2027/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "ANTIRICICLAGGIO · PROFESSIONISTI",
-   "title": "VI direttiva antiriciclaggio: schema di decreto in consultazione fino al 14 dicembre",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132492_in_consultazione_lo_schema_di_decreto_che_recepira_la_vi_direttiva.aspx"
+   "kicker": "VERSAMENTI · ISA",
+   "title": "Proroga ISA 2025: preavvisi di irregolarità contestabili anche per i soci",
+   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/23/proroga-isa-2025.-avvisi-di-irregolarita-anche-ai-soci"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · IVA",
-   "title": "Reverse charge e cartiere: la CGT di Brescia rinvia alla Corte UE",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/frodi-cartiere-reverse-charge-non-ferma-ancora-debito-iva-AJ3nVNJC"
+   "kicker": "LAVORO · LICENZIAMENTI",
+   "title": "Licenziamento nelle piccole imprese: indennità fino a 14 mensilità",
+   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/cessazione-del-rapporto/licenziamento-illegittimo-la-corte-costituzionale-con-la-sentenza-n-174-2026-rafforza-la-tutela-indennitaria-dei-lavoratori-delle-piccole-imprese/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "AGEVOLAZIONI · ZES AGRICOLTURA",
-   "title": "Tax credit ZES agricoltura: comunicazioni integrative entro il 2 dicembre",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132493_al_via_le_comunicazioni_integrative_per_il_tax_credit_zes_unica.aspx"
+   "kicker": "IVA · REGISTRO",
+   "title": "Affitto d'azienda: IVA o registro proporzionale secondo lo status del locatore",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-indirette/affitto-di-azienda-alternativita-iva-e-registro/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "DONAZIONI · IMPOSTE INDIRETTE",
-   "title": "Donazione con bonifico senza atto notarile: nulla, ma tassata",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/la-donazione-informale-bonifico-e-nulla-ma-va-tassata-AJ53QqLC"
+   "kicker": "REDDITI · PLUSVALENZE",
+   "title": "Superbonus: plusvalenza esente se il genitore vi abitava",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/casi-operativi-euroconference-news/superbonus-cessione-esente-se-il-genitore-ha-diritto-di-abitazione/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "TERZO SETTORE · LAVORO",
-   "title": "ETS: deroga ai limiti retributivi anche per chi è già in organico",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132325_deroga_ai_limiti_retributivi_negli_ets_anche_per_professionalita.aspx"
+   "kicker": "SOCIETÀ · TRASFORMAZIONE",
+   "title": "Trasformazione in società di capitali: il nodo delle riserve nel nuovo TUIR",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/trasformazione-e-nuovo-tuir-permangono-le-incongruenze-tra-utili-fiscali-e-riserve/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "DOGANE · DAZI UE",
-   "title": "Laminati a freddo: dazi antidumping UE fino al 27,9%",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132334_introdotti_dazi_antidumping_sui_laminati_a_freddo.aspx"
+   "kicker": "PREVIDENZA · NOTIFICHE",
+   "title": "Indebiti INPS: da gennaio 2027 notifiche digitali tramite SEND",
+   "url": "https://www.ecnews.it/lavoro/prestazioni-assistenziali-e-previdenziali/prestazioni-a-sostegno-del-reddito/recupero-degli-indebiti-inps-da-gennaio-2027-notifiche-digitali-tramite-la-piattaforma-send/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HAUSHALT · ITALIEN",
-   "title": "Gesundheitswesen: Bis zu einer Milliarde Euro mehr im Haushalt 2027",
-   "url": "https://en.ilsole24ore.com/art/healthcare-budget-increased-by-up-to-1-billion-but-pay-bills-remain-a-sticking-point-AJ38ssNC"
+   "kicker": "INDUSTRIE · ITALIEN",
+   "title": "Pirelli baut US-Werk für 1,2 Milliarden aus und startet Cyber Tyre",
+   "url": "https://en.ilsole24ore.com/art/pirelli-launches-cyber-tyre-in-the-us-AJ6A1OPC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BAUWESEN · ITALIEN",
-   "title": "Bauamnestie: Lega will stillschweigende Genehmigung nach bis zu 180 Tagen",
-   "url": "https://en.ilsole24ore.com/art/amnesty-tacit-consent-180-days-AJpiWwNC"
+   "kicker": "BANKEN · ITALIEN",
+   "title": "Italiens Banken zahlen Zwischendividenden, Fusionspläne kommen voran",
+   "url": "https://en.ilsole24ore.com/art/focus-on-banks-intesa-and-mps-takeover-bids-and-unicredits-tightening-of-commercial-lending-AJgAIwPC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "EU · HAUSHALT",
-   "title": "EU-Haushalt: Costa schlägt Digitalsteuer vor, Merz will stärker sparen",
-   "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-costa-will-204-milliarden-sparen-merz-reicht-das-nicht/100271749.html"
+   "kicker": "ARBEITSMARKT · DEUTSCHLAND",
+   "title": "Studie: Strengere Altersteilzeit könnte bis zu 110.000 Vollzeitstellen erhalten",
+   "url": "https://www.wiwo.de/politik/deutschland/alterssicherung-studie-altersteilzeit-reform-wuerde-sich-fuer-fiskus-lohnen/100271931.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "STEUERPOLITIK · DEUTSCHLAND",
-   "title": "Söder fordert sofortigen Ausgleich der kalten Progression",
-   "url": "https://www.wiwo.de/politik/deutschland/versteckte-steuererhoehung-soeder-laesst-bei-kalter-progression-nicht-locker/100271858.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · SICHERHEIT",
-   "title": "Anthropic verkürzt Fristen für die Offenlegung von Sicherheitslücken",
-   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "FORSCHUNG · MODELLE",
-   "title": "Anthropic-Mathematiker legt mit Claude Lean-Beweis zur Riemannschen Vermutung vor",
-   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "SICHERHEIT · DATENSCHUTZ",
-   "title": "Metas KI-Agent Muse soll Gespräche vermischen und private Daten zeigen",
-   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · RECHT",
-   "title": "Bericht: SEC prüft Bilanzierung von Nvidia, Aktie fällt weiter",
-   "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html"
+   "kicker": "BÖRSE · CHINA",
+   "title": "Chinas Börsen lockern Regeln für kreditfinanzierte Aktienkäufe",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/china-boersen-anleger-koennen-sich-ab-30-november-mehr-geld-fuer-aktien-leihen/100271866.html"
   }
  ]
 }
