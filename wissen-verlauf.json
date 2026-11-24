@@ -743,5 +743,50 @@
     "datum": "2026-11-23",
     "typ": "bau",
     "wert": "Angkor Wat"
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "artikel",
+    "wert": "https://www.scinexx.de/news/geowissen/seen-verstaerken-den-eisverlust-von-gletschern-deutlich/"
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "ort",
+    "wert": "Samarkand"
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Österreich zählte am 1. Oktober 2026 vorläufig 9.228.795 Einwohner, 12.839 mehr als zu Jahresbeginn."
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Deutschlands Bruttoinlandsprodukt wuchs im dritten Quartal 2026 um 0,2 Prozent gegenüber dem Vorquartal."
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "fakt",
+    "wert": "Klima: Das antarktische Meereis erreichte 2026 vermutlich nur 17,59 Mio. km², das drittniedrigste Maximum seit Messbeginn."
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "wiki",
+    "wert": "Abel Tasman"
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg/1280px-South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg"
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "bildkat",
+    "wert": "Menschen"
+  },
+  {
+    "datum": "2026-11-24",
+    "typ": "bau",
+    "wert": "Habitat 67"
   }
 ]
