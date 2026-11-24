@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:04:01+01:00",
+  "updated": "2026-11-24T18:49:17+01:00",
   "zitat": {
     "text": "Ich habe mich sorgfältig bemüht, die menschlichen Handlungen nicht zu verlachen, nicht zu beklagen und nicht zu verabscheuen, sondern zu verstehen.",
     "original": "Sedulo curavi, humanas actiones non ridere, non lugere, neque detestari, sed intelligere.",
@@ -93,281 +93,297 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "Polonia: erano missili russi Kh-101",
-          "satz": "Varsavia convocherà l'ambasciatore russo, mentre gli alleati Nato si riuniscono a Bruxelles.",
-          "text": "Le autorità polacche hanno identificato come missili da crociera russi Kh-101 tre oggetti caduti venerdì in tre villaggi del sud-est, senza feriti. Il premier Tusk parla di provocazione deliberata. Il caso aumenta la tensione tra Russia e Nato, già alta dopo la chiusura dei valichi decisa dall'Estonia.",
+          "titel": "Hormuz quasi bloccato, 400 navi in attesa",
+          "satz": "Teheran esclude trattative con gli Usa finché non saranno soddisfatte le sue sette condizioni.",
+          "text": "In 24 ore solo due navi hanno attraversato lo Stretto di Hormuz, contro una media di circa 60. Due petroliere hanno preso fuoco dopo aver urtato mine. A Riad un attacco Houthi ha colpito di nuovo il grattacielo più alto, con 11 feriti.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/ukraine-russian-attack-north-of-kyiv-11-dead-AJiBemPC",
-          "datum": "2026-11-23"
+          "url": "https://en.ilsole24ore.com/art/war-latest-news-al-jazeera-israeli-drone-strikes-police-station-in-gaza-three-dead-AJlV8zQC",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Merz nennt Russlands Atompläne im All schockierend",
-          "satz": "Laut Geheimdienstberichten könnte der Satellit „Sputnik-S“ schon im Dezember mit nuklearer Ladung starten.",
-          "text": "Westliche Geheimdienste und die Bundeswehr warnen laut WDR, NDR und SZ vor einem russischen Atomwaffensatelliten. Die Regierung sieht keine unmittelbare Bedrohung; das Auswärtige Amt spricht von einem drohenden Bruch des Weltraumvertrags von 1967. Moskau bestreitet seit jeher, solche Waffen zu entwickeln.",
+          "titel": "Usa frenano i Patriot per l'Ucraina",
+          "satz": "Zelensky accusa Washington di assecondare Putin spingendo Kiev verso compromessi sfavorevoli.",
+          "text": "Secondo il Financial Times, il Pentagono ritarda la consegna di circa 60 intercettori Patriot promessi a Kiev. Intanto un drone russo ha violato brevemente lo spazio aereo polacco, per Varsavia probabilmente di proposito. Da gennaio l'Ucraina dovrebbe ricevere i caccia svedesi Gripen.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/ukraine-latest-news-russian-drone-invades-polish-airspace-zelenskyy-says-we-will-receive-swedish-gripen-fighter-jets-in-january-AJkSAuQC",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "EGMR lockert Schutz bei Pushbacks",
+          "satz": "Bei gezielt eingesetzter Migration dürfen Staaten Menschen ohne besonderen Schutzbedarf an EU-Außengrenzen zurückweisen.",
+          "text": "Der Menschenrechtsgerichtshof in Straßburg urteilte zu Fällen an der Grenze zu Belarus aus 2021 und 2022. Polen, Lettland und Litauen wurden dennoch verurteilt und müssen Entschädigungen zahlen. Über 30 ähnliche Verfahren sind noch anhängig.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/aufruestung-im-all-merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend/100272134.html",
-          "datum": "2026-11-23"
+          "url": "https://www.handelsblatt.com/politik/international/instrumentalisierte-migration-menschenrechtsgerichtshof-grenzt-schutz-bei-pushbacks-ein/100272440.html",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Israele, Eisenkot tratta per il nuovo governo",
-          "satz": "Quattro ore di colloquio con il Likud di Netanyahu a Herzliya si sono chiuse senza progressi.",
-          "text": "Il premier incaricato Gadi Eisenkot e il Likud non hanno trovato un'intesa sulla coalizione; nuovi colloqui sono previsti alla Knesset. Eisenkot punterebbe a un annuncio a sorpresa e a un governo di minoranza grazie ad astensioni. Sull'Iran ritiene che non serva un'azione militare prima del nuovo esecutivo.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/israels-eisenkot-announces-surprise-coalition-AJxneoPC",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "Bombendrohungen an Schulen in Deutschland und Dänemark",
-          "satz": "Laut „Bild“ gingen per E-Mail Drohungen an rund 450 deutsche Schulen, unter anderem in Thüringen.",
-          "text": "Am Montagmorgen erhielten Schulen in Thüringen, Niedersachsen und mehreren Regionen Dänemarks Bombendrohungen per E-Mail. Die dänische Polizei hält sie für unbegründet und ermittelt zur Herkunft. Lokale Medien vermuten automatisierte Fehlalarme aus dem Ausland, ähnlich wie bei den Störungen im Flugverkehr Anfang November.",
-          "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/23/allarmi-bomba-stamattina-in-centinaia-di-scuole-in-germania-e-danimarca_f62f1019-227e-4c45-8954-e1f2d4f46b67.html",
-          "datum": "2026-11-23"
+          "titel": "Slowakei schafft Briefwahl ab",
+          "satz": "Die Opposition wirft der Regierung Fico Angst vor einer Wahlniederlage vor und will vors Verfassungsgericht.",
+          "text": "Auf Initiative der Regierung darf im Ausland nur noch in Botschaften oder bestimmten Wahllokalen gewählt werden. 2023 stimmten fast 59.000 Slowaken per Post ab, knapp drei Viertel davon für die Opposition. Die Koalition hat zuletzt ihre absolute Mehrheit verloren.",
+          "quelle": "ORF",
+          "url": "https://orf.at/stories/3449161/",
+          "datum": "2026-11-24"
         }
       ],
-      "hinweis": "Il-Sole-Rubrikseiten (en/it) verlangten Freigabe; Il-Sole-Artikel über WebSearch (en.ilsole24ore.com) gefunden und geöffnet. Spiegel, NZZ, SZ, Economist und tagesschau-Rubrik nicht abrufbar; Suche auf tagesschau.de, deutschlandfunk.de, reuters.com mit Proxy-Fehler 400. Ersatz: Handelsblatt, ANSA."
+      "hinweis": "Il-Sole-Rubrikseiten (mondo) verlangten Freigabe; Artikel per Suche gefunden. Ergänzt mit Handelsblatt und ORF (Rubrikseiten ebenfalls nur per Suche)."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Intesa lancia oggi l'offerta su Mps",
-          "satz": "L'offerta pubblica di scambio valuta Monte dei Paschi 34,6 miliardi e si chiude il 22 gennaio.",
-          "text": "Da oggi parte l'offerta di Intesa Sanpaolo su Mps, che punta al delisting della banca senese; sarebbero già arrivate adesioni pari al 35-40% del capitale. Il cda di Mps giudica il prezzo congruo ma non pienamente rappresentativo del valore. In caso di successo scatterebbe un'offerta a cascata su Mediobanca.",
+          "titel": "Trump prepara nuovi dazi su Cina e Ue",
+          "satz": "Washington accusa 16 economie di sovrapproduzione sussidiata che danneggia i produttori americani.",
+          "text": "Secondo il Wall Street Journal, gli Usa alzeranno i dazi su Cina, Ue, Giappone, Corea del Sud e altri Paesi. Per Ue, Giappone e Corea si prevedono aliquote fino al 15%. Acciaio, alluminio e auto dovrebbero restare esclusi, perché già colpiti da altri dazi.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/focus-on-banks-intesa-and-mps-takeover-bids-and-unicredits-tightening-of-commercial-lending-AJgAIwPC",
-          "datum": "2026-11-23"
+          "url": "https://en.ilsole24ore.com/art/trump-set-to-impose-new-tariffs-on-china-and-the-eu-AJa0CJRC",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Frankreich droht die technische Rezession",
-          "satz": "Finanzminister Lescure hält eine Senkung der Wachstumsprognose von 1 Prozent für 2027 für möglich.",
-          "text": "Der Einkaufsmanagerindex fiel im November überraschend auf 46,2 Punkte, nachdem das BIP im dritten Quartal um 0,1 Prozent geschrumpft war. Am Defizitziel von 5 Prozent hält Lescure dennoch fest. Präsident Macron erwägt eine Verfassungsreform für strengere Ausgabenkontrolle, neue Prognosen folgen im Januar.",
+          "titel": "CrowdStrike compra Zscaler per 44 miliardi",
+          "satz": "È la più grande operazione mai vista nella sicurezza informatica, pagata interamente in azioni.",
+          "text": "CrowdStrike, specializzata nella protezione dei dispositivi, unisce le forze con Zscaler, attiva nella sicurezza degli accessi in rete. L'accordo richiede il via libera delle autorità e degli azionisti di Zscaler. Il titolo CrowdStrike ha perso circa il 10% all'annuncio.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/crowdstrike-targets-zscaler-in-a-44-billion-deal-to-create-a-cybersecurity-giant-AJWvBQQC",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "Ifo-Index auf höchstem Stand seit 2023",
+          "satz": "Das Geschäftsklima stieg im November zum siebten Mal in Folge, auf 90,6 Punkte.",
+          "text": "Dienstleister und Handel bewerten Lage und Aussichten besser, Industrie und Bau dagegen schwächer. Ifo-Chef Fuest sieht eine Erholung, die aber noch nicht breit genug ist. Für 2026 werden 1,3 Prozent Wachstum erwartet.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/frankreich-finanzminister-lescure-sieht-wachstumsprognose-gefaehrdet/100271971.html",
-          "datum": "2026-11-23"
+          "url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-ifo-geschaeftsklima-steigt-auf-hoechststand-seit-fruehjahr-2023/100272331.html",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Borse in rimbalzo, euro vicino ai minimi",
-          "satz": "Piazza Affari chiude a +0,65% nonostante lo stacco dei dividendi di nove grandi società.",
-          "text": "Dopo il crollo di venerdì Wall Street recupera e trascina i titoli tecnologici, a Milano corrono Stm e Technoprobe. L'euro scende a 1,09 dollari, vicino ai minimi da marzo 2025, mentre lo spread Btp-Bund cala a 106 punti. Il Brent scivola sotto i 90 dollari.",
-          "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/asian-stock-markets-cautious-shenzhen-up-22-per-cent-AJa09lPC",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "Goldman Sachs: Italiens Wirtschaft verliert an Schwung",
-          "satz": "Die US-Bank erwartet 0,8 Prozent Wachstum für 2026 und nur noch 0,5 Prozent für 2027.",
-          "text": "Nach Jahren relativer Robustheit bremse die Inflation die Kaufkraft, zudem laufe die europäische Haushaltsunterstützung aus, so Goldman Sachs. Für die Eurozone erwartet die Bank 1,0 und 0,9 Prozent Wachstum. Nur Frankreich soll wegen seiner politischen und fiskalischen Krise mit 0,2 und 0,1 Prozent noch schwächer wachsen.",
+          "titel": "EU: Italien hält Haushaltsvorgaben ein",
+          "satz": "Laut Kommissar Dombrovskis soll Italien sein übermäßiges Defizit noch 2026 korrigieren.",
+          "text": "Italien gehört zu sechs Ländern, die den Ausgabenpfad der EU einhalten. Beim Haushaltsentwurf 2027 sieht Brüssel aber keine Sicherheitsmargen. Gegen Bulgarien schlägt die Kommission erstmals Sanktionen nach dem Stabilitätspakt vor.",
           "quelle": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/23/goldman-sachs-leconomia-italiana-perde-spinta-con-lerosione-del-potere_24f7e1d8-dbda-438c-add8-c05027c79a09.html",
-          "datum": "2026-11-23"
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/11/24/dombrovskis-italia-conforme-alle-raccomandazioni-ue-bene-correzione-deficit_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
+          "datum": "2026-11-24"
         }
       ],
-      "hinweis": "Il-Sole-Rubriken economia/finanza (en) und economia (it) verlangten Freigabe; Artikel über WebSearch (en.ilsole24ore.com) gefunden und geöffnet. NZZ, SZ, Economist, WSJ und tagesschau-Rubrik nicht abrufbar; Suche auf tagesschau.de/deutschlandfunk.de/reuters.com mit Proxy-Fehler 400. Ersatz: Handelsblatt, ANSA."
+      "hinweis": "Il-Sole-Rubrikseiten (economia, finanza) verlangten Freigabe; Artikel per Suche gefunden. Ergänzt mit Handelsblatt und ANSA."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "Deutlich weniger Feinstaub-Tote in der EU",
-          "satz": "Laut Europäischer Umweltagentur sank die Zahl seit 2005 um 57,2 Prozent.",
-          "text": "Rund 222.000 vorzeitige Todesfälle in der EU gingen 2024 auf langfristige Feinstaubbelastung zurück, berichtet die Europäische Umweltagentur. Damit ist das EU-Ziel, die Zahl bis 2030 gegenüber 2005 um 55 Prozent zu senken, bereits erreicht. Am höchsten bleibt die Sterblichkeit durch Luftverschmutzung in Ost- und Südosteuropa.",
-          "quelle": "science.ORF.at",
-          "url": "https://science.orf.at/stories/3238325/",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "K.-o.-Tropfen künftig länger nachweisbar",
-          "satz": "Ein neuer Biomarker verlängert das Nachweisfenster von wenigen Stunden auf bis zu zwei Tage.",
-          "text": "Bisher ist GHB im Blut nur rund sechs Stunden nachweisbar. Teams aus Zürich und Aarhus setzen auf den Biomarker GHB-Pentose, der in einer Studie mit 30 Freiwilligen noch nach 48 Stunden im Blut messbar war. Ein Freiburger Toxikologe spricht von einem Durchbruch und hofft auf baldigen Einsatz bei Verdachtsfällen.",
-          "quelle": "science.ORF.at",
-          "url": "https://science.orf.at/stories/3238317/",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "Urzeitliches Riesengebirge in der Antarktis vermutet",
-          "satz": "Es entstand vor 650 bis 450 Millionen Jahren und könnte dem Himalaya geähnelt haben.",
-          "text": "Forschende der Australian National University analysierten mehr als 1.700 Zirkonkörner aus Sedimenten und Bohrkernen. Demnach türmte sich beim Zusammenstoß der Antarktis mit Afrika und Indien während der Bildung Gondwanas ein riesiges Gebirge auf. Seine Erosion könnte laut den Autoren frühes Leben bis hin zur Kambrischen Explosion beeinflusst haben.",
+          "titel": "Sonde BepiColombo ist am Merkur angekommen",
+          "satz": "Nach rund zehn Milliarden Kilometern Flug wurde die europäisch-japanische Sonde von Merkurs Schwerkraft eingefangen.",
+          "text": "Ein Bremsmanöver am Abend des 21. November brachte die Sonde in eine Umlaufbahn, trotz eines verkürzten Triebwerksbrennens wegen eines Softwarefehlers. Die rund 1,7 Milliarden Euro teure Mission soll Magnetfeld, Oberfläche und Kern des Planeten erforschen. Am 9. Dezember trennt sich der japanische Orbiter Mio, Messungen beginnen im April 2027.",
           "quelle": "Spektrum der Wissenschaft",
-          "url": "https://www.spektrum.de/news/tektonik-das-erste-riesengebirge-der-erde-entdeckt/2355425",
-          "datum": "2026-11-21"
+          "url": "https://spektrum.de/news/merkursonde-bepicolombo-erreicht-ihr-ziel/2355564",
+          "datum": "2026-11-23"
+        },
+        {
+          "titel": "Euclid findet den fernsten bekannten Quasar",
+          "satz": "Er leuchtete, als das Universum erst etwa 630 Millionen Jahre alt war.",
+          "text": "Das Weltraumteleskop Euclid hat mit einer Rotverschiebung von 8,13 seinen eigenen Rekord gebrochen. Überraschend wächst das zentrale Schwarze Loch mit rund 360 Millionen Sonnenmassen eher langsam. Die Forschenden vermuten einen sehr massereichen Ursprung und erwarten im Lauf der Mission acht bis 23 weitere solche Quasare.",
+          "quelle": "Spektrum der Wissenschaft",
+          "url": "https://spektrum.de/news/quasare-im-fruehen-universum-euclid-ueberbietet-seinen-eigenen-rekord/2355407",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "Pockenvirus-Kern erstmals in 3-D entschlüsselt",
+          "satz": "Ein Team des ISTA in Klosterneuburg zeigt den Aufbau mit einer Auflösung unter einem Nanometer.",
+          "text": "Mit Kryo-Elektronentomografie untersuchten die Forschenden den Kern des Vacciniavirus, des Prototyps der Pockenviren. Überraschend liegt die virale RNA-Polymerase paarweise vor und wird erst beim Eintritt in die Zelle getrennt. Die in Nature veröffentlichten Strukturen könnten helfen, Medikamente gegen Pocken und verwandte Viren wie Mpox zu entwickeln.",
+          "quelle": "science.ORF.at",
+          "url": "https://science.orf.at/stories/3238328/",
+          "datum": "2026-11-23"
+        },
+        {
+          "titel": "Frühes Schwarzes Loch direkt gewogen",
+          "satz": "Das Radioteleskop ALMA ermittelte rund 6,5 Milliarden Sonnenmassen über die Bewegung des umgebenden Gases.",
+          "text": "Der stark verhüllte Quasar W2246-0526 existierte nur 1,3 Milliarden Jahre nach dem Urknall. Statt der üblichen indirekten Schätzung maßen Forschende die Gasbewegungen im Schwerefeld des Schwarzen Lochs. Das Ergebnis passt zu einer früheren Schätzung, belegt laut Autoren aber nicht, dass indirekte Methoden immer verlässlich sind.",
+          "quelle": "scinexx",
+          "url": "https://www.scinexx.de/news/kosmos/alma-hat-ein-schwarzes-loch-im-jungen-universum-direkt-gewogen/",
+          "datum": "2026-11-23"
         }
       ],
-      "hinweis": "NZZ, heise, Süddeutsche und Spiegel sowie die Startseite science.orf.at verlangten Freigabe; Artikel über WebSearch gefunden: science.ORF.at, Spektrum. tagesschau/Deutschlandfunk: Suche mit Proxy-Fehler 400. Gletscherseen-Studie steht unter Allgemeinwissen, daher hier 3 Meldungen."
+      "hinweis": "NZZ, heise, Süddeutsche, Spiegel gesperrt; Ersatz: Spektrum, science.ORF, scinexx (tagesschau und Deutschlandfunk nicht erreichbar)"
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "Windows-11-Lücke umgeht Sperrbildschirm per Sprachausgabe",
-          "satz": "Angreifer brauchen physischen Zugriff, die Methode funktioniert aber auch auf BitLocker-verschlüsselten Rechnern.",
-          "text": "Über den Wiederherstellungsdialog für vergessene PINs lassen sich mit der Sprachausgabe Programme auf einem gesperrten PC starten. Getestet wurde Windows 11 26H2 mit den November-Updates; einen Patch nennt der Bericht nicht. Microsoft rät zu TPM mit Start-PIN und dazu, Geräte vor dem Verlassen herunterzufahren.",
+          "titel": "EU verhandelt mit Apple über iPhone-Browser",
+          "satz": "Mozilla, Shopify und Tausende EU-Firmen beklagen Hürden für eigene Browser-Engines auf dem iPhone.",
+          "text": "Die EU-Kommission ist nach eigenen Angaben im Dialog mit Apple über Regeln für alternative Browser-Engines. Mozilla müsste für Gecko eine zweite Firefox-App veröffentlichen, Nutzer müssten Daten manuell übertragen. Die Koalition fordert ein formelles Verfahren nach dem Digital Markets Act, Apple verweist auf Sicherheitsanforderungen.",
+          "quelle": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/24/eu-talks-with-apple-over-rival-iphone-browsers/",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "Huawei stellt Falt-Smartphone Mate X8 vor",
+          "satz": "Ein neues Magnetscharnier soll die Displayfalte fast verschwinden lassen.",
+          "text": "Huawei hat das Mate X8 in China vorgestellt, der Verkauf startet am 4. Dezember ab umgerechnet rund 1.800 Euro. Es bietet ein 8,2-Zoll-Innendisplay, einen Kirin-9050-Pro-Chip und aufgeklappt 4,2 Millimeter Dicke. Ein Marktstart in Deutschland ist nicht bestätigt.",
           "quelle": "ComputerBase",
-          "url": "https://www.computerbase.de/news/betriebssysteme/sicherheitsluecke-in-windows-11-sprachausgabe-hebelt-den-sperrbildschirm-aus.100447/",
-          "datum": "2026-11-22"
+          "url": "https://www.computerbase.de/news/smartphones/huawei-mate-x8-vorgestellt-foldable-will-die-falte-mit-neuem-scharnier-eliminieren.100492/",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Apple bringt offenbar (PRODUCT)RED-Geräte zurück",
-          "satz": "Laut Bloomberg sind ein roter HomePod mini 2 und AirPods Max 2 mit roter Digital Crown geplant.",
-          "text": "Die Geräte könnten am Welt-Aids-Tag, dem 1. Dezember, vorgestellt werden; bestätigt ist das nicht. Sie wären Teil von Apples jährlicher Spendenaktion für den Globalen Fonds gegen Aids, Tuberkulose und Malaria. Neue (RED)-Geräte hatte Apple in den vergangenen Jahren nicht mehr herausgebracht.",
+          "titel": "iPhone 18e soll neues Kameramodul bekommen",
+          "satz": "Laut CAD-Zeichnungen fasst ein erhöhtes Gehäuse Kamera, Blitz und Mikrofon zusammen.",
+          "text": "Das Design erinnert an das Kameramodul des iPad Pro, es bleibt aber bei einer Rückkamera. Gerüchten zufolge folgen ein A20-Chip im 2-Nanometer-Verfahren und Apples C2-Modem. Das Gerät wird im Februar oder März 2027 zusammen mit iPhone 18 und iPhone Air 2 erwartet.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/",
-          "datum": "2026-11-23"
+          "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Apple-Wallet-Ausweise bald in drei weiteren US-Staaten",
-          "satz": "Connecticut, North Carolina und Utah sollen den digitalen Führerschein in den kommenden Monaten unterstützen.",
-          "text": "Bislang unterstützen 16 US-Staaten, Puerto Rico und Japans My Number Card die Funktion. Genutzt werden kann sie an TSA-Kontrollen von über 250 US-Flughäfen sowie bei ausgewählten Firmen und Apps. Weil Polizei und viele Geschäfte sie kaum akzeptieren, bleibt ein physischer Ausweis nötig.",
-          "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/23/apple-wallet-ids-coming-to-three-more-states/",
+          "titel": "Apple Pay erhält vier neue Funktionen",
+          "satz": "Neu sind etwa eine überarbeitete Kartenauswahl beim Bezahlen und Datenaustausch per Antippen.",
+          "text": "Mit iOS 27 zeigt der Bezahlbildschirm alle Karten samt Guthaben und Prämien übersichtlich an. Über Tap to Share übermitteln Kunden Adresse und Treuedaten an das iPhone eines Händlers. Zudem lassen sich bei ausgewählten Banken Debitkarten direkt in Wallet aufladen, vorerst vor allem in den USA.",
+          "quelle": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
           "datum": "2026-11-23"
         }
       ],
-      "hinweis": "MacRumors-Startseite verlangte zunächst Freigabe, Artikel über Suche geöffnet. heise und CHIP verlangten Freigabe. Ersatz: ComputerBase. Nvidia/Huang-Rückkehr weggelassen (bereits gestern unter Wirtschaft)."
+      "hinweis": "heise, CHIP gesperrt; Ersatz: ComputerBase, 9to5Mac"
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Claude löst zwei offene Probleme zu Schwarzen Löchern",
-          "satz": "Ein Team aus Claude-Agenten arbeitete rund sechs Wochen, die Ergebnisse wurden in Lean formal verifiziert.",
-          "text": "Claude zeigte, dass der Hawking-Page-Übergang zwischen heißem Gas und Schwarzem Loch auch in einem seit 2003 offenen Fall abrupt verläuft. Zudem bewies es eine neue Obergrenze für die Masse des leichtesten Schwarzen Lochs in einem vereinfachten Modelluniversum. Anthropic betont, dass die Ergebnisse keine direkten Aussagen über unser Universum treffen.",
+          "titel": "Anthropic schließt Börsengang ab",
+          "satz": "Mit Privatplatzierung nimmt Anthropic rund 119,5 Milliarden Dollar brutto ein, Aktien zu 83 Dollar.",
+          "text": "Anthropic hat seinen Börsengang abgeschlossen, die Aktie wird seit 19. November an der Nasdaq unter dem Kürzel ANT gehandelt. Der IPO brachte rund 93,5 Milliarden Dollar, eine parallele Platzierung bei Nvidia, Google, Microsoft und anderen weitere 26 Milliarden. Damit verfügt das Unternehmen über enorme Mittel für Rechenleistung und Entwicklung.",
           "quelle": "Anthropic",
-          "url": "https://anthropic.com/research/claude-black-hole-physics",
-          "datum": "2026-11-17"
+          "url": "https://www.anthropic.com/news/ipo-close",
+          "datum": "2026-11-20"
         },
         {
-          "titel": "OpenAI wirbt für ein Tempolimit bei KI",
-          "satz": "Chefwissenschaftler Jakub Pachocki legte dazu erstmals interne Perplexitätswerte der GPT-Modelle offen.",
-          "text": "Labore sollen eine gemeinsame Leistungsschwelle erst überschreiten, wenn Kontrollwerkzeuge ein vereinbartes Sicherheitsniveau erreichen. Als Maßstab dient die Perplexität aus dem Grundlagentraining; GPT-6.2 Astra liegt unter 0,80. Schwachpunkt: Jedes Labor nutzt andere Daten, und die Kennzahl erfasst nachgelagertes Training nicht.",
-          "quelle": "t3n",
-          "url": "https://t3n.de/news/openai-ki-training-tempolimit-1774743/",
+          "titel": "Claude Ship lässt KI Code freigeben",
+          "satz": "Das Beta-Werkzeug kombiniert Code Review mit zwei neuen Agenten für Korrekturen und Freigaben.",
+          "text": "Anthropic stellt Claude Ship vor: PR Steward überarbeitet Code-Änderungen bei Testfehlern oder Kommentaren, Claude Approvals entscheidet nach Teamrichtlinie, ob die KI selbst genehmigen darf. Mit GitHub-Auto-Merge kann Code ganz ohne Menschen übernommen werden. Verfügbar ist es nur für Team- und Enterprise-Kunden, abgerechnet nach Token-Verbrauch.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/claude-ship-anthropic-laesst-ki-agenten-ueber-code-freigaben-entscheiden/",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "OpenAI und Cisco stellen Shirudo vor",
+          "satz": "Die Open-Source-Software schützt laufende Linux-Systeme, bis Sicherheitspatches eingespielt sind.",
+          "text": "Shirudo blockiert über eBPF gezielt verwundbare Codepfade, ohne dass Dienste neu gestartet werden müssen. In einem Test stoppte ein mit Codex erzeugter Schutz einen Angriff auf einen laufenden Elasticsearch-Dienst. Die Software steht unter BSD-Lizenz, am 15. Dezember folgt ein technisches Webinar für Entwickler und Betreiber.",
+          "quelle": "OpenAI",
+          "url": "https://openai.com/index/introducing-shirudo/",
+          "datum": "2026-11-23"
+        },
+        {
+          "titel": "Gravierende Lücken bei KI-Anbietern entdeckt",
+          "satz": "Forscher von Dragos fanden mit zwei Millionen Köder-Anfragen mehrere kompromittierte Anbieter.",
+          "text": "Über fünf Monate stießen die Sicherheitsforscher auf mindestens drei Anbieter, bei denen Angreifer unbemerkt Nutzerdaten stahlen, darunter Hunderte AWS-Schlüssel. Datenschutzzusagen wurden oft nicht eingehalten. OpenRouter entfernte drei Anbieter, Dragos rät Unternehmen, den Datenweg ihrer KI-Anfragen selbst zu kontrollieren.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/",
           "datum": "2026-11-22"
-        },
-        {
-          "titel": "GPT-6.2 Astra beweist Theorem ohne menschliche Hilfe",
-          "satz": "Der formale Lean-Beweis von Smoktunowiczs Lückensatz umfasst rund 1.800 Zeilen und kostete 21,58 Dollar.",
-          "text": "Weil Grundlagen für den Originalbeweis in der Mathlib-Bibliothek fehlten, wählte das OpenAI-Modell einen eigenen Ansatz und brauchte 94 Minuten. Laut Vals AI ist es der erste bekannte Lean-Beweis dieses Satzes von 2006. In einem Vergleichstest löste Astra 49 von 56 Aufgaben, knapp vor GPT-6.2 Sol und Claude Fable 5.2.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/gpt-6-2-astra-beweist-komplexes-mathe-theorem-vollstaendig-ohne-menschliches-eingreifen/",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "Z.ai stellt Sprachmodell GLM-5.4 mit Schleifendesign vor",
-          "satz": "Das 750-Milliarden-Parameter-Modell durchläuft 28 Schichten zweimal und soll so deutlich größere Modelle erreichen.",
-          "text": "Benchmarks für das Flaggschiff hat Z.ai nicht veröffentlicht, nur Werte eines 30-Milliarden-Testmodells mit gleicher Architektur. GLM-5.4 ist über den GLM Coding Plan, ZCode und Z.ai Chat nutzbar, eine API ist geplant. Die Modellgewichte will Z.ai nach weiteren Sicherheitsprüfungen veröffentlichen.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/z-ai-laesst-glm-5-4-zweimal-rechnen-und-ruft-generalized-coding-aus/",
-          "datum": "2026-11-23"
         }
       ],
-      "hinweis": "anthropic.com/news verlangte Freigabe; Anthropic-Meldung über WebSearch gefunden und geöffnet. heise KI verlangte Freigabe. Ersatz: t3n, The Decoder."
+      "hinweis": "anthropic.com/news-Übersicht nicht direkt geöffnet; Artikel über WebSearch gefunden. Startseiten von The Decoder und The Verge verlangten Freigabe; ergänzt mit The Decoder (über Suche) und OpenAI."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Siegesdenkmal in Bozen wird erneut restauriert",
-          "satz": "Das Kulturministerium trägt die Kosten, die Arbeiten sollen bis 2028 abgeschlossen sein.",
-          "text": "Nach einer herabgefallenen Marmorplatte nisten Tauben am Denkmal, zudem dringt Feuchtigkeit in Räume ein. Das Ausführungsprojekt soll bis Jahresende vorliegen; geplant sind neue Marmorverankerungen, Abdichtungen und Klimaregulierung. Der Südtiroler Heimatbund kritisiert das Vorhaben scharf und nennt das Denkmal ein faschistisches Relikt.",
-          "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/politik/siegesdenkmal-steht-vor-erneuter-restaurierung",
-          "datum": "2026-11-23"
+          "titel": "Drogenring in Südtirol zerschlagen",
+          "satz": "Die Finanzpolizei vollstreckte 31 Maßnahmen, darunter 20 Haftbefehle, gegen mutmaßliche Dealer.",
+          "text": "Bei der Operation „Scarabeo“ gehen die Ermittler gegen drei Gruppen vor, die Bozen und das Eisacktal mit Kokain und Haschisch versorgt haben sollen. In gut einem Jahr sollen etwa 70 Kilogramm Drogen und über drei Millionen Euro Umsatz geflossen sein. Über 100 Finanzbeamte waren im Einsatz, Durchsuchungen laufen weiter.",
+          "quelle": "ANSA",
+          "url": "https://www.ansa.it/trentino/notizie/2026/11/24/blitz-antidroga-in-alto-adige-31-misure-cautelari_471aa1f5-3abe-441c-be26-b249a6546f0a.html",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Wählen ab 16: Regionalrat vertagt Grünen-Entwurf",
-          "satz": "Die Grünen wollen Gemeindereferenden einheitlich ab 16, die Regionalregierung verweist auf die Gemeindeautonomie.",
-          "text": "In Südtirol haben 25 von 116 Gemeinden das Stimmrecht ab 16 bei Gemeindereferenden noch nicht eingeführt. SVP-Abgeordneter Harald Stauder verwies auf rechtliche Bedenken der Gemeindeverbände, die Vorlage wurde ausgesetzt. Sie soll in einer der nächsten Sitzungen erneut behandelt werden.",
+          "titel": "Landtag: Parteiübergreifend gegen Gewalt an Frauen",
+          "satz": "Ein Antrag mit sieben Handlungsfeldern soll nächste Woche im Landtag behandelt werden.",
+          "text": "Angestoßen von Landesrat Achammer tragen SVP, Grüne, Team K und weitere den Antrag, der unter anderem Täterarbeit, Prävention in Schulen und Fallmanagement stärken will. 2025 suchten 838 Frauen Hilfe bei Beratungsstellen, 43 Prozent mehr als 2021. Meist ging die Gewalt vom Partner oder Ex-Partner aus.",
           "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/23112026/referenden-ab-16-was-sagt-die-jugend",
-          "datum": "2026-11-23"
+          "url": "https://salto.bz/de/article/24112026/landtag-maenner-gegen-gewalt-gegen-frauen",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Flucht aus Österreich endet mit Festnahme im Pustertal",
-          "satz": "Im Fluchtauto fanden Polizisten Einbruchswerkzeug, Uhren und Sammlermünzen, die vermutlich gestohlen sind.",
-          "text": "Ein Auto mit deutschem Kennzeichen entzog sich in Österreich einer Kontrolle und floh Richtung Winnebach. Eine Streife aus Innichen stoppte es nach kurzer Verfolgung, drei Insassen flüchteten in den Wald. Ein vorbestrafter 26-jähriger Chilene wurde nach einem Handgemenge festgenommen, ein Polizist wurde leicht verletzt.",
-          "quelle": "ANSA Trentino Alto Adige",
-          "url": "https://www.ansa.it/trentino/notizie/2026/11/23/fuga-dallaustria-verso-litalia-inseguimento-in-pusteria-e-un-arresto_c3759fb2-ca7c-4f1f-bf7d-4c0ba496926a.html",
-          "datum": "2026-11-23"
+          "titel": "Sterzing: Eisack wird für Hochwasserschutz verbreitert",
+          "satz": "Das EU-kofinanzierte Projekt kostet rund 15,7 Millionen Euro, der Spatenstich ist erfolgt.",
+          "text": "Das Flussbett wird um etwa zwei Meter verbreitert und abgesenkt, um Sterzings Zentrum und Pfitsch vor Hochwasser zu schützen. Zudem entstehen zwei neue Fuß- und Radbrücken. Gearbeitet wird bei Niedrigwasser zwischen November und April, die Hauptarbeiten folgen 2027 und 2028.",
+          "quelle": "salto.bz",
+          "url": "https://salto.bz/de/article/24112026/sterzing-eisack-wird-verbreitert",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "Gesundheitsressort wirbt für gesundes Altern",
-          "satz": "Laut ASTAT waren 2024 bereits 21,1 Prozent der Südtiroler 65 Jahre oder älter.",
-          "text": "Das Gesundheitsressort um Landesrat Hubert Messner empfiehlt Bewegung, ausgewogene Ernährung, soziale Kontakte und Vorsorge lange vor dem 65. Geburtstag. Von den über 65-Jährigen treiben 28 Prozent Sport, 34 Prozent bewegen sich zumindest im Alltag. Der Index für psychische Gesundheit liegt in Südtirol bei 75, in Italien bei 68.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/23/gesund-altern-beginnt-heute/",
-          "datum": "2026-11-23"
+          "titel": "Kälteste Nacht des Herbstes in Südtirol",
+          "satz": "In Sexten wurden knapp minus 14 Grad gemessen, für Mittwoch ist neuer Schnee angesagt.",
+          "text": "Laut Landesmeteorologe Dieter Peterlin war die vergangene Nacht die bisher kälteste dieses Herbstes. Nach Sexten folgten Welsberg und St. Jakob in Pfitsch mit jeweils minus 12 Grad. Am 25. November soll erneut Schnee fallen.",
+          "quelle": "ANSA",
+          "url": "https://www.ansa.it/trentino/notizie/2026/11/24/in-alto-adige-la-notte-piu-fredda-dellautunno-14-gradi-a-sesto_3e2956f2-0e41-46e4-a895-f6539c75f8cc.html",
+          "datum": "2026-11-24"
         }
       ],
-      "hinweis": "salto.bz-Startseite verlangte Freigabe, Artikel über Suchergebnis (salto.bz/de). Rai Südtirol und stol.it nicht lesbar. Ersatz: Südtirol News, ANSA Trentino, UnserTirol24."
+      "hinweis": "Südtirol News verlangte Freigabe (nicht geöffnet); salto.bz-Artikel über WebSearch gefunden; ANSA als Ersatzquelle ergänzt."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Sinner lässt sich in Finnland am Knie operieren",
-          "satz": "Australian Open und Six Kings Slam dürften damit für den Südtiroler ausfallen.",
-          "text": "Laut Sky Sport Italia wird Jannik Sinner am Dienstag vom Spezialisten Lasse Lempainen am Knie operiert. Ein genauer Zeitplan fehlt, erwartet wird eine Pause von mindestens drei Monaten. Eine Rückkehr gilt erst zur Sandplatzsaison ab April in Monte-Carlo als realistisch.",
+          "titel": "Bayern ohne Olise nach Lille",
+          "satz": "Der Franzose fällt mit einer Prellung am Vorfuß aus, dafür steht Luis Díaz wieder im Kader.",
+          "text": "Der FC Bayern reist stark dezimiert zum Champions-League-Spiel am Mittwoch um 21 Uhr beim OSC Lille. Neben Olise fehlen Neuer, Kane, Davies, Saibari und Gnabry. Kompany muss im Angriff improvisieren, im Gespräch ist eine junge Offensive um Lennart Karl.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/champions-league/2026/11/fc-bayern-verkundet-olise-entscheidung",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "Sinner am Knie operiert",
+          "satz": "Nach dem Eingriff in Turku rechnet sein Arzt mit rund drei Monaten Pause.",
+          "text": "Jannik Sinner wurde am Dienstag in Finnland am rechten Knie operiert, dabei wurde das Iliotibialband verlängert. Laut Arzt Herbert Schönhuber ist das die schonendste Lösung für die anhaltenden Knieprobleme. Ein Start bei den Australian Open ab 17. Jänner ist damit praktisch ausgeschlossen.",
           "quelle": "tennisnet",
-          "url": "https://www.tennisnet.com/news/operation-jannik-sinner-faellt-noch-laenger-aus",
-          "datum": "2026-11-23"
+          "url": "https://www.tennisnet.com/news/australian-open-wohl-kein-thema-jannik-sinner-erfolgreich-operiert",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "ÖSV hofft nach Gurgl auf Schub in Nordamerika",
-          "satz": "Nach sechs Weltcuprennen hat Österreich erst einen Podestplatz: Truppe als Dritte in Levi.",
-          "text": "Beim Heimweltcup in Gurgl siegte Timon Haugan vor Eirik Hystad Solberg im Slalom, Michael Matt wurde trotz Infekts Fünfter. Weiter geht es am 28. und 29. November mit Super-G und Riesentorlauf der Herren in Copper Mountain. Die Damen fahren zeitgleich Riesentorlauf und Slalom in Killington.",
+          "titel": "ÖSV fixiert Aufgebot für Copper Mountain",
+          "satz": "Patrick Feurstein holte sich das letzte Ticket für den Super-G am Samstag.",
+          "text": "Der ÖSV schickt zehn Läufer in den Super-G am Samstag, darunter Kriechmayr, Haaser und Schwarz. Am Sonntag folgt in Copper Mountain ein Riesentorlauf mit sechs Österreichern, unter ihnen Brennsteiner. Beide Rennen zeigt ORF1 live.",
           "quelle": "sport.ORF.at",
-          "url": "https://sport.orf.at/stories/3165328",
-          "datum": "2026-11-23"
+          "url": "https://sport.orf.at/stories/3165368",
+          "datum": "2026-11-24"
         },
         {
-          "titel": "RB Leipzig steht gegen Lens unter Zugzwang",
-          "satz": "Leipzig hat nach vier Champions-League-Spielen erst drei Punkte, Anpfiff ist am Dienstag um 21 Uhr.",
-          "text": "Lens hat seit dem 13. November mit Didier Digard bereits den dritten Cheftrainer der Saison und verlor in der Champions League zuletzt 1:9 gegen Como. Leipzig stellt mit 32 Toren die beste Bundesliga-Offensive. Amadou Haidara kehrt erstmals als Lens-Spieler nach Leipzig zurück.",
-          "quelle": "Sportschau",
-          "url": "https://www.sportschau.de/regional/mdr/rb-leipzig-rc-lens-champions-league,rbl-lens-102.html",
-          "datum": "2026-11-23"
+          "titel": "Matthäus warnt Bayern vor Zerreißprobe",
+          "satz": "Auslöser sind Rummenigges öffentliche Zweifel an Musialas Leistungsfähigkeit nach dem Köln-Spiel.",
+          "text": "Rummenigge hatte nach dem 1:1 gegen Köln Musialas Leistungsfähigkeit infrage gestellt und mögliche Vertragsanpassungen angesprochen. Lothar Matthäus sieht darin einen Schaden für alle, vor allem für den Spieler. Er fordert eine schnelle Lösung im Sinne von Verein und Spieler.",
+          "quelle": "Sport1",
+          "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/musiala-matthaeus-warnt-vor-zerreissprobe-beim-fc-bayern",
+          "datum": "2026-11-24"
         }
       ],
-      "hinweis": "Sport1-Startseite verlangte Freigabe; per Suche auf sport1.de keine Bayern-Meldung der letzten 24 h (Spiel in Lille am 25.11.), daher 3 Meldungen. Ersatz: tennisnet, sport.ORF.at, Sportschau."
+      "hinweis": "Sport1-Startseite verlangte Freigabe (nicht beantwortet), Artikel über Suche gefunden. Ersatzquellen: tennisnet, sport.ORF. RB Leipzig gegen Lens wird erst heute um 21 Uhr gespielt, noch kein Ergebnis."
     },
     "steuern": {
       "titel": "Steuern",
       "items": [
         {
-          "titel": "Haushaltsgesetz: Lega schlägt Steuerstreit-Vergleich vor",
-          "satz": "Rund 1.700 der 6.581 Änderungsanträge wurden gestrichen, darunter die Wiedereröffnung der Rottamazioni.",
-          "text": "Der condono delle liti pendenti sähe je nach Verfahrensstand Zahlungen von 5 bis 100 Prozent des Streitwerts vor, fällig bis 31.07.2027. Im Ausschuss gab es grünes Licht für den ravvedimento speciale für ISA-Betriebe mit CPB 2026–2027. Über Einsprüche gegen die Streichungen sollte am 24. November entschieden werden.",
+          "titel": "E-Rechnung: neue Spezifikationen 1.10",
+          "satz": "Die Agenzia delle Entrate veröffentlichte am 20. November die Version 1.10 für 2027.",
+          "text": "Die Spezifikationen bringen Verweise auf das neue Testo unico IVA (D.Lgs. 10/2026) und den Code RF21 für das Pauschalregime von ODV und APS. Die Normen gelten ab 1. Jänner 2027, nutzbar ist die Version ab 11. Jänner. Softwarehäuser und Rechnungsaussteller sollten ihre Programme prüfen.",
+          "quelle": "FiscoeTasse",
+          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4831-fattura-elettronica-2027-nuove-specifiche-tecniche-110.html",
+          "datum": "2026-11-23"
+        },
+        {
+          "titel": "IVA-Erstattung bei Scheingeschäften möglich",
+          "satz": "Laut Cassazione (ordinanza 28368/2026) muss nachgewiesen werden, dass dem Fiskus kein Schaden droht.",
+          "text": "Zu Unrecht in Rechnung gestellte IVA kann trotz nicht existierender Umsätze oder begünstigter Streitbeilegung (definizione agevolata) erstattet werden. Voraussetzung ist der Nachweis, dass kein Steuerausfall (danno erariale) entsteht. Relevant für Unternehmen mit IVA-Bescheiden wegen fiktiver Rechnungen.",
           "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/manovra-fine-rottamazioni-mai-e-spunta-il-condono-delle-liti-fiscali-pendenti-j0y820yc",
-          "datum": "2026-11-24"
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/iva-su-operazioni-inesistenti-non-sempre-e-possibile-il-rimborso-aiarcdyk",
+          "datum": "2026-11-22"
         },
         {
-          "titel": "Neue Steuercodes für Vorauszahlung großer Energiekonzerne",
-          "satz": "Die risoluzione n. 46 vom 23. November 2026 führt die Codes 1062 und 1071 ein.",
-          "text": "Mit Code 1062 zahlen große Energiekonzerne vorab einen Betrag in Höhe der Quellen- und Ersatzsteuern auf Gewinnausschüttungen (Art. 2-bis DL 133/2026), jährlich bis 30. November per F24 ELIDE. Erstmals betroffen sind vor dem 27.08.2026 beschlossene, nach dem 31.12.2026 ausgezahlte Dividenden. Code 1071 dient der Verrechnung der Steuergutschriften im normalen F24.",
-          "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Articolo.aspx?ID=1132659",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "Impatriati: Auch Auslandsdienstreisen können begünstigt sein",
-          "satz": "Die Agenzia delle Entrate bestätigt dies in der risposta n. 226 vom 23. November 2026.",
-          "text": "Voraussetzung für das Regime nach Art. 5 D.Lgs. 209/2023 ist, dass die Tätigkeit überwiegend in Italien ausgeübt wird. Die Agentur verweist auf die circolare n. 33/2020: Begünstigt bleibt Auslandstätigkeit unter 183 Tagen im Jahr. Ein Jahr mit überwiegender Auslandstätigkeit beendet das Regime nicht für die übrigen Steuerjahre.",
+          "titel": "Ex-Gesellschafter: Bescheid braucht eigene Begründung",
+          "satz": "Cassazione (ordinanza 29489/2026): Verweis auf den Gesellschaftsbescheid reicht nach Anteilsverkauf nicht.",
+          "text": "Bei Srl mit wenigen Gesellschaftern (ristretta base) werden vermutete Gewinnausschüttungen den Gesellschaftern zugerechnet. Wer seine Anteile vor Zustellung des Bescheids an die Gesellschaft verkauft hat, muss Inhalt und Gründe im eigenen Bescheid erfahren. Hier fiel eine Forderung über 213.000 Euro.",
           "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/impatriati-agevolabili-le-somme-corrisposte-per-attivita-prestata-in-trasferta-allestero-mja8nidm",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "Musik-Verwertungsgesellschaft gilt steuerlich als neutral",
-          "satz": "Das stellt die Agenzia delle Entrate in der risposta a interpello n. 227 vom 23. November klar.",
-          "text": "Die Antwort betrifft die steuerliche Behandlung von Vergütungen aus Urheberrechten im Musikbereich. Die Zahlungen gelten als direkt von den Schuldnern an die Berechtigten geleistet. Das ist auch für die Territorialität maßgeblich, also für die Frage der Steuerpflicht in Italien.",
-          "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Articolo.aspx?ID=1132652",
-          "datum": "2026-11-24"
+          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/irpef-senza-avviso-allimpresa-accertamento-sullex-socio-ko-req8h7z2",
+          "datum": "2026-11-19"
         }
       ],
-      "hinweis": "Agenzia delle Entrate und FiscoOggi nicht lesbar (Freigabe bzw. client_error), Il Sole Norme e Tributi gesperrt, IPSOA client_error. Ersatz: ItaliaOggi, Eutekne. Amtliche Quellen direkt 0 von 4; drei Meldungen betreffen amtliche Akte (risoluzione 46, risposte 226 und 227)."
+      "hinweis": "Hauptquellen nicht lesbar: Agenzia-Entrate-Portal und FiscoOggi (Freigabe nicht beantwortet bzw. Abruffehler), ebenso IPSOA. Ersatz: FiscoeTasse, ItaliaOggi. Amtliche Quellen: 0 von 3 direkt; die E-Rechnungs-Meldung beruht auf einer Veröffentlichung der Agenzia delle Entrate. Letzte Meldung ist 5 Tage alt."
     }
   }
 }
