@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:05:13+01:00",
+  "updated": "2026-11-25T18:52:32+01:00",
   "zitat": {
     "text": "Wer so reich stirbt, stirbt in Schande.",
     "original": "The man who dies thus rich dies disgraced.",
@@ -93,305 +93,297 @@
       "titel": "Internationale Politik",
       "items": [
         {
-          "titel": "EU-Sanktionen sollen auch Gerhard Schröder treffen",
-          "satz": "EU-Bürger sollen künftig keine Posten in Gremien russischer Unternehmen mehr besetzen dürfen.",
-          "text": "Das 22. Sanktionspaket der EU-Kommission würde Altkanzler Schröder zwingen, sein Aufsichtsratsmandat bei Hyperglobus aufzugeben. Zudem sollen rund 60 weitere russische Banken von Swift ausgeschlossen und über 70 Schiffe der Schattenflotte gelistet werden. Die Mitgliedstaaten wollen sich bis Weihnachten einigen.",
+          "titel": "USA kündigen neue Zölle gegen EU an",
+          "satz": "Washington begründet die Abgaben mit Überkapazitäten; für die EU soll die 15-Prozent-Obergrenze gelten.",
+          "text": "Nach einer achtmonatigen Untersuchung kündigte das Büro des US-Handelsbeauftragten neue Zölle gegen die EU und 13 weitere Handelspartner an. Betroffen sind auch die Schweiz, Japan, Südkorea und China, für das 20 Prozent vorgesehen sind. Wegen einer Anhörungsfrist könnten die Zölle erst im Januar greifen.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/eu-neue-russland-sanktionen-treffen-altkanzler-gerhard-schroeder/100272497.html",
-          "datum": "2026-11-24"
+          "url": "https://www.handelsblatt.com/politik/international/usa-neue-zoelle-gegen-eu-und-13-weitere-handelspartner/100272736.html",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Droni russi a reazione, nuova minaccia per Kiev",
-          "satz": "Secondo Kiev i nuovi Geran possono avvicinarsi ai 1.000 km/h, mettendo in difficoltà gli intercettori.",
-          "text": "Nella notte tra il 17 e il 18 novembre l'Ucraina ha rilevato 141 droni, di cui 73 a reazione. I modelli più veloci rendono meno efficaci gli intercettori economici e costringono a usare più missili. Il rischio si estende al Golfo, al Mar Rosso, alla Libia e al fianco orientale della Nato.",
+          "titel": "La Libia porta l'Ucraina alla Corte dell'Aja",
+          "satz": "Tripoli valuta un ricorso contro Kiev per l'attacco a due navi russe nel porto di Bengasi.",
+          "text": "La Libia valuta un ricorso alla Corte internazionale di giustizia contro l'Ucraina, accusata di aver violato la sovranità libica. Il caso nasce dall'attacco ucraino a due navi russe a Bengasi, porto controllato dalle forze di Haftar; Kiev invoca la legittima difesa. Tajani ha detto che Roma non era stata informata.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/new-super-drones-loom-over-ukraine-libya-and-the-gulf-AJGRweRC",
-          "datum": "2026-11-24"
+          "url": "https://en.ilsole24ore.com/art/libya-takes-ukraine-to-the-international-court-of-justice-our-sovereignty-has-been-violated-AJiVFyRC",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Magyar da Zelensky: nuova fase Ungheria-Ucraina",
-          "satz": "Il premier ungherese ha scelto la Transcarpazia per la sua prima visita ufficiale nel Paese vicino.",
-          "text": "Péter Magyar ha incontrato Volodymyr Zelensky a Uzhhorod, parlando di un nuovo capitolo nei rapporti tra Budapest e Kiev. Al centro dei colloqui la tutela della minoranza ungherese in Ucraina. Magyar ha incontrato anche i rappresentanti della comunità ungherese locale.",
+          "titel": "Iran: nessun negoziato senza sette condizioni",
+          "satz": "Il negoziatore Ghalibaf esclude trattative con Washington finché Teheran non otterrà quanto chiede.",
+          "text": "Tra le sette condizioni iraniane figurano lo sblocco dei beni congelati, la revoca delle sanzioni e la fine del blocco navale americano. Intanto nello Stretto di Hormuz sono passate solo due navi in 24 ore, contro una media di 60.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/ukraine-latest-news-russian-drone-invades-polish-airspace-zelenskyy-says-we-will-receive-swedish-gripen-fighter-jets-in-january-AJkSAuQC",
+          "url": "https://en.ilsole24ore.com/art/war-latest-news-al-jazeera-israeli-drone-strikes-police-station-in-gaza-three-dead-AJlV8zQC",
           "datum": "2026-11-24"
         },
         {
-          "titel": "Xi lässt Shanghais Parteichef Chen Jining fallen",
-          "satz": "Gegen das Politbüromitglied wird wegen schwerer Verstöße gegen Gesetze und Parteidisziplin ermittelt.",
-          "text": "Chen ist das vierte 2022 gewählte Politbüromitglied, gegen das ermittelt wird. Damit weitet Xi Jinping seine Antikorruptionskampagne bis in die Parteispitze aus. Das aktive Politbüro schrumpft auf 20 Mitglieder, so wenige wie seit 1994 nicht mehr.",
-          "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/china-xi-laesst-den-maechtigen-parteichef-von-shanghai-fallen/100272476.html",
+          "titel": "Houthi colpiscono di nuovo un grattacielo a Riad",
+          "satz": "È il secondo attacco in meno di una settimana contro la torre del fondo sovrano saudita.",
+          "text": "L'attacco ha colpito la torre che ospita il fondo d'investimento pubblico saudita (PIF), già danneggiata la settimana scorsa. La protezione civile saudita parla di 11 feriti; responsabili sono ritenuti gli Houthi, alleati dell'Iran. Il segretario di Stato americano Rubio ha condannato gli attacchi a infrastrutture civili ed energetiche saudite.",
+          "quelle": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/war-latest-news-al-jazeera-israeli-drone-strikes-police-station-in-gaza-three-dead-AJlV8zQC",
           "datum": "2026-11-24"
         }
       ],
-      "hinweis": "Spiegel, NZZ, Süddeutsche, Economist: Morgen-Test ohne Freigabe (nicht erreichbar). Il-Sole-Rubrikseite verlangte Freigabe, Artikel per Suche gefunden. Ersatz: Handelsblatt."
+      "hinweis": "Spiegel, NZZ, Süddeutsche, Economist im Abendlauf übersprungen (gesperrt). Il Sole über en.ilsole24ore.com (Rubrikseite nur über Suche erreichbar); Meldungen 3 und 4 aus demselben Il-Sole-Liveticker. Ersatz: Handelsblatt."
     },
     "wirtschaft": {
       "titel": "Wirtschaft",
       "items": [
         {
-          "titel": "Borse giù per i dubbi sull'IA, Milano -1,8%",
-          "satz": "Nvidia perde oltre il 7% e a Piazza Affari soffrono i titoli tecnologici e Stellantis.",
-          "text": "Pesano i dubbi sulla redditività degli investimenti nell'intelligenza artificiale e le voci su nuovi dazi Usa. A Milano lo spread Btp-Bund sale a 109 punti. Intanto è partita l'Opa di Intesa Sanpaolo su Mps, che si chiuderà il 22 gennaio.",
+          "titel": "Ue verso la chiusura della procedura sul deficit",
+          "satz": "Bruxelles conferma che l'Italia potrebbe uscirne l'anno prossimo, ma vigila sulla manovra.",
+          "text": "La Commissione europea ha confermato che l'Italia potrebbe lasciare la procedura per deficit eccessivo, con un deficit stimato al 2,9% del Pil nel 2026. Bruxelles segue però il dibattito parlamentare sulla manovra: uno scostamento significativo imporrebbe una nuova valutazione. Molti emendamenti puntano a ridimensionare la tassa su chi lascia il Paese.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/stock-markets-futures-positive-massive-rally-nasdaq-crude-oil-fall-AJBRZxQC",
+          "url": "https://en.ilsole24ore.com/art/eu-commission-set-to-close-excessive-deficit-procedure-against-italia-but-watch-out-for-the-budget-AJfUfDRC",
           "datum": "2026-11-24"
         },
         {
-          "titel": "US-Geschworene sprechen Huawei schuldig",
-          "satz": "Der Schuldspruch umfasst zehn von zwölf Punkten, darunter Bankbetrug, Sanktionsverstöße und Diebstahl von Geschäftsgeheimnissen.",
-          "text": "Nach elf Wochen Prozess in Brooklyn steht das Strafmaß noch aus. Huawei weist die Vorwürfe zurück und kündigt rechtliche Schritte an. Der Fall geht auf die Festnahme von Finanzchefin Meng Wanzhou 2018 in Kanada zurück; die USA sehen Huawei als Sicherheitsrisiko.",
-          "quelle": "ORF",
-          "url": "https://orf.at/stories/3449192",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "Sanofi compra Insmed per 41 miliardi di dollari",
-          "satz": "È la maggiore acquisizione del gruppo farmaceutico francese dai tempi di Aventis, nel 2004.",
-          "text": "Sanofi offre 175 dollari per azione, con un premio di circa il 17,5%, e pagherà con debito e liquidità. La chiusura è prevista nel primo semestre 2027. Secondo Jefferies l'accordo aiuta a compensare la perdita dell'esclusiva sul Dupixent nel 2031-2032.",
+          "titel": "Stellantis guida Piazza Affari, Parigi sale",
+          "satz": "In apertura Stellantis guadagna il 3%, mentre a Parigi corrono i titoli del lusso.",
+          "text": "Alle 9:30 il Ftse Mib era sostanzialmente invariato (-0,03%), con Stellantis in testa ai rialzi. Parigi saliva dell'1% grazie al lusso, con Moncler a +2,5%. Il future sul Nasdaq perdeva invece l'1,9% in attesa dei dati macro americani.",
           "quelle": "Il Sole 24 Ore",
-          "url": "https://en.ilsole24ore.com/art/in-paris-sanofi-is-making-a-name-for-itself-thanks-to-the-acquisition-of-insmed-AJvXFDRC",
-          "datum": "2026-11-24"
+          "url": "https://en.ilsole24ore.com/radiocor/nRC_25.11.2026_09.30_19410194",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "VW-Tarifstreit: IG Metall droht mit Arbeitskampf",
-          "satz": "Laut Gewerkschaft könnten die VW-Löhne je nach Tätigkeit um mehr als 20 Prozent sinken.",
-          "text": "Die erste Tarifrunde in Emden endete nach rund 90 Minuten ohne Annäherung. VW hält an den Sparforderungen fest, um möglichst viele Industriejobs zu sichern. Die IG Metall lehnt ab und bringt einen Arbeitskampf ab Januar ins Spiel; die Löhne fielen sonst unter den Flächentarif.",
+          "titel": "Koalition verschiebt Steuerreform wohl ins Jahr 2027",
+          "satz": "Union und SPD blockieren sich; Reichensteuer und Entlastungen könnten erst im neuen Jahr kommen.",
+          "text": "Vor Weihnachten sollten mehrere Reformen beschlossen werden, darunter Klingbeils Einkommensteuerreform. Die Union will sie nur zusammen mit der Arbeitsmarktreform verabschieden, doch dafür ist die reguläre Frist in diesem Jahr abgelaufen. Laut Koalitionskreisen ist keine Einigung in Sicht.",
           "quelle": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-ig-metall-rechnet-vor-wie-tief-die-vw-gehaelter-fallen-koennten/100272475.html",
-          "datum": "2026-11-24"
+          "url": "https://www.handelsblatt.com/politik/deutschland/steuern-koalition-wird-steuerreform-wohl-verschieben-das-sind-die-folgen/100272614.html",
+          "datum": "2026-11-25"
+        },
+        {
+          "titel": "Dax rutscht unter 25.000 Punkte",
+          "satz": "Nach dem Rückschlag vom Dienstag gibt der Leitindex erneut nach, Anleger fürchten schwaches Wachstum.",
+          "text": "Am Mittag lag der Dax rund 0,5 Prozent im Minus und knapp unter 25.000 Punkten. Am Dienstag war er um 1,3 Prozent gefallen, die Erholung nach Huangs Rückkehr zu Nvidia blieb kurz. Im Fokus stehen US-Inflationsdaten und eine EZB-Sitzung zu Mindestreserven.",
+          "quelle": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-rutscht-unter-25.000-punkte-marke/100272589.html",
+          "datum": "2026-11-25"
         }
       ],
-      "hinweis": "NZZ, Süddeutsche, Economist, WSJ: Morgen-Test ohne Freigabe (nicht erreichbar). Il-Sole-Rubrikseiten per Suche erreicht. Ersatz: ORF, Handelsblatt."
+      "hinweis": "NZZ, Süddeutsche, Economist, WSJ im Abendlauf übersprungen (gesperrt). Il Sole über en.ilsole24ore.com; Ersatz: Handelsblatt (nur frei sichtbarer Text)."
     },
     "wissenschaft": {
       "titel": "Wissenschaft",
       "items": [
         {
-          "titel": "K.-o.-Tropfen künftig 48 Stunden nachweisbar",
-          "satz": "Ein Abbauprodukt im Blut verrät GHB deutlich länger als bisher, der Test könnte bald eingesetzt werden.",
-          "text": "Zwei Studien zeigen, dass ein an Zucker gebundenes GHB-Molekül noch 48 Stunden nach der Einnahme nachweisbar ist. Bisher verschwindet GHB nach etwa sechs Stunden aus dem Blut. Der Freiburger Toxikologe Volker Auwärter spricht von einem Durchbruch und will die Methode in Verdachtsfällen binnen Wochen einführen.",
+          "titel": "Druck auf Gletscher wächst weltweit",
+          "satz": "Zwei Studien mit österreichischer Beteiligung zeigen eine zuletzt beschleunigte Gletscherschmelze.",
+          "text": "An 229 untersuchten Anden-Gletschern lag die Gletschergrenze 2024 rund 120 Meter weiter bergauf als vor 40 Jahren. Eine zweite Studie zeigt, dass Seen, in die Gletscher münden, die Schmelze zusätzlich beschleunigen können.",
           "quelle": "science.ORF.at",
-          "url": "https://science.orf.at/stories/3238317/",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "Wie Homo sapiens die Neandertaler verdrängte",
-          "satz": "Laut 15.520 Simulationen hinderten Neuankömmlinge geschrumpfte Neandertaler-Gruppen an der Erholung.",
-          "text": "Cambridge-Forscher kombinierten Klima-, Fund- und Bevölkerungsdaten aus Europa vor 55.000 bis 27.000 Jahren. Ohne moderne Menschen starben Neandertaler nur in rund zwei Prozent der Läufe aus. Entscheidend war die Größe der Sapiens-Population; Klimaverschlechterung und geringe Mobilität verschärften das Risiko.",
-          "quelle": "scinexx",
-          "url": "https://www.scinexx.de/news/archaeologie/so-koennten-moderne-menschen-die-neandertaler-ins-aussterben-getrieben-haben/",
+          "url": "https://science.orf.at/stories/3238331/",
           "datum": "2026-11-24"
         },
         {
-          "titel": "Angst vor Demenz so groß wie nie",
-          "satz": "Zugleich leben die Deutschen laut DAK-Umfrage gesünder: mehr Bewegung, bewusstere Ernährung, mehr Impfungen.",
-          "text": "In der Forsa-Umfrage für die DAK fürchten 70 Prozent Krebs, 57 Prozent Demenz und 39 Prozent psychische Erkrankungen, die beiden letzten Werte sind Rekorde seit 2010. Bei 14- bis 29-Jährigen liegen psychische Leiden mit 61 Prozent vorn. Die Kasse sieht darin ein Signal an das Gesundheitswesen.",
-          "quelle": "Spektrum der Wissenschaft",
-          "url": "https://www.spektrum.de/news/neue-umfrage-mehr-menschen-haben-angst-vor-krankheit/2355604",
+          "titel": "Pockenvirus-Kern erstmals in 3-D entschlüsselt",
+          "satz": "Forschende des ISTA zeigen den Viruskern mit einer Auflösung unter einem Nanometer.",
+          "text": "Das Team um Florian Schur bildete den Kern des Vacciniavirus ab, die Schaltzentrale der Infektion. Die viralen RNA-Polymerasen liegen darin paarweise vor und trennen sich erst in der Wirtszelle. Die in „Nature“ veröffentlichten Ergebnisse könnten neue antivirale Medikamente ermöglichen.",
+          "quelle": "science.ORF.at",
+          "url": "https://science.orf.at/stories/3238328/",
           "datum": "2026-11-23"
         },
         {
-          "titel": "Gesellige Delfine leben offenbar länger",
-          "satz": "Forscher werteten fast 65.000 Beobachtungen von 457 Delfinen in der australischen Shark Bay aus.",
-          "text": "Delfine mit stabilen, geselligen Gewohnheiten blieben länger in der Population, berichtet ein Team der University of Queensland in PLOS Biology. Mit dem Alter schrumpfen die Gruppen, bei Männchen stärker. Ob Geselligkeit das Leben verlängert oder Kranke einfach seltener mithalten, ist offen.",
+          "titel": "Schweif des Sonnensystems folgt dem Sonnenzyklus",
+          "satz": "Vier Regionen im Heliosphären-Schweif verschieben sich mit rund drei Jahren Verzögerung.",
+          "text": "Ein Team des Southwest Research Institute wertete 14 Jahre Daten der Sonde IBEX aus. Die Signale aus dem Schweif der Heliosphäre wurden bis 2016 schwächer und erholten sich bis 2022 teilweise. Zwischenzeitlich sank die Intensität auf rund 42 Prozent.",
+          "quelle": "scinexx",
+          "url": "https://www.scinexx.de/news/kosmos/der-schweif-des-sonnensystems-veraendert-sich-im-sonnenzyklus/",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "Zwei neue Panzer-Bärtierchen vom Tiefseeberg",
+          "satz": "Die Arten leben in rund 100 Metern Tiefe am Senghor-Seamount nahe den Kapverden.",
+          "text": "Forschende von Senckenberg am Meer beschreiben die Arten in der Fachzeitschrift ZooKeys. Eine Art hat seltene Genitalstacheln, die andere behält kindliche Merkmale im Erwachsenenalter. Am Berg fanden sich 20 Bärtierchen-Gruppen, in Vergleichsproben aus der Tiefsee nur zwei.",
           "quelle": "Spektrum der Wissenschaft",
-          "url": "https://spektrum.de/news/gesellige-delfine-leben-offenbar-laenger/2355654",
+          "url": "https://www.spektrum.de/news/dies-seltsamen-panzer-baertierchen-vom-tiefseeberg/2355893",
           "datum": "2026-11-24"
         }
       ],
-      "hinweis": "NZZ, heise, Süddeutsche und Spiegel gesperrt (Abruf nicht freigegeben); Ersatz: science.ORF, scinexx, Spektrum."
+      "hinweis": "NZZ, heise, Süddeutsche, Spiegel im Abendlauf übersprungen (gesperrt); Ersatz: science.ORF, scinexx, Spektrum."
     },
     "technik": {
       "titel": "Technik",
       "items": [
         {
-          "titel": "USA sperren Nvidia-Zwischenhändler Megaspeed",
-          "satz": "Sieben Firmen aus Malaysia, Singapur und Thailand kommen auf die Entity List des US-Handelsministeriums.",
-          "text": "Laut US-Behörde BIS könnten die Firmen KI-Beschleuniger an unerlaubte Nutzer umleiten; Megaspeed bestreitet das. Exportlizenzen werden künftig in der Regel verweigert, die Regel gilt ab Veröffentlichung am 25. November. Der Druck auf Nvidia steigt, Kunden und Einsatzorte genauer zu prüfen.",
-          "quelle": "ComputerBase",
-          "url": "https://computerbase.de/news/wirtschaft/nvidia-affaere-us-regierung-setzt-megaspeed-auf-entity-list.100488",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "Apple bringt vier (RED)-Produkte zurück",
-          "satz": "Rote Versionen von HomePod mini 2 und AirPods Max 2 sollen um den Welt-Aids-Tag erscheinen.",
-          "text": "Laut Bloomberg-Reporter Mark Gurman folgen dazu ein (RED)-Armband für AirPods Pro und ein Sportarmband für die Apple Watch. Geändert wird wohl nur die Farbe. Apple unterstützt mit (RED) seit 2006 den Globalen Fonds, bot die Farbe aber länger nicht an.",
+          "titel": "Apple: Was 2026 noch kommt",
+          "satz": "Erwartet werden iOS 27.3, Apple Intelligence in China und neue Smart-Home-Geräte im Dezember.",
+          "text": "MacRumors listet Apples Pläne bis Jahresende. Laut Mark Gurman erscheinen rote Sondermodelle wie AirPods Max 2 und HomePod mini 2 um den 1. Dezember. Die Black-Friday-Aktion läuft vom 27. bis 30. November, iOS 27.3 soll im Dezember folgen.",
           "quelle": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/",
-          "datum": "2026-11-24"
+          "url": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Speicherkrise: Samsung erwägt Uhren-Pause 2027",
-          "satz": "Die Galaxy Watch 10 könnte sich verschieben, Samsung prüft einen Zwei-Jahres-Rhythmus.",
-          "text": "Laut südkoreanischen Berichten leidet Samsungs Mobilsparte unter Verlusten, hohe Speicherpreise drückten die Smartphone-Produktion um 20 bis 30 Prozent. Die Galaxy Watch 9 verkaufte sich schwächer als erwartet. 2027 sollen eher Software-Updates für bestehende Uhren kommen.",
+          "titel": "Hacker stehlen Kreditkartendaten bei Cleverbridge",
+          "satz": "Kopiert wurden auch Kartenprüfnummern; Betroffene werden seit dem 20. November informiert.",
+          "text": "Der Kölner Zahlungsdienstleister Cleverbridge meldet einen Datendiebstahl mit Kartennummern, Ablaufdaten und Prüfnummern. Am 4. November gingen Teile der Plattform vorübergehend vom Netz. Einbruchsweg, Dauer und Zahl der Betroffenen sind noch unbekannt.",
           "quelle": "ComputerBase",
-          "url": "https://computerbase.de/news/wearables/ramageddon-samsung-soll-galaxy-watch-10-verschieben.100469",
-          "datum": "2026-11-23"
+          "url": "https://www.computerbase.de/news/wirtschaft/koelner-bezahldienst-cleverbridge-hacker-erbeuten-kreditkartendaten-samt-pruefnummer.100504/",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Threads gibt es jetzt fürs iPad",
-          "satz": "Meta liefert die iPad-App mehr als drei Jahre nach dem Start von Threads aus.",
-          "text": "Threads-Designchef Christopher Clare kündigte die App am 23. November an, einen Tag später war sie verfügbar. Es handle sich um eine erste Version, weitere Optimierungen folgen. Instagram hatte fast 15 Jahre bis aufs iPad gebraucht.",
-          "quelle": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon/",
+          "titel": "Speicherkrise verteuert PCs und Konsolen",
+          "satz": "Festplatten kosteten im Oktober 40,8 Prozent mehr als ein Jahr zuvor, Fernseher wurden billiger.",
+          "text": "Laut Statistischem Bundesamt stiegen die Preise für Notebooks im Oktober um 14,9 Prozent, für Desktop-PCs um 13,1 und für Konsolen um 13 Prozent. Die Verbraucherpreise insgesamt legten nur um 2,8 Prozent zu. Vor dem Weihnachtsgeschäft wird Technik damit spürbar teurer.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/wirtschaft/festplatten-41-prozent-teurer-auch-pcs-konsolen-und-smartphones-legen-deutlich-zu.100493/",
           "datum": "2026-11-24"
+        },
+        {
+          "titel": "MacBook Air: Großer Umbau ab 2027 möglich",
+          "satz": "Zuerst soll im Frühjahr 2027 ein M6-Chip kommen, ein Redesign mit OLED später.",
+          "text": "Mark Gurman sagte im Podcast Power On, das aktuelle MacBook-Air-Design nähere sich seinem Ende. Für 2027 bis 2028 hält er eine große Überarbeitung für möglich, bei der OLED wohl eine Rolle spielt. 9to5Mac erwartet eine ähnliche Abfolge wie beim MacBook Pro.",
+          "quelle": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/25/major-macbook-air-overhaul-could-launch-next-year-per-gurman/",
+          "datum": "2026-11-25"
         }
       ],
-      "hinweis": "heise und CHIP gesperrt (Abruf nicht freigegeben); MacRumors plus Ersatz ComputerBase, 9to5Mac."
+      "hinweis": "heise und CHIP im Abendlauf übersprungen (gesperrt); MacRumors plus Ersatz ComputerBase, 9to5Mac."
     },
     "ki": {
       "titel": "Künstliche Intelligenz",
       "items": [
         {
-          "titel": "Riemannsche Vermutung: KI-Beweis offiziell bestätigt",
-          "satz": "Die Lean-Community prüfte den Beweis des Anthropic-Forschers Levent Alpöge und erklärte ihn für korrekt.",
-          "text": "Alpöge hatte den mit Claude erstellten Beweis am 20. November als rund 17 Millionen Zeilen Lean-Code veröffentlicht. Dutzende Personen und mehrere Prüfprogramme kamen unabhängig zum selben Ergebnis. Prognosen hatten die Lösung erst für 2035 bis 2050 erwartet.",
+          "titel": "Anthropic baut MCP für autonomere Agenten aus",
+          "satz": "Tasks und Elicitation sind allgemein verfügbar, Skills over MCP startet als Beta.",
+          "text": "Anthropic erweitert das Model Context Protocol, das Agenten mit externen Werkzeugen verbindet. Die SDKs kommen laut Anthropic auf über 700 Millionen Downloads im Monat. Datei-Uploads für Claude und Claude Code sollen bald folgen.",
           "quelle": "The Decoder",
-          "url": "https://the-decoder.de/lean-community-bestaetigt-offiziell-den-beweis-der-riemannschen-vermutung/",
-          "datum": "2026-11-22"
-        },
-        {
-          "titel": "Anthropic: KI steigert Leistung statt Stellen abzubauen",
-          "satz": "Ökonomen von Anthropic befragten 58 US-Firmen, wie sie KI im Arbeitsalltag einsetzen.",
-          "text": "Die meisten Anwendungen erhöhten den Output, Entlassungen wegen KI gab es kaum. Zwei Drittel der Firmen stellen aber weniger ein, oft durch nicht nachbesetzte Stellen. Den größten Nutzen brachte eine Neuorganisation der Arbeit.",
-          "quelle": "Anthropic",
-          "url": "https://www.anthropic.com/research/working-with-ai",
-          "datum": "2026-11-23"
-        },
-        {
-          "titel": "Insider warnen vor zu mächtigen internen Modellen",
-          "satz": "Mitarbeitende von OpenAI und Anthropic halten unveröffentlichte Spitzenmodelle für kaum noch kontrollierbar.",
-          "text": "Laut einem Axios-Bericht mit über zwei Dutzend Insidern gelten die Systeme intern als zu fähig für eine sichere Freigabe. Diskutiert werden ein Veröffentlichungsstopp oder sogar eine Trainingspause. Zugleich schwinde das Vertrauen in die Unternehmensführung.",
-          "quelle": "The Decoder",
-          "url": "https://the-decoder.de/mitarbeitende-von-anthropic-und-openai-warnen-interne-ki-modelle-werden-zu-gefaehrlich-fuer-eine-freigabe/",
+          "url": "https://the-decoder.de/anthropic-baut-model-context-protocol-fuer-autonomere-ki-agenten-aus/",
           "datum": "2026-11-24"
         },
         {
-          "titel": "Anthropic-Aktie fällt unter Ausgabepreis",
-          "satz": "Wenige Tage nach dem Rekord-Börsengang sank der Kurs um über acht Prozent auf rund 80 Dollar.",
-          "text": "Ausgegeben wurden die Aktien zu 83 Dollar, der erste Kurs lag bei 111,50 Dollar. Belastet wird der Titel von Zweifeln an den hohen Ausgaben für KI-Rechenzentren und den Verlusten des Unternehmens. Viele Mitarbeitende durften nach dem Börsengang Aktien verkaufen.",
+          "titel": "Riemann-Beweis: Forscher räumt Fehler ein",
+          "satz": "Anthropic-Forscher Levent Alpöge hält am KI-gestützten Beweis fest, korrigiert aber Angaben.",
+          "text": "Alpöge verteidigt seinen mit KI erstellten Beweis der verallgemeinerten Riemannschen Vermutung. Die kolportierten 250.000 Seiten seien als Witz gemeint gewesen, der veröffentlichte Code sei unbereinigt.",
+          "quelle": "The Decoder",
+          "url": "https://the-decoder.de/anthropic-forscher-haelt-an-ki-beweis-fuer-riemannsche-vermutung-fest-raeumt-aber-peinliche-fehler-ein/",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "SpaceX verdient mehr mit Rechenleistung als mit Grok",
+          "satz": "Anthropic zahlt laut Bericht monatlich rund 3,1 Milliarden Dollar für Rechenkapazität.",
+          "text": "Laut New York Times bringt die Vermietung von Rechenleistung SpaceX mehr ein als eigene KI-Produkte wie Grok. Neben Anthropic zahlt Google rund 800 Millionen Dollar im Monat. Das Team hinter Grok Imagine wird aufgelöst.",
+          "quelle": "ComputerBase",
+          "url": "https://www.computerbase.de/news/apps/spacex-grok-entwicklung-geraet-wegen-ki-vermietung-unter-druck.100487/",
+          "datum": "2026-11-24"
+        },
+        {
+          "titel": "Googles KI-Modus soll Drive und Wallet nutzen",
+          "satz": "Die Verknüpfung ist freiwillig und soll persönlichere Antworten in der Suche liefern.",
+          "text": "Der KI-Modus der Google-Suche soll mit Erlaubnis der Nutzer auf Drive, Wallet und die Gemini-App zugreifen. In der Wallet darf die KI nur lesen, aber kein Geld bewegen. Die Funktion ist vorerst nur in den USA verfügbar.",
           "quelle": "t3n",
-          "url": "https://t3n.de/news/ist-der-anthropic-boom-schon-wieder-vorbei-aktie-faellt-unter-den-ausgabepreis-1775067",
+          "url": "https://t3n.de/news/google-verknuepft-ki-modus-drive-1775003/",
           "datum": "2026-11-24"
         }
       ],
-      "hinweis": "heise gesperrt (Abruf nicht freigegeben); Anthropic plus Ersatz The Decoder, t3n."
+      "hinweis": "heise im Abendlauf übersprungen (gesperrt). Anthropic: keine neue eigene Meldung seit dem Vorlauf (Studie „Working with AI“ vom 23.11. bereits gebracht); Ersatz: The Decoder, ComputerBase, t3n."
     },
     "suedtirol": {
       "titel": "Südtirol",
       "items": [
         {
-          "titel": "Siegesdenkmal wird bis 2028 restauriert",
-          "satz": "Das Kulturministerium in Rom finanziert die Arbeiten, ein Ausführungsprojekt soll bis Jahresende vorliegen.",
-          "text": "Das Bozner Siegesdenkmal ist teils in schlechtem Zustand: Eine Marmorplatte fehlt, Feuchtigkeit dringt ein. Geplant sind neue Verankerungen, dichte Rinnen und eine digitale Überwachung, auch wegen der Tiefgarage am Siegesplatz. Heimatbund und Süd-Tiroler Freiheit kritisieren den Einsatz öffentlicher Gelder.",
+          "titel": "Landesbedienstete bekommen Abfertigung binnen 90 Tagen",
+          "satz": "Das Land streckt die Summe vor und holt sich den INPS-Anteil später zurück.",
+          "text": "Statt bisher zwölf bis 24 Monate warten Landesbedienstete künftig höchstens 90 Tage nach Dienstaustritt auf ihre Abfertigung, ausbezahlt in einer Rate. Personallandesrätin Magdalena Amhof stellte das Modell vor. Für den Start und den Abbau der Warteliste stehen 61,65 Millionen Euro bereit.",
           "quelle": "Südtirol News",
-          "url": "https://www.suedtirolnews.it/politik/siegesdenkmal-steht-vor-erneuter-restaurierung",
-          "datum": "2026-11-24"
+          "url": "https://www.suedtirolnews.it/politik/abfertigung-in-90-tagen-land-startet-mit-auszahlungen",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Mahnwache gegen Rüstungsabkommen der Unibz",
-          "satz": "Studierende protestierten am Bozner Universitätsplatz unter dem Motto „Restiamo civili“.",
-          "text": "Der Protest richtet sich gegen ein Rahmenabkommen der Freien Universität Bozen mit der Nationalen Rüstungsdirektion. Landeshauptmann Kompatscher distanzierte sich nicht und sprach von Verteidigung. Unibz-Präsident Giudiceandrea betont, jedes Einzelprojekt werde ethisch geprüft.",
+          "titel": "Nach dem Frauenhaus fehlt oft eine Wohnung",
+          "satz": "Laut ASTAT fand nur jede fünfte Frau danach eine eigene Mietwohnung.",
+          "text": "2025 wandten sich in Südtirol 838 Frauen wegen Gewalt an Beratungsstellen. Mehr Frauen kehrten zum Täter zurück, als eine neue Wohnung fanden. Die Frauenhausdienste nennen fehlenden leistbaren Wohnraum als größtes Hindernis.",
+          "quelle": "UnserTirol24",
+          "url": "https://www.unsertirol24.com/2026/11/25/nur-jede-fuenfte-frau-findet-nach-dem-frauenhaus-eine-eigene-wohnung/",
+          "datum": "2026-11-25"
+        },
+        {
+          "titel": "Sonntagsöffnung: Vorerst bleiben die alten Regeln",
+          "satz": "Land, Gewerkschaften und Handel haben Gespräche über Öffnungszeiten an Sonn- und Feiertagen begonnen.",
+          "text": "Am 23. November trafen sich in Bozen Gewerkschaften, Wirtschaftsverbände und Einzelhandel mit dem Land. Wirtschaftslandesrat Galateo warnt, eine generelle Schließung könne Betriebe gefährden. Bis eine Durchführungsbestimmung vorliegt, gelten die bisherigen Vorschriften weiter.",
+          "quelle": "UnserTirol24",
+          "url": "https://www.unsertirol24.com/2026/11/25/fuer-sonn-und-feiertage-gelten-weiter-die-bisherigen-oeffnungsregeln/",
+          "datum": "2026-11-25"
+        },
+        {
+          "titel": "Landtag: Gemeinsam gegen Gewalt an Frauen",
+          "satz": "Ein fraktionsübergreifender Beschlussantrag setzt auf Täterarbeit, Prävention und Aufklärung.",
+          "text": "Mehrheit und Opposition im Landtag wollen gemeinsam gegen Gewalt an Frauen vorgehen. Der Antrag wurde einen Tag vor dem Internationalen Tag gegen Gewalt an Frauen vorgestellt. Er sieht mehr Arbeit mit Tätern, Vorbeugung und Aufklärung vor.",
           "quelle": "salto.bz",
-          "url": "https://salto.bz/de/article/24112026/verteidigung",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "IDM: Exporte seit 2019 um 52 Prozent gestiegen",
-          "satz": "Zum zehnjährigen Bestehen zieht die Standortagentur Bilanz: rund 6.500 Projekte mit über 5.500 Unternehmen.",
-          "text": "IDM Südtirol betreute seit 2020 zudem 1.627 Aussteller auf 133 Messen in zwölf Ländern. Die Marke Südtirol wurde von einer Urlaubs- zu einer Regionenmarke ausgebaut. Drei Jubiläums-Salons sollen nun über die Zukunft des Landes diskutieren.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/24/6-500-projekte-in-sechs-jahren-idm-blickt-auf-ein-jahrzehnt-zurueck/",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "Winterschlussverkauf beginnt am 5. Jänner",
-          "satz": "In 15 Tourismusorten startet der Schlussverkauf erst am 13. Februar und dauert bis 13. März.",
-          "text": "In den meisten Gemeinden läuft der Winterschlussverkauf vom 5. Jänner bis 2. Februar 2027, drei Tage früher als im Vorjahr und zeitgleich mit dem Staat. Die Handelskammer legte die Termine fest, der hds begrüßt sie. Der Sommerschlussverkauf startet am 16. Juli 2027.",
-          "quelle": "UnserTirol24",
-          "url": "https://www.unsertirol24.com/2026/11/24/winterschlussverkauf-startet-am-5-jaenner-tourismusorte-spaeter/",
+          "url": "https://salto.bz/de/article/24112026/landtag-maenner-gegen-gewalt-gegen-frauen",
           "datum": "2026-11-24"
         }
       ],
-      "hinweis": "salto.bz-Startseite, Rai Südtirol und stol.it nicht abrufbar (Freigabe nicht erteilt); Ersatz: Südtirol News, UnserTirol24, ein salto-Artikel über Suche."
+      "hinweis": "Rai Südtirol und stol.it im Abendlauf übersprungen (nicht lesbar). salto.bz über Suche; Ersatz: Südtirol News, UnserTirol24."
     },
     "sport": {
       "titel": "Sport",
       "items": [
         {
-          "titel": "Eberl erklärt Musiala-Debatte für beendet",
-          "satz": "Nach einem Treffen mit Musialas Beratern spricht der Bayern-Sportvorstand von einem Konsens.",
-          "text": "Hoeneß und Rummenigge hatten eine Debatte über Gehaltskürzungen wegen Musialas Erkrankung ausgelöst. Laut Eberl ging es beim Treffen nicht um Geld, man wolle dem 23-Jährigen Unterstützung geben. Vor dem Champions-League-Spiel in Lille am Mittwoch setzt Bayern auf Ruhe und Vertrauen.",
-          "quelle": "Sportschau",
-          "url": "https://www.sportschau.de/regional/br/br-eberl-beendet-gehaltsdebatte-werden-musiala-staerker-erleben-102.html",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "BVB holt 1:1 beim FC Arsenal",
-          "satz": "Maximilian Beier glich in der 55. Minute den frühen Treffer von Viktor Gyökeres aus.",
-          "text": "Dortmund steigerte sich in London nach der Pause deutlich und holte einen Punkt beim englischen Meister. Mit nun zehn Punkten hat der BVB weiter realistische Chancen auf die Top acht der Ligaphase. Arsenal steht bei elf Punkten.",
+          "titel": "Bayern in Lille ohne Kane und Olise",
+          "satz": "Der FC Bayern spielt heute um 21 Uhr in der Champions League beim OSC Lille.",
+          "text": "Die Münchner reisen mit großen Personalsorgen nach Frankreich: Neben Kane und Olise fehlen auch Neuer, Gnabry, Davies und Saibari. Trainer Kompany muss im Angriff improvisieren, Lennart Karl könnte im Sturmzentrum spielen. Das Spiel überträgt DAZN.",
           "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/champions-league/2026/11/beier-gleicht-aus-bvb-erkaempft-einen-punkt-in-london",
-          "datum": "2026-11-24"
+          "url": "https://www.sport1.de/news/fussball/champions-league/2026/11/champions-league-hier-lauft-fc-bayern-lille-heute-live-im-tv-stream-ticker",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Leipzig schlägt Lens in der Champions League",
-          "satz": "Doppeltorschütze Antonio Nusa und David Raum sorgten für den 3:1-Sieg gegen den französischen Klub.",
-          "text": "RB Leipzig führte nach neun Minuten bereits 2:0, tat sich nach der Pause aber schwerer als erwartet. Es ist der zweite Sieg der Königsklassen-Saison. Damit bleibt Leipzig im Rennen um die Play-off-Plätze.",
-          "quelle": "Sport1",
-          "url": "https://www.sport1.de/news/fussball/champions-league/2026/11/rb-leipzig-feiert-pflichtsieg-gegen-lens",
-          "datum": "2026-11-24"
+          "titel": "Federica Brignone beendet ihre Karriere",
+          "satz": "Die Doppel-Olympiasiegerin begründet den Rücktritt mit ihrer nicht ausgeheilten Beinverletzung.",
+          "text": "Die 36-jährige Italienerin gab ihren Rücktritt am Mittwoch auf Instagram bekannt. Die Folgen ihres schweren Sturzes vom April 2025 sind nicht verheilt, die Schmerzen blieben. Ein Abschiedsrennen ist geplant, der Ort steht noch nicht fest.",
+          "quelle": "ORF Sport",
+          "url": "https://sport.orf.at/stories/3165423",
+          "datum": "2026-11-25"
         },
         {
-          "titel": "Davis Cup: Tschechien erster Halbfinalist",
-          "satz": "Machac und Lehecka gewannen ihre Einzel gegen Kanada, das Doppel war nicht mehr nötig.",
-          "text": "Lehecka sicherte mit einem Zweisatzsieg über Auger-Aliassime das 2:0. Im Halbfinale am Freitag wartet der Sieger aus Italien gegen Südkorea. Tschechien hofft nach dem Billie Jean King Cup der Frauen auf das Double.",
-          "quelle": "tennisnet",
-          "url": "https://www.tennisnet.com/news/davis-cup-tschechien-loest-erstes-halbfinalticket-mit-sieg-ueber-kanada",
+          "titel": "Sinner nach Knie-OP: Comeback offen",
+          "satz": "Eine Teilnahme an den Australian Open 2027 scheint nach dem Eingriff ausgeschlossen.",
+          "text": "Bei dem kleinen Eingriff am Knie wurde laut Management das Iliotibialband behandelt, nun beginnt die Reha. Wann Sinner zurückkehrt, ist offen. Er hat seit seinem Wimbledon-Titel Mitte Juli kein Match mehr bestritten.",
+          "quelle": "ORF Sport",
+          "url": "https://sport.orf.at/stories/3165381/",
           "datum": "2026-11-24"
         }
       ],
-      "hinweis": "Sport1-Startseite nicht abrufbar (Freigabe nicht erteilt); Artikel über Suche. Ersatz: Sportschau, tennisnet. Bayern in Lille spielt erst am 25.11. Keine Ski-Meldung innerhalb 24 h gefunden."
+      "hinweis": "Sport1 über Suche erreichbar; Ersatz ORF Sport. Sportschau-Seiten lieferten falsche/alte Inhalte, tennisnet nur alte Artikel. Nur 3 passende Meldungen innerhalb 24 h."
     },
     "steuern": {
       "titel": "Steuern",
       "items": [
         {
-          "titel": "Manovra: Rottamazione-Neuauflage abgelehnt",
-          "satz": "Auch der Lega-Vorschlag zur Beilegung anhängiger Steuerstreitigkeiten (definizione liti pendenti) wurde für unzulässig erklärt.",
-          "text": "Der Haushaltsausschuss erklärte die Wiedereröffnung von rottamazione quater und quinquies mangels Deckung für unzulässig; die Lega legt Rekurs ein. Gebilligt wurde die Ausweitung des Sonderregimes auf ISA-Steuerpflichtige, die nur dem Cpb 2026-2027 beigetreten sind. Insgesamt gab es 1.028 Steueränderungsanträge zur Legge di bilancio 2027.",
-          "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/manovra-fine-rottamazioni-mai-e-spunta-il-condono-delle-liti-fiscali-pendenti-j0y820yc",
-          "datum": "2026-11-24"
-        },
-        {
-          "titel": "Energiekonzerne: Steuercodes 1062 und 1071",
-          "satz": "Die risoluzione n. 46 der Entrate regelt Vorauszahlungen auf Dividendensteuern nach Art. 2-bis DL 133/2026.",
-          "text": "Große Energiegruppen zahlen Quellensteuern und Ersatzsteuern auf Gewinnausschüttungen im Voraus mit Code 1062 über F24 ELIDE, jährlich bis 30. November. Mit Code 1071 werden die Steuerguthaben im normalen F24 verrechnet. Im ersten Jahr betrifft es nur vor dem 27.08.2026 beschlossene, nach 2026 ausgezahlte Gewinne.",
+          "titel": "Legge delega zur Reform der Commercialisti",
+          "satz": "Die L. 19 novembre 2026 n. 213 steht in der Gazzetta Ufficiale; das Umsetzungsdekret folgt.",
+          "text": "Das Ermächtigungsgesetz betrifft die Reform der Berufe dottore commercialista und esperto contabile. Die Regierung muss das decreto legislativo innerhalb eines Jahres ab Inkrafttreten erlassen.",
           "quelle": "Eutekne",
-          "url": "https://www.eutekne.info/Sezioni/Articolo.aspx?ID=1132659",
+          "url": "https://www.eutekne.info/Sezioni/Art_1132462_in_gazzetta_ufficiale_la_legge_delega_per_la_riforma_dei_commercialisti.aspx",
+          "datum": "2026-11-23"
+        },
+        {
+          "titel": "Forfettario gefährdet Impatriati-Regime nicht",
+          "satz": "Laut risposta a interpello n. 228 bleibt die Begünstigung bei Eröffnung einer Partita IVA erhalten.",
+          "text": "Die Agenzia delle Entrate stellt klar, dass die Eröffnung einer Partita IVA im regime forfetario dem regime degli impatriati nicht entgegensteht. Die Antwort stammt vom 24. November 2026.",
+          "quelle": "Eutekne",
+          "url": "https://www.eutekne.info/Sezioni/Art_1132790_aprire_la_partita_iva_da_forfetario_non_pregiudica_il_regime_degli.aspx",
           "datum": "2026-11-24"
         },
         {
-          "titel": "Impatriati: Auslandsdienstreisen bleiben begünstigt",
-          "satz": "Die risposta a interpello n. 226 bestätigt das Regime nach Art. 5 D.Lgs. 209/2023 auch bei Auslandsreisen.",
-          "text": "Voraussetzung ist, dass die Arbeit überwiegend in Italien bleibt; laut Circolare 33/2020 weniger als 183 Auslandstage pro Jahr. Ein einzelnes Jahr mit überwiegender Auslandstätigkeit lässt die Begünstigung für die übrigen Jahre nicht entfallen. Relevant für Rückkehrer mit Smart Working und Trasferte.",
-          "quelle": "ItaliaOggi",
-          "url": "https://www.italiaoggi.it/diritto-e-fisco/fisco/impatriati-agevolabili-le-somme-corrisposte-per-attivita-prestata-in-trasferta-allestero-mja8nidm",
+          "titel": "Cedolare secca auch bei Foresteria-Verträgen",
+          "satz": "Die Sezioni Unite der Cassazione halten die Unternehmereigenschaft des Mieters für nicht maßgeblich.",
+          "text": "Mit sentenza n. 29947/2026 vom 24. November öffnen die Sezioni Unite die cedolare secca für Mietverträge ad uso foresteria. Entscheidend ist nicht, ob der Mieter (conduttore) ein Unternehmen ist. Damit steht die Flat Tax auch für solche Verträge offen.",
+          "quelle": "Eutekne",
+          "url": "https://www.eutekne.info/Sezioni/Art_1132842_le_sezioni_unite_aprono_alla_cedolare_sui_contratti_a_uso_foresteria.aspx",
           "datum": "2026-11-24"
         },
         {
-          "titel": "EU-Dolmetscher: Polizzenertrag in Italien steuerpflichtig",
-          "satz": "Laut risposta n. 224/2026 greift die EU-Steuerbefreiung nicht, weil eine Versicherung zahlt.",
-          "text": "Ein ehemaliger freier Dolmetscher des EU-Parlaments erhielt Kapital aus einem Kapitalisierungsvertrag. Befreit sind nur Bezüge aus dem EU-Haushalt; besteuert wird hier nur der Ertrag mit 26 % Ersatzsteuer (imposta sostitutiva). Angabe im Quadro RM bzw. im 730, Quadro M.",
-          "quelle": "FiscoeTasse",
-          "url": "https://www.fiscoetasse.com/new-rassegna-stampa/4849-polizza-vita-a-ex-interprete-ue-il-capitale-va-tassato-in-italia.html",
-          "datum": "2026-11-24"
+          "titel": "Ticket sanitario gilt als Steuer",
+          "satz": "Streit über die Erhebung des ticket sanitario gehört vor die Steuergerichte.",
+          "text": "Mit pronuncia n. 29945 vom 23. November ordnen die Sezioni Unite der Cassazione das ticket sanitario als tributo ein. Streitigkeiten über die Erhebung entscheidet damit die Corte di giustizia tributaria. Für Streit über den Befreiungsstatus gilt das nicht.",
+          "quelle": "Eutekne",
+          "url": "https://www.eutekne.info/Sezioni/Art_1132791_al_giudice_tributario_le_liti_sul_ticket_sanitario.aspx",
+          "datum": "2026-11-23"
         }
       ],
-      "hinweis": "Agenzia delle Entrate und FiscoOggi technisch nicht abrufbar (Fehler der Website), Il Sole 24 Ore nicht freigegeben; Ersatz: ItaliaOggi, Eutekne, FiscoeTasse. Amtliche Quellen direkt: 0 von 4 (3 Meldungen berichten über Entrate-Dokumente)."
+      "hinweis": "Agenzia delle Entrate und FiscoOggi technisch nicht abrufbar (Fehler der Website), Il Sole im Abendlauf übersprungen; ItaliaOggi nur ältere Artikel. Daher alle 4 Meldungen aus Eutekne (frei lesbarer Vorspann). Amtliche Quellen direkt: 0 von 4."
     }
   }
 }
