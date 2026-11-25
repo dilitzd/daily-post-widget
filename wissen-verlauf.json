@@ -788,5 +788,50 @@
     "datum": "2026-11-24",
     "typ": "bau",
     "wert": "Habitat 67"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "artikel",
+    "wert": "https://www.spektrum.de/news/naturphaenomen-der-lange-marsch-der-roten-hat-begonnen/2355377"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "ort",
+    "wert": "Machu Picchu"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "fakt",
+    "wert": "Bevölkerung: Ende 2024 lebten 57.884 Ausländer in Südtirol, 10,7 Prozent der Bevölkerung."
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "fakt",
+    "wert": "Wirtschaft: ISTAT erwartet für Italien 2026 ein BIP-Wachstum von 0,9 Prozent, 2027 von 0,6 Prozent."
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "fakt",
+    "wert": "Klima: Die globale Lachgas-Konzentration in der Atmosphäre lag 2025 bei 339,1 ppb."
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "wiki",
+    "wert": "Orionnebel"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "bild",
+    "wert": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/1280px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "bildkat",
+    "wert": "Tiere"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "bau",
+    "wert": "Schloss Neuschwanstein"
   }
 ]
