@@ -1,85 +1,121 @@
 {
- "issue": 50,
- "date": "Dienstag, 24. November 2026",
- "updated": "2026-11-24T05:51:12Z",
+ "issue": 51,
+ "date": "Mittwoch, 25. November 2026",
+ "updated": "2026-11-25T05:51:26Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "MANOVRA 2027 · FORFETARIO",
-   "title": "Forfetario 2027: soglia a 100.000 euro solo per le imposte dirette",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-sul-reddito/regime-forfetario-soglie-e-lavoro-dipendente-nel-ddl-bilancio-2027/"
+   "kicker": "FISCO · RIVALUTAZIONE TERRENI",
+   "title": "Rivalutazione dei terreni: imposta sostitutiva del 18% entro il 30 novembre",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/rivalutazione-terreni-con-imposta-sostitutiva-del-18/"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "FINANZPOLITIK · ITALIEN",
-   "title": "Haushaltsgesetz: Parlament schreibt die italienische Wegzugsteuer um",
-   "url": "https://en.ilsole24ore.com/art/parliamentary-manoeuvre-rewrites-the-exit-tax-what-might-change-income-states-risk-superbonus-write-off-credit-spread-AJh2fbPC"
+   "title": "EU-Kommission will Defizitverfahren gegen Italien 2027 beenden",
+   "url": "https://en.ilsole24ore.com/art/eu-commission-set-to-close-excessive-deficit-procedure-against-italia-but-watch-out-for-the-budget-AJfUfDRC"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · PRODUKTE",
+   "title": "Claude Ship: KI-Agenten prüfen, reparieren und genehmigen Code-Änderungen",
+   "url": "https://claude.com/resources/articles/introducing-claude-ship"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "PREVIDENZA · ALTO ADIGE",
-   "title": "Fondo di solidarietà Alto Adige: aliquota ridotta allo 0,30% anche nel 2027",
-   "url": "https://www.ecnews.it/lavoro/prestazioni-assistenziali-e-previdenziali/ammortizzatori-sociali/fondo-di-solidarieta-bilaterale-bolzano-alto-adige-aliquota-contributiva-ridotta-anche-nel-2027/"
+   "kicker": "PROFESSIONE · RIFORMA",
+   "title": "Riforma dei commercialisti: la legge delega 213/2026 è in Gazzetta",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/riforma-commercialisti-gazzetta-legge-delega-nuovo-ordinamento-AJe7dEQC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "VERSAMENTI · ISA",
-   "title": "Proroga ISA 2025: preavvisi di irregolarità contestabili anche per i soci",
-   "url": "https://www.mysolution.it/fisco/informazioni/news/2026/11/23/proroga-isa-2025.-avvisi-di-irregolarita-anche-ai-soci"
+   "kicker": "ACCERTAMENTO · SOCIETÀ",
+   "title": "Utili extracontabili: il socio deve provare dove sono finiti i ricavi",
+   "url": "https://www.ecnews.it/legale/societa-e-crisi-di-impresa/diritto-e-reati-societari/la-presunzione-di-distribuzione-degli-utili-nelle-societa-a-ristretta-base-e-lonere-della-prova-del-socio/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · LICENZIAMENTI",
-   "title": "Licenziamento nelle piccole imprese: indennità fino a 14 mensilità",
-   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/cessazione-del-rapporto/licenziamento-illegittimo-la-corte-costituzionale-con-la-sentenza-n-174-2026-rafforza-la-tutela-indennitaria-dei-lavoratori-delle-piccole-imprese/"
+   "kicker": "REDDITI · RISERVE",
+   "title": "Riserva sovrapprezzo: neutra solo fino al costo fiscale della partecipazione",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/bilancio/distribuzione-della-riserva-sovrapprezzo-azioni-davvero-non-e-mai-tassata/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · REGISTRO",
-   "title": "Affitto d'azienda: IVA o registro proporzionale secondo lo status del locatore",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-indirette/affitto-di-azienda-alternativita-iva-e-registro/"
+   "kicker": "REDDITI · IMPATRIATI",
+   "title": "Impatriati in smart working per un datore estero: bonus anche sulle trasferte",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/impatriati-smart-working-l-estero-non-frena-bonus-trasferte-AJUXVLQC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · PLUSVALENZE",
-   "title": "Superbonus: plusvalenza esente se il genitore vi abitava",
-   "url": "https://www.ecnews.it/fiscale/in-pratica/casi-operativi-euroconference-news/superbonus-cessione-esente-se-il-genitore-ha-diritto-di-abitazione/"
+   "kicker": "CONTENZIOSO · AUTOTUTELA",
+   "title": "Autotutela sostitutiva: il difetto di motivazione si può sanare?",
+   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/accertamento/vizio-di-motivazione-tra-autotutela-sostitutiva-e-divieto-di-ne-bis-in-idem/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "SOCIETÀ · TRASFORMAZIONE",
-   "title": "Trasformazione in società di capitali: il nodo delle riserve nel nuovo TUIR",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/trasformazione-e-nuovo-tuir-permangono-le-incongruenze-tra-utili-fiscali-e-riserve/"
+   "kicker": "REDDITI · POLIZZE",
+   "title": "Polizza di capitalizzazione dell'ex interprete UE: rendimento tassato al 26%",
+   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/polizza-di-capitalizzazione-sottoscritta-dallex-interprete-ue-tassabile-il-rendimento/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "PREVIDENZA · NOTIFICHE",
-   "title": "Indebiti INPS: da gennaio 2027 notifiche digitali tramite SEND",
-   "url": "https://www.ecnews.it/lavoro/prestazioni-assistenziali-e-previdenziali/prestazioni-a-sostegno-del-reddito/recupero-degli-indebiti-inps-da-gennaio-2027-notifiche-digitali-tramite-la-piattaforma-send/"
+   "kicker": "REVISIONE · PMI",
+   "title": "Revisione nelle imprese meno complesse: l'ISA for LCE attende l'Italia",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/vigilanza-e-revisione/la-revisione-legale-nelle-imprese-meno-complesse/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INDUSTRIE · ITALIEN",
-   "title": "Pirelli baut US-Werk für 1,2 Milliarden aus und startet Cyber Tyre",
-   "url": "https://en.ilsole24ore.com/art/pirelli-launches-cyber-tyre-in-the-us-AJ6A1OPC"
+   "kicker": "RENTE · ITALIEN",
+   "title": "Frührente „Opzione Donna“ kehrt per Änderungsantrag in den Haushalt zurück",
+   "url": "https://en.ilsole24ore.com/art/womens-option-resurfaces-in-the-budget-here-are-the-proposals-for-early-retirement-AJZFVDQC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · ITALIEN",
-   "title": "Italiens Banken zahlen Zwischendividenden, Fusionspläne kommen voran",
-   "url": "https://en.ilsole24ore.com/art/focus-on-banks-intesa-and-mps-takeover-bids-and-unicredits-tightening-of-commercial-lending-AJgAIwPC"
+   "kicker": "ENERGIE · ITALIEN",
+   "title": "Erneuerbare decken 41,6 Prozent des italienischen Strombedarfs",
+   "url": "https://en.ilsole24ore.com/art/at-the-start-of-the-year-renewable-energy-sources-covered-416-per-cent-of-demand-the-role-of-solar-panels-is-growing-AJHgWxQC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ARBEITSMARKT · DEUTSCHLAND",
-   "title": "Studie: Strengere Altersteilzeit könnte bis zu 110.000 Vollzeitstellen erhalten",
-   "url": "https://www.wiwo.de/politik/deutschland/alterssicherung-studie-altersteilzeit-reform-wuerde-sich-fuer-fiskus-lohnen/100271931.html"
+   "kicker": "ROHSTOFFE · DEUTSCHLAND",
+   "title": "BMW, Rheinmetall und Siemens Energy planen gemeinsames Rohstoffhandelshaus",
+   "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bmw-und-rheinmetall-planen-handelshaus-fuer-rohstoffe/100271875.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BÖRSE · CHINA",
-   "title": "Chinas Börsen lockern Regeln für kreditfinanzierte Aktienkäufe",
-   "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/china-boersen-anleger-koennen-sich-ab-30-november-mehr-geld-fuer-aktien-leihen/100271866.html"
+   "kicker": "MITTELSTAND · ÜBERNAHME",
+   "title": "ABB kauft Ventilatorenhersteller Ziehl-Abegg für gut 2,4 Milliarden Euro",
+   "url": "https://www.wiwo.de/unternehmen/mittelstand/ziehl-abegg-an-abb-verkauft-warum-der-ki-boom-zum-exit-zwingt/100271991.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · FORSCHUNG",
+   "title": "Studie „Working with AI“: Mehr Output statt weniger Personal",
+   "url": "https://www.anthropic.com/research/working-with-ai"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · CHIPS",
+   "title": "Jensen Huang kehrt an die Nvidia-Spitze zurück",
+   "url": "https://t3n.de/news/nvidia-jensen-huang-rueckkehr-1774918/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · ÜBERNAHMEN",
+   "title": "Amazon übernimmt Kernteile des KI-Start-ups Decart",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · DATENSCHUTZ",
+   "title": "Signal sperrt Screenshots wegen KI-Agenten im Betriebssystem",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  },
+  {
+   "block": "Box",
+   "kicker": "USECASE DER WOCHE · AUDITING",
+   "title": "Prüfungsgesellschaften: KI als erster Reviewer der Arbeitspapiere",
+   "url": "https://www.journalofaccountancy.com/news/2026/nov/how-cpas-are-putting-ai-to-work-in-audits.html"
   }
  ]
 }
