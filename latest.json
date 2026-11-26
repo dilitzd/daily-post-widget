@@ -1,121 +1,85 @@
 {
- "issue": 51,
- "date": "Mittwoch, 25. November 2026",
- "updated": "2026-11-25T05:51:26Z",
+ "issue": 52,
+ "date": "Donnerstag, 26. November 2026",
+ "updated": "2026-11-26T05:51:18Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "FISCO · RIVALUTAZIONE TERRENI",
-   "title": "Rivalutazione dei terreni: imposta sostitutiva del 18% entro il 30 novembre",
-   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/rivalutazione-terreni-con-imposta-sostitutiva-del-18/"
+   "kicker": "PENALE TRIBUTARIO · CRISI D'IMPRESA",
+   "title": "Omessi versamenti sistematici di imposte e contributi: rischio bancarotta impropria",
+   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/omesso-versamento-sistematico-di-imposte-e-contributi-e-bancarotta-impropria/"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "FINANZPOLITIK · ITALIEN",
-   "title": "EU-Kommission will Defizitverfahren gegen Italien 2027 beenden",
-   "url": "https://en.ilsole24ore.com/art/eu-commission-set-to-close-excessive-deficit-procedure-against-italia-but-watch-out-for-the-budget-AJfUfDRC"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · PRODUKTE",
-   "title": "Claude Ship: KI-Agenten prüfen, reparieren und genehmigen Code-Änderungen",
-   "url": "https://claude.com/resources/articles/introducing-claude-ship"
+   "title": "Haushalt 2027: Über 6.500 Änderungsanträge, Steuern an der Spitze",
+   "url": "https://en.ilsole24ore.com/art/fisco-sanita-e-lavoro-dove-punta-corsa-cambiare-manovra-AJGC2KQC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "PROFESSIONE · RIFORMA",
-   "title": "Riforma dei commercialisti: la legge delega 213/2026 è in Gazzetta",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/riforma-commercialisti-gazzetta-legge-delega-nuovo-ordinamento-AJe7dEQC"
+   "kicker": "LAVORO · INCENTIVI",
+   "title": "Esoneri contributivi: dal 1° dicembre serve la vacancy sul SIISL",
+   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/agevolazioni/siisl-punti-di-attenzione-per-datori-e-consulenti-del-lavoro-dal-1-dicembre-2026/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "ACCERTAMENTO · SOCIETÀ",
-   "title": "Utili extracontabili: il socio deve provare dove sono finiti i ricavi",
-   "url": "https://www.ecnews.it/legale/societa-e-crisi-di-impresa/diritto-e-reati-societari/la-presunzione-di-distribuzione-degli-utili-nelle-societa-a-ristretta-base-e-lonere-della-prova-del-socio/"
+   "kicker": "MANOVRA 2027 · AUTO",
+   "title": "Auto di agenti e rappresentanti: deduzione al 90% per elettriche e ibride",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/auto-di-agenti-e-rappresentanti-nuovi-limiti-nel-ddl-bilancio-2027/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · RISERVE",
-   "title": "Riserva sovrapprezzo: neutra solo fino al costo fiscale della partecipazione",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/bilancio/distribuzione-della-riserva-sovrapprezzo-azioni-davvero-non-e-mai-tassata/"
+   "kicker": "IVA · IMMOBILI",
+   "title": "Strumentale che diventa abitativo: IVA detraibile sui lavori di ristrutturazione",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/lavori-un-immobile-strumentale-che-diventa-abitativo-l-iva-e-detraibile-AJynwBSC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · IMPATRIATI",
-   "title": "Impatriati in smart working per un datore estero: bonus anche sulle trasferte",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/impatriati-smart-working-l-estero-non-frena-bonus-trasferte-AJUXVLQC"
+   "kicker": "REDDITI · WELFARE",
+   "title": "Welfare per i familiari: imposte 2025 recuperabili con dichiarazione integrativa",
+   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/welfare-aziendale-recupero-delle-maggiori-imposte-con-dichiarazione-integrativa/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · AUTOTUTELA",
-   "title": "Autotutela sostitutiva: il difetto di motivazione si può sanare?",
-   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/accertamento/vizio-di-motivazione-tra-autotutela-sostitutiva-e-divieto-di-ne-bis-in-idem/"
+   "kicker": "DIRITTO · SOCIETÀ",
+   "title": "Sindaci: i solleciti non bastano, azione di responsabilità entro due anni",
+   "url": "https://www.ecnews.it/legale/societa-e-crisi-di-impresa/crisi-impresa/azione-sociale-di-responsabilita-nelle-procedure-concorsuali-e-termine-di-decadenza/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · POLIZZE",
-   "title": "Polizza di capitalizzazione dell'ex interprete UE: rendimento tassato al 26%",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/polizza-di-capitalizzazione-sottoscritta-dallex-interprete-ue-tassabile-il-rendimento/"
+   "kicker": "IVA · AGRICOLTURA",
+   "title": "Mais per biogas: IVA al 4%, compensazione solo sulla granella",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/iva-per-le-cessioni-allimpianto-di-biogas-di-granella-e-trinciato-di-mais-compensazione-solo-per-la-granella/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REVISIONE · PMI",
-   "title": "Revisione nelle imprese meno complesse: l'ISA for LCE attende l'Italia",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/vigilanza-e-revisione/la-revisione-legale-nelle-imprese-meno-complesse/"
+   "kicker": "DIRITTO · IMPRESA",
+   "title": "Prodotti difettosi: nuove regole dal 9 dicembre, anche per il software",
+   "url": "https://www.ecnews.it/legale/diritto-civile/responsabilita-civile/prodotti-difettosi-nuove-regole-sulla-responsabilita-e-sulla-prova/"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "RENTE · ITALIEN",
-   "title": "Frührente „Opzione Donna“ kehrt per Änderungsantrag in den Haushalt zurück",
-   "url": "https://en.ilsole24ore.com/art/womens-option-resurfaces-in-the-budget-here-are-the-proposals-for-early-retirement-AJZFVDQC"
+   "kicker": "BANKEN · ITALIEN",
+   "title": "Monte dei Paschi platziert 750-Millionen-Anleihe bei hoher Nachfrage",
+   "url": "https://en.ilsole24ore.com/art/mps-places-bonds-worth-750-million-demand-totalled-2-billion-AJ7L4gRC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ENERGIE · ITALIEN",
-   "title": "Erneuerbare decken 41,6 Prozent des italienischen Strombedarfs",
-   "url": "https://en.ilsole24ore.com/art/at-the-start-of-the-year-renewable-energy-sources-covered-416-per-cent-of-demand-the-role-of-solar-panels-is-growing-AJHgWxQC"
+   "kicker": "IMMOBILIEN · ITALIEN",
+   "title": "Palermo verzeichnet den stärksten Zuwachs bei Wohnungsverkäufen",
+   "url": "https://en.ilsole24ore.com/art/foreigners-are-flocking-to-sicily-as-property-sales-in-palermo-boom-AJASFCSC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "ROHSTOFFE · DEUTSCHLAND",
-   "title": "BMW, Rheinmetall und Siemens Energy planen gemeinsames Rohstoffhandelshaus",
-   "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bmw-und-rheinmetall-planen-handelshaus-fuer-rohstoffe/100271875.html"
+   "kicker": "HANDEL · EU/USA",
+   "title": "USA kündigen neue Zölle gegen EU und 13 weitere Partner an",
+   "url": "https://www.handelsblatt.com/politik/international/usa-neue-zoelle-gegen-eu-und-13-weitere-handelspartner/100272736.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "MITTELSTAND · ÜBERNAHME",
-   "title": "ABB kauft Ventilatorenhersteller Ziehl-Abegg für gut 2,4 Milliarden Euro",
-   "url": "https://www.wiwo.de/unternehmen/mittelstand/ziehl-abegg-an-abb-verkauft-warum-der-ki-boom-zum-exit-zwingt/100271991.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · FORSCHUNG",
-   "title": "Studie „Working with AI“: Mehr Output statt weniger Personal",
-   "url": "https://www.anthropic.com/research/working-with-ai"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · CHIPS",
-   "title": "Jensen Huang kehrt an die Nvidia-Spitze zurück",
-   "url": "https://t3n.de/news/nvidia-jensen-huang-rueckkehr-1774918/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · ÜBERNAHMEN",
-   "title": "Amazon übernimmt Kernteile des KI-Start-ups Decart",
-   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "SICHERHEIT · DATENSCHUTZ",
-   "title": "Signal sperrt Screenshots wegen KI-Agenten im Betriebssystem",
-   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
-  },
-  {
-   "block": "Box",
-   "kicker": "USECASE DER WOCHE · AUDITING",
-   "title": "Prüfungsgesellschaften: KI als erster Reviewer der Arbeitspapiere",
-   "url": "https://www.journalofaccountancy.com/news/2026/nov/how-cpas-are-putting-ai-to-work-in-audits.html"
+   "kicker": "INSOLVENZ · HAFTUNG",
+   "title": "Ex-Air-Berlin-Chef und D&O-Versicherer zahlen Millionen an Insolvenzmasse",
+   "url": "https://www.wiwo.de/unternehmen/handel/air-berlin-insolvenz-ex-chef-thomas-winkelmann-zahlt-millionensumme-an-glaeubiger/100272437.html"
   }
  ]
 }
