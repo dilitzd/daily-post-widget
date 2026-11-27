@@ -1,85 +1,121 @@
 {
- "issue": 52,
- "date": "Donnerstag, 26. November 2026",
- "updated": "2026-11-26T05:51:18Z",
+ "issue": 53,
+ "date": "Freitag, 27. November 2026",
+ "updated": "2026-11-27T05:51:24Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "PENALE TRIBUTARIO · CRISI D'IMPRESA",
-   "title": "Omessi versamenti sistematici di imposte e contributi: rischio bancarotta impropria",
-   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/penale-tributario/omesso-versamento-sistematico-di-imposte-e-contributi-e-bancarotta-impropria/"
+   "kicker": "RISCOSSIONE · ROTTAMAZIONI",
+   "title": "Rottamazioni: tre rate al 30 novembre, pagamento valido fino al 7 dicembre",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/rottamazioni-scadenza-pagamento-arrivo-30-novembre-AJX8EYTC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "FINANZPOLITIK · ITALIEN",
-   "title": "Haushalt 2027: Über 6.500 Änderungsanträge, Steuern an der Spitze",
-   "url": "https://en.ilsole24ore.com/art/fisco-sanita-e-lavoro-dove-punta-corsa-cambiare-manovra-AJGC2KQC"
+   "kicker": "RENTE · ITALIEN",
+   "title": "Italiens Rentenanpassung 2027: Wer mehr bekommt, verliert bis zu 1.723 Euro",
+   "url": "https://en.ilsole24ore.com/art/pensions-2027-new-adjustment-1021723-euros-less-per-year-heres-who-stands-to-lose-the-most-AJix9FTC"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · CONNECTORS",
+   "title": "MCP-Server liefern jetzt eigene Skills und arbeiten im Hintergrund",
+   "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · INCENTIVI",
-   "title": "Esoneri contributivi: dal 1° dicembre serve la vacancy sul SIISL",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/agevolazioni/siisl-punti-di-attenzione-per-datori-e-consulenti-del-lavoro-dal-1-dicembre-2026/"
+   "kicker": "REDDITI · LOCAZIONI",
+   "title": "Sezioni Unite: cedolare secca anche per le foresterie affittate a imprese",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/cedolare-secca-anche-gli-affitti-imprese-AJkFp7RC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "MANOVRA 2027 · AUTO",
-   "title": "Auto di agenti e rappresentanti: deduzione al 90% per elettriche e ibride",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/reddito-impresa-e-irap/auto-di-agenti-e-rappresentanti-nuovi-limiti-nel-ddl-bilancio-2027/"
+   "kicker": "CONTENZIOSO · ADESIONE",
+   "title": "Accertamento con adesione: la Cassazione ricorda come funzionano i termini",
+   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/istituti-deflattivi/accertamento-con-adesione-dalla-cassazione-un-promemoria-sui-termini/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · IMMOBILI",
-   "title": "Strumentale che diventa abitativo: IVA detraibile sui lavori di ristrutturazione",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/lavori-un-immobile-strumentale-che-diventa-abitativo-l-iva-e-detraibile-AJynwBSC"
+   "kicker": "TRIBUTI LOCALI · IMU",
+   "title": "IMU versata al Comune sbagliato: basta una PEC, niente sanzioni",
+   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/il-rimedio-al-versamento-dellimu-a-un-comune-incompetente/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · WELFARE",
-   "title": "Welfare per i familiari: imposte 2025 recuperabili con dichiarazione integrativa",
-   "url": "https://www.ecnews.it/lavoro/imposte-contributi-e-premi/tassazione-e-redditi-di-lavoro/welfare-aziendale-recupero-delle-maggiori-imposte-con-dichiarazione-integrativa/"
+   "kicker": "OPERAZIONI STRAORDINARIE",
+   "title": "Conferimento a riserva: realizzo controllato anche per partecipazioni qualificate",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/conferimento-a-riserva-a-realizzo-controllato-anche-in-caso-di-partecipazioni-qualificate/"
   },
   {
    "block": "Notizie fiscali",
    "kicker": "DIRITTO · SOCIETÀ",
-   "title": "Sindaci: i solleciti non bastano, azione di responsabilità entro due anni",
-   "url": "https://www.ecnews.it/legale/societa-e-crisi-di-impresa/crisi-impresa/azione-sociale-di-responsabilita-nelle-procedure-concorsuali-e-termine-di-decadenza/"
+   "title": "Deleghe gestorie nelle Srl: il rinvio all'art. 2381 c.c. è rimasto indietro",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/deleghe-gestorie-nelle-s-r-l-i-dubbi-aperti-dalla-nuova-governance-delle-s-p-a/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "IVA · AGRICOLTURA",
-   "title": "Mais per biogas: IVA al 4%, compensazione solo sulla granella",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/iva/iva-per-le-cessioni-allimpianto-di-biogas-di-granella-e-trinciato-di-mais-compensazione-solo-per-la-granella/"
+   "kicker": "LAVORO · LICENZIAMENTI",
+   "title": "Licenziamento disciplinare: reintegra se il CCNL prevede solo sanzioni conservative",
+   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/cessazione-del-rapporto/licenziamento-e-reintegra-la-cassazione-valorizza-il-ruolo-della-contrattazione-collettiva/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "DIRITTO · IMPRESA",
-   "title": "Prodotti difettosi: nuove regole dal 9 dicembre, anche per il software",
-   "url": "https://www.ecnews.it/legale/diritto-civile/responsabilita-civile/prodotti-difettosi-nuove-regole-sulla-responsabilita-e-sulla-prova/"
+   "kicker": "PROFESSIONE · REVISIONE",
+   "title": "Esame di revisore legale 2026: domande entro il 21 dicembre",
+   "url": "https://www.eutekne.info/Sezioni/Art_1132976_richiesta_di_ammissione_all_esame_di_idoneita_per_revisore_legale.aspx"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "BANKEN · ITALIEN",
-   "title": "Monte dei Paschi platziert 750-Millionen-Anleihe bei hoher Nachfrage",
-   "url": "https://en.ilsole24ore.com/art/mps-places-bonds-worth-750-million-demand-totalled-2-billion-AJ7L4gRC"
+   "kicker": "INDUSTRIE · ITALIEN",
+   "title": "Leonardo stellt neuen Jet für die Frecce Tricolori vor",
+   "url": "https://en.ilsole24ore.com/art/leonardo-unveils-the-new-m-346-pan-for-the-frecce-tricolori-AJM4fXTC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "IMMOBILIEN · ITALIEN",
-   "title": "Palermo verzeichnet den stärksten Zuwachs bei Wohnungsverkäufen",
-   "url": "https://en.ilsole24ore.com/art/foreigners-are-flocking-to-sicily-as-property-sales-in-palermo-boom-AJASFCSC"
+   "kicker": "EU-HAUSHALT · ITALIEN",
+   "title": "Meloni lehnt Brüsseler Haushaltsvorschlag ab und verteidigt Kohäsionsmittel",
+   "url": "https://en.ilsole24ore.com/art/the-eu-summit-in-brussels-on-the-eu-budget-has-begun-AJB1uHTC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "HANDEL · EU/USA",
-   "title": "USA kündigen neue Zölle gegen EU und 13 weitere Partner an",
-   "url": "https://www.handelsblatt.com/politik/international/usa-neue-zoelle-gegen-eu-und-13-weitere-handelspartner/100272736.html"
+   "kicker": "TARIFE · DEUTSCHLAND",
+   "title": "Metall-Tarifabschluss: Lohnplus in zwei Stufen und mehr Flexibilität",
+   "url": "https://www.handelsblatt.com/politik/deutschland/tarifabschluss-mehr-geld-fuer-metaller-mehr-flexibilitaet-fuer-unternehmen/100272604.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "INSOLVENZ · HAFTUNG",
-   "title": "Ex-Air-Berlin-Chef und D&O-Versicherer zahlen Millionen an Insolvenzmasse",
-   "url": "https://www.wiwo.de/unternehmen/handel/air-berlin-insolvenz-ex-chef-thomas-winkelmann-zahlt-millionensumme-an-glaeubiger/100272437.html"
+   "kicker": "KONJUNKTUR · DEUTSCHLAND",
+   "title": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+   "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-flaute-bei-konsum-und-export-wirtschaft-waechst-nur-minimal/100272607.html"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "ANTHROPIC · PRODUKTE",
+   "title": "Artifacts lassen sich als Desktop-Apps für Mac und Windows installieren",
+   "url": "https://claude.com/resources/articles/install-as-app"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "SICHERHEIT · CYBERANGRIFFE",
+   "title": "Britische Behörde warnt vor deutlich mehr KI-gestützten Cyberangriffen",
+   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · MODELLE",
+   "title": "OpenAI legt Chat und Work in ChatGPT zusammen",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+  },
+  {
+   "block": "KI-News",
+   "kicker": "MARKT · HANDEL",
+   "title": "Amazon und Meta streiten um KI-Shopping-Agenten",
+   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-ki-agenten-entfachen-machtkampf-um-die-herrschaft-im-e-commerce/100270532.html"
+  },
+  {
+   "block": "Box",
+   "kicker": "CLAUDE-TIPP FÜR FORTGESCHRITTENE",
+   "title": "Massenprüfungen über Nacht: Batch-API mit Prompt Caching kombinieren",
+   "url": "https://platform.claude.com/docs/en/build-with-claude/batch-processing"
   }
  ]
 }
