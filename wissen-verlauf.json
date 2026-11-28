@@ -923,5 +923,50 @@
     "datum": "2026-11-27",
     "typ": "bau",
     "wert": "Stari most"
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "artikel",
+    "wert": "https://wissenschaft.de/artikel/klimawandel-koennte-blitzeinschlaege-verdoppeln"
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "ort",
+    "wert": "Sossusvlei"
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "fakt",
+    "wert": "Bevölkerung: ISTAT erwartet für Italien bis 2050 einen Rückgang von 58,9 Millionen (2025) auf 55,0 Millionen Einwohner."
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "fakt",
+    "wert": "Wirtschaft: Österreichs Inflationsrate lag im Oktober 2026 laut Schnellschätzung bei 3,6 Prozent."
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "fakt",
+    "wert": "Klima: Laut WMO-Bericht 2026 haben 136 Länder (70 Prozent) Frühwarnsysteme für mehrere Naturgefahren."
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "wiki",
+    "wert": "Photosynthese"
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "bild",
+    "wert": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/1280px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg"
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "bildkat",
+    "wert": "Menschen"
+  },
+  {
+    "datum": "2026-11-28",
+    "typ": "bau",
+    "wert": "Centre Georges-Pompidou"
   }
 ]
