@@ -1,121 +1,85 @@
 {
- "issue": 53,
- "date": "Freitag, 27. November 2026",
- "updated": "2026-11-27T05:51:24Z",
+ "issue": 54,
+ "date": "Samstag, 28. November 2026",
+ "updated": "2026-11-28T05:51:35Z",
  "items": [
   {
    "block": "Notizie fiscali",
-   "kicker": "RISCOSSIONE · ROTTAMAZIONI",
-   "title": "Rottamazioni: tre rate al 30 novembre, pagamento valido fino al 7 dicembre",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/rottamazioni-scadenza-pagamento-arrivo-30-novembre-AJX8EYTC"
+   "kicker": "IVA · DETRAZIONE",
+   "title": "Corte Ue: detrazione IVA solo con fattura ricevuta entro fine anno",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/iva-anticipare-fatture-fine-anno-AJJPs5UC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "RENTE · ITALIEN",
-   "title": "Italiens Rentenanpassung 2027: Wer mehr bekommt, verliert bis zu 1.723 Euro",
-   "url": "https://en.ilsole24ore.com/art/pensions-2027-new-adjustment-1021723-euros-less-per-year-heres-who-stands-to-lose-the-most-AJix9FTC"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · CONNECTORS",
-   "title": "MCP-Server liefern jetzt eigene Skills und arbeiten im Hintergrund",
-   "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
+   "kicker": "FÖRDERUNG · ITALIEN",
+   "title": "Transizione 5.0: Über neun Milliarden Euro Investitionen, Bozen unter den Spitzenprovinzen",
+   "url": "https://en.ilsole24ore.com/art/transition-50-five-months-investments-13-billion-veneto-AJL7PFVC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "REDDITI · LOCAZIONI",
-   "title": "Sezioni Unite: cedolare secca anche per le foresterie affittate a imprese",
-   "url": "https://ntplusfisco.ilsole24ore.com/art/cedolare-secca-anche-gli-affitti-imprese-AJkFp7RC"
+   "kicker": "DICHIARAZIONI · CPB",
+   "title": "Ravvedimento speciale 2020-2023 per chi rinnova il concordato: codici e rate",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/dichiarazioni/ravvedimento-cpb-2026-2027-codici-tributo-rate-e-versamenti-per-gli-anni-2020-2023/"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "CONTENZIOSO · ADESIONE",
-   "title": "Accertamento con adesione: la Cassazione ricorda come funzionano i termini",
-   "url": "https://www.ecnews.it/fiscale/accertamento-e-contenzioso/istituti-deflattivi/accertamento-con-adesione-dalla-cassazione-un-promemoria-sui-termini/"
+   "kicker": "MANOVRA 2027 · LOCAZIONI",
+   "title": "Cedolare secca per i negozi e canone concordato al 5%",
+   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/imposte-sul-reddito/ddl-bilancio-2027-le-proposte-sulla-cedolare-per-negozi-e-abitazioni/"
+  },
+  {
+   "block": "Notizie fiscali",
+   "kicker": "LAVORO · ORARIO",
+   "title": "Corte Ue: il viaggio in trasferta può essere orario di lavoro",
+   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/gestione-del-rapporto/trasferte-e-orario-di-lavoro-la-corte-ue-amplia-la-tutela-anche-per-chi-ha-una-sede-fissa/"
   },
   {
    "block": "Notizie fiscali",
    "kicker": "TRIBUTI LOCALI · IMU",
-   "title": "IMU versata al Comune sbagliato: basta una PEC, niente sanzioni",
-   "url": "https://www.ecnews.it/fiscale/in-pratica/guida-agli-adempimenti/il-rimedio-al-versamento-dellimu-a-un-comune-incompetente/"
+   "title": "Fotovoltaico in autoconsumo sul capannone: niente IMU autonoma",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/l-impianto-fotovoltaico-autoconsumo-capannone-non-paga-un-imu-autonoma-AJaE2QSC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "OPERAZIONI STRAORDINARIE",
-   "title": "Conferimento a riserva: realizzo controllato anche per partecipazioni qualificate",
-   "url": "https://www.ecnews.it/fiscale/fisco-e-patrimonio/operazioni-straordinarie/conferimento-a-riserva-a-realizzo-controllato-anche-in-caso-di-partecipazioni-qualificate/"
+   "kicker": "ADEMPIMENTI · LOCAZIONI BREVI",
+   "title": "Locazioni brevi e turistiche: nuovo modulo standard di inizio attività",
+   "url": "https://www.eutekne.info/Sezioni/Art_1133673_nuovo_modulo_standardizzato_comunicazione_di_inizio_attivita_per.aspx"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "DIRITTO · SOCIETÀ",
-   "title": "Deleghe gestorie nelle Srl: il rinvio all'art. 2381 c.c. è rimasto indietro",
-   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/penale-tributario-fisco-lavoro/deleghe-gestorie-nelle-s-r-l-i-dubbi-aperti-dalla-nuova-governance-delle-s-p-a/"
+   "kicker": "BONUS EDILIZI · CONDOMINIO",
+   "title": "Spese accollate a un condomino: detrazione al 50% sulla sua quota",
+   "url": "https://ntplusfisco.ilsole24ore.com/art/al-condomino-che-paga-tutti-detrazione-bonus-50percento-quota-accollata-AJHcM4UC"
   },
   {
    "block": "Notizie fiscali",
-   "kicker": "LAVORO · LICENZIAMENTI",
-   "title": "Licenziamento disciplinare: reintegra se il CCNL prevede solo sanzioni conservative",
-   "url": "https://www.ecnews.it/lavoro/rapporto-di-lavoro/cessazione-del-rapporto/licenziamento-e-reintegra-la-cassazione-valorizza-il-ruolo-della-contrattazione-collettiva/"
+   "kicker": "BILANCIO · IMPRESE MINORI",
+   "title": "Bilanci di micro e piccole imprese: semplificare senza omettere",
+   "url": "https://www.ecnews.it/fiscale/societa-e-bilancio/bilancio/bilanci-delle-imprese-minori-la-semplificazione-va-governata/"
   },
   {
-   "block": "Notizie fiscali",
-   "kicker": "PROFESSIONE · REVISIONE",
-   "title": "Esame di revisore legale 2026: domande entro il 21 dicembre",
-   "url": "https://www.eutekne.info/Sezioni/Art_1132976_richiesta_di_ammissione_all_esame_di_idoneita_per_revisore_legale.aspx"
+   "block": "Wirtschaftsnews",
+   "kicker": "STEUERN · ITALIEN",
+   "title": "Pauschalregelung: Meloni verteidigt höhere Umsatzgrenze von 100.000 Euro",
+   "url": "https://en.ilsole24ore.com/art/flat-tax-of-100000-euros-meloni-on-the-offensive-the-left-confuses-turnover-with-salary-AJamrgGC"
   },
   {
    "block": "Wirtschaftsnews",
    "kicker": "INDUSTRIE · ITALIEN",
-   "title": "Leonardo stellt neuen Jet für die Frecce Tricolori vor",
-   "url": "https://en.ilsole24ore.com/art/leonardo-unveils-the-new-m-346-pan-for-the-frecce-tricolori-AJM4fXTC"
+   "title": "Fincantieri und Leonardo erhalten 500-Millionen-Auftrag der Marine",
+   "url": "https://en.ilsole24ore.com/art/fincantieri-secures-a-500-million-contract-with-the-navy-AJ1f2XUC"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "EU-HAUSHALT · ITALIEN",
-   "title": "Meloni lehnt Brüsseler Haushaltsvorschlag ab und verteidigt Kohäsionsmittel",
-   "url": "https://en.ilsole24ore.com/art/the-eu-summit-in-brussels-on-the-eu-budget-has-begun-AJB1uHTC"
+   "kicker": "RÜSTUNG · DEUTSCHLAND",
+   "title": "Rheinmetall senkt Umsatzziel für 2030 auf 33 bis 37 Milliarden Euro",
+   "url": "https://www.handelsblatt.com/unternehmen/industrie/rheinmetall-umsatzziel-fuer-2030-sinkt-auf-33-bis-37-milliarden-euro/100273257.html"
   },
   {
    "block": "Wirtschaftsnews",
-   "kicker": "TARIFE · DEUTSCHLAND",
-   "title": "Metall-Tarifabschluss: Lohnplus in zwei Stufen und mehr Flexibilität",
-   "url": "https://www.handelsblatt.com/politik/deutschland/tarifabschluss-mehr-geld-fuer-metaller-mehr-flexibilitaet-fuer-unternehmen/100272604.html"
-  },
-  {
-   "block": "Wirtschaftsnews",
-   "kicker": "KONJUNKTUR · DEUTSCHLAND",
-   "title": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
-   "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-flaute-bei-konsum-und-export-wirtschaft-waechst-nur-minimal/100272607.html"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "ANTHROPIC · PRODUKTE",
-   "title": "Artifacts lassen sich als Desktop-Apps für Mac und Windows installieren",
-   "url": "https://claude.com/resources/articles/install-as-app"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "SICHERHEIT · CYBERANGRIFFE",
-   "title": "Britische Behörde warnt vor deutlich mehr KI-gestützten Cyberangriffen",
-   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · MODELLE",
-   "title": "OpenAI legt Chat und Work in ChatGPT zusammen",
-   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
-  },
-  {
-   "block": "KI-News",
-   "kicker": "MARKT · HANDEL",
-   "title": "Amazon und Meta streiten um KI-Shopping-Agenten",
-   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-ki-agenten-entfachen-machtkampf-um-die-herrschaft-im-e-commerce/100270532.html"
-  },
-  {
-   "block": "Box",
-   "kicker": "CLAUDE-TIPP FÜR FORTGESCHRITTENE",
-   "title": "Massenprüfungen über Nacht: Batch-API mit Prompt Caching kombinieren",
-   "url": "https://platform.claude.com/docs/en/build-with-claude/batch-processing"
+   "kicker": "GELDPOLITIK · EU",
+   "title": "Pablo Hernández de Cos soll Lagarde an der EZB-Spitze folgen",
+   "url": "https://www.wiwo.de/politik/konjunktur/ezb-spanier-hernandez-de-cos-soll-ezb-chef-werden/100273039.html"
   }
  ]
 }
